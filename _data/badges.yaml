@@ -67,6 +67,21 @@
   badge: Iron Lungs
   name: ''
   definition: Awarded to those who have swum 7km or more.
+- timestamp: '10/20/2020 6:06:51'
+  fbid: Rycel2929
+  badge: Baby Steps
+  name: Rycel Wong
+  definition: ''
+- timestamp: '10/20/2020 6:11:07'
+  fbid: Sloh0121
+  badge: Baby Steps
+  name: Sloh
+  definition: ''
+- timestamp: '10/20/2020 6:34:43'
+  fbid: Dan1234
+  badge: Baby Steps
+  name: Dan
+  definition: ''
 - timestamp: '10/20/2020 6:35:26'
   fbid: Bingo0507
   badge: Baby Steps
@@ -77,35 +92,40 @@
   badge: Baby Steps
   name: Andrew Leong
   definition: ''
-- timestamp: '10/20/2020 18:37:21'
-  fbid: Cookie3rdWSO1975
+- timestamp: '10/20/2020 8:32:30'
+  fbid: Trex1406
   badge: Baby Steps
-  name: Cookie-ATC
+  name: T-rex
   definition: ''
-- timestamp: '10/20/2020 6:34:43'
-  fbid: Dan1234
+- timestamp: '10/20/2020 8:55:39'
+  fbid: Pravin8938
   badge: Baby Steps
-  name: Dan
+  name: Pravin
   definition: ''
 - timestamp: '10/20/2020 11:09:23'
   fbid: Villain1111
   badge: Baby Steps
   name: Eric Kwok
   definition: ''
-- timestamp: '10/20/2020 16:25:36'
+- timestamp: '10/20/2020 16:24:58'
   fbid: LWY3942
   badge: Baby Steps
   name: Lee Wen Yang
-  definition: ''
-- timestamp: '10/20/2020 5:55:05'
-  fbid: WANG0165
-  badge: Baby Steps
-  name: Leonard ong
   definition: ''
 - timestamp: '10/20/2020 17:56:56'
   fbid: HonWah1607
   badge: Baby Steps
   name: Loke Hon Wah
+  definition: ''
+- timestamp: '10/20/2020 18:37:21'
+  fbid: Cookie3rdWSO1975
+  badge: Baby Steps
+  name: Cookie-ATC
+  definition: ''
+- timestamp: '10/20/2020 19:01:22'
+  fbid: Wang0165
+  badge: Baby Steps
+  name: Leonard ong
   definition: ''
 - timestamp: '10/20/2020 19:10:11'
   fbid: Mtwk1998
@@ -117,25 +137,15 @@
   badge: Baby Steps
   name: Nicholas Lian
   definition: ''
-- timestamp: '10/20/2020 8:55:39'
-  fbid: Pravin8938
-  badge: Baby Steps
-  name: Pravin
-  definition: ''
 - timestamp: '10/20/2020 6:06:51'
   fbid: Rycel2929
-  badge: Baby Steps
+  badge: Mount Everest
   name: Rycel Wong
   definition: ''
-- timestamp: '10/20/2020 6:11:07'
-  fbid: Sloh0121
-  badge: Baby Steps
-  name: Sloh
-  definition: ''
-- timestamp: '10/20/2020 8:32:30'
-  fbid: Trex1406
-  badge: Baby Steps
-  name: T-rex
+- timestamp: '10/20/2020 6:34:43'
+  fbid: Dan1234
+  badge: Mount Everest
+  name: Dan
   definition: ''
 - timestamp: '10/20/2020 6:35:26'
   fbid: Bingo0507
@@ -147,25 +157,30 @@
   badge: Mount Everest
   name: Andrew Leong
   definition: ''
-- timestamp: '10/20/2020 18:37:21'
-  fbid: Cookie3rdWSO1975
+- timestamp: '10/20/2020 8:32:30'
+  fbid: Trex1406
   badge: Mount Everest
-  name: Cookie-ATC
+  name: T-rex
   definition: ''
-- timestamp: '10/20/2020 6:34:43'
-  fbid: Dan1234
+- timestamp: '10/20/2020 8:55:39'
+  fbid: Pravin8938
   badge: Mount Everest
-  name: Dan
-  definition: ''
-- timestamp: '10/20/2020 5:55:05'
-  fbid: WANG0165
-  badge: Mount Everest
-  name: Leonard ong
+  name: Pravin
   definition: ''
 - timestamp: '10/20/2020 17:56:56'
   fbid: HonWah1607
   badge: Mount Everest
   name: Loke Hon Wah
+  definition: ''
+- timestamp: '10/20/2020 18:35:53'
+  fbid: Wang0165
+  badge: Mount Everest
+  name: Leonard ong
+  definition: ''
+- timestamp: '10/20/2020 18:37:21'
+  fbid: Cookie3rdWSO1975
+  badge: Mount Everest
+  name: Cookie-ATC
   definition: ''
 - timestamp: '10/20/2020 19:10:11'
   fbid: Mtwk1998
@@ -177,26 +192,6 @@
   badge: Mount Everest
   name: Nicholas Lian
   definition: ''
-- timestamp: '10/20/2020 8:55:39'
-  fbid: Pravin8938
-  badge: Mount Everest
-  name: Pravin
-  definition: ''
-- timestamp: '10/20/2020 6:06:51'
-  fbid: Rycel2929
-  badge: Mount Everest
-  name: Rycel Wong
-  definition: ''
-- timestamp: '10/20/2020 8:32:30'
-  fbid: Trex1406
-  badge: Mount Everest
-  name: T-rex
-  definition: ''
-- timestamp: '10/20/2020 16:25:36'
-  fbid: LWY3942
-  badge: Buns of Steel
-  name: Lee Wen Yang
-  definition: ''
 - timestamp: '10/20/2020 6:11:07'
   fbid: Sloh0121
   badge: Buns of Steel
@@ -204,10 +199,15 @@
   definition: ''
 - timestamp: '10/20/2020 16:24:58'
   fbid: LWY3942
-  badge: Cycopath
+  badge: Buns of Steel
   name: Lee Wen Yang
   definition: ''
 - timestamp: '10/20/2020 16:24:58'
+  fbid: LWY3942
+  badge: Cycopath
+  name: Lee Wen Yang
+  definition: ''
+- timestamp: '10/20/2020 16:25:36'
   fbid: LWY3942
   badge: Tour de Singapore
   name: Lee Wen Yang
