@@ -29,6 +29,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '4'
+  Name: Sloh
+  Group: ADW
+  FBID: Sloh0121
+  Total_Mileage: '28.56'
+  Badges: '3'
+  Run: '15.01'
+  Cycle: '54.19'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '5'
   Name: Hasty
   Group: ADW
   FBID: Hasty55555
@@ -38,7 +48,17 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '5'
+- Rank: '6'
+  Name: Nicholas
+  Group: ADSS/ADWS/ADWO
+  FBID: NN1974
+  Total_Mileage: '23.24'
+  Badges: '2'
+  Run: '6.00'
+  Cycle: '32.94'
+  Swim: '1.50'
+  Walk: '0.00'
+- Rank: '7'
   Name: LZX
   Group: ADSS/ADWS/ADWO
   FBID: leezx1337
@@ -48,7 +68,7 @@
   Cycle: '71.58'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '6'
+- Rank: '8'
   Name: Ah Bing
   Group: ADW
   FBID: Bingo0507
@@ -58,7 +78,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '7'
+- Rank: '9'
   Name: T-rex
   Group: ABM
   FBID: Trex1406
@@ -68,7 +88,7 @@
   Cycle: '0.00'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '8'
+- Rank: '10'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -78,7 +98,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '8.43'
-- Rank: '9'
+- Rank: '11'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
@@ -88,7 +108,7 @@
   Cycle: '0.00'
   Swim: '1.10'
   Walk: '0.00'
-- Rank: '10'
+- Rank: '12'
   Name: OLAF
   Group: ADW
   FBID: OLAF2156
@@ -98,7 +118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '13'
   Name: yapoh
   Group: ADW
   FBID: yapoh0304
@@ -108,17 +128,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '11'
-  Name: Nicholas
-  Group: ADSS/ADWS/ADWO
-  FBID: NN1974
-  Total_Mileage: '15.00'
-  Badges: '2'
-  Run: '6.00'
-  Cycle: '0.00'
-  Swim: '1.50'
-  Walk: '0.00'
-- Rank: '11'
+- Rank: '13'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -128,7 +138,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '15'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -136,16 +146,6 @@
   Badges: '2'
   Run: '14.39'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '15'
-  Name: Sloh
-  Group: ADW
-  FBID: Sloh0121
-  Total_Mileage: '13.55'
-  Badges: '2'
-  Run: '0.00'
-  Cycle: '54.19'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '16'
