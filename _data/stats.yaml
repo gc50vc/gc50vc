@@ -139,6 +139,16 @@
   Swim: '0.00'
   Walk: '8.43'
 - Rank: '15'
+  Name: Marcus
+  Group: ADSS/ADWS/ADWO
+  FBID: Mtwk1998
+  Total_Mileage: '19.60'
+  Badges: '2'
+  Run: '13.00'
+  Cycle: '0.00'
+  Swim: '1.10'
+  Walk: '0.00'
+- Rank: '16'
   Name: MAJ Lim
   Group: ABM
   FBID: Legoz1000
@@ -148,7 +158,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '16'
+- Rank: '17'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -158,7 +168,7 @@
   Cycle: '33.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '17'
+- Rank: '18'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: WANG0165
@@ -168,7 +178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.00'
-- Rank: '18'
+- Rank: '19'
   Name: Slong
   Group: ADW
   FBID: Slong1234
@@ -177,16 +187,6 @@
   Run: '16.84'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '19'
-  Name: Marcus
-  Group: ADSS/ADWS/ADWO
-  FBID: Mtwk1998
-  Total_Mileage: '16.60'
-  Badges: '2'
-  Run: '10.00'
-  Cycle: '0.00'
-  Swim: '1.10'
   Walk: '0.00'
 - Rank: '20'
   Name: Geeky
