@@ -39,6 +39,16 @@
   Swim: '2.00'
   Walk: '0.00'
 - Rank: '5'
+  Name: Nicholas
+  Group: ADSS/ADWS/ADWO
+  FBID: NN1974
+  Total_Mileage: '31.03'
+  Badges: '3'
+  Run: '6.00'
+  Cycle: '64.13'
+  Swim: '1.50'
+  Walk: '0.00'
+- Rank: '6'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -48,7 +58,7 @@
   Cycle: '54.19'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '6'
+- Rank: '7'
   Name: T-rex
   Group: ABM
   FBID: Trex1406
@@ -58,7 +68,7 @@
   Cycle: '0.00'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '7'
+- Rank: '8'
   Name: Hasty
   Group: ADW
   FBID: Hasty55555
@@ -68,7 +78,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '8'
+- Rank: '9'
   Name: Eric Kwok
   Group: ABM
   FBID: Villain1111
@@ -78,7 +88,7 @@
   Cycle: '83.80'
   Swim: '0.10'
   Walk: '0.00'
-- Rank: '9'
+- Rank: '10'
   Name: Ektar
   Group: ABM
   FBID: ektar1971
@@ -87,16 +97,6 @@
   Run: '15.00'
   Cycle: '37.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '10'
-  Name: Nicholas
-  Group: ADSS/ADWS/ADWO
-  FBID: NN1974
-  Total_Mileage: '23.24'
-  Badges: '2'
-  Run: '6.00'
-  Cycle: '32.94'
-  Swim: '1.50'
   Walk: '0.00'
 - Rank: '11'
   Name: LZX
