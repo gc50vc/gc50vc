@@ -29,6 +29,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '4'
+  Name: Ben
+  Group: ADW
+  FBID: BY8362
+  Total_Mileage: '79.61'
+  Badges: '7'
+  Run: '21.07'
+  Cycle: '150.17'
+  Swim: '3.50'
+  Walk: '0.00'
+- Rank: '5'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -37,16 +47,6 @@
   Run: '26.01'
   Cycle: '116.15'
   Swim: '2.10'
-  Walk: '0.00'
-- Rank: '5'
-  Name: Ben
-  Group: ADW
-  FBID: BY8362
-  Total_Mileage: '67.60'
-  Badges: '7'
-  Run: '21.07'
-  Cycle: '102.13'
-  Swim: '3.50'
   Walk: '0.00'
 - Rank: '6'
   Name: T-rex
@@ -2427,7 +2427,7 @@
   Run: '2.98'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '8.95'
+  Walk: '14.06'
 - Rank: '244'
   Name: TWIG
   Group: ATC
