@@ -1,4 +1,14 @@
 - Rank: '1'
+  Name: JonChen
+  Group: ADW
+  FBID: JonChen0000
+  Total_Mileage: '70.30'
+  Badges: '4'
+  Run: '57.56'
+  Cycle: '50.96'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '2'
   Name: Lee Wen Yang
   Group: AFE
   FBID: LWY3942
@@ -8,7 +18,7 @@
   Cycle: '260.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '2'
+- Rank: '3'
   Name: Extreme
   Group: ATC
   FBID: Extreme8123
@@ -18,23 +28,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.10'
-- Rank: '3'
+- Rank: '4'
   Name: AdolphusJJ
   Group: AOSX/AOS
   FBID: Bamboo1234
   Total_Mileage: '60.15'
   Badges: '3'
   Run: '60.15'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '4'
-  Name: JonChen
-  Group: ADW
-  FBID: JonChen0000
-  Total_Mileage: '57.56'
-  Badges: '3'
-  Run: '57.56'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
@@ -2186,5 +2186,15 @@
   Badges: '0'
   Run: '0.00'
   Cycle: '6.86'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '220'
+  Name: Kai Yi
+  Group: ADW
+  FBID: bison1234
+  Total_Mileage: '1.20'
+  Badges: '0'
+  Run: '1.20'
+  Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
