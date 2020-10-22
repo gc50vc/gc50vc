@@ -79,6 +79,16 @@
   Swim: '3.55'
   Walk: '0.00'
 - Rank: '9'
+  Name: MAJ Lim
+  Group: ABM
+  FBID: Legoz1000
+  Total_Mileage: '49.25'
+  Badges: '3'
+  Run: '49.25'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '10'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
@@ -88,7 +98,7 @@
   Cycle: '0.00'
   Swim: '4.00'
   Walk: '0.00'
-- Rank: '10'
+- Rank: '11'
   Name: 'Nicholas Lian '
   Group: ADW
   FBID: Horsepower2001
@@ -98,7 +108,7 @@
   Cycle: '12.30'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: LZX
   Group: ADSS/ADWS/ADWO
   FBID: leezx1337
@@ -108,7 +118,7 @@
   Cycle: '145.17'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -118,7 +128,7 @@
   Cycle: '37.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: Eric Kwok
   Group: ABM
   FBID: Villain1111
@@ -127,16 +137,6 @@
   Run: '6.59'
   Cycle: '125.14'
   Swim: '0.10'
-  Walk: '0.00'
-- Rank: '14'
-  Name: MAJ Lim
-  Group: ABM
-  FBID: Legoz1000
-  Total_Mileage: '36.03'
-  Badges: '2'
-  Run: '36.03'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '15'
   Name: Cutthroat
