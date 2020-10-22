@@ -99,6 +99,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '11'
+  Name: LZX
+  Group: ADSS/ADWS/ADWO
+  FBID: leezx1337
+  Total_Mileage: '41.34'
+  Badges: '3'
+  Run: '5.05'
+  Cycle: '145.17'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '12'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -108,7 +118,7 @@
   Cycle: '37.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: Eric Kwok
   Group: ABM
   FBID: Villain1111
@@ -118,7 +128,7 @@
   Cycle: '125.14'
   Swim: '0.10'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: MAJ Lim
   Group: ABM
   FBID: Legoz1000
@@ -128,7 +138,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '15'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -138,7 +148,7 @@
   Cycle: '59.17'
   Swim: '2.10'
   Walk: '0.00'
-- Rank: '15'
+- Rank: '16'
   Name: BENteo
   Group: AFE
   FBID: BEN7452
@@ -148,7 +158,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '16'
+- Rank: '17'
   Name: Rubiks
   Group: ABM
   FBID: Rubiks1234
@@ -158,7 +168,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '17'
+- Rank: '18'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -168,7 +178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '8.43'
-- Rank: '18'
+- Rank: '19'
   Name: Jonjuay
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -178,7 +188,7 @@
   Cycle: '56.66'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '19'
+- Rank: '20'
   Name: 3SG Charlie
   Group: ADSS/ADWS/ADWO
   FBID: Charlie2539
@@ -188,7 +198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '21'
   Name: Spaceman
   Group: ADW
   FBID: spaceman1234
@@ -198,7 +208,7 @@
   Cycle: '0.00'
   Swim: '4.80'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: Vapor
   Group: ADW
   FBID: Vapor6148
@@ -208,7 +218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -218,7 +228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: yapoh
   Group: ADW
   FBID: yapoh0304
@@ -228,7 +238,7 @@
   Cycle: '50.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: Leonard Ong
   Group: ADSS/ADWS/ADWO
   FBID: Wang0165
@@ -238,7 +248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.00'
-- Rank: '25'
+- Rank: '26'
   Name: jheng
   Group: ADSS/ADWS/ADWO
   FBID: jheng0000
@@ -248,7 +258,7 @@
   Cycle: '0.00'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: OLAF
   Group: ADW
   FBID: OLAF2156
@@ -258,7 +268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: SONG RUI
   Group: ADSS/ADWS/ADWO
   FBID: SR7730
@@ -268,7 +278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -278,7 +288,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: Geeky
   Group: ADW
   FBID: Geeky1989
@@ -287,16 +297,6 @@
   Run: '14.00'
   Cycle: '0.00'
   Swim: '1.50'
-  Walk: '0.00'
-- Rank: '30'
-  Name: LZX
-  Group: ADSS/ADWS/ADWO
-  FBID: leezx1337
-  Total_Mileage: '22.95'
-  Badges: '2'
-  Run: '5.05'
-  Cycle: '71.58'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '31'
   Name: LJ Lee
