@@ -59,6 +59,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '7'
+  Name: Nicholas
+  Group: ADSS/ADWS/ADWO
+  FBID: NN1974
+  Total_Mileage: '52.12'
+  Badges: '4'
+  Run: '6.00'
+  Cycle: '99.27'
+  Swim: '3.55'
+  Walk: '0.00'
+- Rank: '8'
   Name: T-rex
   Group: ABM
   FBID: Trex1406
@@ -68,7 +78,7 @@
   Cycle: '0.00'
   Swim: '3.50'
   Walk: '0.00'
-- Rank: '8'
+- Rank: '9'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
@@ -77,16 +87,6 @@
   Run: '20.00'
   Cycle: '0.00'
   Swim: '4.00'
-  Walk: '0.00'
-- Rank: '9'
-  Name: Nicholas
-  Group: ADSS/ADWS/ADWO
-  FBID: NN1974
-  Total_Mileage: '43.33'
-  Badges: '4'
-  Run: '6.00'
-  Cycle: '64.13'
-  Swim: '3.55'
   Walk: '0.00'
 - Rank: '10'
   Name: 'Nicholas Lian '
