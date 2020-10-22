@@ -492,6 +492,11 @@
   badge: Baby Steps
   name: Zacchaeus
   definition: ''
+- timestamp: '10/22/2020 10:08:17'
+  fbid: spaceman1234
+  badge: Baby Steps
+  name: Spaceman
+  definition: ''
 - timestamp: '10/21/2020 0:59:13'
   fbid: Bamboo1234
   badge: Mount Everest
@@ -1007,6 +1012,11 @@
   badge: Frogman
   name: Vincent See
   definition: ''
+- timestamp: '10/22/2020 10:08:17'
+  fbid: spaceman1234
+  badge: Frogman
+  name: Spaceman
+  definition: ''
 - timestamp: '10/21/2020 22:01:45'
   fbid: Trex1406
   badge: Swordfish
@@ -1016,4 +1026,9 @@
   fbid: Vincentsee8888
   badge: Swordfish
   name: Vincent See
+  definition: ''
+- timestamp: '10/22/2020 10:08:17'
+  fbid: spaceman1234
+  badge: Swordfish
+  name: Spaceman
   definition: ''
