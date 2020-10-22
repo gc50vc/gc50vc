@@ -29,6 +29,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '4'
+  Name: Sloh
+  Group: ADW
+  FBID: Sloh0121
+  Total_Mileage: '67.65'
+  Badges: '6'
+  Run: '26.01'
+  Cycle: '116.15'
+  Swim: '2.10'
+  Walk: '0.00'
+- Rank: '5'
   Name: Ben
   Group: ADW
   FBID: BY8362
@@ -37,16 +47,6 @@
   Run: '21.07'
   Cycle: '102.13'
   Swim: '3.50'
-  Walk: '0.00'
-- Rank: '5'
-  Name: Sloh
-  Group: ADW
-  FBID: Sloh0121
-  Total_Mileage: '56.65'
-  Badges: '5'
-  Run: '15.01'
-  Cycle: '116.15'
-  Swim: '2.10'
   Walk: '0.00'
 - Rank: '6'
   Name: Hasty
