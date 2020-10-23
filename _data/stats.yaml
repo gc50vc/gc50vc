@@ -1,14 +1,4 @@
 - Rank: '1'
-  Name: Extreme
-  Group: ATC
-  FBID: Extreme8123
-  Total_Mileage: '168.15'
-  Badges: '5'
-  Run: '149.85'
-  Cycle: '0.00'
-  Swim: '3.05'
-  Walk: '3.10'
-- Rank: '2'
   Name: Lee Wen Yang
   Group: AFE
   FBID: LWY3942
@@ -18,6 +8,16 @@
   Cycle: '441.50'
   Swim: '0.00'
   Walk: '0.00'
+- Rank: '2'
+  Name: Extreme
+  Group: ATC
+  FBID: Extreme8123
+  Total_Mileage: '108.53'
+  Badges: '4'
+  Run: '90.23'
+  Cycle: '0.00'
+  Swim: '3.05'
+  Walk: '3.10'
 - Rank: '3'
   Name: AdolphusJJ
   Group: AOSX/AOS
@@ -719,16 +719,6 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '73'
-  Name: GN
-  Group: ADSS/ADWS/ADWO
-  FBID: GN8282
-  Total_Mileage: '13.84'
-  Badges: '2'
-  Run: '13.84'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '74'
   Name: TT
   Group: ABM
   FBID: jiawei1989
@@ -738,7 +728,7 @@
   Cycle: '10.83'
   Swim: '0.00'
   Walk: '1.89'
-- Rank: '75'
+- Rank: '74'
   Name: Matrix
   Group: ABM
   FBID: Matrix3280
@@ -748,7 +738,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '76'
+- Rank: '75'
   Name: Guang
   Group: ADSS/ADWS/ADWO
   FBID: Guang1309
@@ -758,7 +748,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '77'
+- Rank: '76'
   Name: Pravin
   Group: ADSS/ADWS/ADWO
   FBID: Pravin8938
@@ -768,7 +758,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '78'
+- Rank: '77'
   Name: Xerox
   Group: ABM
   FBID: Xerox1739
@@ -778,7 +768,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '79'
+- Rank: '78'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -788,7 +778,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '80'
+- Rank: '79'
   Name: Slong
   Group: ADW
   FBID: Slong1234
@@ -798,7 +788,7 @@
   Cycle: '0.00'
   Swim: '0.67'
   Walk: '0.00'
-- Rank: '81'
+- Rank: '80'
   Name: Cosmo
   Group: ABM
   FBID: Cosmo6306
@@ -808,7 +798,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '82'
+- Rank: '81'
   Name: Marcus
   Group: ADW
   FBID: Trident1107
@@ -818,7 +808,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '83'
+- Rank: '82'
   Name: Starbucks
   Group: ABM
   FBID: Starbucks3756
@@ -828,7 +818,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '84'
+- Rank: '83'
   Name: Andrew
   Group: ADW
   FBID: Hammer1990
@@ -838,7 +828,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '84'
+- Rank: '83'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -848,7 +838,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '86'
+- Rank: '85'
   Name: Lava
   Group: ATC
   FBID: Lava1717
@@ -858,7 +848,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '87'
+- Rank: '86'
   Name: Legend
   Group: ADW
   FBID: Legend2512
@@ -868,7 +858,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '13.11'
-- Rank: '88'
+- Rank: '87'
   Name: Andre
   Group: ADSS/ADWS/ADWO
   FBID: Wagon6190
@@ -878,13 +868,23 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '89'
+- Rank: '88'
   Name: Gabriel Tay
   Group: ADW
   FBID: Blueeyeswhitedragon2901
   Total_Mileage: '11.49'
   Badges: '2'
   Run: '11.49'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '89'
+  Name: GN
+  Group: ADSS/ADWS/ADWO
+  FBID: GN8282
+  Total_Mileage: '11.32'
+  Badges: '2'
+  Run: '11.32'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
