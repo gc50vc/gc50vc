@@ -69,6 +69,16 @@
   Swim: '3.50'
   Walk: '0.00'
 - Rank: '8'
+  Name: LZX
+  Group: ADSS/ADWS/ADWO
+  FBID: leezx1337
+  Total_Mileage: '59.17'
+  Badges: '4'
+  Run: '5.05'
+  Cycle: '216.49'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '9'
   Name: Nicholas
   Group: ADSS/ADWS/ADWO
   FBID: NN1974
@@ -78,7 +88,7 @@
   Cycle: '99.27'
   Swim: '3.55'
   Walk: '0.00'
-- Rank: '9'
+- Rank: '10'
   Name: MAJ Lim
   Group: ABM
   FBID: Legoz1000
@@ -88,7 +98,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '10'
+- Rank: '11'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -98,7 +108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: 'Nicholas Lian '
   Group: ADW
   FBID: Horsepower2001
@@ -108,7 +118,7 @@
   Cycle: '12.30'
   Swim: '0.70'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
@@ -118,7 +128,7 @@
   Cycle: '0.00'
   Swim: '4.00'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: Eric Kwok
   Group: ABM
   FBID: Villain1111
@@ -127,16 +137,6 @@
   Run: '6.59'
   Cycle: '125.14'
   Swim: '0.70'
-  Walk: '0.00'
-- Rank: '14'
-  Name: LZX
-  Group: ADSS/ADWS/ADWO
-  FBID: leezx1337
-  Total_Mileage: '41.34'
-  Badges: '3'
-  Run: '5.05'
-  Cycle: '145.17'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '15'
   Name: Ektar
