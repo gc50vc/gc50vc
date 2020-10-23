@@ -169,6 +169,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '18'
+  Name: Spaceman
+  Group: ADW
+  FBID: spaceman1234
+  Total_Mileage: '35.00'
+  Badges: '3'
+  Run: '6.20'
+  Cycle: '0.00'
+  Swim: '4.80'
+  Walk: '0.00'
+- Rank: '19'
   Name: Leonard Ong
   Group: ADSS/ADWS/ADWO
   FBID: Wang0165
@@ -178,7 +188,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.00'
-- Rank: '19'
+- Rank: '20'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -188,7 +198,7 @@
   Cycle: '59.17'
   Swim: '2.10'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '21'
   Name: Tay Wen Hao
   Group: ADW
   FBID: Wh8295
@@ -198,7 +208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: BENteo
   Group: AFE
   FBID: BEN7452
@@ -208,7 +218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: Rubiks
   Group: ABM
   FBID: Rubiks1234
@@ -218,7 +228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -228,7 +238,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '8.43'
-- Rank: '24'
+- Rank: '25'
   Name: Jonjuay
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -238,7 +248,7 @@
   Cycle: '56.66'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -248,7 +258,7 @@
   Cycle: '0.00'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -257,16 +267,6 @@
   Run: '11.20'
   Cycle: '0.00'
   Swim: '2.95'
-  Walk: '0.00'
-- Rank: '27'
-  Name: Spaceman
-  Group: ADW
-  FBID: spaceman1234
-  Total_Mileage: '28.80'
-  Badges: '3'
-  Run: '0.00'
-  Cycle: '0.00'
-  Swim: '4.80'
   Walk: '0.00'
 - Rank: '28'
   Name: Vapor
