@@ -89,6 +89,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '10'
+  Name: Cutthroat
+  Group: ATC
+  FBID: Cutthroat0403
+  Total_Mileage: '47.47'
+  Badges: '3'
+  Run: '47.47'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '11'
   Name: 'Nicholas Lian '
   Group: ADW
   FBID: Horsepower2001
@@ -98,7 +108,7 @@
   Cycle: '12.30'
   Swim: '0.70'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
@@ -108,7 +118,7 @@
   Cycle: '0.00'
   Swim: '4.00'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: Eric Kwok
   Group: ABM
   FBID: Villain1111
@@ -118,7 +128,7 @@
   Cycle: '125.14'
   Swim: '0.70'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: LZX
   Group: ADSS/ADWS/ADWO
   FBID: leezx1337
@@ -128,7 +138,7 @@
   Cycle: '145.17'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '15'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -138,23 +148,13 @@
   Cycle: '37.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '15'
+- Rank: '16'
   Name: 3SG Charlie
   Group: ADSS/ADWS/ADWO
   FBID: Charlie2539
   Total_Mileage: '37.71'
   Badges: '2'
   Run: '37.71'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '16'
-  Name: Cutthroat
-  Group: ATC
-  FBID: Cutthroat0403
-  Total_Mileage: '35.33'
-  Badges: '2'
-  Run: '35.33'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
