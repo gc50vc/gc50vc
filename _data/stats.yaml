@@ -2,10 +2,10 @@
   Name: Lee Wen Yang
   Group: AFE
   FBID: LWY3942
-  Total_Mileage: '148.13'
+  Total_Mileage: '158.13'
   Badges: '4'
   Run: '0.00'
-  Cycle: '592.50'
+  Cycle: '632.50'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '2'
@@ -159,6 +159,16 @@
   Swim: '0.70'
   Walk: '0.00'
 - Rank: '17'
+  Name: Ektar
+  Group: ABM
+  FBID: ektar1971
+  Total_Mileage: '41.35'
+  Badges: '2'
+  Run: '32.10'
+  Cycle: '37.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '18'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: WANG0165
@@ -168,7 +178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.00'
-- Rank: '18'
+- Rank: '19'
   Name: Spaceman
   Group: ADW
   FBID: spaceman1234
@@ -178,7 +188,7 @@
   Cycle: '0.00'
   Swim: '4.80'
   Walk: '0.00'
-- Rank: '19'
+- Rank: '20'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -186,16 +196,6 @@
   Badges: '2'
   Run: '34.06'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '20'
-  Name: Ektar
-  Group: ABM
-  FBID: ektar1971
-  Total_Mileage: '32.25'
-  Badges: '2'
-  Run: '23.00'
-  Cycle: '37.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '21'
