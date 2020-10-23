@@ -179,6 +179,16 @@
   Swim: '0.00'
   Walk: '1.00'
 - Rank: '19'
+  Name: Hanyong
+  Group: ADW
+  FBID: Hany2801
+  Total_Mileage: '40.00'
+  Badges: '2'
+  Run: '40.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '20'
   Name: Spaceman
   Group: ADW
   FBID: spaceman1234
@@ -188,7 +198,7 @@
   Cycle: '0.00'
   Swim: '4.80'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '21'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -198,7 +208,7 @@
   Cycle: '0.00'
   Swim: '2.95'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -208,7 +218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -218,7 +228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -228,7 +238,7 @@
   Cycle: '59.17'
   Swim: '2.10'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: Ah Bing
   Group: ADW
   FBID: Bingo0507
@@ -238,7 +248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -248,7 +258,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: OLAF
   Group: ADW
   FBID: OLAF2156
@@ -258,7 +268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: 'Tay Wen Hao '
   Group: ADW
   FBID: Wh8295
@@ -268,7 +278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: Rubiks
   Group: ABM
   FBID: Rubiks1234
@@ -278,7 +288,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -288,7 +298,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '8.43'
-- Rank: '30'
+- Rank: '31'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -298,7 +308,7 @@
   Cycle: '56.66'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '32'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -308,7 +318,7 @@
   Cycle: '0.00'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '33'
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
@@ -318,7 +328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '34'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -328,7 +338,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '34'
+- Rank: '35'
   Name: Vapor
   Group: ADW
   FBID: Vapor6148
@@ -338,7 +348,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: Bronson
   Group: ADW
   FBID: Bronze1234
@@ -347,16 +357,6 @@
   Run: '10.12'
   Cycle: '0.00'
   Swim: '3.00'
-  Walk: '0.00'
-- Rank: '36'
-  Name: Hanyong
-  Group: ADW
-  FBID: Hany2801
-  Total_Mileage: '28.00'
-  Badges: '2'
-  Run: '28.00'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '37'
   Name: TT
