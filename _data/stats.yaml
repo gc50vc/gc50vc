@@ -19,6 +19,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '3'
+  Name: T-rex
+  Group: ABM
+  FBID: Trex1406
+  Total_Mileage: '111.55'
+  Badges: '9'
+  Run: '42.50'
+  Cycle: '180.20'
+  Swim: '4.00'
+  Walk: '0.00'
+- Rank: '4'
   Name: Ben
   Group: ADW
   FBID: BY8362
@@ -28,7 +38,7 @@
   Cycle: '198.22'
   Swim: '4.50'
   Walk: '0.00'
-- Rank: '4'
+- Rank: '5'
   Name: AdolphusJJ
   Group: AOSX/AOS
   FBID: Bamboo1234
@@ -38,7 +48,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '5'
+- Rank: '6'
   Name: Hasty
   Group: ADW
   FBID: Hasty55555
@@ -48,7 +58,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '6'
+- Rank: '7'
   Name: LZX
   Group: ADSS/ADWS/ADWO
   FBID: leezx1337
@@ -58,7 +68,7 @@
   Cycle: '221.49'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '7'
+- Rank: '8'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -67,16 +77,6 @@
   Run: '26.01'
   Cycle: '116.15'
   Swim: '2.10'
-  Walk: '0.00'
-- Rank: '8'
-  Name: T-rex
-  Group: ABM
-  FBID: Trex1406
-  Total_Mileage: '66.50'
-  Badges: '5'
-  Run: '42.50'
-  Cycle: '0.00'
-  Swim: '4.00'
   Walk: '0.00'
 - Rank: '9'
   Name: Nicholas
