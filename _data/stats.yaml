@@ -49,6 +49,16 @@
   Swim: '2.10'
   Walk: '0.00'
 - Rank: '6'
+  Name: Hasty
+  Group: ADW
+  FBID: Hasty55555
+  Total_Mileage: '63.67'
+  Badges: '3'
+  Run: '63.67'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '7'
   Name: T-rex
   Group: ABM
   FBID: Trex1406
@@ -57,16 +67,6 @@
   Run: '42.50'
   Cycle: '0.00'
   Swim: '3.50'
-  Walk: '0.00'
-- Rank: '7'
-  Name: Hasty
-  Group: ADW
-  FBID: Hasty55555
-  Total_Mileage: '53.14'
-  Badges: '3'
-  Run: '53.14'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '8'
   Name: Nicholas
