@@ -19,6 +19,16 @@
   Swim: '3.05'
   Walk: '3.10'
 - Rank: '3'
+  Name: Ben
+  Group: ADW
+  FBID: BY8362
+  Total_Mileage: '93.63'
+  Badges: '7'
+  Run: '29.09'
+  Cycle: '150.17'
+  Swim: '4.50'
+  Walk: '0.00'
+- Rank: '4'
   Name: AdolphusJJ
   Group: AOSX/AOS
   FBID: Bamboo1234
@@ -27,16 +37,6 @@
   Run: '88.67'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '4'
-  Name: Ben
-  Group: ADW
-  FBID: BY8362
-  Total_Mileage: '85.61'
-  Badges: '7'
-  Run: '21.07'
-  Cycle: '150.17'
-  Swim: '4.50'
   Walk: '0.00'
 - Rank: '5'
   Name: Sloh
@@ -71,7 +71,7 @@
 - Rank: '8'
   Name: Nicholas
   Group: ADSS/ADWS/ADWO
-  FBID: NN1974
+  FBID: Nn1974
   Total_Mileage: '59.77'
   Badges: '5'
   Run: '6.00'
@@ -109,9 +109,9 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '12'
-  Name: 'Nicholas Lian '
+  Name: Nicholas Lian
   Group: ADW
-  FBID: Horsepower2001
+  FBID: horsepower2001
   Total_Mileage: '45.58'
   Badges: '2'
   Run: '38.30'
@@ -141,7 +141,7 @@
 - Rank: '15'
   Name: Ektar
   Group: ABM
-  FBID: Ektar1971
+  FBID: ektar1971
   Total_Mileage: '40.25'
   Badges: '2'
   Run: '31.00'
@@ -829,9 +829,9 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '84'
-  Name: Slong
+  Name: 'SLONG '
   Group: ADW
-  FBID: Slong1234
+  FBID: SLONG1234
   Total_Mileage: '12.42'
   Badges: '2'
   Run: '8.42'
@@ -2490,7 +2490,7 @@
   Walk: '0.00'
 - Rank: '250'
   Name: Andreas
-  Group: ADSS/ADWS/ADWO
+  Group: ADW
   FBID: Andreas1003
   Total_Mileage: '3.01'
   Badges: '0'
