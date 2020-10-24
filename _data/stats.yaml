@@ -149,6 +149,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '16'
+  Name: 3sg Charlie
+  Group: ADSS/ADWS/ADWO
+  FBID: Charlie2539
+  Total_Mileage: '52.41'
+  Badges: '3'
+  Run: '37.71'
+  Cycle: '0.00'
+  Swim: '2.45'
+  Walk: '0.00'
+- Rank: '17'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
@@ -158,7 +168,7 @@
   Cycle: '32.50'
   Swim: '4.00'
   Walk: '0.00'
-- Rank: '17'
+- Rank: '18'
   Name: Rambo
   Group: AOSX/AOS
   FBID: Rambo0113
@@ -168,7 +178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '18'
+- Rank: '19'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: WANG0165
@@ -178,7 +188,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.00'
-- Rank: '19'
+- Rank: '20'
   Name: yapoh
   Group: ADW
   FBID: yapoh0304
@@ -188,7 +198,7 @@
   Cycle: '110.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '21'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -198,7 +208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -207,16 +217,6 @@
   Run: '45.46'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '22'
-  Name: 3sg Charlie
-  Group: ADSS/ADWS/ADWO
-  FBID: Charlie2539
-  Total_Mileage: '44.91'
-  Badges: '2'
-  Run: '37.71'
-  Cycle: '0.00'
-  Swim: '1.20'
   Walk: '0.00'
 - Rank: '23'
   Name: Jeremy Ang
