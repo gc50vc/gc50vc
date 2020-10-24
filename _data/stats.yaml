@@ -249,6 +249,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '26'
+  Name: Benson
+  Group: ADW
+  FBID: benoi1234
+  Total_Mileage: '41.71'
+  Badges: '2'
+  Run: '36.24'
+  Cycle: '21.88'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '27'
   Name: Vincent See
   Group: AOSX/AOS
   FBID: Vincentsee8888
@@ -258,7 +268,7 @@
   Cycle: '79.00'
   Swim: '3.50'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: Vapor
   Group: ADW
   FBID: Vapor6148
@@ -268,7 +278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: Rubiks
   Group: ABM
   FBID: Rubiks1234
@@ -278,7 +288,7 @@
   Cycle: '41.78'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -286,16 +296,6 @@
   Badges: '2'
   Run: '40.00'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '30'
-  Name: Benson
-  Group: ADW
-  FBID: benoi1234
-  Total_Mileage: '38.98'
-  Badges: '2'
-  Run: '36.24'
-  Cycle: '10.94'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '31'
