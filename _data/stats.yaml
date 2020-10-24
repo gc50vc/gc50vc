@@ -359,6 +359,16 @@
   Swim: '1.50'
   Walk: '0.00'
 - Rank: '37'
+  Name: LJ Lee
+  Group: ADSS/ADWS/ADWO
+  FBID: VIRUS1509
+  Total_Mileage: '36.41'
+  Badges: '2'
+  Run: '36.41'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '38'
   Name: Spaceman
   Group: ADW
   FBID: spaceman1234
@@ -368,7 +378,7 @@
   Cycle: '0.00'
   Swim: '4.80'
   Walk: '0.00'
-- Rank: '38'
+- Rank: '39'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -378,7 +388,7 @@
   Cycle: '0.00'
   Swim: '3.09'
   Walk: '0.00'
-- Rank: '39'
+- Rank: '40'
   Name: JonChen
   Group: ADW
   FBID: JonChen0000
@@ -388,7 +398,7 @@
   Cycle: '112.82'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '40'
+- Rank: '41'
   Name: Bronson
   Group: ADW
   FBID: Bronze1234
@@ -398,7 +408,7 @@
   Cycle: '0.00'
   Swim: '4.00'
   Walk: '0.00'
-- Rank: '41'
+- Rank: '42'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -408,7 +418,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '42'
+- Rank: '43'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -418,7 +428,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '43'
+- Rank: '44'
   Name: Gwyn
   Group: ADW
   FBID: Magma1201
@@ -428,7 +438,7 @@
   Cycle: '31.60'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '44'
+- Rank: '45'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -438,7 +448,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '45'
+- Rank: '46'
   Name: Geeky
   Group: ADW
   FBID: Geeky1989
@@ -448,7 +458,7 @@
   Cycle: '0.00'
   Swim: '1.50'
   Walk: '16.27'
-- Rank: '46'
+- Rank: '47'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -456,16 +466,6 @@
   Badges: '3'
   Run: '15.63'
   Cycle: '56.66'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '47'
-  Name: LJ Lee
-  Group: ADSS/ADWS/ADWO
-  FBID: VIRUS1509
-  Total_Mileage: '29.36'
-  Badges: '2'
-  Run: '29.36'
-  Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '48'
@@ -797,7 +797,7 @@
   Run: '0.00'
   Cycle: '41.00'
   Swim: '1.50'
-  Walk: '0.00'
+  Walk: '8.50'
 - Rank: '81'
   Name: AngmoATB
   Group: ADW
