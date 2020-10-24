@@ -149,16 +149,6 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '16'
-  Name: Benson
-  Group: ADW
-  FBID: benoi1234
-  Total_Mileage: '52.33'
-  Badges: '3'
-  Run: '46.86'
-  Cycle: '21.88'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '17'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
@@ -168,7 +158,7 @@
   Cycle: '32.50'
   Swim: '4.00'
   Walk: '0.00'
-- Rank: '18'
+- Rank: '17'
   Name: Rambo
   Group: AOSX/AOS
   FBID: Rambo0113
@@ -178,17 +168,17 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '19'
+- Rank: '18'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: WANG0165
-  Total_Mileage: '49.27'
+  Total_Mileage: '51.70'
   Badges: '3'
-  Run: '49.27'
+  Run: '51.70'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.00'
-- Rank: '20'
+- Rank: '19'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -198,7 +188,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '20'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -208,7 +198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '21'
   Name: 3sg Charlie
   Group: ADSS/ADWS/ADWO
   FBID: Charlie2539
@@ -218,7 +208,7 @@
   Cycle: '0.00'
   Swim: '1.20'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '22'
   Name: Jeremy Ang
   Group: AFE
   FBID: Jayyleemee1993
@@ -228,7 +218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '23'
   Name: BENteo
   Group: AFE
   FBID: BEN7452
@@ -238,7 +228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '24'
   Name: Eric Kwok
   Group: ABM
   FBID: Villain1111
@@ -248,7 +238,7 @@
   Cycle: '125.14'
   Swim: '0.70'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '25'
   Name: Ah Bing
   Group: ADW
   FBID: Bingo0507
@@ -256,6 +246,16 @@
   Badges: '3'
   Run: '42.00'
   Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '26'
+  Name: Benson
+  Group: ADW
+  FBID: benoi1234
+  Total_Mileage: '41.71'
+  Badges: '2'
+  Run: '36.24'
+  Cycle: '21.88'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '27'
