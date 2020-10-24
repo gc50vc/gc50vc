@@ -467,6 +467,11 @@
   badge: Baby Steps
   name: Viking
   definition: ''
+- timestamp: '10/22/2020 0:39:21'
+  fbid: PCK2205
+  badge: Baby Steps
+  name: PCK
+  definition: ''
 - timestamp: '10/22/2020 0:59:28'
   fbid: BEN7452
   badge: Baby Steps
@@ -702,6 +707,11 @@
   badge: Baby Steps
   name: Kelvin
   definition: ''
+- timestamp: '10/23/2020 12:33:32'
+  fbid: Hybrid1843
+  badge: Baby Steps
+  name: Hybrid
+  definition: ''
 - timestamp: '10/23/2020 12:44:06'
   fbid: sxting1987
   badge: Baby Steps
@@ -917,11 +927,6 @@
   badge: Baby Steps
   name: Nana
   definition: ''
-- timestamp: '10/24/2020 13:44:06'
-  fbid: Vince2017
-  badge: Baby Steps
-  name: Vincent Yap
-  definition: ''
 - timestamp: '10/24/2020 13:46:42'
   fbid: Penguin3812
   badge: Baby Steps
@@ -931,11 +936,6 @@
   fbid: Iggy7900
   badge: Baby Steps
   name: Iggy
-  definition: ''
-- timestamp: '10/24/2020 13:53:03'
-  fbid: PCK2205
-  badge: Baby Steps
-  name: PCK
   definition: ''
 - timestamp: '10/24/2020 14:33:30'
   fbid: Max2310
@@ -1006,6 +1006,11 @@
   fbid: Kevinlcc4369
   badge: Baby Steps
   name: Kevin Leong
+  definition: ''
+- timestamp: '10/24/2020 19:51:13'
+  fbid: Oyster1990
+  badge: Baby Steps
+  name: Oyster
   definition: ''
 - timestamp: '10/22/2020 18:39:38'
   fbid: BY8362
@@ -1397,6 +1402,11 @@
   badge: Mount Everest
   name: JR
   definition: ''
+- timestamp: '10/22/2020 0:39:21'
+  fbid: PCK2205
+  badge: Mount Everest
+  name: PCK
+  definition: ''
 - timestamp: '10/22/2020 0:59:28'
   fbid: BEN7452
   badge: Mount Everest
@@ -1777,11 +1787,6 @@
   badge: Mount Everest
   name: Jon Thia
   definition: ''
-- timestamp: '10/24/2020 13:53:03'
-  fbid: PCK2205
-  badge: Mount Everest
-  name: PCK
-  definition: ''
 - timestamp: '10/24/2020 14:36:36'
   fbid: OML0911
   badge: Mount Everest
@@ -1826,6 +1831,11 @@
   fbid: Gangster7777
   badge: Mount Everest
   name: Gangster
+  definition: ''
+- timestamp: '10/24/2020 19:51:13'
+  fbid: Oyster1990
+  badge: Mount Everest
+  name: Oyster
   definition: ''
 - timestamp: '10/22/2020 0:35:59'
   fbid: Extreme8123
@@ -2028,11 +2038,6 @@
   name: Rycel Wong
   definition: ''
 - timestamp: '10/24/2020 13:44:06'
-  fbid: Vince2017
-  badge: Buns of Steel
-  name: Vincent Yap
-  definition: ''
-- timestamp: '10/24/2020 13:45:18'
   fbid: Vince2107
   badge: Buns of Steel
   name: Vincent Yap
@@ -2103,11 +2108,6 @@
   name: Rycel Wong
   definition: ''
 - timestamp: '10/24/2020 13:44:06'
-  fbid: Vince2017
-  badge: Cycopath
-  name: Vincent Yap
-  definition: ''
-- timestamp: '10/24/2020 16:07:29'
   fbid: Vince2107
   badge: Cycopath
   name: Vincent Yap
@@ -2137,7 +2137,7 @@
   badge: Tour de Singapore
   name: Rycel Wong
   definition: ''
-- timestamp: '10/24/2020 16:07:29'
+- timestamp: '10/24/2020 13:45:18'
   fbid: Vince2107
   badge: Tour de Singapore
   name: Vincent Yap
@@ -2226,11 +2226,6 @@
   fbid: thumbs8599
   badge: Frogman
   name: Ying Tat
-  definition: ''
-- timestamp: '10/23/2020 13:15:18'
-  fbid: jh0000
-  badge: Frogman
-  name: jheng
   definition: ''
 - timestamp: '10/23/2020 13:42:55'
   fbid: Daphne1234
