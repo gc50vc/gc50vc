@@ -209,6 +209,16 @@
   Swim: '0.70'
   Walk: '0.00'
 - Rank: '22'
+  Name: Vincent See
+  Group: AOSX/AOS
+  FBID: Vincentsee8888
+  Total_Mileage: '40.75'
+  Badges: '4'
+  Run: '0.00'
+  Cycle: '79.00'
+  Swim: '3.50'
+  Walk: '0.00'
+- Rank: '23'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: WANG0165
@@ -218,7 +228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.00'
-- Rank: '23'
+- Rank: '24'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -228,7 +238,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: Btee
   Group: AFE
   FBID: Brian0307
@@ -238,7 +248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: Ah Bing
   Group: ADW
   FBID: Bingo0507
@@ -247,16 +257,6 @@
   Run: '36.82'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '26'
-  Name: Vincent See
-  Group: AOSX/AOS
-  FBID: Vincentsee8888
-  Total_Mileage: '36.00'
-  Badges: '4'
-  Run: '0.00'
-  Cycle: '60.00'
-  Swim: '3.50'
   Walk: '0.00'
 - Rank: '27'
   Name: Spaceman
