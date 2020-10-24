@@ -259,6 +259,16 @@
   Swim: '3.50'
   Walk: '0.00'
 - Rank: '27'
+  Name: Rubiks
+  Group: ABM
+  FBID: Rubiks1234
+  Total_Mileage: '40.47'
+  Badges: '2'
+  Run: '30.02'
+  Cycle: '41.78'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '28'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -268,7 +278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: Btee
   Group: AFE
   FBID: Brian0307
@@ -278,7 +288,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -288,7 +298,7 @@
   Cycle: '150.61'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '31'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2017
@@ -298,7 +308,7 @@
   Cycle: '150.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '32'
   Name: Ah Bing
   Group: ADW
   FBID: Bingo0507
@@ -308,7 +318,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '33'
   Name: Xerox
   Group: ABM
   FBID: Xerox1739
@@ -318,7 +328,7 @@
   Cycle: '0.00'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '34'
   Name: Spaceman
   Group: ADW
   FBID: spaceman1234
@@ -328,7 +338,7 @@
   Cycle: '0.00'
   Swim: '4.80'
   Walk: '0.00'
-- Rank: '34'
+- Rank: '35'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -338,7 +348,7 @@
   Cycle: '0.00'
   Swim: '3.09'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: JonChen
   Group: ADW
   FBID: JonChen0000
@@ -348,7 +358,7 @@
   Cycle: '112.82'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '36'
+- Rank: '37'
   Name: Bronson
   Group: ADW
   FBID: Bronze1234
@@ -358,7 +368,7 @@
   Cycle: '0.00'
   Swim: '4.00'
   Walk: '0.00'
-- Rank: '37'
+- Rank: '38'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -368,7 +378,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '38'
+- Rank: '39'
   Name: Gwyn
   Group: ADW
   FBID: Magma1201
@@ -378,7 +388,7 @@
   Cycle: '31.60'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '39'
+- Rank: '40'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -388,7 +398,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '40'
+- Rank: '41'
   Name: OLAF
   Group: ADW
   FBID: OLAF2156
@@ -398,23 +408,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '41'
+- Rank: '42'
   Name: 'Tay Wen Hao '
   Group: ADW
   FBID: Wh8295
   Total_Mileage: '30.27'
   Badges: '2'
   Run: '30.27'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '42'
-  Name: Rubiks
-  Group: ABM
-  FBID: Rubiks1234
-  Total_Mileage: '30.02'
-  Badges: '2'
-  Run: '30.02'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
