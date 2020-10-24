@@ -269,16 +269,6 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '28'
-  Name: Benson
-  Group: ADW
-  FBID: benoi1234
-  Total_Mileage: '41.71'
-  Badges: '2'
-  Run: '36.24'
-  Cycle: '21.88'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '29'
   Name: Vincent See
   Group: AOSX/AOS
   FBID: Vincentsee8888
@@ -288,7 +278,7 @@
   Cycle: '79.00'
   Swim: '3.50'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '29'
   Name: Vapor
   Group: ADW
   FBID: Vapor6148
@@ -298,7 +288,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '30'
   Name: Rubiks
   Group: ABM
   FBID: Rubiks1234
@@ -308,7 +298,7 @@
   Cycle: '41.78'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '31'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -318,7 +308,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '32'
   Name: OLAF
   Group: ADW
   FBID: OLAF2156
@@ -328,7 +318,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '34'
+- Rank: '33'
   Name: jheng
   Group: ADSS/ADWS/ADWO
   FBID: jheng0000
@@ -338,7 +328,7 @@
   Cycle: '18.89'
   Swim: '3.00'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '34'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -348,7 +338,7 @@
   Cycle: '150.61'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '36'
+- Rank: '35'
   Name: Tay Wen Hao
   Group: ADW
   FBID: Wh8295
@@ -358,7 +348,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '37'
+- Rank: '36'
   Name: Xerox
   Group: ABM
   FBID: Xerox1739
@@ -368,7 +358,7 @@
   Cycle: '0.00'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '38'
+- Rank: '37'
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
@@ -378,7 +368,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '39'
+- Rank: '38'
   Name: Spaceman
   Group: ADW
   FBID: spaceman1234
@@ -388,7 +378,7 @@
   Cycle: '0.00'
   Swim: '4.80'
   Walk: '0.00'
-- Rank: '40'
+- Rank: '39'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -398,7 +388,7 @@
   Cycle: '0.00'
   Swim: '3.09'
   Walk: '0.00'
-- Rank: '41'
+- Rank: '40'
   Name: JonChen
   Group: ADW
   FBID: JonChen0000
@@ -408,7 +398,7 @@
   Cycle: '112.82'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '42'
+- Rank: '41'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -418,7 +408,7 @@
   Cycle: '123.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '43'
+- Rank: '42'
   Name: Bronson
   Group: ADW
   FBID: Bronze1234
@@ -428,7 +418,7 @@
   Cycle: '0.00'
   Swim: '4.00'
   Walk: '0.00'
-- Rank: '44'
+- Rank: '43'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -438,7 +428,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '45'
+- Rank: '44'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -448,17 +438,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '46'
-  Name: Gwyn
-  Group: ADW
-  FBID: Magma1201
-  Total_Mileage: '31.90'
-  Badges: '2'
-  Run: '24.00'
-  Cycle: '31.60'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '47'
+- Rank: '45'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -468,7 +448,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '40.99'
-- Rank: '48'
+- Rank: '46'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -478,7 +458,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '49'
+- Rank: '47'
   Name: Geeky
   Group: ADW
   FBID: Geeky1989
@@ -488,7 +468,7 @@
   Cycle: '0.00'
   Swim: '1.50'
   Walk: '16.27'
-- Rank: '50'
+- Rank: '48'
   Name: Jonjuay
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -498,7 +478,17 @@
   Cycle: '56.66'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '51'
+- Rank: '49'
+  Name: Gwyn
+  Group: ADW
+  FBID: Magma1201
+  Total_Mileage: '28.90'
+  Badges: '2'
+  Run: '21.00'
+  Cycle: '31.60'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '50'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -506,6 +496,16 @@
   Badges: '2'
   Run: '28.52'
   Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '51'
+  Name: Benson
+  Group: ADW
+  FBID: benoi1234
+  Total_Mileage: '28.36'
+  Badges: '2'
+  Run: '25.62'
+  Cycle: '10.94'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '52'
