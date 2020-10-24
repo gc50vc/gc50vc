@@ -19,6 +19,16 @@
   Swim: '7.05'
   Walk: '3.10'
 - Rank: '3'
+  Name: Ben
+  Group: ADW
+  FBID: BY8362
+  Total_Mileage: '130.67'
+  Badges: '10'
+  Run: '42.10'
+  Cycle: '222.27'
+  Swim: '5.50'
+  Walk: '0.00'
+- Rank: '4'
   Name: Hasty
   Group: ADW
   FBID: Hasty55555
@@ -27,16 +37,6 @@
   Run: '102.70'
   Cycle: '0.00'
   Swim: '4.00'
-  Walk: '0.00'
-- Rank: '4'
-  Name: Ben
-  Group: ADW
-  FBID: BY8362
-  Total_Mileage: '124.66'
-  Badges: '10'
-  Run: '42.10'
-  Cycle: '198.22'
-  Swim: '5.50'
   Walk: '0.00'
 - Rank: '5'
   Name: Sloh
@@ -489,6 +489,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '50'
+  Name: Anson Chiu
+  Group: ATC
+  FBID: Antz0208
+  Total_Mileage: '26.12'
+  Badges: '2'
+  Run: '26.12'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '51'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -498,7 +508,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '51'
+- Rank: '52'
   Name: francisyap
   Group: AFE
   FBID: francis7373
@@ -508,7 +518,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '52'
+- Rank: '53'
   Name: Jason H.
   Group: ADW
   FBID: Jason1900
@@ -518,7 +528,7 @@
   Cycle: '60.80'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '53'
+- Rank: '54'
   Name: Jeremy Tan
   Group: ATC
   FBID: Scavenge1601
@@ -528,7 +538,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '54'
+- Rank: '55'
   Name: Geeky
   Group: ADW
   FBID: Geeky1989
@@ -538,7 +548,7 @@
   Cycle: '0.00'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '55'
+- Rank: '56'
   Name: Wong Wei Ming
   Group: ATC
   FBID: Shadow0206
@@ -548,7 +558,7 @@
   Cycle: '0.00'
   Swim: '1.54'
   Walk: '0.00'
-- Rank: '56'
+- Rank: '57'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -558,7 +568,7 @@
   Cycle: '0.00'
   Swim: '1.50'
   Walk: '1.63'
-- Rank: '57'
+- Rank: '58'
   Name: Tan Chee Wee
   Group: ATC
   FBID: tancw1974
@@ -568,7 +578,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '58'
+- Rank: '59'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -578,7 +588,7 @@
   Cycle: '71.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '59'
+- Rank: '60'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -588,7 +598,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '14.27'
-- Rank: '60'
+- Rank: '61'
   Name: Yeow Teck
   Group: AOSX/AOS
   FBID: Youtube6116
@@ -598,7 +608,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '61'
+- Rank: '62'
   Name: Rats
   Group: ABM
   FBID: Rats1500
@@ -608,7 +618,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '62'
+- Rank: '63'
   Name: Cookie-ATC
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -618,7 +628,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '63'
+- Rank: '64'
   Name: TT
   Group: ABM
   FBID: jiawei1989
@@ -628,7 +638,7 @@
   Cycle: '10.83'
   Swim: '0.00'
   Walk: '1.89'
-- Rank: '64'
+- Rank: '65'
   Name: loanshark
   Group: ATC
   FBID: loanshark9356
@@ -638,7 +648,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '65'
+- Rank: '66'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -648,20 +658,10 @@
   Cycle: '40.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '66'
+- Rank: '67'
   Name: Coral
   Group: ABM
   FBID: Coral5050
-  Total_Mileage: '20.12'
-  Badges: '2'
-  Run: '20.12'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '66'
-  Name: Anson Chiu
-  Group: ATC
-  FBID: Antz0208
   Total_Mileage: '20.12'
   Badges: '2'
   Run: '20.12'
