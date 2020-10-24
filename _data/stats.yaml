@@ -129,6 +129,16 @@
   Swim: '2.10'
   Walk: '0.00'
 - Rank: '14'
+  Name: Ektar
+  Group: ABM
+  FBID: ektar1971
+  Total_Mileage: '57.35'
+  Badges: '3'
+  Run: '39.10'
+  Cycle: '73.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '15'
   Name: Rambo
   Group: AOSX/AOS
   FBID: Rambo0113
@@ -136,16 +146,6 @@
   Badges: '3'
   Run: '51.85'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '15'
-  Name: Ektar
-  Group: ABM
-  FBID: ektar1971
-  Total_Mileage: '50.35'
-  Badges: '3'
-  Run: '32.10'
-  Cycle: '73.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '16'
