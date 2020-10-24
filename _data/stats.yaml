@@ -89,6 +89,16 @@
   Swim: '1.50'
   Walk: '0.00'
 - Rank: '10'
+  Name: Nicholas Lian
+  Group: ADW
+  FBID: Horsepower2001
+  Total_Mileage: '74.24'
+  Badges: '4'
+  Run: '56.49'
+  Cycle: '25.38'
+  Swim: '1.90'
+  Walk: '0.00'
+- Rank: '11'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -98,7 +108,7 @@
   Cycle: '233.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: Nicholas
   Group: ADSS/ADWS/ADWO
   FBID: NN1974
@@ -108,16 +118,6 @@
   Cycle: '129.89'
   Swim: '3.55'
   Walk: '0.92'
-- Rank: '12'
-  Name: Nicholas Lian
-  Group: ADW
-  FBID: Horsepower2001
-  Total_Mileage: '67.29'
-  Badges: '4'
-  Run: '49.54'
-  Cycle: '25.38'
-  Swim: '1.90'
-  Walk: '0.00'
 - Rank: '13'
   Name: Maj Lim
   Group: ABM
@@ -149,6 +149,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '16'
+  Name: Marcus
+  Group: ADSS/ADWS/ADWO
+  FBID: Mtwk1998
+  Total_Mileage: '52.13'
+  Badges: '4'
+  Run: '20.00'
+  Cycle: '32.50'
+  Swim: '4.00'
+  Walk: '0.00'
+- Rank: '17'
   Name: Rambo
   Group: AOSX/AOS
   FBID: Rambo0113
@@ -158,7 +168,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '17'
+- Rank: '18'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: WANG0165
@@ -168,7 +178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.00'
-- Rank: '18'
+- Rank: '19'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -178,7 +188,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '19'
+- Rank: '20'
   Name: Vapor
   Group: ADW
   FBID: Vapor6148
@@ -188,7 +198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '21'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -198,7 +208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: 3sg Charlie
   Group: ADSS/ADWS/ADWO
   FBID: Charlie2539
@@ -207,16 +217,6 @@
   Run: '37.71'
   Cycle: '0.00'
   Swim: '1.20'
-  Walk: '0.00'
-- Rank: '22'
-  Name: Marcus
-  Group: ADSS/ADWS/ADWO
-  FBID: Mtwk1998
-  Total_Mileage: '44.00'
-  Badges: '4'
-  Run: '20.00'
-  Cycle: '0.00'
-  Swim: '4.00'
   Walk: '0.00'
 - Rank: '23'
   Name: Jeremy Ang
