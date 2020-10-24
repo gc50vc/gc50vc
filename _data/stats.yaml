@@ -19,6 +19,16 @@
   Swim: '7.05'
   Walk: '3.10'
 - Rank: '3'
+  Name: Sloh
+  Group: ADW
+  FBID: Sloh0121
+  Total_Mileage: '123.36'
+  Badges: '7'
+  Run: '26.01'
+  Cycle: '339.01'
+  Swim: '2.10'
+  Walk: '0.00'
+- Rank: '4'
   Name: Ben
   Group: ADW
   FBID: BY8362
@@ -28,7 +38,7 @@
   Cycle: '198.22'
   Swim: '4.50'
   Walk: '0.00'
-- Rank: '4'
+- Rank: '5'
   Name: T-rex
   Group: ABM
   FBID: Trex1406
@@ -38,7 +48,7 @@
   Cycle: '180.20'
   Swim: '4.00'
   Walk: '0.00'
-- Rank: '5'
+- Rank: '6'
   Name: Hasty
   Group: ADW
   FBID: Hasty55555
@@ -48,7 +58,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '6'
+- Rank: '7'
   Name: AdolphusJJ
   Group: AOSX/AOS
   FBID: Bamboo1234
@@ -58,7 +68,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '7'
+- Rank: '8'
   Name: LZX
   Group: ADSS/ADWS/ADWO
   FBID: leezx1337
@@ -68,7 +78,7 @@
   Cycle: '262.78'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '8'
+- Rank: '9'
   Name: Nicholas Lian
   Group: ADW
   FBID: Horsepower2001
@@ -78,7 +88,7 @@
   Cycle: '25.38'
   Swim: '3.10'
   Walk: '0.00'
-- Rank: '9'
+- Rank: '10'
   Name: Nicholas
   Group: ADSS/ADWS/ADWO
   FBID: NN1974
@@ -88,16 +98,6 @@
   Cycle: '129.89'
   Swim: '3.55'
   Walk: '0.92'
-- Rank: '10'
-  Name: Sloh
-  Group: ADW
-  FBID: Sloh0121
-  Total_Mileage: '67.65'
-  Badges: '6'
-  Run: '26.01'
-  Cycle: '116.15'
-  Swim: '2.10'
-  Walk: '0.00'
 - Rank: '11'
   Name: Maj Lim
   Group: ABM
@@ -747,7 +747,7 @@
   Run: '17.86'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
+  Walk: '10.51'
 - Rank: '76'
   Name: 'Sengie '
   Group: ADW
@@ -1823,11 +1823,11 @@
   Group: ADW
   FBID: Spacebar5647
   Total_Mileage: '6.51'
-  Badges: '0'
+  Badges: '1'
   Run: '6.51'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
+  Walk: '5.12'
 - Rank: '184'
   Name: rylchan
   Group: ATC
