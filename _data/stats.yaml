@@ -19,6 +19,16 @@
   Swim: '7.05'
   Walk: '3.10'
 - Rank: '3'
+  Name: Ben
+  Group: ADW
+  FBID: BY8362
+  Total_Mileage: '118.66'
+  Badges: '10'
+  Run: '42.10'
+  Cycle: '198.22'
+  Swim: '4.50'
+  Walk: '0.00'
+- Rank: '4'
   Name: T-rex
   Group: ABM
   FBID: Trex1406
@@ -27,16 +37,6 @@
   Run: '42.50'
   Cycle: '180.20'
   Swim: '4.00'
-  Walk: '0.00'
-- Rank: '4'
-  Name: Ben
-  Group: ADW
-  FBID: BY8362
-  Total_Mileage: '105.65'
-  Badges: '8'
-  Run: '29.09'
-  Cycle: '198.22'
-  Swim: '4.50'
   Walk: '0.00'
 - Rank: '5'
   Name: Hasty
@@ -69,6 +69,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '8'
+  Name: Nicholas Lian
+  Group: ADW
+  FBID: Horsepower2001
+  Total_Mileage: '74.49'
+  Badges: '4'
+  Run: '49.54'
+  Cycle: '25.38'
+  Swim: '3.10'
+  Walk: '0.00'
+- Rank: '9'
   Name: Nicholas
   Group: ADSS/ADWS/ADWO
   FBID: NN1974
@@ -78,7 +88,7 @@
   Cycle: '129.89'
   Swim: '3.55'
   Walk: '0.92'
-- Rank: '9'
+- Rank: '10'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -88,7 +98,7 @@
   Cycle: '116.15'
   Swim: '2.10'
   Walk: '0.00'
-- Rank: '10'
+- Rank: '11'
   Name: Maj Lim
   Group: ABM
   FBID: Legoz1000
@@ -97,16 +107,6 @@
   Run: '65.58'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '11'
-  Name: Nicholas Lian
-  Group: ADW
-  FBID: Horsepower2001
-  Total_Mileage: '60.09'
-  Badges: '3'
-  Run: '49.54'
-  Cycle: '25.38'
-  Swim: '0.70'
   Walk: '0.00'
 - Rank: '12'
   Name: SU WEIJIE
