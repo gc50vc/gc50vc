@@ -79,6 +79,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '9'
+  Name: Maj Lim
+  Group: ABM
+  FBID: Legoz1000
+  Total_Mileage: '86.20'
+  Badges: '3'
+  Run: '86.20'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '10'
   Name: Nicholas Lian
   Group: ADW
   FBID: Horsepower2001
@@ -88,7 +98,7 @@
   Cycle: '25.38'
   Swim: '3.40'
   Walk: '0.00'
-- Rank: '10'
+- Rank: '11'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -98,7 +108,7 @@
   Cycle: '200.00'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -106,16 +116,6 @@
   Badges: '5'
   Run: '15.00'
   Cycle: '233.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '12'
-  Name: Maj Lim
-  Group: ABM
-  FBID: Legoz1000
-  Total_Mileage: '71.67'
-  Badges: '3'
-  Run: '71.67'
-  Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '13'
