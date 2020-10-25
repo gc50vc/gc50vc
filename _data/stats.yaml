@@ -249,6 +249,16 @@
   Swim: '5.29'
   Walk: '0.00'
 - Rank: '26'
+  Name: Vapor
+  Group: ADW
+  FBID: Vapor6148
+  Total_Mileage: '48.07'
+  Badges: '3'
+  Run: '48.07'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '27'
   Name: JonChen
   Group: ADW
   FBID: JonChen0000
@@ -258,7 +268,7 @@
   Cycle: '164.72'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: yapoh
   Group: ADW
   FBID: yapoh0304
@@ -268,7 +278,7 @@
   Cycle: '110.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -278,7 +288,7 @@
   Cycle: '65.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -288,7 +298,7 @@
   Cycle: '127.12'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '31'
   Name: Poon
   Group: ADSS/ADWS/ADWO
   FBID: Poon3636
@@ -298,7 +308,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '32'
   Name: Bronson
   Group: ADW
   FBID: Bronze1234
@@ -308,7 +318,7 @@
   Cycle: '0.00'
   Swim: '6.00'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '33'
   Name: Silver
   Group: ABM
   FBID: Silver5117
@@ -318,23 +328,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '34'
   Name: Jeremy Ang
   Group: AFE
   FBID: Jayyleemee1993
   Total_Mileage: '43.83'
   Badges: '3'
   Run: '43.83'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '34'
-  Name: Vapor
-  Group: ADW
-  FBID: Vapor6148
-  Total_Mileage: '43.07'
-  Badges: '3'
-  Run: '43.07'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
