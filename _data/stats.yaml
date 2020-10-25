@@ -219,6 +219,16 @@
   Swim: '0.65'
   Walk: '0.00'
 - Rank: '23'
+  Name: Euj
+  Group: ATC
+  FBID: Euj1871
+  Total_Mileage: '51.00'
+  Badges: '3'
+  Run: '44.40'
+  Cycle: '0.00'
+  Swim: '1.10'
+  Walk: '40.99'
+- Rank: '24'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -228,7 +238,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -238,7 +248,7 @@
   Cycle: '0.00'
   Swim: '5.29'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: JonChen
   Group: ADW
   FBID: JonChen0000
@@ -248,7 +258,7 @@
   Cycle: '164.72'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: yapoh
   Group: ADW
   FBID: yapoh0304
@@ -258,7 +268,7 @@
   Cycle: '110.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -268,7 +278,7 @@
   Cycle: '65.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -278,7 +288,7 @@
   Cycle: '127.12'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: Poon
   Group: ADSS/ADWS/ADWO
   FBID: Poon3636
@@ -288,7 +298,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '31'
   Name: Bronson
   Group: ADW
   FBID: Bronze1234
@@ -298,7 +308,7 @@
   Cycle: '0.00'
   Swim: '6.00'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '32'
   Name: Silver
   Group: ABM
   FBID: Silver5117
@@ -308,7 +318,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '33'
   Name: Jeremy Ang
   Group: AFE
   FBID: Jayyleemee1993
@@ -318,7 +328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '34'
   Name: Vapor
   Group: ADW
   FBID: Vapor6148
@@ -328,16 +338,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '34'
-  Name: Euj
-  Group: ATC
-  FBID: Euj1871
-  Total_Mileage: '42.92'
-  Badges: '2'
-  Run: '36.32'
-  Cycle: '0.00'
-  Swim: '1.10'
-  Walk: '40.99'
 - Rank: '35'
   Name: BENteo
   Group: AFE
@@ -549,6 +549,16 @@
   Swim: '0.00'
   Walk: '1.28'
 - Rank: '56'
+  Name: Keith low
+  Group: ADSS/ADWS/ADWO
+  FBID: Keithlow1998
+  Total_Mileage: '33.46'
+  Badges: '3'
+  Run: '0.00'
+  Cycle: '133.83'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '57'
   Name: Coral
   Group: ABM
   FBID: Coral5050
@@ -558,7 +568,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '5.76'
-- Rank: '57'
+- Rank: '58'
   Name: PCK
   Group: ADW
   FBID: PCK2205
@@ -568,7 +578,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '58'
+- Rank: '59'
   Name: TT
   Group: ABM
   FBID: jiawei1989
@@ -578,7 +588,7 @@
   Cycle: '10.83'
   Swim: '0.00'
   Walk: '1.89'
-- Rank: '59'
+- Rank: '60'
   Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
   FBID: LeonYeo2590
@@ -588,7 +598,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '59'
+- Rank: '60'
   Name: Geeky
   Group: ADW
   FBID: Geeky1989
@@ -598,7 +608,7 @@
   Cycle: '0.00'
   Swim: '1.50'
   Walk: '16.27'
-- Rank: '61'
+- Rank: '62'
   Name: Btee
   Group: AFE
   FBID: Brian0307
@@ -608,7 +618,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '62'
+- Rank: '63'
   Name: Jason H.
   Group: ADW
   FBID: Jason1900
@@ -618,7 +628,7 @@
   Cycle: '60.80'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '63'
+- Rank: '64'
   Name: Gwyn
   Group: ADW
   FBID: Magma1201
@@ -628,7 +638,7 @@
   Cycle: '31.60'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '64'
+- Rank: '65'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -638,7 +648,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '12.30'
-- Rank: '65'
+- Rank: '66'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
   FBID: Ahbye1234
@@ -648,7 +658,7 @@
   Cycle: '53.83'
   Swim: '0.00'
   Walk: '6.00'
-- Rank: '66'
+- Rank: '67'
   Name: Warren Chua
   Group: ADSS/ADWS/ADWO
   FBID: Warren9588
@@ -658,7 +668,7 @@
   Cycle: '71.72'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '67'
+- Rank: '68'
   Name: Benson
   Group: ADW
   FBID: benoi1234
@@ -668,7 +678,7 @@
   Cycle: '10.94'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '68'
+- Rank: '69'
   Name: Yeow Teck
   Group: AOSX/AOS
   FBID: Youtube6116
@@ -678,7 +688,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '69'
+- Rank: '70'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -688,7 +698,7 @@
   Cycle: '0.00'
   Swim: '1.50'
   Walk: '1.63'
-- Rank: '70'
+- Rank: '71'
   Name: Cookie-ATC
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -698,7 +708,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '71'
+- Rank: '72'
   Name: Weng
   Group: ADSS/ADWS/ADWO
   FBID: Weng8238
@@ -708,7 +718,7 @@
   Cycle: '108.30'
   Swim: '0.00'
   Walk: '12.83'
-- Rank: '72'
+- Rank: '73'
   Name: Legend
   Group: ADW
   FBID: Legend2512
@@ -718,7 +728,7 @@
   Cycle: '60.80'
   Swim: '0.00'
   Walk: '13.11'
-- Rank: '73'
+- Rank: '74'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -728,7 +738,7 @@
   Cycle: '58.91'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '74'
+- Rank: '75'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -738,7 +748,7 @@
   Cycle: '106.30'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '75'
+- Rank: '76'
   Name: Lightyear
   Group: ADW
   FBID: Lightyear2020
@@ -748,7 +758,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '76'
+- Rank: '77'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -758,7 +768,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '77'
+- Rank: '78'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -768,7 +778,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '78'
+- Rank: '79'
   Name: KevinKKW
   Group: ADSS/ADWS/ADWO
   FBID: Kkkw0165
@@ -778,7 +788,7 @@
   Cycle: '57.70'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '79'
+- Rank: '80'
   Name: francisyap
   Group: AFE
   FBID: francis7373
@@ -786,16 +796,6 @@
   Badges: '2'
   Run: '25.93'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '80'
-  Name: Keith low
-  Group: ADSS/ADWS/ADWO
-  FBID: Keithlow1998
-  Total_Mileage: '25.75'
-  Badges: '3'
-  Run: '0.00'
-  Cycle: '102.98'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '81'
