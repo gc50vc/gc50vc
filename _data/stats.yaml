@@ -109,6 +109,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '12'
+  Name: Nicholas
+  Group: ADSS/ADWS/ADWO
+  FBID: NN1974
+  Total_Mileage: '82.08'
+  Badges: '6'
+  Run: '16.01'
+  Cycle: '129.89'
+  Swim: '5.60'
+  Walk: '0.92'
+- Rank: '13'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -118,7 +128,7 @@
   Cycle: '200.00'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -128,7 +138,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '15'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -138,16 +148,6 @@
   Cycle: '233.00'
   Swim: '0.00'
   Walk: '1.90'
-- Rank: '15'
-  Name: Nicholas
-  Group: ADSS/ADWS/ADWO
-  FBID: NN1974
-  Total_Mileage: '69.78'
-  Badges: '6'
-  Run: '16.01'
-  Cycle: '129.89'
-  Swim: '3.55'
-  Walk: '0.92'
 - Rank: '16'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
@@ -169,6 +169,16 @@
   Swim: '2.10'
   Walk: '0.00'
 - Rank: '18'
+  Name: Marcus
+  Group: ADSS/ADWS/ADWO
+  FBID: Mtwk1998
+  Total_Mileage: '57.13'
+  Badges: '4'
+  Run: '25.00'
+  Cycle: '32.50'
+  Swim: '4.00'
+  Walk: '0.00'
+- Rank: '19'
   Name: 3sg Charlie
   Group: ADSS/ADWS/ADWO
   FBID: Charlie2539
@@ -177,16 +187,6 @@
   Run: '37.71'
   Cycle: '0.00'
   Swim: '2.45'
-  Walk: '0.00'
-- Rank: '19'
-  Name: Marcus
-  Group: ADSS/ADWS/ADWO
-  FBID: Mtwk1998
-  Total_Mileage: '52.13'
-  Badges: '4'
-  Run: '20.00'
-  Cycle: '32.50'
-  Swim: '4.00'
   Walk: '0.00'
 - Rank: '20'
   Name: Rambo
