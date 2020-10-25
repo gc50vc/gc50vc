@@ -689,6 +689,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '70'
+  Name: Slimer
+  Group: ABM
+  FBID: Slimer1234
+  Total_Mileage: '25.62'
+  Badges: '3'
+  Run: '5.03'
+  Cycle: '43.97'
+  Swim: '1.60'
+  Walk: '1.50'
+- Rank: '71'
   Name: Jason H.
   Group: ADW
   FBID: Jason1900
@@ -698,7 +708,7 @@
   Cycle: '60.80'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '71'
+- Rank: '72'
   Name: Dennis
   Group: ADSS/ADWS/ADWO
   FBID: Dennis0495
@@ -708,16 +718,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '72'
-  Name: Slimer
-  Group: ABM
-  FBID: Slimer1234
-  Total_Mileage: '25.06'
-  Badges: '2'
-  Run: '5.03'
-  Cycle: '41.70'
-  Swim: '1.60'
-  Walk: '0.62'
 - Rank: '73'
   Name: Steyr
   Group: ABM
@@ -1179,6 +1179,16 @@
   Swim: '1.53'
   Walk: '4.80'
 - Rank: '119'
+  Name: Jamie Chen
+  Group: ADSS/ADWS/ADWO
+  FBID: FLASH2911
+  Total_Mileage: '15.14'
+  Badges: '2'
+  Run: '15.14'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '120'
   Name: SONG RUI
   Group: ADSS/ADWS/ADWO
   FBID: SR7730
@@ -1188,7 +1198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '120'
+- Rank: '121'
   Name: Jing Wee
   Group: ADSS/ADWS/ADWO
   FBID: Pork2070
@@ -1198,7 +1208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '121'
+- Rank: '122'
   Name: Rock
   Group: ADW
   FBID: Rock0165
@@ -1208,7 +1218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.00'
-- Rank: '121'
+- Rank: '122'
   Name: Hybrid
   Group: ADW
   FBID: Hybrid1843
@@ -1218,7 +1228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '121'
+- Rank: '122'
   Name: Boon Peng
   Group: ADSS/ADWS/ADWO
   FBID: Bpeng1129
@@ -1228,7 +1238,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '124'
+- Rank: '125'
   Name: Kelvis
   Group: ADSS/ADWS/ADWO
   FBID: Kelvis2000
@@ -1238,7 +1248,7 @@
   Cycle: '40.73'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '125'
+- Rank: '126'
   Name: Alan
   Group: ADSS/ADWS/ADWO
   FBID: Alan2881
@@ -1248,7 +1258,7 @@
   Cycle: '0.00'
   Swim: '0.45'
   Walk: '0.00'
-- Rank: '126'
+- Rank: '127'
   Name: aH-MuNs-Ge
   Group: AFE
   FBID: ahmuns9861
@@ -1258,7 +1268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '19.60'
-- Rank: '127'
+- Rank: '128'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -1268,7 +1278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '128'
+- Rank: '129'
   Name: Darius Koh
   Group: ADSS/ADWS/ADWO
   FBID: Paintbrush1213
@@ -1278,23 +1288,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '129'
+- Rank: '130'
   Name: Aron
   Group: ADSS/ADWS/ADWO
   FBID: agjj1995
   Total_Mileage: '14.20'
   Badges: '2'
   Run: '14.20'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '130'
-  Name: Jamie Chen
-  Group: ADSS/ADWS/ADWO
-  FBID: FLASH2911
-  Total_Mileage: '14.14'
-  Badges: '2'
-  Run: '14.14'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
