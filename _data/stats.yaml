@@ -169,6 +169,16 @@
   Swim: '5.00'
   Walk: '0.00'
 - Rank: '18'
+  Name: Vapor
+  Group: ADW
+  FBID: Vapor6148
+  Total_Mileage: '60.59'
+  Badges: '3'
+  Run: '60.59'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '19'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: WANG0165
@@ -178,7 +188,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.00'
-- Rank: '19'
+- Rank: '20'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -188,7 +198,7 @@
   Cycle: '171.75'
   Swim: '2.10'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '21'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -198,7 +208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '45.36'
-- Rank: '21'
+- Rank: '22'
   Name: 3sg Charlie
   Group: ADSS/ADWS/ADWO
   FBID: Charlie2539
@@ -208,7 +218,7 @@
   Cycle: '0.00'
   Swim: '2.45'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -218,7 +228,7 @@
   Cycle: '0.00'
   Swim: '5.29'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: Rambo
   Group: AOSX/AOS
   FBID: Rambo0113
@@ -228,7 +238,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: Ah Bing
   Group: ADW
   FBID: Bingo0507
@@ -238,7 +248,7 @@
   Cycle: '0.00'
   Swim: '0.65'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -248,23 +258,13 @@
   Cycle: '0.00'
   Swim: '1.10'
   Walk: '40.99'
-- Rank: '26'
+- Rank: '27'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
   Total_Mileage: '49.98'
   Badges: '3'
   Run: '49.98'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '27'
-  Name: Vapor
-  Group: ADW
-  FBID: Vapor6148
-  Total_Mileage: '48.07'
-  Badges: '3'
-  Run: '48.07'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
