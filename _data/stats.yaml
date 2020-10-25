@@ -299,6 +299,16 @@
   Swim: '6.00'
   Walk: '0.00'
 - Rank: '31'
+  Name: Vapor
+  Group: ADW
+  FBID: Vapor6148
+  Total_Mileage: '45.61'
+  Badges: '3'
+  Run: '45.61'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '32'
   Name: Jeremy Ang
   Group: AFE
   FBID: Jayyleemee1993
@@ -308,7 +318,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '33'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -318,7 +328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '37.36'
-- Rank: '33'
+- Rank: '34'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -328,7 +338,7 @@
   Cycle: '0.00'
   Swim: '1.10'
   Walk: '40.99'
-- Rank: '34'
+- Rank: '35'
   Name: BENteo
   Group: AFE
   FBID: BEN7452
@@ -338,7 +348,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: Eric Kwok
   Group: ABM
   FBID: Villain1111
@@ -348,7 +358,7 @@
   Cycle: '125.14'
   Swim: '0.70'
   Walk: '0.00'
-- Rank: '36'
+- Rank: '37'
   Name: Vincent See
   Group: AOSX/AOS
   FBID: Vincentsee8888
@@ -357,16 +367,6 @@
   Run: '0.00'
   Cycle: '79.00'
   Swim: '3.50'
-  Walk: '0.00'
-- Rank: '37'
-  Name: Vapor
-  Group: ADW
-  FBID: Vapor6148
-  Total_Mileage: '40.53'
-  Badges: '2'
-  Run: '40.53'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '38'
   Name: Rubiks
