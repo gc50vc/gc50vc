@@ -209,6 +209,16 @@
   Swim: '2.45'
   Walk: '0.00'
 - Rank: '22'
+  Name: Tommy Tham
+  Group: ADSS/ADWS/ADWO
+  FBID: Tommy1976
+  Total_Mileage: '52.15'
+  Badges: '4'
+  Run: '20.41'
+  Cycle: '0.00'
+  Swim: '5.29'
+  Walk: '0.00'
+- Rank: '23'
   Name: Rambo
   Group: AOSX/AOS
   FBID: Rambo0113
@@ -218,7 +228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: Ah Bing
   Group: ADW
   FBID: Bingo0507
@@ -228,7 +238,7 @@
   Cycle: '0.00'
   Swim: '0.65'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -238,7 +248,7 @@
   Cycle: '0.00'
   Swim: '1.10'
   Walk: '40.99'
-- Rank: '25'
+- Rank: '26'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -247,16 +257,6 @@
   Run: '49.98'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '26'
-  Name: Tommy Tham
-  Group: ADSS/ADWS/ADWO
-  FBID: Tommy1976
-  Total_Mileage: '48.15'
-  Badges: '4'
-  Run: '16.41'
-  Cycle: '0.00'
-  Swim: '5.29'
   Walk: '0.00'
 - Rank: '27'
   Name: Vapor
