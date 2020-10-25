@@ -9,6 +9,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '2'
+  Name: Ben
+  Group: ADW
+  FBID: BY8362
+  Total_Mileage: '161.01'
+  Badges: '11'
+  Run: '47.12'
+  Cycle: '286.34'
+  Swim: '7.05'
+  Walk: '0.00'
+- Rank: '3'
   Name: Extreme
   Group: ATC
   FBID: Extreme8123
@@ -18,16 +28,6 @@
   Cycle: '0.00'
   Swim: '7.05'
   Walk: '3.10'
-- Rank: '3'
-  Name: Ben
-  Group: ADW
-  FBID: BY8362
-  Total_Mileage: '140.68'
-  Badges: '10'
-  Run: '42.10'
-  Cycle: '262.30'
-  Swim: '5.50'
-  Walk: '0.00'
 - Rank: '4'
   Name: Sloh
   Group: ADW
@@ -277,7 +277,7 @@
   Run: '43.00'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '29.46'
+  Walk: '37.36'
 - Rank: '29'
   Name: BENteo
   Group: AFE
@@ -457,7 +457,7 @@
   Run: '34.06'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
+  Walk: '1.28'
 - Rank: '47'
   Name: PIXAR
   Group: ABM
