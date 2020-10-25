@@ -89,6 +89,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '10'
+  Name: Ektar
+  Group: ABM
+  FBID: ektar1971
+  Total_Mileage: '85.10'
+  Badges: '4'
+  Run: '39.10'
+  Cycle: '184.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '11'
   Name: Nicholas Lian
   Group: ADW
   FBID: Horsepower2001
@@ -98,7 +108,7 @@
   Cycle: '25.38'
   Swim: '3.40'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -108,7 +118,7 @@
   Cycle: '200.00'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -118,7 +128,7 @@
   Cycle: '233.00'
   Swim: '0.00'
   Walk: '1.90'
-- Rank: '13'
+- Rank: '14'
   Name: Nicholas
   Group: ADSS/ADWS/ADWO
   FBID: NN1974
@@ -128,7 +138,7 @@
   Cycle: '129.89'
   Swim: '3.55'
   Walk: '0.92'
-- Rank: '14'
+- Rank: '15'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -138,7 +148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '15'
+- Rank: '16'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: WANG0165
@@ -148,7 +158,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.00'
-- Rank: '16'
+- Rank: '17'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -157,16 +167,6 @@
   Run: '4.00'
   Cycle: '171.75'
   Swim: '2.10'
-  Walk: '0.00'
-- Rank: '17'
-  Name: Ektar
-  Group: ABM
-  FBID: ektar1971
-  Total_Mileage: '57.35'
-  Badges: '3'
-  Run: '39.10'
-  Cycle: '73.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '18'
   Name: 3sg Charlie
@@ -392,10 +392,10 @@
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
-  Total_Mileage: '36.41'
+  Total_Mileage: '37.40'
   Badges: '2'
   Run: '36.41'
-  Cycle: '0.00'
+  Cycle: '3.94'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '41'
