@@ -199,6 +199,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '21'
+  Name: Ah Bing
+  Group: ADW
+  FBID: Bingo0507
+  Total_Mileage: '51.31'
+  Badges: '3'
+  Run: '47.41'
+  Cycle: '0.00'
+  Swim: '0.65'
+  Walk: '0.00'
+- Rank: '22'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -208,7 +218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -218,7 +228,7 @@
   Cycle: '0.00'
   Swim: '5.29'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: JonChen
   Group: ADW
   FBID: JonChen0000
@@ -228,7 +238,7 @@
   Cycle: '164.72'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: yapoh
   Group: ADW
   FBID: yapoh0304
@@ -238,7 +248,7 @@
   Cycle: '110.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -248,7 +258,7 @@
   Cycle: '65.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: Poon
   Group: ADSS/ADWS/ADWO
   FBID: Poon3636
@@ -257,16 +267,6 @@
   Run: '47.12'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '27'
-  Name: Ah Bing
-  Group: ADW
-  FBID: Bingo0507
-  Total_Mileage: '45.90'
-  Badges: '3'
-  Run: '42.00'
-  Cycle: '0.00'
-  Swim: '0.65'
   Walk: '0.00'
 - Rank: '28'
   Name: Jeremy Ang
