@@ -22,10 +22,10 @@
   Name: Ben
   Group: ADW
   FBID: BY8362
-  Total_Mileage: '204.35'
+  Total_Mileage: '210.36'
   Badges: '11'
   Run: '50.46'
-  Cycle: '446.37'
+  Cycle: '470.40'
   Swim: '7.05'
   Walk: '0.00'
 - Rank: '4'
@@ -89,6 +89,16 @@
   Swim: '0.00'
   Walk: '16.48'
 - Rank: '10'
+  Name: Ektar
+  Group: ABM
+  FBID: ektar1971
+  Total_Mileage: '92.30'
+  Badges: '5'
+  Run: '46.30'
+  Cycle: '184.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '11'
   Name: Nicholas Lian
   Group: ADW
   FBID: Horsepower2001
@@ -97,16 +107,6 @@
   Run: '56.49'
   Cycle: '25.38'
   Swim: '4.40'
-  Walk: '0.00'
-- Rank: '11'
-  Name: Ektar
-  Group: ABM
-  FBID: ektar1971
-  Total_Mileage: '85.10'
-  Badges: '4'
-  Run: '39.10'
-  Cycle: '184.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '12'
   Name: Nicholas
