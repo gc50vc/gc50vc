@@ -209,6 +209,16 @@
   Swim: '0.00'
   Walk: '45.36'
 - Rank: '22'
+  Name: Euj
+  Group: ATC
+  FBID: Euj1871
+  Total_Mileage: '53.93'
+  Badges: '3'
+  Run: '47.33'
+  Cycle: '0.00'
+  Swim: '1.10'
+  Walk: '40.99'
+- Rank: '23'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -218,7 +228,7 @@
   Cycle: '214.06'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: 3sg Charlie
   Group: ADSS/ADWS/ADWO
   FBID: Charlie2539
@@ -228,7 +238,7 @@
   Cycle: '0.00'
   Swim: '2.45'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -238,7 +248,7 @@
   Cycle: '0.00'
   Swim: '5.29'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: Rambo
   Group: AOSX/AOS
   FBID: Rambo0113
@@ -248,7 +258,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: Ah Bing
   Group: ADW
   FBID: Bingo0507
@@ -258,16 +268,6 @@
   Cycle: '0.00'
   Swim: '0.65'
   Walk: '0.00'
-- Rank: '27'
-  Name: Euj
-  Group: ATC
-  FBID: Euj1871
-  Total_Mileage: '51.00'
-  Badges: '3'
-  Run: '44.40'
-  Cycle: '0.00'
-  Swim: '1.10'
-  Walk: '40.99'
 - Rank: '28'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
