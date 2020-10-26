@@ -199,6 +199,16 @@
   Swim: '2.10'
   Walk: '0.00'
 - Rank: '21'
+  Name: Tommy Tham
+  Group: ADSS/ADWS/ADWO
+  FBID: Tommy1976
+  Total_Mileage: '58.45'
+  Badges: '4'
+  Run: '20.41'
+  Cycle: '0.00'
+  Swim: '6.34'
+  Walk: '0.00'
+- Rank: '22'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -208,7 +218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '45.36'
-- Rank: '22'
+- Rank: '23'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -218,7 +228,7 @@
   Cycle: '0.00'
   Swim: '1.10'
   Walk: '40.99'
-- Rank: '23'
+- Rank: '24'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -228,7 +238,7 @@
   Cycle: '214.06'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: 3sg Charlie
   Group: ADSS/ADWS/ADWO
   FBID: Charlie2539
@@ -237,16 +247,6 @@
   Run: '37.71'
   Cycle: '0.00'
   Swim: '2.45'
-  Walk: '0.00'
-- Rank: '25'
-  Name: Tommy Tham
-  Group: ADSS/ADWS/ADWO
-  FBID: Tommy1976
-  Total_Mileage: '52.15'
-  Badges: '4'
-  Run: '20.41'
-  Cycle: '0.00'
-  Swim: '5.29'
   Walk: '0.00'
 - Rank: '26'
   Name: Rambo
