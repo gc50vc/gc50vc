@@ -149,6 +149,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '16'
+  Name: Marcus
+  Group: ADSS/ADWS/ADWO
+  FBID: Mtwk1998
+  Total_Mileage: '74.13'
+  Badges: '4'
+  Run: '30.00'
+  Cycle: '32.50'
+  Swim: '6.00'
+  Walk: '0.00'
+- Rank: '17'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -158,7 +168,7 @@
   Cycle: '40.20'
   Swim: '2.30'
   Walk: '40.99'
-- Rank: '17'
+- Rank: '18'
   Name: yapoh
   Group: ADW
   FBID: yapoh0304
@@ -167,16 +177,6 @@
   Run: '30.00'
   Cycle: '160.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '18'
-  Name: Marcus
-  Group: ADSS/ADWS/ADWO
-  FBID: Mtwk1998
-  Total_Mileage: '68.13'
-  Badges: '4'
-  Run: '30.00'
-  Cycle: '32.50'
-  Swim: '5.00'
   Walk: '0.00'
 - Rank: '19'
   Name: Dan
