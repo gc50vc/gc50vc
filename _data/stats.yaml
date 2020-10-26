@@ -119,6 +119,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '13'
+  Name: yapoh
+  Group: ADW
+  FBID: yapoh0304
+  Total_Mileage: '83.00'
+  Badges: '5'
+  Run: '43.00'
+  Cycle: '160.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '14'
   Name: Nicholas
   Group: ADSS/ADWS/ADWO
   FBID: NN1974
@@ -128,7 +138,7 @@
   Cycle: '129.89'
   Swim: '5.60'
   Walk: '0.92'
-- Rank: '14'
+- Rank: '15'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -138,7 +148,7 @@
   Cycle: '233.00'
   Swim: '1.00'
   Walk: '1.90'
-- Rank: '15'
+- Rank: '16'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -148,7 +158,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '16'
+- Rank: '17'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
@@ -158,7 +168,7 @@
   Cycle: '32.50'
   Swim: '6.00'
   Walk: '0.00'
-- Rank: '17'
+- Rank: '18'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -168,16 +178,6 @@
   Cycle: '40.20'
   Swim: '2.30'
   Walk: '40.99'
-- Rank: '18'
-  Name: yapoh
-  Group: ADW
-  FBID: yapoh0304
-  Total_Mileage: '70.00'
-  Badges: '4'
-  Run: '30.00'
-  Cycle: '160.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '19'
   Name: Dan
   Group: ADSS/ADWS/ADWO
