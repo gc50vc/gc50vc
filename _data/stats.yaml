@@ -79,6 +79,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '9'
+  Name: Ektar
+  Group: ABM
+  FBID: ektar1971
+  Total_Mileage: '107.38'
+  Badges: '8'
+  Run: '46.30'
+  Cycle: '220.30'
+  Swim: '1.00'
+  Walk: '0.00'
+- Rank: '10'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -88,7 +98,7 @@
   Cycle: '237.00'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '10'
+- Rank: '11'
   Name: Nicholas Lian
   Group: ADW
   FBID: Horsepower2001
@@ -97,16 +107,6 @@
   Run: '59.99'
   Cycle: '25.38'
   Swim: '5.90'
-  Walk: '0.00'
-- Rank: '11'
-  Name: Ektar
-  Group: ABM
-  FBID: ektar1971
-  Total_Mileage: '101.38'
-  Badges: '6'
-  Run: '46.30'
-  Cycle: '220.30'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '12'
   Name: Maj Lim
