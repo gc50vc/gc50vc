@@ -159,6 +159,16 @@
   Swim: '5.60'
   Walk: '0.92'
 - Rank: '17'
+  Name: Marcus
+  Group: ADSS/ADWS/ADWO
+  FBID: Mtwk1998
+  Total_Mileage: '80.13'
+  Badges: '5'
+  Run: '30.00'
+  Cycle: '32.50'
+  Swim: '7.00'
+  Walk: '7.27'
+- Rank: '18'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: WANG0165
@@ -168,7 +178,7 @@
   Cycle: '0.00'
   Swim: '0.43'
   Walk: '1.00'
-- Rank: '18'
+- Rank: '19'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -178,16 +188,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '45.36'
-- Rank: '19'
-  Name: Marcus
-  Group: ADSS/ADWS/ADWO
-  FBID: Mtwk1998
-  Total_Mileage: '74.13'
-  Badges: '4'
-  Run: '30.00'
-  Cycle: '32.50'
-  Swim: '6.00'
-  Walk: '7.27'
 - Rank: '20'
   Name: Euj
   Group: ATC
