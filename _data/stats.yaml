@@ -239,6 +239,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '25'
+  Name: Prem
+  Group: ADW
+  FBID: Premium6687
+  Total_Mileage: '60.23'
+  Badges: '4'
+  Run: '31.73'
+  Cycle: '0.00'
+  Swim: '4.75'
+  Walk: '1.32'
+- Rank: '26'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -248,7 +258,7 @@
   Cycle: '171.75'
   Swim: '2.10'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -258,7 +268,7 @@
   Cycle: '0.00'
   Swim: '6.34'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: Bronson
   Group: ADW
   FBID: Bronze1234
@@ -268,7 +278,7 @@
   Cycle: '0.00'
   Swim: '7.00'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: Ah Bing
   Group: ADW
   FBID: Bingo0507
@@ -278,7 +288,7 @@
   Cycle: '0.00'
   Swim: '0.65'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -288,7 +298,7 @@
   Cycle: '10.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '31'
   Name: Tony Foo
   Group: ADSS/ADWS/ADWO
   FBID: tonyfoo0165
@@ -298,7 +308,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '32'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -308,7 +318,7 @@
   Cycle: '214.06'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '33'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -318,16 +328,6 @@
   Cycle: '151.14'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '33'
-  Name: Prem
-  Group: ADW
-  FBID: Premium6687
-  Total_Mileage: '53.33'
-  Badges: '4'
-  Run: '31.73'
-  Cycle: '0.00'
-  Swim: '3.60'
-  Walk: '1.32'
 - Rank: '34'
   Name: 3sg Charlie
   Group: ADSS/ADWS/ADWO
