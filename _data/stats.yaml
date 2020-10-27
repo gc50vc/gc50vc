@@ -29,6 +29,16 @@
   Swim: '8.55'
   Walk: '0.00'
 - Rank: '4'
+  Name: LZX
+  Group: ADSS/ADWS/ADWO
+  FBID: leezx1337
+  Total_Mileage: '183.17'
+  Badges: '5'
+  Run: '41.67'
+  Cycle: '565.99'
+  Swim: '0.00'
+  Walk: '2.18'
+- Rank: '5'
   Name: Hasty
   Group: ADW
   FBID: Hasty55555
@@ -38,7 +48,7 @@
   Cycle: '51.63'
   Swim: '7.00'
   Walk: '0.00'
-- Rank: '5'
+- Rank: '6'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -48,16 +58,6 @@
   Cycle: '370.48'
   Swim: '4.20'
   Walk: '0.00'
-- Rank: '6'
-  Name: LZX
-  Group: ADSS/ADWS/ADWO
-  FBID: leezx1337
-  Total_Mileage: '165.16'
-  Badges: '5'
-  Run: '41.67'
-  Cycle: '493.97'
-  Swim: '0.00'
-  Walk: '2.18'
 - Rank: '7'
   Name: T-rex
   Group: ABM
@@ -3915,16 +3915,6 @@
   Total_Mileage: '1.12'
   Badges: '0'
   Run: '1.12'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '393'
-  Name: 'Saravanan '
-  Group: AOSX/AOS
-  FBID: Cheif1309
-  Total_Mileage: '0.00'
-  Badges: '0'
-  Run: '0.00'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
