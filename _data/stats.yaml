@@ -79,6 +79,16 @@
   Swim: '0.00'
   Walk: '138.12'
 - Rank: '9'
+  Name: Euj
+  Group: ATC
+  FBID: Euj1871
+  Total_Mileage: '127.35'
+  Badges: '5'
+  Run: '53.51'
+  Cycle: '40.20'
+  Swim: '3.80'
+  Walk: '40.99'
+- Rank: '10'
   Name: aH-MuNs-Ge
   Group: AFE
   FBID: ahmuns9861
@@ -88,16 +98,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '63.51'
-- Rank: '10'
-  Name: Euj
-  Group: ATC
-  FBID: Euj1871
-  Total_Mileage: '122.97'
-  Badges: '5'
-  Run: '49.13'
-  Cycle: '40.20'
-  Swim: '3.80'
-  Walk: '40.99'
 - Rank: '11'
   Name: Dan
   Group: ADSS/ADWS/ADWO
