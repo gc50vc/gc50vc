@@ -1670,6 +1670,12 @@
   name: Mayer
   definition: ''
   Week: '2'
+- timestamp: '10/27/2020 21:00:40'
+  fbid: LC0809
+  badge: Baby Steps
+  name: LC
+  definition: ''
+  Week: '2'
 - timestamp: '10/22/2020 18:39:38'
   fbid: BY8362
   badge: Half Ironman
@@ -3294,6 +3300,12 @@
   fbid: OLAF2156
   badge: Marathon
   name: OLAF
+  definition: ''
+  Week: '2'
+- timestamp: '10/27/2020 20:58:46'
+  fbid: Home5116
+  badge: Marathon
+  name: Homeboy
   definition: ''
   Week: '2'
 - timestamp: '10/24/2020 1:24:37'
