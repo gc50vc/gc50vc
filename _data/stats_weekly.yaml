@@ -97,7 +97,7 @@
   Run: '9.11'
   Cycle: '40.20'
   Swim: '2.70'
-  Walk: '0.00'
+  Walk: '20.38'
 - Rank: '11'
   Name: Nicholas
   Group: ADSS/ADWS/ADWO
@@ -2128,6 +2128,16 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.24'
+- Rank: '206'
+  Name: Devin Tan
+  Group: ADSS/ADWS/ADWO
+  FBID: alpha0117
+  Total_Mileage: '0.00'
+  Badges: ''
+  Run: '0.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '4.50'
 - Rank: '206'
   Name: Alan
   Group: ADSS/ADWS/ADWO
