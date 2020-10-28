@@ -9,6 +9,16 @@
   Swim: '33.00'
   Walk: '3.10'
 - Rank: '2'
+  Name: Ben
+  Group: ADW
+  FBID: BY8362
+  Total_Mileage: '329.07'
+  Badges: '12'
+  Run: '100.11'
+  Cycle: '638.65'
+  Swim: '11.55'
+  Walk: '0.00'
+- Rank: '3'
   Name: Lee Wen Yang
   Group: AFE
   FBID: LWY3942
@@ -17,16 +27,6 @@
   Run: '6.00'
   Cycle: '1292.25'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '3'
-  Name: Ben
-  Group: ADW
-  FBID: BY8362
-  Total_Mileage: '316.07'
-  Badges: '12'
-  Run: '100.11'
-  Cycle: '586.62'
-  Swim: '11.55'
   Walk: '0.00'
 - Rank: '4'
   Name: Hasty
