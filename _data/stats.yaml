@@ -39,6 +39,16 @@
   Swim: '7.00'
   Walk: '0.00'
 - Rank: '5'
+  Name: LZX
+  Group: ADSS/ADWS/ADWO
+  FBID: leezx1337
+  Total_Mileage: '204.10'
+  Badges: '6'
+  Run: '44.41'
+  Cycle: '638.77'
+  Swim: '0.00'
+  Walk: '2.18'
+- Rank: '6'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -48,16 +58,6 @@
   Cycle: '418.91'
   Swim: '4.20'
   Walk: '0.00'
-- Rank: '6'
-  Name: LZX
-  Group: ADSS/ADWS/ADWO
-  FBID: leezx1337
-  Total_Mileage: '185.91'
-  Badges: '6'
-  Run: '44.41'
-  Cycle: '565.99'
-  Swim: '0.00'
-  Walk: '2.18'
 - Rank: '7'
   Name: T-rex
   Group: ABM
@@ -199,6 +199,16 @@
   Swim: '0.00'
   Walk: '45.36'
 - Rank: '21'
+  Name: Prem
+  Group: ADW
+  FBID: Premium6687
+  Total_Mileage: '69.83'
+  Badges: '4'
+  Run: '31.73'
+  Cycle: '0.00'
+  Swim: '6.35'
+  Walk: '1.32'
+- Rank: '22'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -208,7 +218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: Ah Bing
   Group: ADW
   FBID: Bingo0507
@@ -218,7 +228,7 @@
   Cycle: '21.93'
   Swim: '0.65'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -228,7 +238,7 @@
   Cycle: '214.06'
   Swim: '2.10'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -238,7 +248,7 @@
   Cycle: '238.71'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -248,7 +258,7 @@
   Cycle: '65.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: Vapor
   Group: ADW
   FBID: Vapor6148
@@ -258,7 +268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -268,7 +278,7 @@
   Cycle: '0.00'
   Swim: '7.29'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -278,7 +288,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: jheng
   Group: ADSS/ADWS/ADWO
   FBID: jheng0000
@@ -288,7 +298,7 @@
   Cycle: '18.89'
   Swim: '5.50'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '31'
   Name: Bronson
   Group: ADW
   FBID: Bronze1234
@@ -298,7 +308,7 @@
   Cycle: '0.00'
   Swim: '8.03'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '32'
   Name: aH-MuNs-Ge
   Group: AFE
   FBID: ahmuns9861
@@ -308,7 +318,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '63.51'
-- Rank: '32'
+- Rank: '33'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -318,7 +328,7 @@
   Cycle: '171.75'
   Swim: '2.10'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '34'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -328,7 +338,7 @@
   Cycle: '88.00'
   Swim: '3.08'
   Walk: '0.32'
-- Rank: '34'
+- Rank: '35'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -338,7 +348,7 @@
   Cycle: '10.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -348,16 +358,6 @@
   Cycle: '183.99'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '36'
-  Name: Prem
-  Group: ADW
-  FBID: Premium6687
-  Total_Mileage: '60.23'
-  Badges: '4'
-  Run: '31.73'
-  Cycle: '0.00'
-  Swim: '4.75'
-  Walk: '1.32'
 - Rank: '37'
   Name: Cosmo
   Group: ABM
