@@ -1199,6 +1199,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '121'
+  Name: Yew Choong
+  Group: ADSS/ADWS/ADWO
+  FBID: GGXC0160
+  Total_Mileage: '28.07'
+  Badges: '2'
+  Run: '28.07'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '19.25'
+- Rank: '122'
   Name: Lia
   Group: ADSS/ADWS/ADWO
   FBID: Lia1116
@@ -1208,7 +1218,7 @@
   Cycle: '12.99'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '122'
+- Rank: '123'
   Name: Rats
   Group: ABM
   FBID: Rats1500
@@ -1218,7 +1228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '123'
+- Rank: '124'
   Name: Andre
   Group: ADW
   FBID: Andre7429
@@ -1228,7 +1238,7 @@
   Cycle: '99.42'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '124'
+- Rank: '125'
   Name: Legend
   Group: ADW
   FBID: Legend2512
@@ -1238,7 +1248,7 @@
   Cycle: '60.80'
   Swim: '0.00'
   Walk: '13.11'
-- Rank: '125'
+- Rank: '126'
   Name: 'Amarverest '
   Group: ADSS/ADWS/ADWO
   FBID: Amar0165
@@ -1248,7 +1258,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '126'
+- Rank: '127'
   Name: Sean Chua
   Group: ADSS/ADWS/ADWO
   FBID: Stop0001
@@ -1258,7 +1268,7 @@
   Cycle: '13.70'
   Swim: '0.00'
   Walk: '1.04'
-- Rank: '127'
+- Rank: '128'
   Name: Kenneth
   Group: ADSS/ADWS/ADWO
   FBID: Cat0407
@@ -1268,7 +1278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '128'
+- Rank: '129'
   Name: COVID
   Group: ADSS/ADWS/ADWO
   FBID: COVID9999
@@ -1278,16 +1288,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '8.70'
-- Rank: '129'
-  Name: Yew Choong
-  Group: ADSS/ADWS/ADWO
-  FBID: GGXC0160
-  Total_Mileage: '25.31'
-  Badges: '2'
-  Run: '25.31'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '19.25'
 - Rank: '130'
   Name: Chan Howe
   Group: AOSX/AOS
