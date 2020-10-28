@@ -139,6 +139,16 @@
   Swim: '2.10'
   Walk: '0.00'
 - Rank: '15'
+  Name: jheng
+  Group: ADSS/ADWS/ADWO
+  FBID: jheng0000
+  Total_Mileage: '25.50'
+  Badges: '1'
+  Run: '10.50'
+  Cycle: '0.00'
+  Swim: '2.50'
+  Walk: '0.00'
+- Rank: '16'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -148,7 +158,7 @@
   Cycle: '36.30'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '16'
+- Rank: '17'
   Name: Keith low
   Group: ADSS/ADWS/ADWO
   FBID: Keithlow1998
@@ -158,7 +168,7 @@
   Cycle: '82.09'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '17'
+- Rank: '18'
   Name: Nicholas Lian
   Group: ADW
   FBID: horsepower2001
@@ -168,7 +178,7 @@
   Cycle: '4.88'
   Swim: '2.50'
   Walk: '0.00'
-- Rank: '18'
+- Rank: '19'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: Errick1991
@@ -178,7 +188,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '19'
+- Rank: '20'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -188,7 +198,7 @@
   Cycle: '37.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '21'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -198,7 +208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
@@ -208,7 +218,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '7.27'
-- Rank: '22'
+- Rank: '23'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -218,7 +228,7 @@
   Cycle: '10.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: Wang0165
@@ -228,7 +238,7 @@
   Cycle: '0.00'
   Swim: '0.88'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: Xiaolow3344
   Group: ADSS/ADWS/ADWO
   FBID: Xiaolow3344
@@ -238,7 +248,7 @@
   Cycle: '0.00'
   Swim: '3.50'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: Cactus
   Group: ADSS/ADWS/ADWO
   FBID: Daphne1234
@@ -248,7 +258,7 @@
   Cycle: '0.00'
   Swim: '3.50'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: Yew Choong
   Group: ADSS/ADWS/ADWO
   FBID: GGXC0160
@@ -258,7 +268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -268,7 +278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: QUENCHER
   Group: ABM
   FBID: quencher2020
@@ -278,7 +288,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: Ganesan
   Group: AFE
   FBID: Guinness2512
@@ -287,16 +297,6 @@
   Run: '20.02'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '30'
-  Name: jheng
-  Group: ADSS/ADWS/ADWO
-  FBID: jheng0000
-  Total_Mileage: '19.50'
-  Badges: '1'
-  Run: '10.50'
-  Cycle: '0.00'
-  Swim: '1.50'
   Walk: '0.00'
 - Rank: '31'
   Name: Fu Hao Wei
