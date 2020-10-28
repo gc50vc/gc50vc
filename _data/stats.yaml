@@ -129,6 +129,16 @@
   Swim: '0.00'
   Walk: '16.48'
 - Rank: '14'
+  Name: Euj
+  Group: ATC
+  FBID: Euj1871
+  Total_Mileage: '100.58'
+  Badges: '5'
+  Run: '53.51'
+  Cycle: '40.20'
+  Swim: '6.17'
+  Walk: '61.37'
+- Rank: '15'
   Name: yapoh
   Group: ADW
   FBID: yapoh0304
@@ -138,16 +148,6 @@
   Cycle: '160.00'
   Swim: '1.60'
   Walk: '0.00'
-- Rank: '15'
-  Name: Euj
-  Group: ATC
-  FBID: Euj1871
-  Total_Mileage: '86.36'
-  Badges: '5'
-  Run: '53.51'
-  Cycle: '40.20'
-  Swim: '3.80'
-  Walk: '61.37'
 - Rank: '16'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
@@ -409,6 +409,16 @@
   Swim: '3.65'
   Walk: '2.34'
 - Rank: '42'
+  Name: 'Tay Wen Hao '
+  Group: ADW
+  FBID: Wh8295
+  Total_Mileage: '54.06'
+  Badges: '3'
+  Run: '54.06'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '43'
   Name: Tony Foo
   Group: ADSS/ADWS/ADWO
   FBID: tonyfoo0165
@@ -418,7 +428,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '43'
+- Rank: '44'
   Name: 3sg Charlie
   Group: ADSS/ADWS/ADWO
   FBID: Charlie2539
@@ -428,7 +438,7 @@
   Cycle: '0.00'
   Swim: '2.45'
   Walk: '0.00'
-- Rank: '44'
+- Rank: '45'
   Name: Rambo
   Group: AOSX/AOS
   FBID: Rambo0113
@@ -438,7 +448,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '45'
+- Rank: '46'
   Name: francisyap
   Group: AFE
   FBID: francis7373
@@ -448,7 +458,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '46'
+- Rank: '47'
   Name: Rubiks
   Group: ABM
   FBID: Rubiks1234
@@ -458,7 +468,7 @@
   Cycle: '41.78'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '47'
+- Rank: '48'
   Name: JonChen
   Group: ADW
   FBID: JonChen0000
@@ -468,7 +478,7 @@
   Cycle: '164.72'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '48'
+- Rank: '49'
   Name: Poon
   Group: ADSS/ADWS/ADWO
   FBID: Poon3636
@@ -478,7 +488,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '49'
+- Rank: '50'
   Name: OLAF
   Group: ADW
   FBID: OLAF2156
@@ -488,7 +498,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '50'
+- Rank: '51'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: Errick1991
@@ -498,7 +508,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '51'
+- Rank: '52'
   Name: Tan Chee Wee
   Group: ATC
   FBID: tancw1974
@@ -508,7 +518,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '52'
+- Rank: '53'
   Name: TT
   Group: ABM
   FBID: jiawei1989
@@ -518,7 +528,7 @@
   Cycle: '10.83'
   Swim: '0.00'
   Walk: '1.89'
-- Rank: '53'
+- Rank: '54'
   Name: Silver
   Group: ABM
   FBID: Silver5117
@@ -528,7 +538,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '53'
+- Rank: '54'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -538,7 +548,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '55'
+- Rank: '56'
   Name: TINY
   Group: ATC
   FBID: TINY2303
@@ -548,7 +558,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '56'
+- Rank: '57'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -558,7 +568,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '12.30'
-- Rank: '57'
+- Rank: '58'
   Name: Jeremy Ang
   Group: AFE
   FBID: Jayyleemee1993
@@ -568,7 +578,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '58'
+- Rank: '59'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -578,16 +588,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.68'
-- Rank: '59'
-  Name: 'Tay Wen Hao '
-  Group: ADW
-  FBID: Wh8295
-  Total_Mileage: '43.38'
-  Badges: '3'
-  Run: '43.38'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '60'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
