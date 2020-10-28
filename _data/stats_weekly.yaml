@@ -59,6 +59,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '7'
+  Name: Ektar
+  Group: ABM
+  FBID: Ektar1971
+  Total_Mileage: '36.16'
+  Badges: '5'
+  Run: '18.08'
+  Cycle: '36.30'
+  Swim: '1.50'
+  Walk: '0.00'
+- Rank: '8'
   Name: Barter
   Group: ATC
   FBID: Reload0203
@@ -68,7 +78,7 @@
   Cycle: '123.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '8'
+- Rank: '9'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -78,7 +88,7 @@
   Cycle: '132.41'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '9'
+- Rank: '10'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -88,7 +98,7 @@
   Cycle: '40.20'
   Swim: '2.70'
   Walk: '0.00'
-- Rank: '10'
+- Rank: '11'
   Name: Nicholas
   Group: ADSS/ADWS/ADWO
   FBID: Nn1974
@@ -98,7 +108,7 @@
   Cycle: '63.56'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -108,7 +118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '4.38'
-- Rank: '12'
+- Rank: '13'
   Name: yapoh
   Group: ADW
   FBID: Yapoh0304
@@ -118,7 +128,7 @@
   Cycle: '0.00'
   Swim: '1.60'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -128,7 +138,7 @@
   Cycle: '0.00'
   Swim: '2.05'
   Walk: '0.84'
-- Rank: '14'
+- Rank: '15'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -138,7 +148,7 @@
   Cycle: '63.45'
   Swim: '2.10'
   Walk: '0.00'
-- Rank: '15'
+- Rank: '16'
   Name: jheng
   Group: ADSS/ADWS/ADWO
   FBID: jheng0000
@@ -147,16 +157,6 @@
   Run: '10.50'
   Cycle: '0.00'
   Swim: '2.50'
-  Walk: '0.00'
-- Rank: '16'
-  Name: Ektar
-  Group: ABM
-  FBID: Ektar1971
-  Total_Mileage: '25.28'
-  Badges: '5'
-  Run: '7.20'
-  Cycle: '36.30'
-  Swim: '1.50'
   Walk: '0.00'
 - Rank: '17'
   Name: Keith low
