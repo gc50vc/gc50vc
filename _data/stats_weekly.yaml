@@ -109,6 +109,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '12'
+  Name: Slimer
+  Group: ABM
+  FBID: Slimer1234
+  Total_Mileage: '34.48'
+  Badges: '2'
+  Run: '16.18'
+  Cycle: '0.00'
+  Swim: '3.05'
+  Walk: '1.53'
+- Rank: '13'
   Name: Nicholas Lian
   Group: ADW
   FBID: horsepower2001
@@ -118,7 +128,7 @@
   Cycle: '4.88'
   Swim: '2.50'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: Nicholas
   Group: ADSS/ADWS/ADWO
   FBID: Nn1974
@@ -128,7 +138,7 @@
   Cycle: '63.56'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '15'
   Name: yapoh
   Group: ADW
   FBID: Yapoh0304
@@ -138,16 +148,6 @@
   Cycle: '0.00'
   Swim: '1.60'
   Walk: '0.00'
-- Rank: '15'
-  Name: Slimer
-  Group: ABM
-  FBID: Slimer1234
-  Total_Mileage: '28.48'
-  Badges: '2'
-  Run: '16.18'
-  Cycle: '0.00'
-  Swim: '2.05'
-  Walk: '0.84'
 - Rank: '16'
   Name: Jade
   Group: ABM
