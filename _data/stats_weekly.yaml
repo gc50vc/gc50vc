@@ -79,6 +79,16 @@
   Swim: '2.00'
   Walk: '0.00'
 - Rank: '9'
+  Name: Slimer
+  Group: ABM
+  FBID: Slimer1234
+  Total_Mileage: '40.49'
+  Badges: '2'
+  Run: '22.19'
+  Cycle: '0.00'
+  Swim: '3.05'
+  Walk: '1.53'
+- Rank: '10'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -88,7 +98,7 @@
   Cycle: '36.30'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '10'
+- Rank: '11'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -98,7 +108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '4.38'
-- Rank: '11'
+- Rank: '12'
   Name: Barter
   Group: ATC
   FBID: Reload0203
@@ -108,7 +118,7 @@
   Cycle: '123.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -118,7 +128,7 @@
   Cycle: '132.41'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: Prem
   Group: ADW
   FBID: Premium6687
@@ -128,16 +138,6 @@
   Cycle: '0.00'
   Swim: '5.80'
   Walk: '0.00'
-- Rank: '14'
-  Name: Slimer
-  Group: ABM
-  FBID: Slimer1234
-  Total_Mileage: '34.48'
-  Badges: '2'
-  Run: '16.18'
-  Cycle: '0.00'
-  Swim: '3.05'
-  Walk: '1.53'
 - Rank: '15'
   Name: Nicholas Lian
   Group: ADW
