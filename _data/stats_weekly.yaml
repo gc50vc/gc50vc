@@ -39,6 +39,16 @@
   Swim: '0.00'
   Walk: '2.18'
 - Rank: '5'
+  Name: Sloh
+  Group: ADW
+  FBID: Sloh0121
+  Total_Mileage: '56.99'
+  Badges: '1'
+  Run: '19.41'
+  Cycle: '99.90'
+  Swim: '2.10'
+  Walk: '0.00'
+- Rank: '6'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -48,16 +58,6 @@
   Cycle: '40.20'
   Swim: '5.07'
   Walk: '20.38'
-- Rank: '6'
-  Name: Sloh
-  Group: ADW
-  FBID: Sloh0121
-  Total_Mileage: '46.99'
-  Badges: '1'
-  Run: '9.41'
-  Cycle: '99.90'
-  Swim: '2.10'
-  Walk: '0.00'
 - Rank: '7'
   Name: Hasty
   Group: ADW
