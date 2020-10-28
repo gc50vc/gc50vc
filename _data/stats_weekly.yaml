@@ -69,6 +69,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '8'
+  Name: Nicholas
+  Group: ADSS/ADWS/ADWO
+  FBID: Nn1974
+  Total_Mileage: '41.65'
+  Badges: '3'
+  Run: '6.00'
+  Cycle: '94.58'
+  Swim: '2.00'
+  Walk: '0.00'
+- Rank: '9'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -78,7 +88,7 @@
   Cycle: '36.30'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '9'
+- Rank: '10'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -88,7 +98,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '4.38'
-- Rank: '10'
+- Rank: '11'
   Name: Barter
   Group: ATC
   FBID: Reload0203
@@ -98,7 +108,7 @@
   Cycle: '123.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -108,7 +118,7 @@
   Cycle: '132.41'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: Prem
   Group: ADW
   FBID: Premium6687
@@ -118,7 +128,7 @@
   Cycle: '0.00'
   Swim: '5.80'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -128,7 +138,7 @@
   Cycle: '0.00'
   Swim: '3.05'
   Walk: '1.53'
-- Rank: '14'
+- Rank: '15'
   Name: Nicholas Lian
   Group: ADW
   FBID: horsepower2001
@@ -138,7 +148,7 @@
   Cycle: '4.88'
   Swim: '2.50'
   Walk: '0.00'
-- Rank: '15'
+- Rank: '16'
   Name: Xiaolow3344
   Group: ADSS/ADWS/ADWO
   FBID: Xiaolow3344
@@ -147,16 +157,6 @@
   Run: '0.00'
   Cycle: '0.00'
   Swim: '5.65'
-  Walk: '0.00'
-- Rank: '16'
-  Name: Nicholas
-  Group: ADSS/ADWS/ADWO
-  FBID: Nn1974
-  Total_Mileage: '33.89'
-  Badges: '3'
-  Run: '6.00'
-  Cycle: '63.56'
-  Swim: '2.00'
   Walk: '0.00'
 - Rank: '17'
   Name: Leonard ong
