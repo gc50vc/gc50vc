@@ -199,6 +199,16 @@
   Swim: '0.00'
   Walk: '45.36'
 - Rank: '21'
+  Name: Ah Bing
+  Group: ADW
+  FBID: Bingo0507
+  Total_Mileage: '72.37'
+  Badges: '4'
+  Run: '57.54'
+  Cycle: '43.70'
+  Swim: '0.65'
+  Walk: '0.00'
+- Rank: '22'
   Name: Prem
   Group: ADW
   FBID: Premium6687
@@ -208,7 +218,7 @@
   Cycle: '0.00'
   Swim: '6.35'
   Walk: '1.32'
-- Rank: '22'
+- Rank: '23'
   Name: Bronson
   Group: ADW
   FBID: Bronze1234
@@ -218,7 +228,7 @@
   Cycle: '0.00'
   Swim: '8.03'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -227,16 +237,6 @@
   Run: '68.10'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '24'
-  Name: Ah Bing
-  Group: ADW
-  FBID: Bingo0507
-  Total_Mileage: '66.92'
-  Badges: '3'
-  Run: '57.54'
-  Cycle: '21.93'
-  Swim: '0.65'
   Walk: '0.00'
 - Rank: '25'
   Name: Jade
@@ -479,6 +479,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '49'
+  Name: 'Tan Swee Kiat '
+  Group: ADW
+  FBID: Eskay0077
+  Total_Mileage: '47.76'
+  Badges: '3'
+  Run: '47.76'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '11.68'
+- Rank: '50'
   Name: Poon
   Group: ADSS/ADWS/ADWO
   FBID: Poon3636
@@ -488,7 +498,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '50'
+- Rank: '51'
   Name: OLAF
   Group: ADW
   FBID: OLAF2156
@@ -498,7 +508,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '51'
+- Rank: '52'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: Errick1991
@@ -508,7 +518,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '52'
+- Rank: '53'
   Name: Tan Chee Wee
   Group: ATC
   FBID: tancw1974
@@ -518,7 +528,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '53'
+- Rank: '54'
   Name: TT
   Group: ABM
   FBID: jiawei1989
@@ -528,7 +538,7 @@
   Cycle: '10.83'
   Swim: '0.00'
   Walk: '1.89'
-- Rank: '54'
+- Rank: '55'
   Name: Silver
   Group: ABM
   FBID: Silver5117
@@ -538,7 +548,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '54'
+- Rank: '55'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -548,7 +558,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '56'
+- Rank: '57'
   Name: TINY
   Group: ATC
   FBID: TINY2303
@@ -558,7 +568,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '57'
+- Rank: '58'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -568,7 +578,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '12.30'
-- Rank: '58'
+- Rank: '59'
   Name: Jeremy Ang
   Group: AFE
   FBID: Jayyleemee1993
@@ -578,16 +588,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '59'
-  Name: 'Tan Swee Kiat '
-  Group: ADW
-  FBID: Eskay0077
-  Total_Mileage: '43.70'
-  Badges: '3'
-  Run: '43.70'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '11.68'
 - Rank: '60'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
