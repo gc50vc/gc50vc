@@ -1029,6 +1029,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '104'
+  Name: batu
+  Group: ABM
+  FBID: batu1984
+  Total_Mileage: '7.70'
+  Badges: '2'
+  Run: '7.70'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '2.50'
+- Rank: '105'
   Name: Benson
   Group: ADW
   FBID: benoi1234
@@ -1038,7 +1048,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '105'
+- Rank: '106'
   Name: Rajaan
   Group: ADSS/ADWS/ADWO
   FBID: Rajaanleon0021
@@ -1048,7 +1058,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '106'
+- Rank: '107'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -1058,7 +1068,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '107'
+- Rank: '108'
   Name: junhui
   Group: ADW
   FBID: junhui2301
@@ -1068,7 +1078,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '17.87'
-- Rank: '108'
+- Rank: '109'
   Name: Andre
   Group: ADSS/ADWS/ADWO
   FBID: Wagon6190
@@ -1078,7 +1088,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '109'
+- Rank: '110'
   Name: Terence
   Group: AOSX/AOS
   FBID: Terence0602
@@ -1088,7 +1098,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '110'
+- Rank: '111'
   Name: Joe Ng
   Group: AOSX/AOS
   FBID: Wiki5279
@@ -1098,7 +1108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '111'
+- Rank: '112'
   Name: JiaZe
   Group: ADSS/ADWS/ADWO
   FBID: jiaze0609
@@ -1108,7 +1118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '112'
+- Rank: '113'
   Name: JB Ong
   Group: AOSX/AOS
   FBID: tango8456
@@ -1118,7 +1128,7 @@
   Cycle: '25.14'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '113'
+- Rank: '114'
   Name: Leonard
   Group: ADW
   FBID: Leonard0402
@@ -1128,7 +1138,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '114'
+- Rank: '115'
   Name: Zinc
   Group: ADW
   FBID: zinc1997
@@ -1138,7 +1148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '115'
+- Rank: '116'
   Name: Starbucks
   Group: ABM
   FBID: Starbucks3756
@@ -1148,7 +1158,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '115'
+- Rank: '116'
   Name: Rats
   Group: ABM
   FBID: Rats1500
@@ -1158,7 +1168,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '115'
+- Rank: '116'
   Name: 'Crystal '
   Group: ABM
   FBID: Crystal1101
@@ -1168,7 +1178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '118'
+- Rank: '119'
   Name: 'Windy '
   Group: ABM
   FBID: Windy4444
@@ -1178,7 +1188,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '118'
+- Rank: '119'
   Name: Lam Wei Jun
   Group: ABM
   FBID: Proton1234
@@ -1188,7 +1198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '118'
+- Rank: '119'
   Name: PCK
   Group: ADW
   FBID: PCK2205
@@ -1198,7 +1208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '118'
+- Rank: '119'
   Name: Lasher
   Group: ADW
   FBID: Lasher6923
@@ -1208,7 +1218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '118'
+- Rank: '119'
   Name: Andrew
   Group: ADW
   FBID: Hammer1990
@@ -1218,7 +1228,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '118'
+- Rank: '119'
   Name: Fungus
   Group: ABM
   FBID: Fungus7777
@@ -1228,7 +1238,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '118'
+- Rank: '119'
   Name: Nana
   Group: AFE
   FBID: Chris1166
@@ -1238,7 +1248,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '125'
+- Rank: '126'
   Name: 'Tay Wen Hao '
   Group: ADW
   FBID: Wh8295
@@ -1248,7 +1258,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '125'
+- Rank: '126'
   Name: XavYeo
   Group: ADSS/ADWS/ADWO
   FBID: OnsenEgg1234
@@ -1258,7 +1268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '125'
+- Rank: '126'
   Name: Sen Kiat
   Group: ATC
   FBID: HSK7777
@@ -1268,7 +1278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '128'
+- Rank: '129'
   Name: francisyap
   Group: AFE
   FBID: francis7373
@@ -1278,7 +1288,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '129'
+- Rank: '130'
   Name: Logan
   Group: ABM
   FBID: Logan0001
@@ -1288,7 +1298,7 @@
   Cycle: '21.13'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '130'
+- Rank: '131'
   Name: Jarrod
   Group: ATC
   FBID: Juvejazzman1401
@@ -1298,7 +1308,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '131'
+- Rank: '132'
   Name: Edgar
   Group: AOSX/AOS
   FBID: Edgar1234
@@ -1308,7 +1318,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '132'
+- Rank: '133'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
@@ -1318,7 +1328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '133'
+- Rank: '134'
   Name: Malice
   Group: ABM
   FBID: Malice2323
@@ -1328,20 +1338,10 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '134'
+- Rank: '135'
   Name: Sabre
   Group: ATC
   FBID: Sabre5376
-  Total_Mileage: '5.10'
-  Badges: '1'
-  Run: '5.10'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '134'
-  Name: batu
-  Group: ABM
-  FBID: batu1984
   Total_Mileage: '5.10'
   Badges: '1'
   Run: '5.10'
