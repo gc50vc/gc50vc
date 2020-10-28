@@ -469,6 +469,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '48'
+  Name: TT
+  Group: ABM
+  FBID: jiawei1989
+  Total_Mileage: '51.17'
+  Badges: '3'
+  Run: '48.46'
+  Cycle: '10.83'
+  Swim: '0.00'
+  Walk: '1.89'
+- Rank: '49'
   Name: francisyap
   Group: AFE
   FBID: francis7373
@@ -478,7 +488,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '49'
+- Rank: '50'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -488,7 +498,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '50'
+- Rank: '51'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -498,7 +508,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.68'
-- Rank: '51'
+- Rank: '52'
   Name: Andrew
   Group: ADW
   FBID: Hammer1990
@@ -508,7 +518,7 @@
   Cycle: '65.00'
   Swim: '3.00'
   Walk: '0.00'
-- Rank: '52'
+- Rank: '53'
   Name: Poon
   Group: ADSS/ADWS/ADWO
   FBID: Poon3636
@@ -518,7 +528,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '53'
+- Rank: '54'
   Name: OLAF
   Group: ADW
   FBID: OLAF2156
@@ -528,7 +538,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '54'
+- Rank: '55'
   Name: QUENCHER
   Group: ABM
   FBID: quencher2020
@@ -538,7 +548,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '55'
+- Rank: '56'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: Errick1991
@@ -548,7 +558,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '56'
+- Rank: '57'
   Name: Tan Chee Wee
   Group: ATC
   FBID: tancw1974
@@ -558,16 +568,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '57'
-  Name: TT
-  Group: ABM
-  FBID: jiawei1989
-  Total_Mileage: '46.06'
-  Badges: '3'
-  Run: '43.35'
-  Cycle: '10.83'
-  Swim: '0.00'
-  Walk: '1.89'
 - Rank: '58'
   Name: Silver
   Group: ABM
