@@ -209,6 +209,16 @@
   Swim: '6.35'
   Walk: '1.32'
 - Rank: '22'
+  Name: Bronson
+  Group: ADW
+  FBID: Bronze1234
+  Total_Mileage: '68.87'
+  Badges: '5'
+  Run: '20.72'
+  Cycle: '0.00'
+  Swim: '8.03'
+  Walk: '0.00'
+- Rank: '23'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -218,7 +228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: Ah Bing
   Group: ADW
   FBID: Bingo0507
@@ -228,7 +238,7 @@
   Cycle: '21.93'
   Swim: '0.65'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -238,7 +248,7 @@
   Cycle: '214.06'
   Swim: '2.10'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -248,7 +258,7 @@
   Cycle: '238.71'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -258,7 +268,7 @@
   Cycle: '65.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: Vapor
   Group: ADW
   FBID: Vapor6148
@@ -268,7 +278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -278,7 +288,7 @@
   Cycle: '0.00'
   Swim: '7.29'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -288,7 +298,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '31'
   Name: jheng
   Group: ADSS/ADWS/ADWO
   FBID: jheng0000
@@ -297,16 +307,6 @@
   Run: '25.93'
   Cycle: '18.89'
   Swim: '5.50'
-  Walk: '0.00'
-- Rank: '31'
-  Name: Bronson
-  Group: ADW
-  FBID: Bronze1234
-  Total_Mileage: '63.44'
-  Badges: '5'
-  Run: '15.29'
-  Cycle: '0.00'
-  Swim: '8.03'
   Walk: '0.00'
 - Rank: '32'
   Name: aH-MuNs-Ge
