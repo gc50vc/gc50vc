@@ -182,11 +182,11 @@
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
-  Total_Mileage: '90.13'
+  Total_Mileage: '96.13'
   Badges: '5'
   Run: '40.00'
   Cycle: '32.50'
-  Swim: '7.00'
+  Swim: '8.00'
   Walk: '7.27'
 - Rank: '20'
   Name: Prem
@@ -709,6 +709,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '72'
+  Name: Gwyn
+  Group: ADW
+  FBID: Magma1201
+  Total_Mileage: '43.65'
+  Badges: '3'
+  Run: '32.00'
+  Cycle: '46.60'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '73'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -718,7 +728,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '73'
+- Rank: '74'
   Name: Iggy
   Group: ADSS/ADWS/ADWO
   FBID: Iggy7900
@@ -728,7 +738,7 @@
   Cycle: '151.02'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '74'
+- Rank: '75'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -738,7 +748,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.42'
-- Rank: '75'
+- Rank: '76'
   Name: Eric Kwok
   Group: ABM
   FBID: Villain1111
@@ -748,7 +758,7 @@
   Cycle: '125.14'
   Swim: '0.70'
   Walk: '0.00'
-- Rank: '76'
+- Rank: '77'
   Name: Zacchaeus
   Group: ADSS/ADWS/ADWO
   FBID: ZjSc9588
@@ -758,7 +768,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '77'
+- Rank: '78'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
@@ -768,7 +778,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '78'
+- Rank: '79'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -778,7 +788,7 @@
   Cycle: '0.00'
   Swim: '1.50'
   Walk: '1.63'
-- Rank: '79'
+- Rank: '80'
   Name: Yeow Teck
   Group: AOSX/AOS
   FBID: Youtube6116
@@ -788,7 +798,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '80'
+- Rank: '81'
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
@@ -798,7 +808,7 @@
   Cycle: '3.94'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '81'
+- Rank: '82'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -808,7 +818,7 @@
   Cycle: '149.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '82'
+- Rank: '83'
   Name: Vincent See
   Group: AOSX/AOS
   FBID: Vincentsee8888
@@ -818,7 +828,7 @@
   Cycle: '79.00'
   Swim: '3.50'
   Walk: '0.00'
-- Rank: '83'
+- Rank: '84'
   Name: Warren Chua
   Group: ADSS/ADWS/ADWO
   FBID: Warren9588
@@ -828,7 +838,7 @@
   Cycle: '119.71'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '84'
+- Rank: '85'
   Name: Slong
   Group: ADW
   FBID: Slong1234
@@ -838,7 +848,7 @@
   Cycle: '0.00'
   Swim: '1.72'
   Walk: '0.00'
-- Rank: '85'
+- Rank: '86'
   Name: Xerox
   Group: ABM
   FBID: Xerox1739
@@ -848,7 +858,7 @@
   Cycle: '0.00'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '86'
+- Rank: '87'
   Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
   FBID: LeonYeo2590
@@ -856,16 +866,6 @@
   Badges: '2'
   Run: '40.00'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '87'
-  Name: Gwyn
-  Group: ADW
-  FBID: Magma1201
-  Total_Mileage: '39.90'
-  Badges: '2'
-  Run: '32.00'
-  Cycle: '31.60'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '88'
