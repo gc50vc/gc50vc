@@ -12,10 +12,10 @@
   Name: Ben
   Group: ADW
   FBID: BY8362
-  Total_Mileage: '334.08'
+  Total_Mileage: '346.09'
   Badges: '12'
   Run: '100.11'
-  Cycle: '658.69'
+  Cycle: '706.73'
   Swim: '11.55'
   Walk: '0.00'
 - Rank: '3'
@@ -169,6 +169,16 @@
   Swim: '1.60'
   Walk: '0.00'
 - Rank: '18'
+  Name: Marcus
+  Group: ADSS/ADWS/ADWO
+  FBID: Mtwk1998
+  Total_Mileage: '90.13'
+  Badges: '5'
+  Run: '40.00'
+  Cycle: '32.50'
+  Swim: '7.00'
+  Walk: '7.27'
+- Rank: '19'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -178,7 +188,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '45.36'
-- Rank: '19'
+- Rank: '20'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -188,16 +198,6 @@
   Cycle: '233.00'
   Swim: '1.50'
   Walk: '1.90'
-- Rank: '20'
-  Name: Marcus
-  Group: ADSS/ADWS/ADWO
-  FBID: Mtwk1998
-  Total_Mileage: '85.13'
-  Badges: '5'
-  Run: '35.00'
-  Cycle: '32.50'
-  Swim: '7.00'
-  Walk: '7.27'
 - Rank: '21'
   Name: Cutthroat
   Group: ATC
