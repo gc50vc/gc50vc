@@ -1119,6 +1119,16 @@
   Swim: '0.00'
   Walk: '6.00'
 - Rank: '113'
+  Name: Pixel EQ
+  Group: AOSX/AOS
+  FBID: Pixel0323
+  Total_Mileage: '31.89'
+  Badges: '2'
+  Run: '31.89'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '3.70'
+- Rank: '114'
   Name: Camper
   Group: ADW
   FBID: tanht1968
@@ -1128,7 +1138,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '114'
+- Rank: '115'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -1138,7 +1148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '115'
+- Rank: '116'
   Name: Ganesan
   Group: AFE
   FBID: Guinness2512
@@ -1148,7 +1158,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '116'
+- Rank: '117'
   Name: Fu Hao Wei
   Group: ADW
   FBID: fuhaowei8435
@@ -1158,7 +1168,7 @@
   Cycle: '96.54'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '117'
+- Rank: '118'
   Name: CSM
   Group: ADSS/ADWS/ADWO
   FBID: CSM8189
@@ -1168,7 +1178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '12.30'
-- Rank: '118'
+- Rank: '119'
   Name: Ankle
   Group: ADSS/ADWS/ADWO
   FBID: Redeyesblackdragon1310
@@ -1178,7 +1188,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '119'
+- Rank: '120'
   Name: Btee
   Group: AFE
   FBID: Brian0307
@@ -1188,7 +1198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '120'
+- Rank: '121'
   Name: 'Amarverest '
   Group: ADSS/ADWS/ADWO
   FBID: Amar0165
@@ -1198,7 +1208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '121'
+- Rank: '122'
   Name: Jeremy Tan
   Group: ATC
   FBID: Scavenge1601
@@ -1208,7 +1218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '122'
+- Rank: '123'
   Name: Starbucks
   Group: ABM
   FBID: Starbucks3756
@@ -1218,7 +1228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '123'
+- Rank: '124'
   Name: Hector
   Group: ADW
   FBID: Hector0911
@@ -1228,7 +1238,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '124'
+- Rank: '125'
   Name: Sen Kiat
   Group: ATC
   FBID: HSK7777
@@ -1238,16 +1248,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '125'
-  Name: Pixel EQ
-  Group: AOSX/AOS
-  FBID: Pixel0323
-  Total_Mileage: '28.50'
-  Badges: '2'
-  Run: '28.50'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '3.70'
 - Rank: '126'
   Name: Yew Choong
   Group: ADSS/ADWS/ADWO
