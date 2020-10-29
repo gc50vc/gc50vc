@@ -909,6 +909,16 @@
   Swim: '1.50'
   Walk: '1.63'
 - Rank: '92'
+  Name: Weng
+  Group: ADSS/ADWS/ADWO
+  FBID: Weng8238
+  Total_Mileage: '36.30'
+  Badges: '3'
+  Run: '4.20'
+  Cycle: '128.38'
+  Swim: '0.00'
+  Walk: '12.83'
+- Rank: '93'
   Name: Yun Jie (Rhythm)
   Group: ADW
   FBID: Jabez8686
@@ -918,7 +928,7 @@
   Cycle: '0.00'
   Swim: '4.91'
   Walk: '4.80'
-- Rank: '93'
+- Rank: '94'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -928,7 +938,7 @@
   Cycle: '58.91'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '94'
+- Rank: '95'
   Name: loanshark
   Group: ATC
   FBID: loanshark9356
@@ -938,7 +948,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '95'
+- Rank: '96'
   Name: Wong Wei Ming
   Group: ATC
   FBID: Shadow0206
@@ -948,7 +958,7 @@
   Cycle: '0.00'
   Swim: '2.14'
   Walk: '0.00'
-- Rank: '96'
+- Rank: '97'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -958,7 +968,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.42'
-- Rank: '97'
+- Rank: '98'
   Name: Iggy
   Group: ADSS/ADWS/ADWO
   FBID: Iggy7900
@@ -968,7 +978,7 @@
   Cycle: '119.52'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '98'
+- Rank: '99'
   Name: Jamie Chen
   Group: ADSS/ADWS/ADWO
   FBID: FLASH2911
@@ -978,7 +988,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '99'
+- Rank: '100'
   Name: Jason H.
   Group: ADW
   FBID: Jason1900
@@ -988,7 +998,7 @@
   Cycle: '60.80'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '100'
+- Rank: '101'
   Name: Jing Wee
   Group: ADSS/ADWS/ADWO
   FBID: Pork2070
@@ -998,7 +1008,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '101'
+- Rank: '102'
   Name: Cactus
   Group: ADSS/ADWS/ADWO
   FBID: Daphne1234
@@ -1008,16 +1018,6 @@
   Cycle: '0.00'
   Swim: '5.40'
   Walk: '0.00'
-- Rank: '102'
-  Name: Weng
-  Group: ADSS/ADWS/ADWO
-  FBID: Weng8238
-  Total_Mileage: '32.10'
-  Badges: '3'
-  Run: '0.00'
-  Cycle: '128.38'
-  Swim: '0.00'
-  Walk: '12.83'
 - Rank: '103'
   Name: KevinKKW
   Group: ADSS/ADWS/ADWO
