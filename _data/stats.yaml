@@ -2539,6 +2539,16 @@
   Swim: '0.00'
   Walk: '5.67'
 - Rank: '255'
+  Name: LC
+  Group: AFE
+  FBID: LC0809
+  Total_Mileage: '11.71'
+  Badges: '1'
+  Run: '5.02'
+  Cycle: '26.77'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '256'
   Name: Yi cheng
   Group: ADSS/ADWS/ADWO
   FBID: Blackjack0007
@@ -2548,7 +2558,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '256'
+- Rank: '257'
   Name: Zach Elliott
   Group: ADW
   FBID: disco2541
@@ -2558,7 +2568,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '257'
+- Rank: '258'
   Name: batu
   Group: ABM
   FBID: batu1984
@@ -2568,7 +2578,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '2.50'
-- Rank: '258'
+- Rank: '259'
   Name: derrick
   Group: AOSX/AOS
   FBID: Derrick5150
@@ -2578,7 +2588,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '259'
+- Rank: '260'
   Name: Saw
   Group: ABM
   FBID: Saw1818
@@ -2588,7 +2598,7 @@
   Cycle: '4.70'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '260'
+- Rank: '261'
   Name: Pat160A
   Group: ADSS/ADWS/ADWO
   FBID: Pat1991
@@ -2598,7 +2608,7 @@
   Cycle: '0.00'
   Swim: '1.83'
   Walk: '0.00'
-- Rank: '261'
+- Rank: '262'
   Name: Meng Leong
   Group: AOSX/AOS
   FBID: OML0911
@@ -2608,7 +2618,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '262'
+- Rank: '263'
   Name: GENGAR
   Group: ADW
   FBID: GENGAR9497
@@ -2618,7 +2628,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '263'
+- Rank: '264'
   Name: Pock xuan
   Group: ADSS/ADWS/ADWO
   FBID: Bravoadws0000
@@ -2628,7 +2638,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.00'
-- Rank: '264'
+- Rank: '265'
   Name: JIAYONG
   Group: ADSS/ADWS/ADWO
   FBID: Jaywhy0309
@@ -2638,7 +2648,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '6.00'
-- Rank: '265'
+- Rank: '266'
   Name: Tim Kan
   Group: ADW
   FBID: timkan1991
@@ -2648,7 +2658,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '266'
+- Rank: '267'
   Name: Edgar
   Group: AOSX/AOS
   FBID: Edgar1234
@@ -2658,7 +2668,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '267'
+- Rank: '268'
   Name: Liang
   Group: ADW
   FBID: Foodislyfe091098
@@ -2668,7 +2678,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '268'
+- Rank: '269'
   Name: Spacebar
   Group: ADW
   FBID: Spacebar5647
@@ -2678,7 +2688,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '5.12'
-- Rank: '269'
+- Rank: '270'
   Name: Wes
   Group: ADW
   FBID: Warrior1978
@@ -2686,16 +2696,6 @@
   Badges: '2'
   Run: '10.09'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '270'
-  Name: LC
-  Group: AFE
-  FBID: LC0809
-  Total_Mileage: '10.07'
-  Badges: '1'
-  Run: '5.02'
-  Cycle: '20.18'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '271'
