@@ -469,6 +469,16 @@
   Swim: '1.50'
   Walk: '13.50'
 - Rank: '48'
+  Name: Cookie-ATC
+  Group: ATC
+  FBID: Cookie3rdWSO1975
+  Total_Mileage: '54.80'
+  Badges: '3'
+  Run: '48.35'
+  Cycle: '25.81'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '49'
   Name: 'Tay Wen Hao '
   Group: ADW
   FBID: Wh8295
@@ -478,7 +488,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '49'
+- Rank: '50'
   Name: 3sg Charlie
   Group: ADSS/ADWS/ADWO
   FBID: Charlie2539
@@ -488,7 +498,7 @@
   Cycle: '0.00'
   Swim: '2.45'
   Walk: '0.00'
-- Rank: '50'
+- Rank: '51'
   Name: Rambo
   Group: AOSX/AOS
   FBID: Rambo0113
@@ -498,7 +508,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '51'
+- Rank: '52'
   Name: TT
   Group: ABM
   FBID: jiawei1989
@@ -508,7 +518,7 @@
   Cycle: '10.83'
   Swim: '0.00'
   Walk: '1.89'
-- Rank: '52'
+- Rank: '53'
   Name: francisyap
   Group: AFE
   FBID: francis7373
@@ -518,7 +528,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '53'
+- Rank: '54'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -528,7 +538,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '54'
+- Rank: '55'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -538,7 +548,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.68'
-- Rank: '55'
+- Rank: '56'
   Name: Andrew
   Group: ADW
   FBID: Hammer1990
@@ -548,7 +558,7 @@
   Cycle: '65.00'
   Swim: '3.00'
   Walk: '0.00'
-- Rank: '56'
+- Rank: '57'
   Name: Poon
   Group: ADSS/ADWS/ADWO
   FBID: Poon3636
@@ -558,7 +568,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '57'
+- Rank: '58'
   Name: OLAF
   Group: ADW
   FBID: OLAF2156
@@ -568,7 +578,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '58'
+- Rank: '59'
   Name: Quainapz
   Group: ADSS/ADWS/ADWO
   FBID: Quainapz8585
@@ -578,7 +588,7 @@
   Cycle: '0.00'
   Swim: '2.05'
   Walk: '2.30'
-- Rank: '59'
+- Rank: '60'
   Name: QUENCHER
   Group: ABM
   FBID: quencher2020
@@ -588,7 +598,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '60'
+- Rank: '61'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: Errick1991
@@ -598,7 +608,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '61'
+- Rank: '62'
   Name: Tan Chee Wee
   Group: ATC
   FBID: tancw1974
@@ -608,7 +618,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '62'
+- Rank: '63'
   Name: Benson
   Group: ADW
   FBID: benoi1234
@@ -618,7 +628,7 @@
   Cycle: '10.94'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '63'
+- Rank: '64'
   Name: Silver
   Group: ABM
   FBID: Silver5117
@@ -628,7 +638,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '63'
+- Rank: '64'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -638,7 +648,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '65'
+- Rank: '66'
   Name: TINY
   Group: ATC
   FBID: TINY2303
@@ -648,7 +658,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '66'
+- Rank: '67'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -658,16 +668,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '12.30'
-- Rank: '67'
-  Name: Cookie-ATC
-  Group: ATC
-  FBID: Cookie3rdWSO1975
-  Total_Mileage: '44.28'
-  Badges: '2'
-  Run: '37.83'
-  Cycle: '25.81'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '68'
   Name: Jeremy Ang
   Group: AFE
