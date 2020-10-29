@@ -1049,6 +1049,16 @@
   Swim: '2.14'
   Walk: '0.00'
 - Rank: '106'
+  Name: Weaver
+  Group: ADW
+  FBID: Weaver5275
+  Total_Mileage: '34.97'
+  Badges: '2'
+  Run: '34.97'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '107'
   Name: KevinKKW
   Group: ADSS/ADWS/ADWO
   FBID: Kkkw0165
@@ -1058,7 +1068,7 @@
   Cycle: '57.70'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '107'
+- Rank: '108'
   Name: Jason H.
   Group: ADW
   FBID: Jason1900
@@ -1068,7 +1078,7 @@
   Cycle: '60.80'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '108'
+- Rank: '109'
   Name: Andre
   Group: ADSS/ADWS/ADWO
   FBID: Wagon6190
@@ -1078,7 +1088,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '109'
+- Rank: '110'
   Name: Legend
   Group: ADW
   FBID: Legend2512
@@ -1088,7 +1098,7 @@
   Cycle: '60.80'
   Swim: '0.00'
   Walk: '13.11'
-- Rank: '110'
+- Rank: '111'
   Name: JTZH
   Group: ADSS/ADWS/ADWO
   FBID: Joshua2209
@@ -1098,7 +1108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '111'
+- Rank: '112'
   Name: Cactus
   Group: ADSS/ADWS/ADWO
   FBID: Daphne1234
@@ -1108,7 +1118,7 @@
   Cycle: '0.00'
   Swim: '5.40'
   Walk: '0.00'
-- Rank: '112'
+- Rank: '113'
   Name: Andre
   Group: ADW
   FBID: Andre7429
@@ -1118,7 +1128,7 @@
   Cycle: '99.42'
   Swim: '0.85'
   Walk: '0.00'
-- Rank: '113'
+- Rank: '114'
   Name: Sean Chua
   Group: ADSS/ADWS/ADWO
   FBID: Stop0001
@@ -1128,7 +1138,7 @@
   Cycle: '13.70'
   Swim: '0.00'
   Walk: '1.04'
-- Rank: '114'
+- Rank: '115'
   Name: Rock
   Group: ADW
   FBID: Rock0165
@@ -1138,7 +1148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '6.00'
-- Rank: '115'
+- Rank: '116'
   Name: Pixel EQ
   Group: AOSX/AOS
   FBID: Pixel0323
@@ -1148,23 +1158,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.70'
-- Rank: '116'
+- Rank: '117'
   Name: Camper
   Group: ADW
   FBID: tanht1968
   Total_Mileage: '30.96'
   Badges: '2'
   Run: '30.96'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '117'
-  Name: Weaver
-  Group: ADW
-  FBID: Weaver5275
-  Total_Mileage: '30.94'
-  Badges: '2'
-  Run: '30.94'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
