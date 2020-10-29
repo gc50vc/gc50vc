@@ -79,6 +79,16 @@
   Swim: '7.60'
   Walk: '0.92'
 - Rank: '9'
+  Name: Ektar
+  Group: ABM
+  FBID: ektar1971
+  Total_Mileage: '129.96'
+  Badges: '9'
+  Run: '65.88'
+  Cycle: '220.30'
+  Swim: '1.50'
+  Walk: '0.00'
+- Rank: '10'
   Name: Nicholas Lian
   Group: ADW
   FBID: Horsepower2001
@@ -87,16 +97,6 @@
   Run: '74.47'
   Cycle: '30.26'
   Swim: '6.90'
-  Walk: '0.00'
-- Rank: '10'
-  Name: Ektar
-  Group: ABM
-  FBID: ektar1971
-  Total_Mileage: '121.26'
-  Badges: '9'
-  Run: '57.18'
-  Cycle: '220.30'
-  Swim: '1.50'
   Walk: '0.00'
 - Rank: '11'
   Name: AdolphusJJ
