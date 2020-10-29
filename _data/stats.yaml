@@ -12,11 +12,11 @@
   Name: Ben
   Group: ADW
   FBID: BY8362
-  Total_Mileage: '346.09'
+  Total_Mileage: '365.29'
   Badges: '12'
   Run: '100.11'
   Cycle: '706.73'
-  Swim: '11.55'
+  Swim: '14.75'
   Walk: '0.00'
 - Rank: '3'
   Name: Lee Wen Yang
@@ -299,6 +299,16 @@
   Swim: '5.65'
   Walk: '4.16'
 - Rank: '31'
+  Name: PIXAR
+  Group: ABM
+  FBID: PIXAR0001
+  Total_Mileage: '71.81'
+  Badges: '3'
+  Run: '69.31'
+  Cycle: '10.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '32'
   Name: Rubiks
   Group: ABM
   FBID: Rubiks1234
@@ -308,7 +318,7 @@
   Cycle: '41.78'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '33'
   Name: jheng
   Group: ADSS/ADWS/ADWO
   FBID: jheng0000
@@ -318,7 +328,7 @@
   Cycle: '41.15'
   Swim: '5.50'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '34'
   Name: OLAF
   Group: ADW
   FBID: OLAF2156
@@ -328,7 +338,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '34'
+- Rank: '35'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -338,7 +348,7 @@
   Cycle: '238.71'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: Vapor
   Group: ADW
   FBID: Vapor6148
@@ -348,7 +358,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '36'
+- Rank: '37'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -358,7 +368,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '37'
+- Rank: '38'
   Name: aH-MuNs-Ge
   Group: AFE
   FBID: ahmuns9861
@@ -368,7 +378,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '63.51'
-- Rank: '38'
+- Rank: '39'
   Name: Keith low
   Group: ADSS/ADWS/ADWO
   FBID: Keithlow1998
@@ -378,7 +388,7 @@
   Cycle: '215.92'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '39'
+- Rank: '40'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -388,7 +398,7 @@
   Cycle: '247.69'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '40'
+- Rank: '41'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -398,16 +408,6 @@
   Cycle: '88.00'
   Swim: '3.08'
   Walk: '0.32'
-- Rank: '41'
-  Name: PIXAR
-  Group: ABM
-  FBID: PIXAR0001
-  Total_Mileage: '61.63'
-  Badges: '3'
-  Run: '59.13'
-  Cycle: '10.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '42'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
@@ -439,6 +439,16 @@
   Swim: '0.00'
   Walk: '10.51'
 - Rank: '45'
+  Name: Cookie-ATC
+  Group: ATC
+  FBID: Cookie3rdWSO1975
+  Total_Mileage: '56.77'
+  Badges: '3'
+  Run: '48.35'
+  Cycle: '33.69'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '46'
   Name: JonChen
   Group: ADW
   FBID: JonChen0000
@@ -448,7 +458,7 @@
   Cycle: '200.37'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '46'
+- Rank: '47'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -458,7 +468,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.28'
-- Rank: '47'
+- Rank: '48'
   Name: Benson
   Group: ADW
   FBID: benoi1234
@@ -468,7 +478,7 @@
   Cycle: '10.94'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '48'
+- Rank: '49'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -478,7 +488,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '12.30'
-- Rank: '49'
+- Rank: '50'
   Name: BENteo
   Group: AFE
   FBID: BEN7452
@@ -488,7 +498,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '50'
+- Rank: '51'
   Name: Barter
   Group: ATC
   FBID: Reload0203
@@ -498,16 +508,6 @@
   Cycle: '164.00'
   Swim: '1.50'
   Walk: '13.50'
-- Rank: '51'
-  Name: Cookie-ATC
-  Group: ATC
-  FBID: Cookie3rdWSO1975
-  Total_Mileage: '54.80'
-  Badges: '3'
-  Run: '48.35'
-  Cycle: '25.81'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '52'
   Name: 'Tay Wen Hao '
   Group: ADW
