@@ -169,6 +169,16 @@
   Swim: '1.60'
   Walk: '0.00'
 - Rank: '18'
+  Name: Cutthroat
+  Group: ATC
+  FBID: Cutthroat0403
+  Total_Mileage: '98.90'
+  Badges: '3'
+  Run: '98.90'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '19'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
@@ -178,7 +188,7 @@
   Cycle: '32.50'
   Swim: '7.00'
   Walk: '7.27'
-- Rank: '19'
+- Rank: '20'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -188,7 +198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '45.36'
-- Rank: '20'
+- Rank: '21'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -198,7 +208,7 @@
   Cycle: '233.00'
   Swim: '1.50'
   Walk: '1.90'
-- Rank: '21'
+- Rank: '22'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -207,16 +217,6 @@
   Run: '16.76'
   Cycle: '171.75'
   Swim: '4.10'
-  Walk: '0.00'
-- Rank: '22'
-  Name: Cutthroat
-  Group: ATC
-  FBID: Cutthroat0403
-  Total_Mileage: '82.20'
-  Badges: '3'
-  Run: '82.20'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '23'
   Name: Tony Foo
@@ -1059,6 +1059,16 @@
   Swim: '5.40'
   Walk: '0.00'
 - Rank: '107'
+  Name: Rats
+  Group: ABM
+  FBID: Rats1500
+  Total_Mileage: '32.35'
+  Badges: '2'
+  Run: '32.35'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '108'
   Name: KevinKKW
   Group: ADSS/ADWS/ADWO
   FBID: Kkkw0165
@@ -1068,7 +1078,7 @@
   Cycle: '57.70'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '108'
+- Rank: '109'
   Name: Sean Chua
   Group: ADSS/ADWS/ADWO
   FBID: Stop0001
@@ -1078,7 +1088,7 @@
   Cycle: '13.70'
   Swim: '0.00'
   Walk: '1.04'
-- Rank: '109'
+- Rank: '110'
   Name: Rock
   Group: ADW
   FBID: Rock0165
@@ -1088,7 +1098,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '6.00'
-- Rank: '110'
+- Rank: '111'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
@@ -1098,7 +1108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '111'
+- Rank: '112'
   Name: Camper
   Group: ADW
   FBID: tanht1968
@@ -1108,7 +1118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '112'
+- Rank: '113'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -1118,7 +1128,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '113'
+- Rank: '114'
   Name: Ganesan
   Group: AFE
   FBID: Guinness2512
@@ -1128,7 +1138,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '114'
+- Rank: '115'
   Name: Fu Hao Wei
   Group: ADW
   FBID: fuhaowei8435
@@ -1138,7 +1148,7 @@
   Cycle: '96.54'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '115'
+- Rank: '116'
   Name: CSM
   Group: ADSS/ADWS/ADWO
   FBID: CSM8189
@@ -1148,7 +1158,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '12.30'
-- Rank: '116'
+- Rank: '117'
   Name: Ankle
   Group: ADSS/ADWS/ADWO
   FBID: Redeyesblackdragon1310
@@ -1158,7 +1168,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '117'
+- Rank: '118'
   Name: Btee
   Group: AFE
   FBID: Brian0307
@@ -1168,7 +1178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '118'
+- Rank: '119'
   Name: 'Amarverest '
   Group: ADSS/ADWS/ADWO
   FBID: Amar0165
@@ -1178,7 +1188,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '119'
+- Rank: '120'
   Name: Jeremy Tan
   Group: ATC
   FBID: Scavenge1601
@@ -1188,7 +1198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '120'
+- Rank: '121'
   Name: Starbucks
   Group: ABM
   FBID: Starbucks3756
@@ -1198,7 +1208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '121'
+- Rank: '122'
   Name: Hector
   Group: ADW
   FBID: Hector0911
@@ -1208,7 +1218,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '122'
+- Rank: '123'
   Name: Sen Kiat
   Group: ATC
   FBID: HSK7777
@@ -1218,7 +1228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '123'
+- Rank: '124'
   Name: Pixel EQ
   Group: AOSX/AOS
   FBID: Pixel0323
@@ -1228,7 +1238,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.70'
-- Rank: '124'
+- Rank: '125'
   Name: Yew Choong
   Group: ADSS/ADWS/ADWO
   FBID: GGXC0160
@@ -1238,7 +1248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '19.25'
-- Rank: '125'
+- Rank: '126'
   Name: Lia
   Group: ADSS/ADWS/ADWO
   FBID: Lia1116
@@ -1246,16 +1256,6 @@
   Badges: '2'
   Run: '24.61'
   Cycle: '12.99'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '126'
-  Name: Rats
-  Group: ABM
-  FBID: Rats1500
-  Total_Mileage: '27.33'
-  Badges: '2'
-  Run: '27.33'
-  Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '127'
