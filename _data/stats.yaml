@@ -209,6 +209,16 @@
   Swim: '9.70'
   Walk: '1.32'
 - Rank: '22'
+  Name: Slimer
+  Group: ABM
+  FBID: Slimer1234
+  Total_Mileage: '89.35'
+  Badges: '6'
+  Run: '27.22'
+  Cycle: '64.90'
+  Swim: '7.65'
+  Walk: '4.16'
+- Rank: '23'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -218,7 +228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '45.36'
-- Rank: '23'
+- Rank: '24'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -228,16 +238,6 @@
   Cycle: '175.89'
   Swim: '4.10'
   Walk: '0.00'
-- Rank: '24'
-  Name: Slimer
-  Group: ABM
-  FBID: Slimer1234
-  Total_Mileage: '84.11'
-  Badges: '6'
-  Run: '27.22'
-  Cycle: '43.97'
-  Swim: '7.65'
-  Walk: '4.16'
 - Rank: '25'
   Name: Bronson
   Group: ADW
@@ -1139,6 +1139,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '115'
+  Name: JTZH
+  Group: ADSS/ADWS/ADWO
+  FBID: Joshua2209
+  Total_Mileage: '33.32'
+  Badges: '2'
+  Run: '33.32'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '116'
   Name: Legend
   Group: ADW
   FBID: Legend2512
@@ -1148,16 +1158,6 @@
   Cycle: '60.80'
   Swim: '0.00'
   Walk: '13.11'
-- Rank: '116'
-  Name: JTZH
-  Group: ADSS/ADWS/ADWO
-  FBID: Joshua2209
-  Total_Mileage: '32.63'
-  Badges: '2'
-  Run: '32.63'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '117'
   Name: Cactus
   Group: ADSS/ADWS/ADWO
