@@ -169,6 +169,16 @@
   Swim: '0.00'
   Walk: '16.48'
 - Rank: '18'
+  Name: Prem
+  Group: ADW
+  FBID: Premium6687
+  Total_Mileage: '100.05'
+  Badges: '5'
+  Run: '34.05'
+  Cycle: '0.00'
+  Swim: '11.00'
+  Walk: '1.32'
+- Rank: '19'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -178,7 +188,7 @@
   Cycle: '233.00'
   Swim: '2.50'
   Walk: '1.90'
-- Rank: '19'
+- Rank: '20'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -188,7 +198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '21'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
@@ -198,16 +208,6 @@
   Cycle: '32.50'
   Swim: '8.00'
   Walk: '7.27'
-- Rank: '21'
-  Name: Prem
-  Group: ADW
-  FBID: Premium6687
-  Total_Mileage: '92.25'
-  Badges: '5'
-  Run: '34.05'
-  Cycle: '0.00'
-  Swim: '9.70'
-  Walk: '1.32'
 - Rank: '22'
   Name: Slimer
   Group: ABM
