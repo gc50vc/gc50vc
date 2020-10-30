@@ -89,6 +89,16 @@
   Swim: '1.50'
   Walk: '0.00'
 - Rank: '10'
+  Name: Prem
+  Group: ADW
+  FBID: Premium6687
+  Total_Mileage: '50.32'
+  Badges: '2'
+  Run: '2.32'
+  Cycle: '0.00'
+  Swim: '8.00'
+  Walk: '0.00'
+- Rank: '11'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: Wang0165
@@ -97,16 +107,6 @@
   Run: '43.89'
   Cycle: '0.00'
   Swim: '0.88'
-  Walk: '0.00'
-- Rank: '11'
-  Name: Prem
-  Group: ADW
-  FBID: Premium6687
-  Total_Mileage: '48.00'
-  Badges: '2'
-  Run: '0.00'
-  Cycle: '0.00'
-  Swim: '8.00'
   Walk: '0.00'
 - Rank: '12'
   Name: yapoh
