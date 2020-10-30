@@ -1159,6 +1159,16 @@
   Swim: '0.00'
   Walk: '13.11'
 - Rank: '117'
+  Name: Pixel EQ
+  Group: AOSX/AOS
+  FBID: Pixel0323
+  Total_Mileage: '32.89'
+  Badges: '2'
+  Run: '32.89'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '3.70'
+- Rank: '118'
   Name: Cactus
   Group: ADSS/ADWS/ADWO
   FBID: Daphne1234
@@ -1168,7 +1178,7 @@
   Cycle: '0.00'
   Swim: '5.40'
   Walk: '0.00'
-- Rank: '118'
+- Rank: '119'
   Name: Andre
   Group: ADW
   FBID: Andre7429
@@ -1178,7 +1188,7 @@
   Cycle: '99.42'
   Swim: '0.85'
   Walk: '0.00'
-- Rank: '119'
+- Rank: '120'
   Name: Rock
   Group: ADW
   FBID: Rock0165
@@ -1188,16 +1198,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '6.00'
-- Rank: '120'
-  Name: Pixel EQ
-  Group: AOSX/AOS
-  FBID: Pixel0323
-  Total_Mileage: '31.89'
-  Badges: '2'
-  Run: '31.89'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '3.70'
 - Rank: '121'
   Name: 'Amarverest '
   Group: ADSS/ADWS/ADWO
