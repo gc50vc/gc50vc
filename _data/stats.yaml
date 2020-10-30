@@ -89,6 +89,16 @@
   Swim: '1.50'
   Walk: '0.00'
 - Rank: '10'
+  Name: yapoh
+  Group: ADW
+  FBID: yapoh0304
+  Total_Mileage: '125.40'
+  Badges: '9'
+  Run: '50.00'
+  Cycle: '220.00'
+  Swim: '3.40'
+  Walk: '0.00'
+- Rank: '11'
   Name: Nicholas Lian
   Group: ADW
   FBID: Horsepower2001
@@ -98,7 +108,7 @@
   Cycle: '30.26'
   Swim: '6.90'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -108,7 +118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: AdolphusJJ
   Group: AOSX/AOS
   FBID: Bamboo1234
@@ -118,7 +128,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -127,16 +137,6 @@
   Run: '34.50'
   Cycle: '289.00'
   Swim: '1.50'
-  Walk: '0.00'
-- Rank: '14'
-  Name: yapoh
-  Group: ADW
-  FBID: yapoh0304
-  Total_Mileage: '114.60'
-  Badges: '9'
-  Run: '50.00'
-  Cycle: '220.00'
-  Swim: '1.60'
   Walk: '0.00'
 - Rank: '15'
   Name: Euj
