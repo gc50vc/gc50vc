@@ -389,6 +389,16 @@
   Swim: '5.50'
   Walk: '0.00'
 - Rank: '40'
+  Name: HC
+  Group: ADSS/ADWS/ADWO
+  FBID: hc1234
+  Total_Mileage: '67.98'
+  Badges: '4'
+  Run: '0.00'
+  Cycle: '271.92'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '41'
   Name: Poon
   Group: ADSS/ADWS/ADWO
   FBID: Poon3636
@@ -398,7 +408,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '41'
+- Rank: '42'
   Name: Btee
   Group: AFE
   FBID: Brian0307
@@ -408,7 +418,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '42'
+- Rank: '43'
   Name: OLAF
   Group: ADW
   FBID: OLAF2156
@@ -418,7 +428,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '43'
+- Rank: '44'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -428,7 +438,7 @@
   Cycle: '88.00'
   Swim: '3.08'
   Walk: '0.79'
-- Rank: '44'
+- Rank: '45'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -438,7 +448,7 @@
   Cycle: '183.99'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '45'
+- Rank: '46'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -448,7 +458,7 @@
   Cycle: '238.71'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '46'
+- Rank: '47'
   Name: Vapor
   Group: ADW
   FBID: Vapor6148
@@ -458,7 +468,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '47'
+- Rank: '48'
   Name: Xiaolow3344
   Group: ADSS/ADWS/ADWO
   FBID: Xiaolow3344
@@ -468,7 +478,7 @@
   Cycle: '0.00'
   Swim: '10.60'
   Walk: '32.73'
-- Rank: '48'
+- Rank: '49'
   Name: Barter
   Group: ATC
   FBID: Reload0203
@@ -478,16 +488,6 @@
   Cycle: '194.50'
   Swim: '1.50'
   Walk: '13.50'
-- Rank: '49'
-  Name: HC
-  Group: ADSS/ADWS/ADWO
-  FBID: hc1234
-  Total_Mileage: '61.92'
-  Badges: '4'
-  Run: '0.00'
-  Cycle: '247.69'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '50'
   Name: 'Tan Swee Kiat '
   Group: ADW
