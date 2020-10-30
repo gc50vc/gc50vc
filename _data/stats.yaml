@@ -199,6 +199,16 @@
   Swim: '0.00'
   Walk: '16.48'
 - Rank: '21'
+  Name: Dan
+  Group: ADSS/ADWS/ADWO
+  FBID: Dan1234
+  Total_Mileage: '100.15'
+  Badges: '4'
+  Run: '100.15'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '64.00'
+- Rank: '22'
   Name: Prem
   Group: ADW
   FBID: Premium6687
@@ -208,7 +218,7 @@
   Cycle: '0.00'
   Swim: '11.00'
   Walk: '1.32'
-- Rank: '22'
+- Rank: '23'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -218,7 +228,7 @@
   Cycle: '233.00'
   Swim: '2.50'
   Walk: '1.90'
-- Rank: '23'
+- Rank: '24'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -228,7 +238,7 @@
   Cycle: '0.00'
   Swim: '11.79'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -238,16 +248,6 @@
   Cycle: '64.90'
   Swim: '7.65'
   Walk: '4.16'
-- Rank: '25'
-  Name: Dan
-  Group: ADSS/ADWS/ADWO
-  FBID: Dan1234
-  Total_Mileage: '89.12'
-  Badges: '3'
-  Run: '89.12'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '64.00'
 - Rank: '26'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
