@@ -142,9 +142,9 @@
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: WANG0165
-  Total_Mileage: '103.79'
-  Badges: '3'
-  Run: '98.51'
+  Total_Mileage: '109.05'
+  Badges: '4'
+  Run: '103.77'
   Cycle: '0.00'
   Swim: '0.88'
   Walk: '1.00'
@@ -969,6 +969,16 @@
   Swim: '4.80'
   Walk: '0.00'
 - Rank: '98'
+  Name: Sean Chua
+  Group: ADSS/ADWS/ADWO
+  FBID: Stop0001
+  Total_Mileage: '38.05'
+  Badges: '2'
+  Run: '34.62'
+  Cycle: '13.70'
+  Swim: '0.00'
+  Walk: '1.04'
+- Rank: '99'
   Name: Jing Wee
   Group: ADSS/ADWS/ADWO
   FBID: Pork2070
@@ -978,7 +988,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '99'
+- Rank: '100'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -988,7 +998,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '100'
+- Rank: '101'
   Name: Lava
   Group: ATC
   FBID: Lava1717
@@ -998,7 +1008,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '101'
+- Rank: '102'
   Name: Geeky
   Group: ADW
   FBID: Geeky1989
@@ -1008,7 +1018,7 @@
   Cycle: '0.00'
   Swim: '1.50'
   Walk: '22.57'
-- Rank: '102'
+- Rank: '103'
   Name: Yun Jie (Rhythm)
   Group: ADW
   FBID: Jabez8686
@@ -1018,7 +1028,7 @@
   Cycle: '0.00'
   Swim: '4.91'
   Walk: '4.80'
-- Rank: '103'
+- Rank: '104'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -1028,7 +1038,7 @@
   Cycle: '58.91'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '104'
+- Rank: '105'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
   FBID: Ahbye1234
@@ -1038,7 +1048,7 @@
   Cycle: '53.83'
   Swim: '0.00'
   Walk: '6.00'
-- Rank: '105'
+- Rank: '106'
   Name: loanshark
   Group: ATC
   FBID: loanshark9356
@@ -1048,7 +1058,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '106'
+- Rank: '107'
   Name: Wong Wei Ming
   Group: ATC
   FBID: Shadow0206
@@ -1058,7 +1068,7 @@
   Cycle: '0.00'
   Swim: '2.14'
   Walk: '0.00'
-- Rank: '107'
+- Rank: '108'
   Name: Lia
   Group: ADSS/ADWS/ADWO
   FBID: Lia1116
@@ -1068,7 +1078,7 @@
   Cycle: '12.99'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '108'
+- Rank: '109'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -1078,7 +1088,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '109'
+- Rank: '110'
   Name: KevinKKW
   Group: ADSS/ADWS/ADWO
   FBID: Kkkw0165
@@ -1088,7 +1098,7 @@
   Cycle: '57.70'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '110'
+- Rank: '111'
   Name: Jason H.
   Group: ADW
   FBID: Jason1900
@@ -1098,7 +1108,7 @@
   Cycle: '60.80'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '111'
+- Rank: '112'
   Name: Andre
   Group: ADSS/ADWS/ADWO
   FBID: Wagon6190
@@ -1108,7 +1118,17 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '112'
+- Rank: '113'
+  Name: 'Amarverest '
+  Group: ADSS/ADWS/ADWO
+  FBID: Amar0165
+  Total_Mileage: '33.59'
+  Badges: '2'
+  Run: '33.59'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '114'
   Name: Legend
   Group: ADW
   FBID: Legend2512
@@ -1118,7 +1138,7 @@
   Cycle: '60.80'
   Swim: '0.00'
   Walk: '13.11'
-- Rank: '113'
+- Rank: '115'
   Name: JTZH
   Group: ADSS/ADWS/ADWO
   FBID: Joshua2209
@@ -1128,7 +1148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '114'
+- Rank: '116'
   Name: Cactus
   Group: ADSS/ADWS/ADWO
   FBID: Daphne1234
@@ -1138,7 +1158,7 @@
   Cycle: '0.00'
   Swim: '5.40'
   Walk: '0.00'
-- Rank: '115'
+- Rank: '117'
   Name: Andre
   Group: ADW
   FBID: Andre7429
@@ -1148,17 +1168,7 @@
   Cycle: '99.42'
   Swim: '0.85'
   Walk: '0.00'
-- Rank: '116'
-  Name: Sean Chua
-  Group: ADSS/ADWS/ADWO
-  FBID: Stop0001
-  Total_Mileage: '32.05'
-  Badges: '2'
-  Run: '28.62'
-  Cycle: '13.70'
-  Swim: '0.00'
-  Walk: '1.04'
-- Rank: '117'
+- Rank: '118'
   Name: Rock
   Group: ADW
   FBID: Rock0165
@@ -1168,7 +1178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '6.00'
-- Rank: '118'
+- Rank: '119'
   Name: Pixel EQ
   Group: AOSX/AOS
   FBID: Pixel0323
@@ -1178,7 +1188,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.70'
-- Rank: '119'
+- Rank: '120'
   Name: Yew Choong
   Group: ADSS/ADWS/ADWO
   FBID: GGXC0160
@@ -1188,7 +1198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '19.25'
-- Rank: '120'
+- Rank: '121'
   Name: Camper
   Group: ADW
   FBID: tanht1968
@@ -1198,7 +1208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '121'
+- Rank: '122'
   Name: Ganesan
   Group: AFE
   FBID: Guinness2512
@@ -1208,7 +1218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '122'
+- Rank: '123'
   Name: Fu Hao Wei
   Group: ADW
   FBID: fuhaowei8435
@@ -1218,7 +1228,7 @@
   Cycle: '96.54'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '123'
+- Rank: '124'
   Name: CSM
   Group: ADSS/ADWS/ADWO
   FBID: CSM8189
@@ -1228,7 +1238,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '12.30'
-- Rank: '124'
+- Rank: '125'
   Name: Ankle
   Group: ADSS/ADWS/ADWO
   FBID: Redeyesblackdragon1310
@@ -1237,16 +1247,6 @@
   Run: '18.17'
   Cycle: '0.00'
   Swim: '2.00'
-  Walk: '0.00'
-- Rank: '125'
-  Name: 'Amarverest '
-  Group: ADSS/ADWS/ADWO
-  FBID: Amar0165
-  Total_Mileage: '29.55'
-  Badges: '2'
-  Run: '29.55'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '126'
   Name: Jeremy Tan
@@ -1419,6 +1419,16 @@
   Swim: '0.00'
   Walk: '2.47'
 - Rank: '143'
+  Name: Bryan Tan GJ
+  Group: ADW
+  FBID: Bryan2727
+  Total_Mileage: '23.45'
+  Badges: '2'
+  Run: '23.45'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '18.68'
+- Rank: '144'
   Name: YK
   Group: ADSS/ADWS/ADWO
   FBID: yk2574
@@ -1428,7 +1438,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '144'
+- Rank: '145'
   Name: Jun Jia
   Group: ADSS/ADWS/ADWO
   FBID: JJTAN1507
@@ -1438,7 +1448,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '145'
+- Rank: '146'
   Name: You Rong
   Group: ADW
   FBID: Audi1987
@@ -1448,7 +1458,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '146'
+- Rank: '147'
   Name: USwiftO
   Group: ADW
   FBID: Swift1010
@@ -1458,7 +1468,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '147'
+- Rank: '148'
   Name: Hayden
   Group: ADSS/ADWS/ADWO
   FBID: Hayden0165
@@ -1468,7 +1478,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '148'
+- Rank: '149'
   Name: JOLLY
   Group: ADW
   FBID: Jolly8178
@@ -1478,7 +1488,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '149'
+- Rank: '150'
   Name: Halu
   Group: AFE
   FBID: Halu1805
@@ -1488,7 +1498,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '150'
+- Rank: '151'
   Name: 'Sengie '
   Group: ADW
   FBID: ARIAL0160
@@ -1498,7 +1508,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '4.50'
-- Rank: '151'
+- Rank: '152'
   Name: Leonard
   Group: ADW
   FBID: Leonard0402
@@ -1508,7 +1518,7 @@
   Cycle: '64.80'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '152'
+- Rank: '153'
   Name: Yan Ting
   Group: ADSS/ADWS/ADWO
   FBID: Yeti1993
@@ -1518,7 +1528,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '153'
+- Rank: '154'
   Name: 'Crystal '
   Group: ABM
   FBID: Crystal1101
@@ -1528,7 +1538,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '154'
+- Rank: '155'
   Name: Clover
   Group: ABM
   FBID: Clover1234
@@ -1538,7 +1548,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '155'
+- Rank: '156'
   Name: Pterlek
   Group: ATC
   FBID: Conman7347
@@ -1548,7 +1558,7 @@
   Cycle: '0.00'
   Swim: '3.63'
   Walk: '0.00'
-- Rank: '156'
+- Rank: '157'
   Name: Guang
   Group: ADSS/ADWS/ADWO
   FBID: Guang1309
@@ -1558,7 +1568,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '157'
+- Rank: '158'
   Name: Spear
   Group: ATC
   FBID: Spear0213
@@ -1568,7 +1578,7 @@
   Cycle: '0.00'
   Swim: '2.50'
   Walk: '0.00'
-- Rank: '158'
+- Rank: '159'
   Name: Junan
   Group: ADW
   FBID: Junan1111
@@ -1578,7 +1588,7 @@
   Cycle: '17.19'
   Swim: '0.00'
   Walk: '19.16'
-- Rank: '159'
+- Rank: '160'
   Name: Oyster
   Group: ABM
   FBID: Oyster1990
@@ -1588,7 +1598,7 @@
   Cycle: '4.88'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '160'
+- Rank: '161'
   Name: junhui
   Group: ADW
   FBID: junhui2301
@@ -1598,7 +1608,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '70.67'
-- Rank: '161'
+- Rank: '162'
   Name: Ham
   Group: ADSS/ADWS/ADWO
   FBID: Ham1234
@@ -1608,7 +1618,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '162'
+- Rank: '163'
   Name: Kent Zeng
   Group: ADSS/ADWS/ADWO
   FBID: Stonks69420
@@ -1618,16 +1628,6 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '162'
-  Name: Bryan Tan GJ
-  Group: ADW
-  FBID: Bryan2727
-  Total_Mileage: '21.00'
-  Badges: '2'
-  Run: '21.00'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '18.68'
 - Rank: '164'
   Name: Zinc
   Group: ADW
@@ -1699,6 +1699,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '171'
+  Name: Dubs
+  Group: ADW
+  FBID: Dubs0002
+  Total_Mileage: '19.62'
+  Badges: '2'
+  Run: '19.62'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '172'
   Name: Nigel Tan
   Group: ADW
   FBID: lavahound0404
@@ -1708,7 +1718,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '172'
+- Rank: '173'
   Name: Wan Yuan
   Group: ADW
   FBID: Lost1908
@@ -1718,7 +1728,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '173'
+- Rank: '174'
   Name: Ram
   Group: ADW
   FBID: ram7267
@@ -1728,7 +1738,7 @@
   Cycle: '0.00'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '174'
+- Rank: '175'
   Name: Chin Yong
   Group: ADSS/ADWS/ADWO
   FBID: Relaxing1234
@@ -1738,7 +1748,7 @@
   Cycle: '55.45'
   Swim: '0.00'
   Walk: '26.77'
-- Rank: '175'
+- Rank: '176'
   Name: Justice
   Group: ATC
   FBID: Justice0827
@@ -1748,7 +1758,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '176'
+- Rank: '177'
   Name: rylchan
   Group: ATC
   FBID: pebble1234
@@ -1758,7 +1768,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '4.20'
-- Rank: '177'
+- Rank: '178'
   Name: Jiajun
   Group: ADSS/ADWS/ADWO
   FBID: Jj2304
@@ -1768,7 +1778,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '11.06'
-- Rank: '178'
+- Rank: '179'
   Name: Rajaan
   Group: ADSS/ADWS/ADWO
   FBID: Rajaanleon0021
@@ -1778,7 +1788,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '179'
+- Rank: '180'
   Name: Yi Kuang
   Group: ADW
   FBID: rocket1999
@@ -1788,7 +1798,7 @@
   Cycle: '48.82'
   Swim: '0.00'
   Walk: '1.03'
-- Rank: '180'
+- Rank: '181'
   Name: WJ
   Group: ADSS/ADWS/ADWO
   FBID: jie0304
@@ -1798,7 +1808,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '181'
+- Rank: '182'
   Name: Pravin
   Group: ADSS/ADWS/ADWO
   FBID: Pravin8938
@@ -1808,7 +1818,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '181'
+- Rank: '182'
   Name: Lin Weili
   Group: AOSX/AOS
   FBID: Michelin5052
@@ -1818,7 +1828,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '181'
+- Rank: '182'
   Name: Ian Zayne Andre
   Group: ADSS/ADWS/ADWO
   FBID: Black_Santa0311
@@ -1828,7 +1838,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '184'
+- Rank: '185'
   Name: Diva
   Group: ADW
   FBID: Delia1234
@@ -1838,7 +1848,7 @@
   Cycle: '16.02'
   Swim: '0.00'
   Walk: '18.95'
-- Rank: '185'
+- Rank: '186'
   Name: Fungus
   Group: ABM
   FBID: Fungus7777
@@ -1848,7 +1858,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '186'
+- Rank: '187'
   Name: Soh Thiam Hing
   Group: ADSS/ADWS/ADWO
   FBID: daffodilistic1337
@@ -1858,7 +1868,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '187'
+- Rank: '188'
   Name: EG
   Group: ADSS/ADWS/ADWO
   FBID: EG3211
@@ -1868,7 +1878,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '188'
+- Rank: '189'
   Name: Simon Tan
   Group: ADW
   FBID: Simon1996
@@ -1878,7 +1888,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '189'
+- Rank: '190'
   Name: Ryan Tan
   Group: ADSS/ADWS/ADWO
   FBID: Menthol0701
@@ -1888,7 +1898,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '190'
+- Rank: '191'
   Name: Lim Kian Hock
   Group: AFE
   FBID: Jon3445
@@ -1898,7 +1908,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '191'
+- Rank: '192'
   Name: Tingle
   Group: ADW
   FBID: sxting1987
@@ -1908,7 +1918,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '192'
+- Rank: '193'
   Name: Kelvis
   Group: ADSS/ADWS/ADWO
   FBID: Kelvis2000
@@ -1918,7 +1928,7 @@
   Cycle: '40.73'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '193'
+- Rank: '194'
   Name: Guojie
   Group: ADSS/ADWS/ADWO
   FBID: Thug2107
@@ -1928,7 +1938,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '194'
+- Rank: '195'
   Name: Becks
   Group: ADW
   FBID: Gangster7777
@@ -1938,7 +1948,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '15.30'
-- Rank: '195'
+- Rank: '196'
   Name: Gabriel Tay Kai Xian
   Group: ADW
   FBID: Blueeyeswhitedragon2901
@@ -1948,7 +1958,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '196'
+- Rank: '197'
   Name: Kush
   Group: AFE
   FBID: KM1695
@@ -1958,7 +1968,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '57.26'
-- Rank: '197'
+- Rank: '198'
   Name: Centaur
   Group: ADW
   FBID: Centaur1994
@@ -1968,7 +1978,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '198'
+- Rank: '199'
   Name: Nana
   Group: AFE
   FBID: Chris1166
@@ -1978,7 +1988,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '20.00'
-- Rank: '199'
+- Rank: '200'
   Name: Sunray
   Group: ABM
   FBID: Sunray0909
@@ -1988,7 +1998,7 @@
   Cycle: '54.13'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '200'
+- Rank: '201'
   Name: AL
   Group: AOSX/AOS
   FBID: Alnino9999
@@ -1998,7 +2008,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '201'
+- Rank: '202'
   Name: Yew Ming
   Group: ADW
   FBID: Weefie8869
@@ -2008,7 +2018,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '202'
+- Rank: '203'
   Name: JIN
   Group: ADSS/ADWS/ADWO
   FBID: JIN1999
@@ -2018,7 +2028,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '203'
+- Rank: '204'
   Name: Cupid
   Group: AOSX/AOS
   FBID: Cupid2711
@@ -2028,7 +2038,7 @@
   Cycle: '52.50'
   Swim: '0.00'
   Walk: '2.40'
-- Rank: '204'
+- Rank: '205'
   Name: Tim Kan
   Group: ADW
   FBID: timkan1991
@@ -2038,7 +2048,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '205'
+- Rank: '206'
   Name: Lim Chee Hao
   Group: AFE
   FBID: Master1077
@@ -2048,7 +2058,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '206'
+- Rank: '207'
   Name: Logan
   Group: ABM
   FBID: Logan0001
@@ -2058,7 +2068,7 @@
   Cycle: '21.13'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '207'
+- Rank: '208'
   Name: Chan Wei Siang
   Group: AFE
   FBID: ws1234
@@ -2068,7 +2078,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '208'
+- Rank: '209'
   Name: Malice
   Group: ABM
   FBID: Malice2323
@@ -2078,7 +2088,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '209'
+- Rank: '210'
   Name: Songbird
   Group: ABM
   FBID: Songbird1904
@@ -2088,7 +2098,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '210'
+- Rank: '211'
   Name: Duster
   Group: ABM
   FBID: Yeogpg5892
@@ -2098,7 +2108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '211'
+- Rank: '212'
   Name: Jon Thia
   Group: ADW
   FBID: Penguin3812
@@ -2108,7 +2118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '4.00'
-- Rank: '212'
+- Rank: '213'
   Name: SONG RUI
   Group: ADSS/ADWS/ADWO
   FBID: SR7730
@@ -2118,7 +2128,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '213'
+- Rank: '214'
   Name: Waffles
   Group: ATC
   FBID: Waffles3567
@@ -2128,7 +2138,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.57'
-- Rank: '213'
+- Rank: '214'
   Name: Hybrid
   Group: ADW
   FBID: Hybrid1843
@@ -2138,7 +2148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '213'
+- Rank: '214'
   Name: Boon Peng
   Group: ADSS/ADWS/ADWO
   FBID: Bpeng1129
@@ -2148,7 +2158,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '216'
+- Rank: '217'
   Name: Skipper
   Group: ATC
   FBID: Skipper0619
@@ -2158,7 +2168,7 @@
   Cycle: '0.00'
   Swim: '1.10'
   Walk: '0.00'
-- Rank: '217'
+- Rank: '218'
   Name: Andrew Ng
   Group: ADW
   FBID: Maxcap2103
@@ -2168,7 +2178,7 @@
   Cycle: '33.59'
   Swim: '0.00'
   Walk: '0.98'
-- Rank: '218'
+- Rank: '219'
   Name: Alan
   Group: ADSS/ADWS/ADWO
   FBID: Alan2881
@@ -2178,23 +2188,13 @@
   Cycle: '0.00'
   Swim: '0.45'
   Walk: '32.00'
-- Rank: '219'
+- Rank: '220'
   Name: Wu Hao
   Group: AOSX/AOS
   FBID: Lima5208
   Total_Mileage: '14.63'
   Badges: '2'
   Run: '14.63'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '220'
-  Name: Dubs
-  Group: ADW
-  FBID: Dubs0002
-  Total_Mileage: '14.61'
-  Badges: '2'
-  Run: '14.61'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
