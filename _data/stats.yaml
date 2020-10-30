@@ -29,6 +29,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '4'
+  Name: Hasty
+  Group: ADW
+  FBID: Hasty55555
+  Total_Mileage: '263.63'
+  Badges: '8'
+  Run: '208.72'
+  Cycle: '51.63'
+  Swim: '7.00'
+  Walk: '0.00'
+- Rank: '5'
   Name: LZX
   Group: ADSS/ADWS/ADWO
   FBID: leezx1337
@@ -38,16 +48,6 @@
   Cycle: '831.35'
   Swim: '0.00'
   Walk: '2.18'
-- Rank: '5'
-  Name: Hasty
-  Group: ADW
-  FBID: Hasty55555
-  Total_Mileage: '213.61'
-  Badges: '8'
-  Run: '158.70'
-  Cycle: '51.63'
-  Swim: '7.00'
-  Walk: '0.00'
 - Rank: '6'
   Name: Sloh
   Group: ADW
