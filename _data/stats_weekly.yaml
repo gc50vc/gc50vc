@@ -19,6 +19,16 @@
   Swim: '12.50'
   Walk: '0.00'
 - Rank: '3'
+  Name: K Y Leong
+  Group: ADSS/ADWS/ADWO
+  FBID: Kyxy2808
+  Total_Mileage: '94.36'
+  Badges: '2'
+  Run: '94.36'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '4'
   Name: LZX
   Group: ADSS/ADWS/ADWO
   FBID: leezx1337
@@ -28,16 +38,6 @@
   Cycle: '287.72'
   Swim: '0.00'
   Walk: '2.18'
-- Rank: '4'
-  Name: K Y Leong
-  Group: ADSS/ADWS/ADWO
-  FBID: Kyxy2808
-  Total_Mileage: '89.29'
-  Badges: '2'
-  Run: '89.29'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '5'
   Name: Sloh
   Group: ADW
@@ -79,6 +79,16 @@
   Swim: '6.05'
   Walk: '2.66'
 - Rank: '9'
+  Name: Ektar
+  Group: ABM
+  FBID: Ektar1971
+  Total_Mileage: '57.40'
+  Badges: '5'
+  Run: '26.78'
+  Cycle: '86.47'
+  Swim: '1.50'
+  Walk: '0.00'
+- Rank: '10'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: Wang0165
@@ -88,7 +98,7 @@
   Cycle: '0.00'
   Swim: '0.88'
   Walk: '0.00'
-- Rank: '10'
+- Rank: '11'
   Name: Prem
   Group: ADW
   FBID: Premium6687
@@ -97,16 +107,6 @@
   Run: '0.00'
   Cycle: '0.00'
   Swim: '8.00'
-  Walk: '0.00'
-- Rank: '11'
-  Name: Ektar
-  Group: ABM
-  FBID: Ektar1971
-  Total_Mileage: '44.86'
-  Badges: '5'
-  Run: '26.78'
-  Cycle: '36.30'
-  Swim: '1.50'
   Walk: '0.00'
 - Rank: '12'
   Name: yapoh
