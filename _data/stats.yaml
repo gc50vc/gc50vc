@@ -139,6 +139,16 @@
   Swim: '0.88'
   Walk: '1.00'
 - Rank: '15'
+  Name: Euj
+  Group: ATC
+  FBID: Euj1871
+  Total_Mileage: '116.12'
+  Badges: '7'
+  Run: '55.91'
+  Cycle: '60.37'
+  Swim: '7.52'
+  Walk: '70.67'
+- Rank: '16'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -148,16 +158,6 @@
   Cycle: '289.00'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '16'
-  Name: Euj
-  Group: ATC
-  FBID: Euj1871
-  Total_Mileage: '112.34'
-  Badges: '6'
-  Run: '55.91'
-  Cycle: '60.37'
-  Swim: '6.89'
-  Walk: '61.37'
 - Rank: '17'
   Name: Maj Lim
   Group: ABM
@@ -2154,7 +2154,7 @@
   FBID: Malice2323
   Total_Mileage: '15.39'
   Badges: '2'
-  Run: '15.39'
+  Run: '20.60'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
