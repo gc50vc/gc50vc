@@ -2,11 +2,11 @@
   Name: Ben
   Group: ADW
   FBID: BY8362
-  Total_Mileage: '182.98'
+  Total_Mileage: '206.08'
   Badges: '1'
-  Run: '49.65'
+  Run: '57.75'
   Cycle: '348.53'
-  Swim: '7.70'
+  Swim: '10.20'
   Walk: '0.00'
 - Rank: '2'
   Name: Extreme
@@ -239,6 +239,16 @@
   Swim: '4.03'
   Walk: '0.00'
 - Rank: '25'
+  Name: HC
+  Group: ADSS/ADWS/ADWO
+  FBID: hc1234
+  Total_Mileage: '39.10'
+  Badges: '1'
+  Run: '2.37'
+  Cycle: '146.92'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '26'
   Name: Steroid
   Group: ATC
   FBID: Steroid1007
@@ -248,7 +258,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: Cosmo
   Group: ABM
   FBID: cosmo6306
@@ -258,7 +268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -268,7 +278,7 @@
   Cycle: '10.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -278,7 +288,7 @@
   Cycle: '16.60'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: Btee
   Group: AFE
   FBID: Brian0307
@@ -286,16 +296,6 @@
   Badges: '1'
   Run: '36.78'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '30'
-  Name: HC
-  Group: ADSS/ADWS/ADWO
-  FBID: hc1234
-  Total_Mileage: '36.73'
-  Badges: '1'
-  Run: '0.00'
-  Cycle: '146.92'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '31'
