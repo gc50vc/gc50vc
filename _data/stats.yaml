@@ -489,6 +489,16 @@
   Swim: '1.50'
   Walk: '13.50'
 - Rank: '50'
+  Name: 'Tay Wen Hao '
+  Group: ADW
+  FBID: Wh8295
+  Total_Mileage: '62.13'
+  Badges: '3'
+  Run: '62.13'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '51'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -498,7 +508,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.68'
-- Rank: '51'
+- Rank: '52'
   Name: Cookie-ATC
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -508,7 +518,7 @@
   Cycle: '33.69'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '52'
+- Rank: '53'
   Name: TT
   Group: ABM
   FBID: jiawei1989
@@ -518,7 +528,7 @@
   Cycle: '10.83'
   Swim: '0.00'
   Walk: '1.89'
-- Rank: '53'
+- Rank: '54'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -528,7 +538,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.28'
-- Rank: '54'
+- Rank: '55'
   Name: Benson
   Group: ADW
   FBID: benoi1234
@@ -538,7 +548,7 @@
   Cycle: '10.94'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '55'
+- Rank: '56'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -548,7 +558,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '12.30'
-- Rank: '56'
+- Rank: '57'
   Name: BENteo
   Group: AFE
   FBID: BEN7452
@@ -558,23 +568,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '57'
+- Rank: '58'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
   Total_Mileage: '55.00'
   Badges: '3'
   Run: '55.00'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '58'
-  Name: 'Tay Wen Hao '
-  Group: ADW
-  FBID: Wh8295
-  Total_Mileage: '54.06'
-  Badges: '3'
-  Run: '54.06'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
