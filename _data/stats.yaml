@@ -69,6 +69,16 @@
   Swim: '7.80'
   Walk: '0.00'
 - Rank: '8'
+  Name: Ektar
+  Group: ABM
+  FBID: ektar1971
+  Total_Mileage: '142.50'
+  Badges: '9'
+  Run: '65.88'
+  Cycle: '270.47'
+  Swim: '1.50'
+  Walk: '0.00'
+- Rank: '9'
   Name: Nicholas
   Group: ADSS/ADWS/ADWO
   FBID: NN1974
@@ -78,16 +88,6 @@
   Cycle: '269.47'
   Swim: '7.60'
   Walk: '0.92'
-- Rank: '9'
-  Name: Ektar
-  Group: ABM
-  FBID: ektar1971
-  Total_Mileage: '129.96'
-  Badges: '9'
-  Run: '65.88'
-  Cycle: '220.30'
-  Swim: '1.50'
-  Walk: '0.00'
 - Rank: '10'
   Name: Nicholas Lian
   Group: ADW
@@ -152,9 +152,9 @@
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
-  Total_Mileage: '103.68'
+  Total_Mileage: '108.75'
   Badges: '4'
-  Run: '103.68'
+  Run: '108.75'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
