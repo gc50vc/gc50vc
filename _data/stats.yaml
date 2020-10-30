@@ -639,6 +639,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '65'
+  Name: AngmoATB
+  Group: ADW
+  FBID: Angmo1984
+  Total_Mileage: '49.00'
+  Badges: '3'
+  Run: '44.05'
+  Cycle: '0.00'
+  Swim: '0.83'
+  Walk: '4.00'
+- Rank: '66'
   Name: PCK
   Group: ADW
   FBID: PCK2205
@@ -648,7 +658,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '66'
+- Rank: '67'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -658,7 +668,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '67'
+- Rank: '68'
   Name: Lightyear
   Group: ADW
   FBID: Lightyear2020
@@ -668,7 +678,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '68'
+- Rank: '69'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -678,7 +688,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '69'
+- Rank: '70'
   Name: Andrew
   Group: ADW
   FBID: Hammer1990
@@ -688,7 +698,7 @@
   Cycle: '65.00'
   Swim: '3.00'
   Walk: '0.00'
-- Rank: '70'
+- Rank: '71'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -698,7 +708,7 @@
   Cycle: '149.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '71'
+- Rank: '72'
   Name: Quainapz
   Group: ADSS/ADWS/ADWO
   FBID: Quainapz8585
@@ -708,7 +718,7 @@
   Cycle: '0.00'
   Swim: '2.05'
   Walk: '2.30'
-- Rank: '72'
+- Rank: '73'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: Errick1991
@@ -718,7 +728,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '73'
+- Rank: '74'
   Name: Tan Chee Wee
   Group: ATC
   FBID: tancw1974
@@ -728,7 +738,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '74'
+- Rank: '75'
   Name: Geeky
   Group: ADW
   FBID: Geeky1989
@@ -738,7 +748,7 @@
   Cycle: '0.00'
   Swim: '3.00'
   Walk: '22.57'
-- Rank: '75'
+- Rank: '76'
   Name: Silver
   Group: ABM
   FBID: Silver5117
@@ -748,7 +758,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '76'
+- Rank: '77'
   Name: TINY
   Group: ATC
   FBID: TINY2303
@@ -758,7 +768,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '77'
+- Rank: '78'
   Name: Rats
   Group: ABM
   FBID: Rats1500
@@ -768,7 +778,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '78'
+- Rank: '79'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -778,7 +788,7 @@
   Cycle: '0.00'
   Swim: '1.50'
   Walk: '1.63'
-- Rank: '79'
+- Rank: '80'
   Name: Yun Jie (Rhythm)
   Group: ADW
   FBID: Jabez8686
@@ -788,7 +798,7 @@
   Cycle: '0.00'
   Swim: '6.31'
   Walk: '4.80'
-- Rank: '80'
+- Rank: '81'
   Name: Jeremy Ang
   Group: AFE
   FBID: Jayyleemee1993
@@ -798,7 +808,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '81'
+- Rank: '82'
   Name: Gwyn
   Group: ADW
   FBID: Magma1201
@@ -808,16 +818,6 @@
   Cycle: '46.60'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '82'
-  Name: AngmoATB
-  Group: ADW
-  FBID: Angmo1984
-  Total_Mileage: '43.34'
-  Badges: '2'
-  Run: '38.39'
-  Cycle: '0.00'
-  Swim: '0.83'
-  Walk: '4.00'
 - Rank: '83'
   Name: Iggy
   Group: ADSS/ADWS/ADWO
