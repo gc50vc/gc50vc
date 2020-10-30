@@ -79,6 +79,16 @@
   Swim: '5.79'
   Walk: '20.38'
 - Rank: '9'
+  Name: Prem
+  Group: ADW
+  FBID: Premium6687
+  Total_Mileage: '58.12'
+  Badges: '2'
+  Run: '2.32'
+  Cycle: '0.00'
+  Swim: '9.30'
+  Walk: '0.00'
+- Rank: '10'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -88,7 +98,7 @@
   Cycle: '86.47'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '10'
+- Rank: '11'
   Name: Xiaolow3344
   Group: ADSS/ADWS/ADWO
   FBID: Xiaolow3344
@@ -98,7 +108,7 @@
   Cycle: '0.00'
   Swim: '9.55'
   Walk: '25.78'
-- Rank: '11'
+- Rank: '12'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: Wang0165
@@ -108,7 +118,7 @@
   Cycle: '24.00'
   Swim: '0.88'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: yapoh
   Group: ADW
   FBID: Yapoh0304
@@ -117,16 +127,6 @@
   Run: '20.00'
   Cycle: '60.00'
   Swim: '3.40'
-  Walk: '0.00'
-- Rank: '13'
-  Name: Prem
-  Group: ADW
-  FBID: Premium6687
-  Total_Mileage: '50.32'
-  Badges: '2'
-  Run: '2.32'
-  Cycle: '0.00'
-  Swim: '8.00'
   Walk: '0.00'
 - Rank: '14'
   Name: Jade
