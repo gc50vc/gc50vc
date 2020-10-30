@@ -382,10 +382,10 @@
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
-  Total_Mileage: '70.35'
+  Total_Mileage: '70.89'
   Badges: '4'
   Run: '2.37'
-  Cycle: '271.92'
+  Cycle: '274.07'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '40'
@@ -589,6 +589,16 @@
   Swim: '2.45'
   Walk: '0.00'
 - Rank: '60'
+  Name: QUENCHER
+  Group: ABM
+  FBID: quencher2020
+  Total_Mileage: '52.06'
+  Badges: '3'
+  Run: '52.06'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '61'
   Name: Rambo
   Group: AOSX/AOS
   FBID: Rambo0113
@@ -598,7 +608,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '61'
+- Rank: '62'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -608,7 +618,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '62'
+- Rank: '63'
   Name: francisyap
   Group: AFE
   FBID: francis7373
@@ -618,7 +628,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '63'
+- Rank: '64'
   Name: GN
   Group: ADSS/ADWS/ADWO
   FBID: GN8282
@@ -628,7 +638,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '64'
+- Rank: '65'
   Name: PCK
   Group: ADW
   FBID: PCK2205
@@ -638,7 +648,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '65'
+- Rank: '66'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -648,7 +658,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '66'
+- Rank: '67'
   Name: Lightyear
   Group: ADW
   FBID: Lightyear2020
@@ -658,7 +668,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '67'
+- Rank: '68'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -668,7 +678,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '68'
+- Rank: '69'
   Name: Andrew
   Group: ADW
   FBID: Hammer1990
@@ -678,7 +688,7 @@
   Cycle: '65.00'
   Swim: '3.00'
   Walk: '0.00'
-- Rank: '69'
+- Rank: '70'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -688,7 +698,7 @@
   Cycle: '149.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '70'
+- Rank: '71'
   Name: Quainapz
   Group: ADSS/ADWS/ADWO
   FBID: Quainapz8585
@@ -698,16 +708,6 @@
   Cycle: '0.00'
   Swim: '2.05'
   Walk: '2.30'
-- Rank: '71'
-  Name: QUENCHER
-  Group: ABM
-  FBID: quencher2020
-  Total_Mileage: '46.54'
-  Badges: '3'
-  Run: '46.54'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '72'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
@@ -1069,6 +1069,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '108'
+  Name: KevinKKW
+  Group: ADSS/ADWS/ADWO
+  FBID: Kkkw0165
+  Total_Mileage: '36.48'
+  Badges: '3'
+  Run: '22.05'
+  Cycle: '57.70'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '109'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -1078,7 +1088,7 @@
   Cycle: '58.91'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '109'
+- Rank: '110'
   Name: Wong Wei Ming
   Group: ATC
   FBID: Shadow0206
@@ -1088,7 +1098,7 @@
   Cycle: '0.00'
   Swim: '2.14'
   Walk: '0.00'
-- Rank: '110'
+- Rank: '111'
   Name: Lia
   Group: ADSS/ADWS/ADWO
   FBID: Lia1116
@@ -1098,7 +1108,7 @@
   Cycle: '12.99'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '111'
+- Rank: '112'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -1106,16 +1116,6 @@
   Badges: '2'
   Run: '34.97'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '112'
-  Name: KevinKKW
-  Group: ADSS/ADWS/ADWO
-  FBID: Kkkw0165
-  Total_Mileage: '34.47'
-  Badges: '3'
-  Run: '20.04'
-  Cycle: '57.70'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '113'
