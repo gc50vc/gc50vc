@@ -159,6 +159,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '17'
+  Name: Bronson
+  Group: ADW
+  FBID: Bronze1234
+  Total_Mileage: '40.88'
+  Badges: '1'
+  Run: '16.73'
+  Cycle: '0.00'
+  Swim: '4.03'
+  Walk: '0.00'
+- Rank: '18'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -168,7 +178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '4.38'
-- Rank: '18'
+- Rank: '19'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -178,7 +188,7 @@
   Cycle: '63.45'
   Swim: '2.10'
   Walk: '0.00'
-- Rank: '19'
+- Rank: '20'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -188,7 +198,7 @@
   Cycle: '10.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '21'
   Name: Btee
   Group: AFE
   FBID: Brian0307
@@ -198,7 +208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -208,7 +218,7 @@
   Cycle: '89.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: Lee Wen Yang
   Group: AFE
   FBID: LWY3942
@@ -218,7 +228,7 @@
   Cycle: '120.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -227,16 +237,6 @@
   Run: '2.33'
   Cycle: '132.41'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '24'
-  Name: Bronson
-  Group: ADW
-  FBID: Bronze1234
-  Total_Mileage: '34.75'
-  Badges: '1'
-  Run: '10.60'
-  Cycle: '0.00'
-  Swim: '4.03'
   Walk: '0.00'
 - Rank: '25'
   Name: Nicholas Lian
