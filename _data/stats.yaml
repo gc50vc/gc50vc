@@ -229,6 +229,16 @@
   Swim: '0.00'
   Walk: '45.36'
 - Rank: '24'
+  Name: Bronson
+  Group: ADW
+  FBID: Bronze1234
+  Total_Mileage: '87.00'
+  Badges: '5'
+  Run: '26.85'
+  Cycle: '0.00'
+  Swim: '10.03'
+  Walk: '0.00'
+- Rank: '25'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -237,16 +247,6 @@
   Run: '16.76'
   Cycle: '175.89'
   Swim: '4.10'
-  Walk: '0.00'
-- Rank: '25'
-  Name: Bronson
-  Group: ADW
-  FBID: Bronze1234
-  Total_Mileage: '80.87'
-  Badges: '5'
-  Run: '20.72'
-  Cycle: '0.00'
-  Swim: '10.03'
   Walk: '0.00'
 - Rank: '26'
   Name: Tony Foo
