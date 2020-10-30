@@ -289,6 +289,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '30'
+  Name: HC
+  Group: ADSS/ADWS/ADWO
+  FBID: hc1234
+  Total_Mileage: '36.73'
+  Badges: '1'
+  Run: '0.00'
+  Cycle: '146.92'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '31'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -298,7 +308,7 @@
   Cycle: '89.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '32'
   Name: Lee Wen Yang
   Group: AFE
   FBID: LWY3942
@@ -308,7 +318,7 @@
   Cycle: '120.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '33'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -318,7 +328,7 @@
   Cycle: '132.41'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '34'
   Name: Nicholas Lian
   Group: ADW
   FBID: horsepower2001
@@ -328,7 +338,7 @@
   Cycle: '4.88'
   Swim: '2.50'
   Walk: '0.00'
-- Rank: '34'
+- Rank: '35'
   Name: Coral
   Group: ABM
   FBID: Coral5050
@@ -338,7 +348,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -348,7 +358,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '18.64'
-- Rank: '36'
+- Rank: '37'
   Name: Ah Bing
   Group: ADW
   FBID: Bingo0507
@@ -358,7 +368,7 @@
   Cycle: '43.70'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '37'
+- Rank: '38'
   Name: jheng
   Group: ADSS/ADWS/ADWO
   FBID: jheng0000
@@ -368,7 +378,7 @@
   Cycle: '22.26'
   Swim: '2.50'
   Walk: '0.00'
-- Rank: '38'
+- Rank: '39'
   Name: QUENCHER
   Group: ABM
   FBID: quencher2020
@@ -376,16 +386,6 @@
   Badges: '1'
   Run: '30.72'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '39'
-  Name: HC
-  Group: ADSS/ADWS/ADWO
-  FBID: hc1234
-  Total_Mileage: '30.67'
-  Badges: '1'
-  Run: '0.00'
-  Cycle: '122.69'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '40'
