@@ -12,10 +12,10 @@
   Name: Ben
   Group: ADW
   FBID: BY8362
-  Total_Mileage: '373.30'
+  Total_Mileage: '380.31'
   Badges: '12'
   Run: '100.11'
-  Cycle: '738.77'
+  Cycle: '766.81'
   Swim: '14.75'
   Walk: '0.00'
 - Rank: '3'
@@ -1239,6 +1239,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '125'
+  Name: COVID
+  Group: ADSS/ADWS/ADWO
+  FBID: COVID9999
+  Total_Mileage: '30.81'
+  Badges: '2'
+  Run: '30.81'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '8.70'
+- Rank: '126'
   Name: Fu Hao Wei
   Group: ADW
   FBID: fuhaowei8435
@@ -1248,7 +1258,7 @@
   Cycle: '96.54'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '126'
+- Rank: '127'
   Name: CSM
   Group: ADSS/ADWS/ADWO
   FBID: CSM8189
@@ -1258,7 +1268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '12.30'
-- Rank: '127'
+- Rank: '128'
   Name: Ankle
   Group: ADSS/ADWS/ADWO
   FBID: Redeyesblackdragon1310
@@ -1268,7 +1278,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '128'
+- Rank: '129'
   Name: Jeremy Tan
   Group: ATC
   FBID: Scavenge1601
@@ -1278,7 +1288,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '129'
+- Rank: '130'
   Name: Starbucks
   Group: ABM
   FBID: Starbucks3756
@@ -1288,7 +1298,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '130'
+- Rank: '131'
   Name: Hector
   Group: ADW
   FBID: Hector0911
@@ -1298,7 +1308,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '131'
+- Rank: '132'
   Name: Hayden
   Group: ADSS/ADWS/ADWO
   FBID: Hayden0165
@@ -1308,7 +1318,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '132'
+- Rank: '133'
   Name: 'Beatbox '
   Group: ABM
   FBID: Beatbox0202
@@ -1318,7 +1328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.23'
-- Rank: '133'
+- Rank: '134'
   Name: Kenneth
   Group: ADSS/ADWS/ADWO
   FBID: Cat0407
@@ -1328,16 +1338,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '134'
-  Name: COVID
-  Group: ADSS/ADWS/ADWO
-  FBID: COVID9999
-  Total_Mileage: '25.70'
-  Badges: '2'
-  Run: '25.70'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '8.70'
 - Rank: '135'
   Name: Chan Howe
   Group: AOSX/AOS
