@@ -239,6 +239,16 @@
   Swim: '4.10'
   Walk: '0.00'
 - Rank: '25'
+  Name: Slimer
+  Group: ABM
+  FBID: Slimer1234
+  Total_Mileage: '84.11'
+  Badges: '6'
+  Run: '27.22'
+  Cycle: '43.97'
+  Swim: '7.65'
+  Walk: '4.16'
+- Rank: '26'
   Name: Bronson
   Group: ADW
   FBID: Bronze1234
@@ -248,7 +258,7 @@
   Cycle: '0.00'
   Swim: '10.03'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: Tony Foo
   Group: ADSS/ADWS/ADWO
   FBID: tonyfoo0165
@@ -258,7 +268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -268,7 +278,7 @@
   Cycle: '65.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -278,7 +288,7 @@
   Cycle: '0.00'
   Swim: '9.29'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: Ah Bing
   Group: ADW
   FBID: Bingo0507
@@ -288,7 +298,7 @@
   Cycle: '43.70'
   Swim: '0.65'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '31'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -298,7 +308,7 @@
   Cycle: '214.06'
   Swim: '2.10'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '32'
   Name: Coral
   Group: ABM
   FBID: Coral5050
@@ -308,7 +318,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '9.48'
-- Rank: '32'
+- Rank: '33'
   Name: Keith low
   Group: ADSS/ADWS/ADWO
   FBID: Keithlow1998
@@ -318,16 +328,6 @@
   Cycle: '266.13'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '33'
-  Name: Slimer
-  Group: ABM
-  FBID: Slimer1234
-  Total_Mileage: '72.11'
-  Badges: '5'
-  Run: '27.22'
-  Cycle: '43.97'
-  Swim: '5.65'
-  Walk: '4.16'
 - Rank: '34'
   Name: PIXAR
   Group: ABM
