@@ -39,6 +39,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '5'
+  Name: Hasty
+  Group: ADW
+  FBID: Hasty55555
+  Total_Mileage: '94.39'
+  Badges: '1'
+  Run: '81.48'
+  Cycle: '51.63'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '6'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -48,7 +58,7 @@
   Cycle: '99.90'
   Swim: '3.40'
   Walk: '0.00'
-- Rank: '6'
+- Rank: '7'
   Name: Nicholas
   Group: ADSS/ADWS/ADWO
   FBID: Nn1974
@@ -58,7 +68,7 @@
   Cycle: '170.81'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '7'
+- Rank: '8'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -68,7 +78,7 @@
   Cycle: '60.37'
   Swim: '6.42'
   Walk: '29.68'
-- Rank: '8'
+- Rank: '9'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -78,7 +88,7 @@
   Cycle: '20.93'
   Swim: '6.05'
   Walk: '2.66'
-- Rank: '9'
+- Rank: '10'
   Name: Prem
   Group: ADW
   FBID: Premium6687
@@ -88,7 +98,7 @@
   Cycle: '0.00'
   Swim: '9.30'
   Walk: '0.00'
-- Rank: '10'
+- Rank: '11'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -98,7 +108,7 @@
   Cycle: '86.47'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: Xiaolow3344
   Group: ADSS/ADWS/ADWO
   FBID: Xiaolow3344
@@ -108,7 +118,7 @@
   Cycle: '0.00'
   Swim: '9.55'
   Walk: '25.78'
-- Rank: '12'
+- Rank: '13'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: Wang0165
@@ -118,7 +128,7 @@
   Cycle: '24.00'
   Swim: '0.88'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: yapoh
   Group: ADW
   FBID: Yapoh0304
@@ -128,7 +138,7 @@
   Cycle: '60.00'
   Swim: '3.40'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '15'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
@@ -138,7 +148,7 @@
   Cycle: '0.00'
   Swim: '6.00'
   Walk: '7.27'
-- Rank: '15'
+- Rank: '16'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -148,7 +158,7 @@
   Cycle: '63.45'
   Swim: '2.10'
   Walk: '0.00'
-- Rank: '16'
+- Rank: '17'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -158,16 +168,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '4.38'
-- Rank: '17'
-  Name: Hasty
-  Group: ADW
-  FBID: Hasty55555
-  Total_Mileage: '44.37'
-  Badges: '1'
-  Run: '31.46'
-  Cycle: '51.63'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '18'
   Name: Barter
   Group: ATC
