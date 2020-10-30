@@ -559,16 +559,6 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '57'
-  Name: Lightyear
-  Group: ADW
-  FBID: Lightyear2020
-  Total_Mileage: '52.84'
-  Badges: '3'
-  Run: '52.84'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '58'
   Name: 3sg Charlie
   Group: ADSS/ADWS/ADWO
   FBID: Charlie2539
@@ -578,7 +568,7 @@
   Cycle: '0.00'
   Swim: '2.45'
   Walk: '0.00'
-- Rank: '59'
+- Rank: '58'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -588,7 +578,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.68'
-- Rank: '60'
+- Rank: '59'
   Name: Rambo
   Group: AOSX/AOS
   FBID: Rambo0113
@@ -598,7 +588,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '61'
+- Rank: '60'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -608,7 +598,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '62'
+- Rank: '61'
   Name: francisyap
   Group: AFE
   FBID: francis7373
@@ -618,7 +608,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '63'
+- Rank: '62'
   Name: GN
   Group: ADSS/ADWS/ADWO
   FBID: GN8282
@@ -628,7 +618,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '64'
+- Rank: '63'
   Name: Xiaolow3344
   Group: ADSS/ADWS/ADWO
   FBID: Xiaolow3344
@@ -638,7 +628,7 @@
   Cycle: '0.00'
   Swim: '8.20'
   Walk: '6.95'
-- Rank: '65'
+- Rank: '64'
   Name: PCK
   Group: ADW
   FBID: PCK2205
@@ -648,13 +638,23 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '66'
+- Rank: '65'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
   Total_Mileage: '48.67'
   Badges: '3'
   Run: '48.67'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '66'
+  Name: Lightyear
+  Group: ADW
+  FBID: Lightyear2020
+  Total_Mileage: '47.34'
+  Badges: '3'
+  Run: '47.34'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
