@@ -329,6 +329,16 @@
   Swim: '10.03'
   Walk: '0.00'
 - Rank: '34'
+  Name: Ah Bing
+  Group: ADW
+  FBID: Bingo0507
+  Total_Mileage: '85.86'
+  Badges: '4'
+  Run: '68.03'
+  Cycle: '43.70'
+  Swim: '1.15'
+  Walk: '0.00'
+- Rank: '35'
   Name: Rubiks
   Group: ABM
   FBID: Rubiks1234
@@ -337,16 +347,6 @@
   Run: '60.62'
   Cycle: '41.78'
   Swim: '2.10'
-  Walk: '0.00'
-- Rank: '35'
-  Name: Ah Bing
-  Group: ADW
-  FBID: Bingo0507
-  Total_Mileage: '82.86'
-  Badges: '4'
-  Run: '68.03'
-  Cycle: '43.70'
-  Swim: '0.65'
   Walk: '0.00'
 - Rank: '36'
   Name: Tony Foo
