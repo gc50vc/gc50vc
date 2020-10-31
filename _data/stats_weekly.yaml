@@ -189,6 +189,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '20'
+  Name: yapoh
+  Group: ADW
+  FBID: Yapoh0304
+  Total_Mileage: '65.40'
+  Badges: '5'
+  Run: '30.00'
+  Cycle: '60.00'
+  Swim: '3.40'
+  Walk: '0.00'
+- Rank: '21'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -198,7 +208,7 @@
   Cycle: '16.60'
   Swim: '1.95'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -208,7 +218,7 @@
   Cycle: '116.57'
   Swim: '2.10'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -218,7 +228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.17'
-- Rank: '23'
+- Rank: '24'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -227,16 +237,6 @@
   Run: '6.37'
   Cycle: '0.00'
   Swim: '8.50'
-  Walk: '0.00'
-- Rank: '24'
-  Name: yapoh
-  Group: ADW
-  FBID: Yapoh0304
-  Total_Mileage: '55.40'
-  Badges: '5'
-  Run: '20.00'
-  Cycle: '60.00'
-  Swim: '3.40'
   Walk: '0.00'
 - Rank: '25'
   Name: PIXAR
