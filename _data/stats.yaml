@@ -99,6 +99,16 @@
   Swim: '10.94'
   Walk: '70.67'
 - Rank: '11'
+  Name: Leonard ong
+  Group: ADSS/ADWS/ADWO
+  FBID: WANG0165
+  Total_Mileage: '139.70'
+  Badges: '4'
+  Run: '128.42'
+  Cycle: '24.00'
+  Swim: '0.88'
+  Walk: '1.00'
+- Rank: '12'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -108,7 +118,7 @@
   Cycle: '10.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: yapoh
   Group: ADW
   FBID: yapoh0304
@@ -118,7 +128,7 @@
   Cycle: '220.00'
   Swim: '3.40'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: Nicholas Lian
   Group: ADW
   FBID: Horsepower2001
@@ -128,7 +138,7 @@
   Cycle: '30.26'
   Swim: '6.90'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '15'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -138,7 +148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '15'
+- Rank: '16'
   Name: AdolphusJJ
   Group: AOSX/AOS
   FBID: Bamboo1234
@@ -148,16 +158,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '16'
-  Name: Leonard ong
-  Group: ADSS/ADWS/ADWO
-  FBID: WANG0165
-  Total_Mileage: '116.31'
-  Badges: '4'
-  Run: '105.03'
-  Cycle: '24.00'
-  Swim: '0.88'
-  Walk: '1.00'
 - Rank: '17'
   Name: Vincent Yap
   Group: ADW
