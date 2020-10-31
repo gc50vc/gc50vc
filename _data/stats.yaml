@@ -579,6 +579,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '59'
+  Name: Rats
+  Group: ABM
+  FBID: Rats1500
+  Total_Mileage: '55.58'
+  Badges: '3'
+  Run: '55.58'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '60'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -588,7 +598,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '12.30'
-- Rank: '60'
+- Rank: '61'
   Name: BENteo
   Group: AFE
   FBID: BEN7452
@@ -598,23 +608,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '61'
+- Rank: '62'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
   Total_Mileage: '55.00'
   Badges: '3'
   Run: '55.00'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '62'
-  Name: Rats
-  Group: ABM
-  FBID: Rats1500
-  Total_Mileage: '54.85'
-  Badges: '3'
-  Run: '54.85'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
