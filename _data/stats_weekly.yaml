@@ -279,6 +279,16 @@
   Swim: '4.03'
   Walk: '0.00'
 - Rank: '29'
+  Name: David Xu
+  Group: ADW
+  FBID: Dyson0165
+  Total_Mileage: '40.54'
+  Badges: '1'
+  Run: '2.33'
+  Cycle: '152.82'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '30'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -288,7 +298,7 @@
   Cycle: '146.09'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '31'
   Name: Steroid
   Group: ATC
   FBID: Steroid1007
@@ -298,7 +308,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '32'
   Name: Cosmo
   Group: ABM
   FBID: cosmo6306
@@ -308,7 +318,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '33'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -318,7 +328,7 @@
   Cycle: '47.50'
   Swim: '2.50'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '34'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -328,7 +338,7 @@
   Cycle: '10.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '34'
+- Rank: '35'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -338,7 +348,7 @@
   Cycle: '16.60'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: Btee
   Group: AFE
   FBID: Brian0307
@@ -348,7 +358,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '36'
+- Rank: '37'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -358,7 +368,7 @@
   Cycle: '89.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '37'
+- Rank: '38'
   Name: QUENCHER
   Group: ABM
   FBID: quencher2020
@@ -368,7 +378,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '38'
+- Rank: '39'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -377,16 +387,6 @@
   Run: '12.76'
   Cycle: '44.71'
   Swim: '2.00'
-  Walk: '0.00'
-- Rank: '39'
-  Name: David Xu
-  Group: ADW
-  FBID: Dyson0165
-  Total_Mileage: '35.43'
-  Badges: '1'
-  Run: '2.33'
-  Cycle: '132.41'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '40'
   Name: Halu
@@ -959,6 +959,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '97'
+  Name: Geeky
+  Group: ADW
+  FBID: Geeky1989
+  Total_Mileage: '19.00'
+  Badges: '1'
+  Run: '7.00'
+  Cycle: '0.00'
+  Swim: '2.00'
+  Walk: '6.30'
+- Rank: '98'
   Name: Chin Yong
   Group: ADSS/ADWS/ADWO
   FBID: Relaxing1234
@@ -968,7 +978,7 @@
   Cycle: '55.45'
   Swim: '0.00'
   Walk: '18.14'
-- Rank: '98'
+- Rank: '99'
   Name: Pixel EQ
   Group: AOSX/AOS
   FBID: Pixel0323
@@ -978,7 +988,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '99'
+- Rank: '100'
   Name: Kenneth
   Group: ADSS/ADWS/ADWO
   FBID: Cat0407
@@ -988,7 +998,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '100'
+- Rank: '101'
   Name: Fungus
   Group: ABM
   FBID: Fungus7777
@@ -998,7 +1008,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '101'
+- Rank: '102'
   Name: Andre
   Group: ADSS/ADWS/ADWO
   FBID: Wagon6190
@@ -1008,7 +1018,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '102'
+- Rank: '103'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -1018,7 +1028,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '103'
+- Rank: '104'
   Name: Sen Kiat
   Group: ATC
   FBID: HSK7777
@@ -1028,7 +1038,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '104'
+- Rank: '105'
   Name: Zacchaeus
   Group: ADSS/ADWS/ADWO
   FBID: ZjSc9588
@@ -1038,7 +1048,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '105'
+- Rank: '106'
   Name: JIN
   Group: ADSS/ADWS/ADWO
   FBID: JIN1999
@@ -1048,7 +1058,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '106'
+- Rank: '107'
   Name: PCK
   Group: ADW
   FBID: PCK2205
@@ -1058,7 +1068,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '107'
+- Rank: '108'
   Name: 'Sengie '
   Group: ADW
   FBID: ARIAL0160
@@ -1068,7 +1078,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '108'
+- Rank: '109'
   Name: NG Eng Ming
   Group: ADSS/ADWS/ADWO
   FBID: NgEM1858
@@ -1078,7 +1088,7 @@
   Cycle: '64.38'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '109'
+- Rank: '110'
   Name: AL
   Group: AOSX/AOS
   FBID: Alnino9999
@@ -1088,16 +1098,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '110'
-  Name: Geeky
-  Group: ADW
-  FBID: Geeky1989
-  Total_Mileage: '16.00'
-  Badges: '0'
-  Run: '7.00'
-  Cycle: '0.00'
-  Swim: '1.50'
-  Walk: '6.30'
 - Rank: '111'
   Name: Cupid
   Group: AOSX/AOS
@@ -3208,6 +3208,16 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '9.02'
+- Rank: '316'
+  Name: MamaTrex
+  Group: ADSS/ADWS/ADWO
+  FBID: MamaTrex0247
+  Total_Mileage: '0.00'
+  Badges: ''
+  Run: '0.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '3.83'
 - Rank: '316'
   Name: LyAw
   Group: AFE
