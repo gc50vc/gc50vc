@@ -259,6 +259,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '27'
+  Name: Slimer
+  Group: ABM
+  FBID: Slimer1234
+  Total_Mileage: '98.65'
+  Badges: '6'
+  Run: '27.22'
+  Cycle: '64.90'
+  Swim: '9.20'
+  Walk: '7.77'
+- Rank: '28'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -268,7 +278,7 @@
   Cycle: '216.46'
   Swim: '4.10'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -278,16 +288,6 @@
   Cycle: '0.00'
   Swim: '11.79'
   Walk: '0.00'
-- Rank: '29'
-  Name: Slimer
-  Group: ABM
-  FBID: Slimer1234
-  Total_Mileage: '89.35'
-  Badges: '6'
-  Run: '27.22'
-  Cycle: '64.90'
-  Swim: '7.65'
-  Walk: '5.01'
 - Rank: '30'
   Name: 'Tan Swee Kiat '
   Group: ADW
