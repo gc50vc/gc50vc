@@ -1,4 +1,14 @@
 - Rank: '1'
+  Name: Extreme
+  Group: ATC
+  FBID: Extreme8123
+  Total_Mileage: '211.37'
+  Badges: '1'
+  Run: '68.27'
+  Cycle: '0.00'
+  Swim: '23.85'
+  Walk: '0.00'
+- Rank: '2'
   Name: Ben
   Group: ADW
   FBID: BY8362
@@ -7,16 +17,6 @@
   Run: '57.75'
   Cycle: '348.53'
   Swim: '10.20'
-  Walk: '0.00'
-- Rank: '2'
-  Name: Extreme
-  Group: ATC
-  FBID: Extreme8123
-  Total_Mileage: '162.17'
-  Badges: '0'
-  Run: '68.27'
-  Cycle: '0.00'
-  Swim: '15.65'
   Walk: '0.00'
 - Rank: '3'
   Name: LZX
