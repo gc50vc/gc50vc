@@ -189,6 +189,16 @@
   Swim: '6.00'
   Walk: '7.27'
 - Rank: '20'
+  Name: Rycel Wong
+  Group: AOSX/AOS
+  FBID: Rycel2929
+  Total_Mileage: '50.05'
+  Badges: '2'
+  Run: '11.30'
+  Cycle: '95.00'
+  Swim: '2.50'
+  Walk: '0.00'
+- Rank: '21'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -198,7 +208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '18.64'
-- Rank: '21'
+- Rank: '22'
   Name: Barter
   Group: ATC
   FBID: Reload0203
@@ -208,7 +218,7 @@
   Cycle: '153.50'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: Rubiks
   Group: ABM
   FBID: Rubiks1234
@@ -218,7 +228,7 @@
   Cycle: '0.00'
   Swim: '2.10'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: Keith low
   Group: ADSS/ADWS/ADWO
   FBID: Keithlow1998
@@ -228,7 +238,7 @@
   Cycle: '132.30'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: aH-MuNs-Ge
   Group: AFE
   FBID: ahmuns9861
@@ -238,7 +248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '15.64'
-- Rank: '25'
+- Rank: '26'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -248,7 +258,7 @@
   Cycle: '0.00'
   Swim: '6.50'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -258,7 +268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: Bronson
   Group: ADW
   FBID: Bronze1234
@@ -268,7 +278,7 @@
   Cycle: '0.00'
   Swim: '4.03'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -278,7 +288,7 @@
   Cycle: '146.09'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -288,7 +298,7 @@
   Cycle: '149.07'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '31'
   Name: Steroid
   Group: ATC
   FBID: Steroid1007
@@ -298,7 +308,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '32'
   Name: Cosmo
   Group: ABM
   FBID: cosmo6306
@@ -307,16 +317,6 @@
   Run: '38.64'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '32'
-  Name: Rycel Wong
-  Group: AOSX/AOS
-  FBID: Rycel2929
-  Total_Mileage: '38.18'
-  Badges: '2'
-  Run: '11.30'
-  Cycle: '47.50'
-  Swim: '2.50'
   Walk: '0.00'
 - Rank: '33'
   Name: PIXAR
