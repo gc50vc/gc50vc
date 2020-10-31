@@ -1139,6 +1139,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '115'
+  Name: Yew Choong
+  Group: ADSS/ADWS/ADWO
+  FBID: GGXC0160
+  Total_Mileage: '36.01'
+  Badges: '2'
+  Run: '36.01'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '19.25'
+- Rank: '116'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -1148,7 +1158,7 @@
   Cycle: '58.91'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '116'
+- Rank: '117'
   Name: Wong Wei Ming
   Group: ATC
   FBID: Shadow0206
@@ -1158,7 +1168,7 @@
   Cycle: '0.00'
   Swim: '2.14'
   Walk: '0.00'
-- Rank: '117'
+- Rank: '118'
   Name: Lia
   Group: ADSS/ADWS/ADWO
   FBID: Lia1116
@@ -1168,7 +1178,7 @@
   Cycle: '12.99'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '118'
+- Rank: '119'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -1178,7 +1188,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '119'
+- Rank: '120'
   Name: Halu
   Group: AFE
   FBID: Halu1805
@@ -1188,7 +1198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '120'
+- Rank: '121'
   Name: JTZH
   Group: ADSS/ADWS/ADWO
   FBID: Joshua2209
@@ -1198,7 +1208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '121'
+- Rank: '122'
   Name: Dennis
   Group: ADSS/ADWS/ADWO
   FBID: Dennis0495
@@ -1208,7 +1218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '122'
+- Rank: '123'
   Name: Andre
   Group: ADSS/ADWS/ADWO
   FBID: Wagon6190
@@ -1218,7 +1228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '123'
+- Rank: '124'
   Name: Pixel EQ
   Group: AOSX/AOS
   FBID: Pixel0323
@@ -1228,7 +1238,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.70'
-- Rank: '124'
+- Rank: '125'
   Name: ARROW
   Group: ADW
   FBID: Tee1980
@@ -1238,7 +1248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '125'
+- Rank: '126'
   Name: Cactus
   Group: ADSS/ADWS/ADWO
   FBID: Daphne1234
@@ -1248,7 +1258,7 @@
   Cycle: '0.00'
   Swim: '5.40'
   Walk: '0.00'
-- Rank: '126'
+- Rank: '127'
   Name: Kelvin
   Group: ADSS/ADWS/ADWO
   FBID: Kelvin1111
@@ -1258,7 +1268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '127'
+- Rank: '128'
   Name: 'Amarverest '
   Group: ADSS/ADWS/ADWO
   FBID: Amar0165
@@ -1268,7 +1278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '128'
+- Rank: '129'
   Name: Sze Tein
   Group: ATC
   FBID: Topaz1327
@@ -1278,16 +1288,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '129'
-  Name: Yew Choong
-  Group: ADSS/ADWS/ADWO
-  FBID: GGXC0160
-  Total_Mileage: '30.99'
-  Badges: '2'
-  Run: '30.99'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '19.25'
 - Rank: '130'
   Name: Camper
   Group: ADW
