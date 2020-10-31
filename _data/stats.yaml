@@ -429,6 +429,16 @@
   Swim: '5.50'
   Walk: '0.00'
 - Rank: '44'
+  Name: Cookie-ATC
+  Group: ATC
+  FBID: Cookie3rdWSO1975
+  Total_Mileage: '67.09'
+  Badges: '3'
+  Run: '58.67'
+  Cycle: '33.69'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '45'
   Name: Poon
   Group: ADSS/ADWS/ADWO
   FBID: Poon3636
@@ -438,7 +448,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '45'
+- Rank: '46'
   Name: Btee
   Group: AFE
   FBID: Brian0307
@@ -448,7 +458,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '46'
+- Rank: '47'
   Name: OLAF
   Group: ADW
   FBID: OLAF2156
@@ -458,7 +468,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '47'
+- Rank: '48'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -468,7 +478,7 @@
   Cycle: '88.00'
   Swim: '3.08'
   Walk: '0.79'
-- Rank: '48'
+- Rank: '49'
   Name: Vapor
   Group: ADW
   FBID: Vapor6148
@@ -478,7 +488,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '49'
+- Rank: '50'
   Name: Xiaolow3344
   Group: ADSS/ADWS/ADWO
   FBID: Xiaolow3344
@@ -488,7 +498,7 @@
   Cycle: '0.00'
   Swim: '10.60'
   Walk: '32.73'
-- Rank: '50'
+- Rank: '51'
   Name: Barter
   Group: ATC
   FBID: Reload0203
@@ -498,7 +508,7 @@
   Cycle: '194.50'
   Swim: '1.50'
   Walk: '13.50'
-- Rank: '51'
+- Rank: '52'
   Name: 'Tay Wen Hao '
   Group: ADW
   FBID: Wh8295
@@ -508,7 +518,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '52'
+- Rank: '53'
   Name: Quainapz
   Group: ADSS/ADWS/ADWO
   FBID: Quainapz8585
@@ -518,7 +528,7 @@
   Cycle: '0.00'
   Swim: '3.10'
   Walk: '2.30'
-- Rank: '53'
+- Rank: '54'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -528,7 +538,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '54'
+- Rank: '55'
   Name: Andrew
   Group: ADW
   FBID: Hammer1990
@@ -537,16 +547,6 @@
   Run: '23.53'
   Cycle: '65.00'
   Swim: '3.00'
-  Walk: '0.00'
-- Rank: '55'
-  Name: Cookie-ATC
-  Group: ATC
-  FBID: Cookie3rdWSO1975
-  Total_Mileage: '56.77'
-  Badges: '3'
-  Run: '48.35'
-  Cycle: '33.69'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '56'
   Name: Tan Chee Wee
