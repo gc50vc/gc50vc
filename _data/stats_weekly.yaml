@@ -49,16 +49,6 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '6'
-  Name: PIXAR
-  Group: ABM
-  FBID: PIXAR0001
-  Total_Mileage: '99.10'
-  Badges: '2'
-  Run: '96.60'
-  Cycle: '10.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '7'
   Name: Hasty
   Group: ADW
   FBID: Hasty55555
@@ -68,7 +58,7 @@
   Cycle: '51.63'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '8'
+- Rank: '7'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -78,7 +68,7 @@
   Cycle: '60.37'
   Swim: '9.84'
   Walk: '29.68'
-- Rank: '9'
+- Rank: '8'
   Name: Lee Wen Yang
   Group: AFE
   FBID: LWY3942
@@ -88,7 +78,7 @@
   Cycle: '301.59'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '10'
+- Rank: '9'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: Wang0165
@@ -98,7 +88,7 @@
   Cycle: '24.00'
   Swim: '0.88'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '10'
   Name: T-rex
   Group: ABM
   FBID: Trex1406
@@ -108,7 +98,7 @@
   Cycle: '0.00'
   Swim: '5.10'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '11'
   Name: Nicholas
   Group: ADSS/ADWS/ADWO
   FBID: Nn1974
@@ -118,7 +108,7 @@
   Cycle: '170.81'
   Swim: '2.00'
   Walk: '2.10'
-- Rank: '13'
+- Rank: '12'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -128,7 +118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '4.38'
-- Rank: '14'
+- Rank: '13'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -138,7 +128,7 @@
   Cycle: '123.11'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '15'
+- Rank: '14'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -148,7 +138,7 @@
   Cycle: '20.93'
   Swim: '7.60'
   Walk: '6.27'
-- Rank: '16'
+- Rank: '15'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -158,7 +148,7 @@
   Cycle: '278.99'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '17'
+- Rank: '16'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -168,7 +158,7 @@
   Cycle: '263.07'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '18'
+- Rank: '17'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -178,7 +168,7 @@
   Cycle: '116.57'
   Swim: '2.10'
   Walk: '0.00'
-- Rank: '19'
+- Rank: '18'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -188,7 +178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.17'
-- Rank: '20'
+- Rank: '19'
   Name: Prem
   Group: ADW
   FBID: Premium6687
@@ -198,7 +188,7 @@
   Cycle: '0.00'
   Swim: '9.30'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '20'
   Name: Xiaolow3344
   Group: ADSS/ADWS/ADWO
   FBID: Xiaolow3344
@@ -208,7 +198,7 @@
   Cycle: '0.00'
   Swim: '9.55'
   Walk: '25.78'
-- Rank: '22'
+- Rank: '21'
   Name: yapoh
   Group: ADW
   FBID: Yapoh0304
@@ -217,6 +207,16 @@
   Run: '20.00'
   Cycle: '60.00'
   Swim: '3.40'
+  Walk: '0.00'
+- Rank: '22'
+  Name: PIXAR
+  Group: ABM
+  FBID: PIXAR0001
+  Total_Mileage: '52.60'
+  Badges: '2'
+  Run: '34.60'
+  Cycle: '72.00'
+  Swim: '0.00'
   Walk: '0.00'
 - Rank: '23'
   Name: Marcus
@@ -229,6 +229,16 @@
   Swim: '6.00'
   Walk: '7.27'
 - Rank: '24'
+  Name: Bronson
+  Group: ADW
+  FBID: Bronze1234
+  Total_Mileage: '50.92'
+  Badges: '1'
+  Run: '16.73'
+  Cycle: '40.17'
+  Swim: '4.03'
+  Walk: '0.00'
+- Rank: '25'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -238,7 +248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '18.64'
-- Rank: '25'
+- Rank: '26'
   Name: Barter
   Group: ATC
   FBID: Reload0203
@@ -248,7 +258,7 @@
   Cycle: '153.50'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: Rubiks
   Group: ABM
   FBID: Rubiks1234
@@ -258,7 +268,7 @@
   Cycle: '0.00'
   Swim: '2.10'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: Keith low
   Group: ADSS/ADWS/ADWO
   FBID: Keithlow1998
@@ -268,7 +278,7 @@
   Cycle: '132.30'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: aH-MuNs-Ge
   Group: AFE
   FBID: ahmuns9861
@@ -278,7 +288,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '15.64'
-- Rank: '29'
+- Rank: '30'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -287,16 +297,6 @@
   Run: '2.37'
   Cycle: '0.00'
   Swim: '6.50'
-  Walk: '0.00'
-- Rank: '30'
-  Name: Bronson
-  Group: ADW
-  FBID: Bronze1234
-  Total_Mileage: '40.88'
-  Badges: '1'
-  Run: '16.73'
-  Cycle: '0.00'
-  Swim: '4.03'
   Walk: '0.00'
 - Rank: '31'
   Name: 'Jonjuay '
