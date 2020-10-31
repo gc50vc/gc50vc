@@ -719,6 +719,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '73'
+  Name: AngmoATB
+  Group: ADW
+  FBID: Angmo1984
+  Total_Mileage: '50.20'
+  Badges: '3'
+  Run: '44.05'
+  Cycle: '0.00'
+  Swim: '1.03'
+  Walk: '4.00'
+- Rank: '74'
   Name: GN
   Group: ADSS/ADWS/ADWO
   FBID: GN8282
@@ -728,7 +738,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '74'
+- Rank: '75'
   Name: Sen Kiat
   Group: ATC
   FBID: HSK7777
@@ -738,7 +748,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '75'
+- Rank: '76'
   Name: Geeky
   Group: ADW
   FBID: Geeky1989
@@ -748,16 +758,6 @@
   Cycle: '0.00'
   Swim: '3.50'
   Walk: '22.57'
-- Rank: '75'
-  Name: AngmoATB
-  Group: ADW
-  FBID: Angmo1984
-  Total_Mileage: '49.00'
-  Badges: '3'
-  Run: '44.05'
-  Cycle: '0.00'
-  Swim: '0.83'
-  Walk: '4.00'
 - Rank: '77'
   Name: PCK
   Group: ADW
