@@ -89,6 +89,16 @@
   Swim: '7.60'
   Walk: '0.92'
 - Rank: '10'
+  Name: Euj
+  Group: ATC
+  FBID: Euj1871
+  Total_Mileage: '137.64'
+  Badges: '7'
+  Run: '59.43'
+  Cycle: '60.37'
+  Swim: '10.52'
+  Walk: '70.67'
+- Rank: '11'
   Name: yapoh
   Group: ADW
   FBID: yapoh0304
@@ -98,7 +108,7 @@
   Cycle: '220.00'
   Swim: '3.40'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: Nicholas Lian
   Group: ADW
   FBID: Horsepower2001
@@ -108,7 +118,7 @@
   Cycle: '30.26'
   Swim: '6.90'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -118,7 +128,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: AdolphusJJ
   Group: AOSX/AOS
   FBID: Bamboo1234
@@ -128,7 +138,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '15'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: WANG0165
@@ -138,16 +148,6 @@
   Cycle: '24.00'
   Swim: '0.88'
   Walk: '1.00'
-- Rank: '15'
-  Name: Euj
-  Group: ATC
-  FBID: Euj1871
-  Total_Mileage: '116.12'
-  Badges: '7'
-  Run: '55.91'
-  Cycle: '60.37'
-  Swim: '7.52'
-  Walk: '70.67'
 - Rank: '16'
   Name: Vincent Yap
   Group: ADW
