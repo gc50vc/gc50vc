@@ -69,6 +69,16 @@
   Swim: '7.80'
   Walk: '0.00'
 - Rank: '8'
+  Name: Ektar
+  Group: ABM
+  FBID: ektar1971
+  Total_Mileage: '151.06'
+  Badges: '9'
+  Run: '74.44'
+  Cycle: '270.47'
+  Swim: '1.50'
+  Walk: '0.00'
+- Rank: '9'
   Name: Nicholas
   Group: ADSS/ADWS/ADWO
   FBID: NN1974
@@ -78,16 +88,6 @@
   Cycle: '300.70'
   Swim: '7.60'
   Walk: '0.92'
-- Rank: '9'
-  Name: Ektar
-  Group: ABM
-  FBID: ektar1971
-  Total_Mileage: '142.50'
-  Badges: '9'
-  Run: '65.88'
-  Cycle: '270.47'
-  Swim: '1.50'
-  Walk: '0.00'
 - Rank: '10'
   Name: yapoh
   Group: ADW
@@ -229,6 +229,16 @@
   Swim: '2.50'
   Walk: '1.90'
 - Rank: '24'
+  Name: SU WEIJIE
+  Group: ADW
+  FBID: SUWEIJIE8702
+  Total_Mileage: '95.48'
+  Badges: '7'
+  Run: '16.76'
+  Cycle: '216.46'
+  Swim: '4.10'
+  Walk: '0.00'
+- Rank: '25'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -238,7 +248,7 @@
   Cycle: '0.00'
   Swim: '11.79'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -248,7 +258,7 @@
   Cycle: '64.90'
   Swim: '7.65'
   Walk: '5.01'
-- Rank: '26'
+- Rank: '27'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -258,7 +268,7 @@
   Cycle: '65.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -268,7 +278,7 @@
   Cycle: '214.06'
   Swim: '2.10'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -278,7 +288,7 @@
   Cycle: '273.21'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: Bronson
   Group: ADW
   FBID: Bronze1234
@@ -287,16 +297,6 @@
   Run: '26.85'
   Cycle: '0.00'
   Swim: '10.03'
-  Walk: '0.00'
-- Rank: '30'
-  Name: SU WEIJIE
-  Group: ADW
-  FBID: SUWEIJIE8702
-  Total_Mileage: '85.33'
-  Badges: '6'
-  Run: '16.76'
-  Cycle: '175.89'
-  Swim: '4.10'
   Walk: '0.00'
 - Rank: '31'
   Name: Rubiks
