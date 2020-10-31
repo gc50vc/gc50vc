@@ -49,6 +49,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '6'
+  Name: Euj
+  Group: ATC
+  FBID: Euj1871
+  Total_Mileage: '86.64'
+  Badges: '4'
+  Run: '15.03'
+  Cycle: '60.37'
+  Swim: '9.42'
+  Walk: '29.68'
+- Rank: '7'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -58,7 +68,7 @@
   Cycle: '99.90'
   Swim: '3.40'
   Walk: '0.00'
-- Rank: '7'
+- Rank: '8'
   Name: Nicholas
   Group: ADSS/ADWS/ADWO
   FBID: Nn1974
@@ -68,7 +78,7 @@
   Cycle: '170.81'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '8'
+- Rank: '9'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -78,16 +88,6 @@
   Cycle: '86.47'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '9'
-  Name: Euj
-  Group: ATC
-  FBID: Euj1871
-  Total_Mileage: '65.12'
-  Badges: '4'
-  Run: '11.51'
-  Cycle: '60.37'
-  Swim: '6.42'
-  Walk: '29.68'
 - Rank: '10'
   Name: Slimer
   Group: ABM
