@@ -129,6 +129,16 @@
   Swim: '0.88'
   Walk: '1.00'
 - Rank: '14'
+  Name: yapoh
+  Group: ADW
+  FBID: yapoh0304
+  Total_Mileage: '135.40'
+  Badges: '9'
+  Run: '60.00'
+  Cycle: '220.00'
+  Swim: '3.40'
+  Walk: '0.00'
+- Rank: '15'
   Name: Nicholas Lian
   Group: ADW
   FBID: Horsepower2001
@@ -137,16 +147,6 @@
   Run: '82.49'
   Cycle: '30.26'
   Swim: '6.90'
-  Walk: '0.00'
-- Rank: '15'
-  Name: yapoh
-  Group: ADW
-  FBID: yapoh0304
-  Total_Mileage: '125.40'
-  Badges: '9'
-  Run: '50.00'
-  Cycle: '220.00'
-  Swim: '3.40'
   Walk: '0.00'
 - Rank: '16'
   Name: AdolphusJJ
