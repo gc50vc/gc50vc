@@ -419,6 +419,16 @@
   Swim: '2.50'
   Walk: '0.00'
 - Rank: '43'
+  Name: Lia
+  Group: ADSS/ADWS/ADWO
+  FBID: Lia1116
+  Total_Mileage: '36.78'
+  Badges: '2'
+  Run: '29.50'
+  Cycle: '29.12'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '43'
   Name: Btee
   Group: AFE
   FBID: Brian0307
@@ -428,7 +438,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '44'
+- Rank: '45'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -438,7 +448,7 @@
   Cycle: '89.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '45'
+- Rank: '46'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -448,7 +458,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '46'
+- Rank: '47'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -458,7 +468,7 @@
   Cycle: '44.71'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '47'
+- Rank: '48'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -468,7 +478,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '48'
+- Rank: '49'
   Name: Halu
   Group: AFE
   FBID: Halu1805
@@ -478,7 +488,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '49'
+- Rank: '50'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -488,7 +498,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '50'
+- Rank: '51'
   Name: Ah Bing
   Group: ADW
   FBID: Bingo0507
@@ -498,7 +508,7 @@
   Cycle: '43.70'
   Swim: '0.50'
   Walk: '0.00'
-- Rank: '51'
+- Rank: '52'
   Name: Rats
   Group: ABM
   FBID: Rats1500
@@ -508,7 +518,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '52'
+- Rank: '53'
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
@@ -518,7 +528,7 @@
   Cycle: '0.00'
   Swim: '0.20'
   Walk: '0.00'
-- Rank: '53'
+- Rank: '54'
   Name: Andre
   Group: ADW
   FBID: Andre7429
@@ -528,7 +538,7 @@
   Cycle: '103.89'
   Swim: '0.85'
   Walk: '0.00'
-- Rank: '54'
+- Rank: '55'
   Name: TT
   Group: ABM
   FBID: jiawei1989
@@ -538,7 +548,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '55'
+- Rank: '56'
   Name: ARROW
   Group: ADW
   FBID: Tee1980
@@ -548,7 +558,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '56'
+- Rank: '57'
   Name: Rock
   Group: ADW
   FBID: Rock0165
@@ -558,7 +568,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '5.00'
-- Rank: '57'
+- Rank: '58'
   Name: Lava
   Group: ATC
   FBID: Lava1717
@@ -568,7 +578,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '58'
+- Rank: '59'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -578,7 +588,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '59'
+- Rank: '60'
   Name: Yew Choong
   Group: ADSS/ADWS/ADWO
   FBID: GGXC0160
@@ -588,7 +598,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '60'
+- Rank: '61'
   Name: jheng
   Group: ADSS/ADWS/ADWO
   FBID: jheng0000
@@ -597,16 +607,6 @@
   Run: '10.50'
   Cycle: '22.26'
   Swim: '2.50'
-  Walk: '0.00'
-- Rank: '61'
-  Name: Lia
-  Group: ADSS/ADWS/ADWO
-  FBID: Lia1116
-  Total_Mileage: '29.50'
-  Badges: '1'
-  Run: '29.50'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '62'
   Name: Chickenflyfly
