@@ -409,6 +409,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '42'
+  Name: Rats
+  Group: ABM
+  FBID: Rats1500
+  Total_Mileage: '34.26'
+  Badges: '1'
+  Run: '34.26'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '43'
   Name: Nicholas Lian
   Group: ADW
   FBID: horsepower2001
@@ -418,23 +428,13 @@
   Cycle: '4.88'
   Swim: '2.50'
   Walk: '0.00'
-- Rank: '43'
+- Rank: '44'
   Name: Coral
   Group: ABM
   FBID: Coral5050
   Total_Mileage: '33.61'
   Badges: '0'
   Run: '33.61'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '44'
-  Name: Rats
-  Group: ABM
-  FBID: Rats1500
-  Total_Mileage: '33.53'
-  Badges: '1'
-  Run: '33.53'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
