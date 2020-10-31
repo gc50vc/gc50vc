@@ -99,6 +99,16 @@
   Swim: '1.50'
   Walk: '0.00'
 - Rank: '11'
+  Name: Slimer
+  Group: ABM
+  FBID: Slimer1234
+  Total_Mileage: '73.02'
+  Badges: '3'
+  Run: '22.19'
+  Cycle: '20.93'
+  Swim: '7.60'
+  Walk: '6.27'
+- Rank: '12'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -108,7 +118,7 @@
   Cycle: '263.07'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: Nicholas
   Group: ADSS/ADWS/ADWO
   FBID: Nn1974
@@ -118,7 +128,7 @@
   Cycle: '170.81'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: T-rex
   Group: ABM
   FBID: Trex1406
@@ -128,16 +138,6 @@
   Cycle: '0.00'
   Swim: '3.00'
   Walk: '0.00'
-- Rank: '14'
-  Name: Slimer
-  Group: ABM
-  FBID: Slimer1234
-  Total_Mileage: '63.72'
-  Badges: '3'
-  Run: '22.19'
-  Cycle: '20.93'
-  Swim: '6.05'
-  Walk: '3.51'
 - Rank: '15'
   Name: Jade
   Group: ABM
