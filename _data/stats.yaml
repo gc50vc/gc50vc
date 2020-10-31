@@ -12,10 +12,10 @@
   Name: Ben
   Group: ADW
   FBID: BY8362
-  Total_Mileage: '422.44'
+  Total_Mileage: '435.45'
   Badges: '12'
   Run: '108.21'
-  Cycle: '842.93'
+  Cycle: '894.96'
   Swim: '17.25'
   Walk: '0.00'
 - Rank: '3'
@@ -89,6 +89,16 @@
   Swim: '1.50'
   Walk: '0.00'
 - Rank: '10'
+  Name: K Y Leong
+  Group: ADSS/ADWS/ADWO
+  FBID: Kyxy2808
+  Total_Mileage: '153.49'
+  Badges: '4'
+  Run: '153.49'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '11'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -98,7 +108,7 @@
   Cycle: '60.37'
   Swim: '10.94'
   Walk: '70.67'
-- Rank: '11'
+- Rank: '12'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: WANG0165
@@ -108,7 +118,7 @@
   Cycle: '24.00'
   Swim: '0.88'
   Walk: '1.00'
-- Rank: '12'
+- Rank: '13'
   Name: yapoh
   Group: ADW
   FBID: yapoh0304
@@ -118,7 +128,7 @@
   Cycle: '220.00'
   Swim: '3.40'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: Nicholas Lian
   Group: ADW
   FBID: Horsepower2001
@@ -127,16 +137,6 @@
   Run: '74.47'
   Cycle: '30.26'
   Swim: '6.90'
-  Walk: '0.00'
-- Rank: '14'
-  Name: K Y Leong
-  Group: ADSS/ADWS/ADWO
-  FBID: Kyxy2808
-  Total_Mileage: '121.19'
-  Badges: '4'
-  Run: '121.19'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '15'
   Name: AdolphusJJ
@@ -2187,7 +2187,7 @@
   Run: '10.44'
   Cycle: '0.00'
   Swim: '1.00'
-  Walk: '20.00'
+  Walk: '70.00'
 - Rank: '220'
   Name: batu
   Group: ABM
