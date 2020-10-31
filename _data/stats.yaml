@@ -102,10 +102,10 @@
   Name: Euj
   Group: ATC
   FBID: Euj1871
-  Total_Mileage: '140.16'
+  Total_Mileage: '145.54'
   Badges: '7'
   Run: '59.43'
-  Cycle: '60.37'
+  Cycle: '81.86'
   Swim: '10.94'
   Walk: '70.67'
 - Rank: '12'
@@ -409,6 +409,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '42'
+  Name: Hanyong
+  Group: ADW
+  FBID: Hany2801
+  Total_Mileage: '76.11'
+  Badges: '3'
+  Run: '76.11'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '43'
   Name: Coral
   Group: ABM
   FBID: Coral5050
@@ -418,7 +428,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '9.48'
-- Rank: '43'
+- Rank: '44'
   Name: Keith low
   Group: ADSS/ADWS/ADWO
   FBID: Keithlow1998
@@ -428,7 +438,7 @@
   Cycle: '266.13'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '44'
+- Rank: '45'
   Name: JonChen
   Group: ADW
   FBID: JonChen0000
@@ -438,7 +448,7 @@
   Cycle: '270.53'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '45'
+- Rank: '46'
   Name: jheng
   Group: ADSS/ADWS/ADWO
   FBID: jheng0000
@@ -448,7 +458,7 @@
   Cycle: '41.15'
   Swim: '5.50'
   Walk: '0.00'
-- Rank: '46'
+- Rank: '47'
   Name: Cookie-ATC
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -458,7 +468,7 @@
   Cycle: '33.69'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '47'
+- Rank: '48'
   Name: Poon
   Group: ADSS/ADWS/ADWO
   FBID: Poon3636
@@ -468,7 +478,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '48'
+- Rank: '49'
   Name: Btee
   Group: AFE
   FBID: Brian0307
@@ -478,7 +488,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '49'
+- Rank: '50'
   Name: OLAF
   Group: ADW
   FBID: OLAF2156
@@ -488,7 +498,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '50'
+- Rank: '51'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -498,7 +508,7 @@
   Cycle: '88.00'
   Swim: '3.08'
   Walk: '0.79'
-- Rank: '51'
+- Rank: '52'
   Name: Vapor
   Group: ADW
   FBID: Vapor6148
@@ -508,7 +518,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '52'
+- Rank: '53'
   Name: Barter
   Group: ATC
   FBID: Reload0203
@@ -518,7 +528,7 @@
   Cycle: '194.50'
   Swim: '1.50'
   Walk: '13.50'
-- Rank: '53'
+- Rank: '54'
   Name: 'Tay Wen Hao '
   Group: ADW
   FBID: Wh8295
@@ -528,7 +538,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '54'
+- Rank: '55'
   Name: Quainapz
   Group: ADSS/ADWS/ADWO
   FBID: Quainapz8585
@@ -538,7 +548,7 @@
   Cycle: '0.00'
   Swim: '3.10'
   Walk: '2.30'
-- Rank: '55'
+- Rank: '56'
   Name: QUENCHER
   Group: ABM
   FBID: quencher2020
@@ -548,7 +558,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '56'
+- Rank: '57'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -558,7 +568,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '57'
+- Rank: '58'
   Name: PCK
   Group: ADW
   FBID: PCK2205
@@ -568,7 +578,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '58'
+- Rank: '59'
   Name: Andrew
   Group: ADW
   FBID: Hammer1990
@@ -578,7 +588,7 @@
   Cycle: '65.00'
   Swim: '3.00'
   Walk: '0.00'
-- Rank: '59'
+- Rank: '60'
   Name: Tan Chee Wee
   Group: ATC
   FBID: tancw1974
@@ -588,7 +598,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '60'
+- Rank: '61'
   Name: TT
   Group: ABM
   FBID: jiawei1989
@@ -598,7 +608,7 @@
   Cycle: '10.83'
   Swim: '0.00'
   Walk: '1.89'
-- Rank: '61'
+- Rank: '62'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -608,7 +618,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.28'
-- Rank: '62'
+- Rank: '63'
   Name: Benson
   Group: ADW
   FBID: benoi1234
@@ -618,7 +628,7 @@
   Cycle: '10.94'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '63'
+- Rank: '64'
   Name: Rats
   Group: ABM
   FBID: Rats1500
@@ -628,7 +638,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '64'
+- Rank: '65'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -638,23 +648,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '12.30'
-- Rank: '65'
+- Rank: '66'
   Name: BENteo
   Group: AFE
   FBID: BEN7452
   Total_Mileage: '55.06'
   Badges: '3'
   Run: '55.06'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '66'
-  Name: Hanyong
-  Group: ADW
-  FBID: Hany2801
-  Total_Mileage: '55.00'
-  Badges: '3'
-  Run: '55.00'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
