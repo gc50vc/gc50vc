@@ -319,6 +319,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '33'
+  Name: Ah Bing
+  Group: ADW
+  FBID: Bingo0507
+  Total_Mileage: '47.47'
+  Badges: '1'
+  Run: '25.83'
+  Cycle: '74.57'
+  Swim: '0.50'
+  Walk: '0.00'
+- Rank: '34'
   Name: Andrew
   Group: ADW
   FBID: Hammer1990
@@ -328,7 +338,7 @@
   Cycle: '100.06'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '34'
+- Rank: '35'
   Name: Benson
   Group: ADW
   FBID: benoi1234
@@ -338,7 +348,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: QUENCHER
   Group: ABM
   FBID: quencher2020
@@ -348,7 +358,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '36'
+- Rank: '37'
   Name: Barter
   Group: ATC
   FBID: Reload0203
@@ -358,7 +368,7 @@
   Cycle: '162.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '37'
+- Rank: '38'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -368,7 +378,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '38'
+- Rank: '39'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -378,7 +388,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '18.64'
-- Rank: '39'
+- Rank: '40'
   Name: Coral
   Group: ABM
   FBID: Coral5050
@@ -388,7 +398,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '40'
+- Rank: '41'
   Name: Rubiks
   Group: ABM
   FBID: Rubiks1234
@@ -397,16 +407,6 @@
   Run: '30.60'
   Cycle: '0.00'
   Swim: '2.10'
-  Walk: '0.00'
-- Rank: '41'
-  Name: Ah Bing
-  Group: ADW
-  FBID: Bingo0507
-  Total_Mileage: '42.26'
-  Badges: '1'
-  Run: '20.62'
-  Cycle: '74.57'
-  Swim: '0.50'
   Walk: '0.00'
 - Rank: '42'
   Name: Nicholas Lian
