@@ -39,6 +39,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '5'
+  Name: Lee Wen Yang
+  Group: AFE
+  FBID: LWY3942
+  Total_Mileage: '137.51'
+  Badges: '1'
+  Run: '14.61'
+  Cycle: '491.59'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '6'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -47,16 +57,6 @@
   Run: '56.65'
   Cycle: '218.70'
   Swim: '3.40'
-  Walk: '0.00'
-- Rank: '6'
-  Name: Lee Wen Yang
-  Group: AFE
-  FBID: LWY3942
-  Total_Mileage: '128.90'
-  Badges: '0'
-  Run: '6.00'
-  Cycle: '491.59'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '7'
   Name: Nicholas
@@ -3317,7 +3317,7 @@
   Run: '3.00'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
+  Walk: '5.00'
 - Rank: '330'
   Name: 3sg Russell Tan
   Group: ADSS/ADWS/ADWO
@@ -3589,6 +3589,26 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '360'
+  Name: Fabian
+  Group: AOSX/AOS
+  FBID: Bravo_plt3_s1001
+  Total_Mileage: '1.80'
+  Badges: ''
+  Run: '1.80'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '361'
+  Name: Fabiab
+  Group: AOSX/AOS
+  FBID: Bravo_plt3_s1002
+  Total_Mileage: '1.60'
+  Badges: ''
+  Run: '1.60'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '362'
   Name: Vapor
   Group: ADW
   FBID: Vapor6148
@@ -3598,7 +3618,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '361'
+- Rank: '363'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJE8702
@@ -3608,7 +3628,7 @@
   Cycle: '4.83'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '362'
+- Rank: '364'
   Name: Tok
   Group: AFE
   FBID: Tok1234
@@ -3618,7 +3638,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '25.33'
-- Rank: '362'
+- Rank: '364'
   Name: sx
   Group: ADSS/ADWS/ADWO
   FBID: sx2701
@@ -3628,7 +3648,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '8.50'
-- Rank: '362'
+- Rank: '364'
   Name: Ray
   Group: AFE
   FBID: rtancy2274
@@ -3638,7 +3658,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '46.90'
-- Rank: '362'
+- Rank: '364'
   Name: Jayaruban
   Group: AOSX/AOS
   FBID: Psycho4203
@@ -3648,7 +3668,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '10.49'
-- Rank: '362'
+- Rank: '364'
   Name: Poh Liong Wui
   Group: AFE
   FBID: Pohlw7878
@@ -3658,7 +3678,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '23.46'
-- Rank: '362'
+- Rank: '364'
   Name: JOVAN
   Group: ADW
   FBID: NIGHTOWL0313
@@ -3668,7 +3688,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '9.02'
-- Rank: '362'
+- Rank: '364'
   Name: MamaTrex
   Group: ADSS/ADWS/ADWO
   FBID: MamaTrex0247
@@ -3678,7 +3698,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.83'
-- Rank: '362'
+- Rank: '364'
   Name: LyAw
   Group: AFE
   FBID: LyAw5546
@@ -3688,7 +3708,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '41.02'
-- Rank: '362'
+- Rank: '364'
   Name: Allen Ong
   Group: AFE
   FBID: Longwind3686
@@ -3698,7 +3718,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '5.00'
-- Rank: '362'
+- Rank: '364'
   Name: 'Joanne '
   Group: AFE
   FBID: Jojo2210
@@ -3708,7 +3728,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '39.49'
-- Rank: '362'
+- Rank: '364'
   Name: Galvin Pang
   Group: AOSX/AOS
   FBID: galvin0832
@@ -3718,7 +3738,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.24'
-- Rank: '362'
+- Rank: '364'
   Name: aH Hui
   Group: ADSS/ADWS/ADWO
   FBID: Edgar0408
@@ -3728,7 +3748,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '2.36'
-- Rank: '362'
+- Rank: '364'
   Name: Austin Law
   Group: AFE
   FBID: Austin8888
@@ -3738,3 +3758,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '88.20'
+- Rank: '364'
+  Name: Asterix
+  Group: ABM
+  FBID: Asterix1987
+  Total_Mileage: '0.00'
+  Badges: ''
+  Run: '0.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '46.40'
