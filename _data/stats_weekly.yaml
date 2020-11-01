@@ -19,6 +19,16 @@
   Swim: '28.95'
   Walk: '0.00'
 - Rank: '3'
+  Name: LZX
+  Group: ADSS/ADWS/ADWO
+  FBID: leezx1337
+  Total_Mileage: '146.39'
+  Badges: '1'
+  Run: '17.83'
+  Cycle: '514.24'
+  Swim: '0.00'
+  Walk: '2.18'
+- Rank: '4'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -28,7 +38,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '4'
+- Rank: '5'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -38,16 +48,6 @@
   Cycle: '218.70'
   Swim: '3.40'
   Walk: '0.00'
-- Rank: '5'
-  Name: LZX
-  Group: ADSS/ADWS/ADWO
-  FBID: leezx1337
-  Total_Mileage: '130.20'
-  Badges: '1'
-  Run: '17.83'
-  Cycle: '449.49'
-  Swim: '0.00'
-  Walk: '2.18'
 - Rank: '6'
   Name: Lee Wen Yang
   Group: AFE
@@ -2049,6 +2049,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '206'
+  Name: TWIG
+  Group: ATC
+  FBID: TWIG2020
+  Total_Mileage: '8.71'
+  Badges: ''
+  Run: '8.71'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '207'
   Name: Rayson
   Group: ATC
   FBID: Shutter6277
@@ -2058,7 +2068,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '207'
+- Rank: '208'
   Name: Guang
   Group: ADSS/ADWS/ADWO
   FBID: Guang1309
@@ -2068,7 +2078,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '208'
+- Rank: '209'
   Name: Ryan Yong
   Group: ADSS/ADWS/ADWO
   FBID: rycs2812
@@ -2078,7 +2088,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '209'
+- Rank: '210'
   Name: Pock xuan
   Group: ADSS/ADWS/ADWO
   FBID: Bravoadws0000
@@ -2088,7 +2098,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.00'
-- Rank: '210'
+- Rank: '211'
   Name: Decoy
   Group: ADW
   FBID: Decoy2309
@@ -2098,7 +2108,7 @@
   Cycle: '33.20'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '211'
+- Rank: '212'
   Name: Tim Kan
   Group: ADW
   FBID: timkan1991
@@ -2108,7 +2118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '212'
+- Rank: '213'
   Name: Soh Thiam Hing
   Group: ADSS/ADWS/ADWO
   FBID: daffodilistic1337
@@ -2118,7 +2128,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '213'
+- Rank: '214'
   Name: Joel
   Group: AOSX/AOS
   FBID: Sparky1251
@@ -2128,7 +2138,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '214'
+- Rank: '215'
   Name: Flipper
   Group: ATC
   FBID: Flipper3338
@@ -2138,7 +2148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '6.11'
-- Rank: '215'
+- Rank: '216'
   Name: Yew Ming
   Group: ADW
   FBID: Weefie8869
@@ -2148,7 +2158,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '215'
+- Rank: '216'
   Name: Marcus
   Group: ADW
   FBID: Trident1107
@@ -2158,7 +2168,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '215'
+- Rank: '216'
   Name: Lin Weili
   Group: AOSX/AOS
   FBID: Michelin5052
@@ -2168,7 +2178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '215'
+- Rank: '216'
   Name: Chisel
   Group: ADW
   FBID: Chisel2305
@@ -2178,7 +2188,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '219'
+- Rank: '220'
   Name: Rong Sheng
   Group: ADSS/ADWS/ADWO
   FBID: Rong2208
@@ -2188,7 +2198,7 @@
   Cycle: '30.68'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '220'
+- Rank: '221'
   Name: Gregg
   Group: ADSS/ADWS/ADWO
   FBID: Hoodini2112
@@ -2198,7 +2208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '221'
+- Rank: '222'
   Name: JOLLY
   Group: ADW
   FBID: JOLLY8178
@@ -2208,7 +2218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '222'
+- Rank: '223'
   Name: POR KB
   Group: AFE
   FBID: AP0316
@@ -2218,7 +2228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '223'
+- Rank: '224'
   Name: Rajaan
   Group: ADSS/ADWS/ADWO
   FBID: Rajaanleon0021
@@ -2228,23 +2238,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '224'
+- Rank: '225'
   Name: Darren Sum
   Group: ADW
   FBID: sum2506
   Total_Mileage: '7.22'
   Badges: ''
   Run: '7.22'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '225'
-  Name: TWIG
-  Group: ATC
-  FBID: TWIG2020
-  Total_Mileage: '7.21'
-  Badges: ''
-  Run: '7.21'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
