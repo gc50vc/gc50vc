@@ -589,6 +589,16 @@
   Swim: '3.10'
   Walk: '2.30'
 - Rank: '60'
+  Name: TT
+  Group: ABM
+  FBID: jiawei1989
+  Total_Mileage: '69.02'
+  Badges: '3'
+  Run: '66.31'
+  Cycle: '10.83'
+  Swim: '0.00'
+  Walk: '1.89'
+- Rank: '61'
   Name: Cookie-ATC
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -598,7 +608,7 @@
   Cycle: '33.69'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '61'
+- Rank: '62'
   Name: OLAF
   Group: ADW
   FBID: OLAF2156
@@ -608,7 +618,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '62'
+- Rank: '63'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -618,7 +628,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '63'
+- Rank: '64'
   Name: Barter
   Group: ATC
   FBID: Reload0203
@@ -628,16 +638,6 @@
   Cycle: '203.00'
   Swim: '1.50'
   Walk: '13.50'
-- Rank: '64'
-  Name: TT
-  Group: ABM
-  FBID: jiawei1989
-  Total_Mileage: '64.00'
-  Badges: '3'
-  Run: '61.29'
-  Cycle: '10.83'
-  Swim: '0.00'
-  Walk: '1.89'
 - Rank: '65'
   Name: Rock
   Group: ADW
