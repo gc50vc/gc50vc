@@ -447,7 +447,7 @@
   Run: '34.34'
   Cycle: '88.00'
   Swim: '3.08'
-  Walk: '0.79'
+  Walk: '1.91'
 - Rank: '46'
   Name: JonChen
   Group: ADW
@@ -589,6 +589,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '60'
+  Name: Benson
+  Group: ADW
+  FBID: benoi1234
+  Total_Mileage: '60.81'
+  Badges: '3'
+  Run: '58.07'
+  Cycle: '10.94'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '61'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -598,7 +608,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '61'
+- Rank: '62'
   Name: Weng
   Group: ADSS/ADWS/ADWO
   FBID: Weng8238
@@ -608,7 +618,7 @@
   Cycle: '196.53'
   Swim: '0.00'
   Walk: '12.83'
-- Rank: '62'
+- Rank: '63'
   Name: PCK
   Group: ADW
   FBID: PCK2205
@@ -618,7 +628,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '63'
+- Rank: '64'
   Name: Andrew
   Group: ADW
   FBID: Hammer1990
@@ -628,7 +638,7 @@
   Cycle: '65.00'
   Swim: '3.00'
   Walk: '0.00'
-- Rank: '64'
+- Rank: '65'
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
@@ -638,7 +648,7 @@
   Cycle: '0.00'
   Swim: '1.03'
   Walk: '4.00'
-- Rank: '65'
+- Rank: '66'
   Name: Tan Chee Wee
   Group: ATC
   FBID: tancw1974
@@ -648,7 +658,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '66'
+- Rank: '67'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -658,16 +668,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.28'
-- Rank: '67'
-  Name: Benson
-  Group: ADW
-  FBID: benoi1234
-  Total_Mileage: '55.81'
-  Badges: '3'
-  Run: '53.07'
-  Cycle: '10.94'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '68'
   Name: Rats
   Group: ABM
