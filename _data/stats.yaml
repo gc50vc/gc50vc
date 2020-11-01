@@ -879,6 +879,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '89'
+  Name: Gwyn
+  Group: ADW
+  FBID: Magma1201
+  Total_Mileage: '50.05'
+  Badges: '3'
+  Run: '38.40'
+  Cycle: '46.60'
+  Swim: '0.00'
+  Walk: '8.93'
+- Rank: '90'
   Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
   FBID: LeonYeo2590
@@ -888,7 +898,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '90'
+- Rank: '91'
   Name: Iggy
   Group: ADSS/ADWS/ADWO
   FBID: Iggy7900
@@ -898,7 +908,7 @@
   Cycle: '179.47'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '91'
+- Rank: '92'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
   FBID: Ahbye1234
@@ -908,16 +918,6 @@
   Cycle: '99.03'
   Swim: '0.50'
   Walk: '6.00'
-- Rank: '92'
-  Name: Gwyn
-  Group: ADW
-  FBID: Magma1201
-  Total_Mileage: '48.75'
-  Badges: '3'
-  Run: '37.10'
-  Cycle: '46.60'
-  Swim: '0.00'
-  Walk: '8.93'
 - Rank: '93'
   Name: Fu Hao Wei
   Group: ADW
