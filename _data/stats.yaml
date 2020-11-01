@@ -389,6 +389,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '40'
+  Name: Vapor
+  Group: ADW
+  FBID: Vapor6148
+  Total_Mileage: '93.94'
+  Badges: '3'
+  Run: '93.94'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '41'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -398,7 +408,7 @@
   Cycle: '273.21'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '41'
+- Rank: '42'
   Name: Daniel Tay
   Group: AOSX/AOS
   FBID: Corrupt2705
@@ -408,7 +418,7 @@
   Cycle: '0.00'
   Swim: '8.50'
   Walk: '0.00'
-- Rank: '42'
+- Rank: '43'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -418,7 +428,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '43'
+- Rank: '44'
   Name: Cosmo
   Group: ABM
   FBID: Cosmo6306
@@ -428,7 +438,7 @@
   Cycle: '0.00'
   Swim: '0.50'
   Walk: '10.51'
-- Rank: '44'
+- Rank: '45'
   Name: Coral
   Group: ABM
   FBID: Coral5050
@@ -438,7 +448,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '9.48'
-- Rank: '45'
+- Rank: '46'
   Name: Rubiks
   Group: ABM
   FBID: Rubiks1234
@@ -448,7 +458,7 @@
   Cycle: '41.78'
   Swim: '2.10'
   Walk: '0.00'
-- Rank: '46'
+- Rank: '47'
   Name: Andrew
   Group: ADW
   FBID: Hammer1990
@@ -457,16 +467,6 @@
   Run: '23.53'
   Cycle: '165.06'
   Swim: '3.00'
-  Walk: '0.00'
-- Rank: '47'
-  Name: Vapor
-  Group: ADW
-  FBID: Vapor6148
-  Total_Mileage: '81.55'
-  Badges: '3'
-  Run: '81.55'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '48'
   Name: jheng
