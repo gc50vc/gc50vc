@@ -2060,6 +2060,12 @@
   name: TRIPS
   definition: ''
   Week: '2'
+- timestamp: '2020-11-01 13:31:32'
+  fbid: psychic2204
+  badge: Baby Steps
+  name: Psychic
+  definition: ''
+  Week: '2'
 - timestamp: '2020-10-22 18:39:38'
   fbid: BY8362
   badge: Half Ironman
@@ -3888,6 +3894,12 @@
   fbid: Steyr6963
   badge: Mount Everest
   name: Steyr
+  definition: ''
+  Week: '2'
+- timestamp: '2020-11-01 13:31:32'
+  fbid: psychic2204
+  badge: Mount Everest
+  name: Psychic
   definition: ''
   Week: '2'
 - timestamp: '2020-10-22 00:35:59'
