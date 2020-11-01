@@ -49,6 +49,16 @@
   Swim: '0.00'
   Walk: '2.18'
 - Rank: '6'
+  Name: Lee Wen Yang
+  Group: AFE
+  FBID: LWY3942
+  Total_Mileage: '116.40'
+  Badges: '0'
+  Run: '6.00'
+  Cycle: '441.59'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '7'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -58,7 +68,7 @@
   Cycle: '81.86'
   Swim: '9.84'
   Walk: '29.68'
-- Rank: '7'
+- Rank: '8'
   Name: Hasty
   Group: ADW
   FBID: Hasty55555
@@ -66,16 +76,6 @@
   Badges: '1'
   Run: '81.48'
   Cycle: '51.63'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '8'
-  Name: Lee Wen Yang
-  Group: AFE
-  FBID: LWY3942
-  Total_Mileage: '91.40'
-  Badges: '0'
-  Run: '6.00'
-  Cycle: '341.59'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '9'
