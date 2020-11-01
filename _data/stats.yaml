@@ -109,6 +109,16 @@
   Swim: '11.87'
   Walk: '70.67'
 - Rank: '12'
+  Name: Leonard ong
+  Group: ADSS/ADWS/ADWO
+  FBID: WANG0165
+  Total_Mileage: '145.10'
+  Badges: '5'
+  Run: '128.42'
+  Cycle: '24.00'
+  Swim: '1.78'
+  Walk: '1.00'
+- Rank: '13'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -118,16 +128,6 @@
   Cycle: '16.60'
   Swim: '1.95'
   Walk: '0.00'
-- Rank: '13'
-  Name: Leonard ong
-  Group: ADSS/ADWS/ADWO
-  FBID: WANG0165
-  Total_Mileage: '139.70'
-  Badges: '4'
-  Run: '128.42'
-  Cycle: '24.00'
-  Swim: '0.88'
-  Walk: '1.00'
 - Rank: '14'
   Name: yapoh
   Group: ADW
@@ -329,6 +329,16 @@
   Swim: '1.15'
   Walk: '0.00'
 - Rank: '34'
+  Name: 'Tan Swee Kiat '
+  Group: ADW
+  FBID: Eskay0077
+  Total_Mileage: '98.34'
+  Badges: '3'
+  Run: '98.34'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '11.68'
+- Rank: '35'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -338,7 +348,7 @@
   Cycle: '72.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -348,7 +358,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '36'
+- Rank: '37'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -358,7 +368,7 @@
   Cycle: '216.46'
   Swim: '4.10'
   Walk: '0.00'
-- Rank: '37'
+- Rank: '38'
   Name: 'TiGeR3 '
   Group: ADSS/ADWS/ADWO
   FBID: TiGeR2876
@@ -368,7 +378,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '38'
+- Rank: '39'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -378,7 +388,7 @@
   Cycle: '273.21'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '39'
+- Rank: '40'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -388,16 +398,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '40'
-  Name: 'Tan Swee Kiat '
-  Group: ADW
-  FBID: Eskay0077
-  Total_Mileage: '88.34'
-  Badges: '3'
-  Run: '88.34'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '11.68'
 - Rank: '41'
   Name: Daniel Tay
   Group: AOSX/AOS
