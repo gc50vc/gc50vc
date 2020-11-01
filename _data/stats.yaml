@@ -709,6 +709,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '72'
+  Name: Lightyear
+  Group: ADW
+  FBID: Lightyear2020
+  Total_Mileage: '58.07'
+  Badges: '3'
+  Run: '58.07'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '73'
   Name: Lava
   Group: ATC
   FBID: Lava1717
@@ -718,7 +728,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '73'
+- Rank: '74'
   Name: Yun Jie (Rhythm)
   Group: ADW
   FBID: Jabez8686
@@ -728,7 +738,7 @@
   Cycle: '0.00'
   Swim: '8.45'
   Walk: '4.80'
-- Rank: '74'
+- Rank: '75'
   Name: Geeky
   Group: ADW
   FBID: Geeky1989
@@ -738,7 +748,7 @@
   Cycle: '0.00'
   Swim: '3.50'
   Walk: '22.57'
-- Rank: '75'
+- Rank: '76'
   Name: Tan Chee Wee
   Group: ATC
   FBID: tancw1974
@@ -748,7 +758,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '76'
+- Rank: '77'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -758,7 +768,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.28'
-- Rank: '77'
+- Rank: '78'
   Name: Rats
   Group: ABM
   FBID: Rats1500
@@ -768,7 +778,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '78'
+- Rank: '79'
   Name: BENteo
   Group: AFE
   FBID: BEN7452
@@ -778,7 +788,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '79'
+- Rank: '80'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -788,16 +798,6 @@
   Cycle: '18.27'
   Swim: '0.00'
   Walk: '3.42'
-- Rank: '80'
-  Name: Lightyear
-  Group: ADW
-  FBID: Lightyear2020
-  Total_Mileage: '53.01'
-  Badges: '3'
-  Run: '53.01'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '81'
   Name: 3sg Charlie
   Group: ADSS/ADWS/ADWO
