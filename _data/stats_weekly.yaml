@@ -59,6 +59,16 @@
   Swim: '3.40'
   Walk: '0.00'
 - Rank: '7'
+  Name: T-rex
+  Group: ABM
+  FBID: Trex1406
+  Total_Mileage: '130.04'
+  Badges: '1'
+  Run: '70.16'
+  Cycle: '90.73'
+  Swim: '6.20'
+  Walk: '0.00'
+- Rank: '8'
   Name: Nicholas
   Group: ADSS/ADWS/ADWO
   FBID: Nn1974
@@ -68,16 +78,6 @@
   Cycle: '270.82'
   Swim: '3.00'
   Walk: '2.10'
-- Rank: '8'
-  Name: T-rex
-  Group: ABM
-  FBID: Trex1406
-  Total_Mileage: '107.36'
-  Badges: '1'
-  Run: '70.16'
-  Cycle: '0.00'
-  Swim: '6.20'
-  Walk: '0.00'
 - Rank: '9'
   Name: Euj
   Group: ATC
