@@ -29,6 +29,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '4'
+  Name: Sloh
+  Group: ADW
+  FBID: Sloh0121
+  Total_Mileage: '131.73'
+  Badges: '2'
+  Run: '56.65'
+  Cycle: '218.70'
+  Swim: '3.40'
+  Walk: '0.00'
+- Rank: '5'
   Name: LZX
   Group: ADSS/ADWS/ADWO
   FBID: leezx1337
@@ -38,16 +48,6 @@
   Cycle: '449.49'
   Swim: '0.00'
   Walk: '2.18'
-- Rank: '5'
-  Name: Sloh
-  Group: ADW
-  FBID: Sloh0121
-  Total_Mileage: '107.69'
-  Badges: '1'
-  Run: '32.61'
-  Cycle: '218.70'
-  Swim: '3.40'
-  Walk: '0.00'
 - Rank: '6'
   Name: Euj
   Group: ATC
