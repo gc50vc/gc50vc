@@ -1199,6 +1199,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '121'
+  Name: Yew Choong
+  Group: ADSS/ADWS/ADWO
+  FBID: GGXC0160
+  Total_Mileage: '39.01'
+  Badges: '2'
+  Run: '39.01'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '19.25'
+- Rank: '122'
   Name: Steroid
   Group: ATC
   FBID: Steroid1007
@@ -1208,7 +1218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '122'
+- Rank: '123'
   Name: 'Sengie '
   Group: ADW
   FBID: ARIAL0160
@@ -1218,7 +1228,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '4.50'
-- Rank: '123'
+- Rank: '124'
   Name: Spaceman
   Group: ADW
   FBID: spaceman1234
@@ -1228,7 +1238,7 @@
   Cycle: '0.00'
   Swim: '4.80'
   Walk: '0.00'
-- Rank: '124'
+- Rank: '125'
   Name: YK
   Group: ADSS/ADWS/ADWO
   FBID: yk2574
@@ -1238,7 +1248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '125'
+- Rank: '126'
   Name: Sean Chua
   Group: ADSS/ADWS/ADWO
   FBID: Stop0001
@@ -1248,7 +1258,7 @@
   Cycle: '13.70'
   Swim: '0.00'
   Walk: '1.04'
-- Rank: '126'
+- Rank: '127'
   Name: ARROW
   Group: ADW
   FBID: Tee1980
@@ -1258,7 +1268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '127'
+- Rank: '128'
   Name: Jing Wee
   Group: ADSS/ADWS/ADWO
   FBID: Pork2070
@@ -1268,7 +1278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '128'
+- Rank: '129'
   Name: Lim Kian Hock
   Group: AFE
   FBID: Jon3445
@@ -1278,7 +1288,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '129'
+- Rank: '130'
   Name: KevinKKW
   Group: ADSS/ADWS/ADWO
   FBID: Kkkw0165
@@ -1288,16 +1298,6 @@
   Cycle: '57.70'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '130'
-  Name: Yew Choong
-  Group: ADSS/ADWS/ADWO
-  FBID: GGXC0160
-  Total_Mileage: '36.01'
-  Badges: '2'
-  Run: '36.01'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '19.25'
 - Rank: '131'
   Name: Andre
   Group: ADSS/ADWS/ADWO
