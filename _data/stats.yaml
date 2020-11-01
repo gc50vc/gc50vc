@@ -29,6 +29,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '4'
+  Name: Sloh
+  Group: ADW
+  FBID: Sloh0121
+  Total_Mileage: '271.25'
+  Badges: '11'
+  Run: '103.82'
+  Cycle: '537.71'
+  Swim: '5.50'
+  Walk: '0.00'
+- Rank: '5'
   Name: Hasty
   Group: ADW
   FBID: Hasty55555
@@ -38,7 +48,7 @@
   Cycle: '51.63'
   Swim: '7.00'
   Walk: '0.00'
-- Rank: '5'
+- Rank: '6'
   Name: LZX
   Group: ADSS/ADWS/ADWO
   FBID: leezx1337
@@ -48,16 +58,6 @@
   Cycle: '871.71'
   Swim: '0.00'
   Walk: '2.18'
-- Rank: '6'
-  Name: Sloh
-  Group: ADW
-  FBID: Sloh0121
-  Total_Mileage: '247.21'
-  Badges: '10'
-  Run: '79.78'
-  Cycle: '537.71'
-  Swim: '5.50'
-  Walk: '0.00'
 - Rank: '7'
   Name: T-rex
   Group: ABM
