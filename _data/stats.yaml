@@ -1829,6 +1829,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '184'
+  Name: Psychic
+  Group: ATC
+  FBID: psychic2204
+  Total_Mileage: '21.00'
+  Badges: '2'
+  Run: '17.43'
+  Cycle: '14.29'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '185'
   Name: 'Windy '
   Group: ABM
   FBID: Windy4444
@@ -1838,7 +1848,7 @@
   Cycle: '0.00'
   Swim: '3.50'
   Walk: '0.00'
-- Rank: '185'
+- Rank: '186'
   Name: Zinc
   Group: ADW
   FBID: zinc1997
@@ -1848,7 +1858,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '5.65'
-- Rank: '186'
+- Rank: '187'
   Name: Essay
   Group: ADW
   FBID: Essay7696
@@ -1858,7 +1868,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '5.16'
-- Rank: '187'
+- Rank: '188'
   Name: Jinson
   Group: AOSX/AOS
   FBID: Ironman1234
@@ -1868,7 +1878,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '188'
+- Rank: '189'
   Name: Malice
   Group: ABM
   FBID: Malice2323
@@ -1878,7 +1888,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '189'
+- Rank: '190'
   Name: Logan
   Group: ABM
   FBID: Logan0001
@@ -1888,7 +1898,7 @@
   Cycle: '21.13'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '190'
+- Rank: '191'
   Name: Volley
   Group: ADW
   FBID: Volley1543
@@ -1898,7 +1908,7 @@
   Cycle: '19.16'
   Swim: '0.95'
   Walk: '0.00'
-- Rank: '191'
+- Rank: '192'
   Name: Songbird
   Group: ABM
   FBID: Songbird1904
@@ -1908,7 +1918,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '192'
+- Rank: '193'
   Name: Duster
   Group: ABM
   FBID: Yeogpg5892
@@ -1918,7 +1928,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '193'
+- Rank: '194'
   Name: Button
   Group: ATC
   FBID: Button9029
@@ -1928,7 +1938,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '194'
+- Rank: '195'
   Name: DOMINIC
   Group: ADW
   FBID: Dom9898
@@ -1938,7 +1948,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '195'
+- Rank: '196'
   Name: JIN
   Group: ADSS/ADWS/ADWO
   FBID: JIN1999
@@ -1948,7 +1958,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '196'
+- Rank: '197'
   Name: Andreas
   Group: ADW
   FBID: Andreas1003
@@ -1958,7 +1968,7 @@
   Cycle: '42.50'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '197'
+- Rank: '198'
   Name: Hy
   Group: ATC
   FBID: huangyi2111
@@ -1968,7 +1978,7 @@
   Cycle: '11.52'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '198'
+- Rank: '199'
   Name: Dubs
   Group: ADW
   FBID: Dubs0002
@@ -1978,7 +1988,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '199'
+- Rank: '200'
   Name: JYFS
   Group: ADSS/ADWS/ADWO
   FBID: Golddigger6449
@@ -1988,7 +1998,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '200'
+- Rank: '201'
   Name: Nigel Tan
   Group: ADW
   FBID: lavahound0404
@@ -1998,7 +2008,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '201'
+- Rank: '202'
   Name: TRIPS
   Group: ATC
   FBID: TRIPS_0000
@@ -2008,7 +2018,7 @@
   Cycle: '63.28'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '202'
+- Rank: '203'
   Name: Spacebar
   Group: ADW
   FBID: Spacebar5647
@@ -2018,7 +2028,7 @@
   Cycle: '0.00'
   Swim: '1.50'
   Walk: '5.12'
-- Rank: '203'
+- Rank: '204'
   Name: Yew Ming
   Group: ADW
   FBID: Weefie8869
@@ -2028,7 +2038,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '203'
+- Rank: '204'
   Name: Ram
   Group: ADW
   FBID: ram7267
@@ -2038,7 +2048,7 @@
   Cycle: '0.00'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '205'
+- Rank: '206'
   Name: Chin Yong
   Group: ADSS/ADWS/ADWO
   FBID: Relaxing1234
@@ -2048,7 +2058,7 @@
   Cycle: '55.45'
   Swim: '0.00'
   Walk: '32.77'
-- Rank: '206'
+- Rank: '207'
   Name: Justice
   Group: ATC
   FBID: Justice0827
@@ -2058,7 +2068,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '207'
+- Rank: '208'
   Name: rylchan
   Group: ATC
   FBID: pebble1234
@@ -2068,16 +2078,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '4.20'
-- Rank: '208'
-  Name: Psychic
-  Group: ATC
-  FBID: psychic2204
-  Total_Mileage: '18.60'
-  Badges: '2'
-  Run: '15.03'
-  Cycle: '14.29'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '209'
   Name: Rajaan
   Group: ADSS/ADWS/ADWO
