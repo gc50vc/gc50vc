@@ -12,9 +12,9 @@
   Name: Ben
   Group: ADW
   FBID: BY8362
-  Total_Mileage: '481.19'
+  Total_Mileage: '497.21'
   Badges: '12'
-  Run: '118.34'
+  Run: '134.36'
   Cycle: '915.01'
   Swim: '22.35'
   Walk: '0.00'
@@ -1149,6 +1149,16 @@
   Swim: '0.00'
   Walk: '1.04'
 - Rank: '116'
+  Name: ARROW
+  Group: ADW
+  FBID: Tee1980
+  Total_Mileage: '37.78'
+  Badges: '2'
+  Run: '37.78'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '117'
   Name: Jing Wee
   Group: ADSS/ADWS/ADWO
   FBID: Pork2070
@@ -1158,7 +1168,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '117'
+- Rank: '118'
   Name: KevinKKW
   Group: ADSS/ADWS/ADWO
   FBID: Kkkw0165
@@ -1168,7 +1178,7 @@
   Cycle: '57.70'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '118'
+- Rank: '119'
   Name: Wan Yuan
   Group: ADW
   FBID: Lost1908
@@ -1178,7 +1188,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '119'
+- Rank: '120'
   Name: Yew Choong
   Group: ADSS/ADWS/ADWO
   FBID: GGXC0160
@@ -1188,7 +1198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '19.25'
-- Rank: '120'
+- Rank: '121'
   Name: Wong Wei Ming
   Group: ATC
   FBID: Shadow0206
@@ -1198,7 +1208,7 @@
   Cycle: '0.00'
   Swim: '2.14'
   Walk: '0.00'
-- Rank: '121'
+- Rank: '122'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -1208,7 +1218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '122'
+- Rank: '123'
   Name: Halu
   Group: AFE
   FBID: Halu1805
@@ -1218,7 +1228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '123'
+- Rank: '124'
   Name: JTZH
   Group: ADSS/ADWS/ADWO
   FBID: Joshua2209
@@ -1228,7 +1238,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '124'
+- Rank: '125'
   Name: Dennis
   Group: ADSS/ADWS/ADWO
   FBID: Dennis0495
@@ -1238,7 +1248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '125'
+- Rank: '126'
   Name: Andre
   Group: ADSS/ADWS/ADWO
   FBID: Wagon6190
@@ -1248,7 +1258,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '126'
+- Rank: '127'
   Name: Pixel EQ
   Group: AOSX/AOS
   FBID: Pixel0323
@@ -1258,16 +1268,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.70'
-- Rank: '127'
-  Name: ARROW
-  Group: ADW
-  FBID: Tee1980
-  Total_Mileage: '32.67'
-  Badges: '2'
-  Run: '32.67'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '128'
   Name: Cactus
   Group: ADSS/ADWS/ADWO
