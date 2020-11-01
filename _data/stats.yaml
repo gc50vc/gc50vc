@@ -419,6 +419,16 @@
   Swim: '8.50'
   Walk: '0.00'
 - Rank: '43'
+  Name: Cosmo
+  Group: ABM
+  FBID: Cosmo6306
+  Total_Mileage: '87.11'
+  Badges: '3'
+  Run: '84.11'
+  Cycle: '0.00'
+  Swim: '0.50'
+  Walk: '10.51'
+- Rank: '44'
   Name: Coral
   Group: ABM
   FBID: Coral5050
@@ -428,16 +438,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '9.48'
-- Rank: '44'
-  Name: Cosmo
-  Group: ABM
-  FBID: Cosmo6306
-  Total_Mileage: '84.11'
-  Badges: '3'
-  Run: '84.11'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '10.51'
 - Rank: '45'
   Name: Rubiks
   Group: ABM
