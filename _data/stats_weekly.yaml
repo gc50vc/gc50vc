@@ -59,6 +59,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '7'
+  Name: Manfred
+  Group: ADSS/ADWS/ADWO
+  FBID: Manfred1307
+  Total_Mileage: '4.63'
+  Badges: '1'
+  Run: '4.63'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '8'
   Name: COVID
   Group: ADSS/ADWS/ADWO
   FBID: COVID9999
@@ -68,7 +78,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '12.80'
-- Rank: '8'
+- Rank: '9'
   Name: Laser
   Group: ADW
   FBID: Laser1993
