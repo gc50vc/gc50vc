@@ -689,6 +689,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '70'
+  Name: Lava
+  Group: ATC
+  FBID: Lava1717
+  Total_Mileage: '57.63'
+  Badges: '3'
+  Run: '57.63'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '71'
   Name: Tan Chee Wee
   Group: ATC
   FBID: tancw1974
@@ -698,7 +708,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '71'
+- Rank: '72'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -708,7 +718,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.28'
-- Rank: '72'
+- Rank: '73'
   Name: Rats
   Group: ABM
   FBID: Rats1500
@@ -718,7 +728,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '73'
+- Rank: '74'
   Name: BENteo
   Group: AFE
   FBID: BEN7452
@@ -728,7 +738,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '74'
+- Rank: '75'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -738,7 +748,7 @@
   Cycle: '18.27'
   Swim: '0.00'
   Walk: '3.42'
-- Rank: '75'
+- Rank: '76'
   Name: Lightyear
   Group: ADW
   FBID: Lightyear2020
@@ -748,7 +758,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '76'
+- Rank: '77'
   Name: 3sg Charlie
   Group: ADSS/ADWS/ADWO
   FBID: Charlie2539
@@ -758,7 +768,7 @@
   Cycle: '0.00'
   Swim: '2.45'
   Walk: '0.00'
-- Rank: '77'
+- Rank: '78'
   Name: Yeow Teck
   Group: AOSX/AOS
   FBID: Youtube6116
@@ -768,7 +778,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '78'
+- Rank: '79'
   Name: Rambo
   Group: AOSX/AOS
   FBID: Rambo0113
@@ -778,7 +788,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '79'
+- Rank: '80'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: Errick1991
@@ -788,23 +798,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '80'
+- Rank: '81'
   Name: francisyap
   Group: AFE
   FBID: francis7373
   Total_Mileage: '50.93'
   Badges: '3'
   Run: '50.93'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '81'
-  Name: Lava
-  Group: ATC
-  FBID: Lava1717
-  Total_Mileage: '50.24'
-  Badges: '3'
-  Run: '50.24'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
@@ -1479,6 +1479,16 @@
   Swim: '2.00'
   Walk: '0.00'
 - Rank: '149'
+  Name: Sunray
+  Group: ABM
+  FBID: Sunray0909
+  Total_Mileage: '28.66'
+  Badges: '2'
+  Run: '5.10'
+  Cycle: '94.23'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '150'
   Name: Der Siang
   Group: ATC
   FBID: Aku1234
@@ -1488,7 +1498,7 @@
   Cycle: '13.39'
   Swim: '1.60'
   Walk: '0.00'
-- Rank: '150'
+- Rank: '151'
   Name: Pterlek
   Group: ATC
   FBID: Conman7361
@@ -1498,7 +1508,7 @@
   Cycle: '0.00'
   Swim: '4.50'
   Walk: '6.49'
-- Rank: '151'
+- Rank: '152'
   Name: Hayden
   Group: ADSS/ADWS/ADWO
   FBID: Hayden0165
@@ -1508,7 +1518,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '152'
+- Rank: '153'
   Name: Kush
   Group: AFE
   FBID: KM1695
@@ -1518,7 +1528,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '68.27'
-- Rank: '153'
+- Rank: '154'
   Name: 'Beatbox '
   Group: ABM
   FBID: Beatbox0202
@@ -1528,16 +1538,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '7.54'
-- Rank: '154'
-  Name: Sunray
-  Group: ABM
-  FBID: Sunray0909
-  Total_Mileage: '26.26'
-  Badges: '2'
-  Run: '2.70'
-  Cycle: '94.23'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '155'
   Name: Pat160A
   Group: ADSS/ADWS/ADWO
