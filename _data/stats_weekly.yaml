@@ -159,6 +159,16 @@
   Swim: '10.45'
   Walk: '0.00'
 - Rank: '17'
+  Name: Btee
+  Group: AFE
+  FBID: Brian0307
+  Total_Mileage: '72.99'
+  Badges: '2'
+  Run: '72.99'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '18'
   Name: Xiaolow3344
   Group: ADSS/ADWS/ADWO
   FBID: Xiaolow3344
@@ -168,7 +178,7 @@
   Cycle: '0.00'
   Swim: '11.55'
   Walk: '30.99'
-- Rank: '18'
+- Rank: '19'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -178,7 +188,7 @@
   Cycle: '278.99'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '19'
+- Rank: '20'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -188,7 +198,7 @@
   Cycle: '263.07'
   Swim: '0.00'
   Walk: '2.19'
-- Rank: '20'
+- Rank: '21'
   Name: yapoh
   Group: ADW
   FBID: Yapoh0304
@@ -198,7 +208,7 @@
   Cycle: '60.00'
   Swim: '3.40'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -208,7 +218,7 @@
   Cycle: '16.60'
   Swim: '1.95'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -218,7 +228,7 @@
   Cycle: '116.57'
   Swim: '2.10'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -228,16 +238,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.17'
-- Rank: '24'
-  Name: Btee
-  Group: AFE
-  FBID: Brian0307
-  Total_Mileage: '58.86'
-  Badges: '1'
-  Run: '58.86'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '25'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
