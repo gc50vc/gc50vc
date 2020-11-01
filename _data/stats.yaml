@@ -309,6 +309,16 @@
   Swim: '0.00'
   Walk: '64.00'
 - Rank: '32'
+  Name: Ah Bing
+  Group: ADW
+  FBID: Bingo0507
+  Total_Mileage: '98.78'
+  Badges: '4'
+  Run: '73.24'
+  Cycle: '74.57'
+  Swim: '1.15'
+  Walk: '0.00'
+- Rank: '33'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -318,7 +328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '34'
   Name: Bronson
   Group: ADW
   FBID: Bronze1234
@@ -328,7 +338,7 @@
   Cycle: '40.17'
   Swim: '10.03'
   Walk: '0.00'
-- Rank: '34'
+- Rank: '35'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -338,7 +348,7 @@
   Cycle: '216.46'
   Swim: '4.10'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: 'TiGeR3 '
   Group: ADSS/ADWS/ADWO
   FBID: TiGeR2876
@@ -347,16 +357,6 @@
   Run: '94.86'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '36'
-  Name: Ah Bing
-  Group: ADW
-  FBID: Bingo0507
-  Total_Mileage: '93.57'
-  Badges: '4'
-  Run: '68.03'
-  Cycle: '74.57'
-  Swim: '1.15'
   Walk: '0.00'
 - Rank: '37'
   Name: PIXAR
