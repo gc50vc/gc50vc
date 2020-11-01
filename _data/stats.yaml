@@ -439,6 +439,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '45'
+  Name: Liwei
+  Group: ADW
+  FBID: dragongate5270
+  Total_Mileage: '74.79'
+  Badges: '4'
+  Run: '34.34'
+  Cycle: '88.00'
+  Swim: '3.08'
+  Walk: '0.79'
+- Rank: '46'
   Name: JonChen
   Group: ADW
   FBID: JonChen0000
@@ -448,7 +458,7 @@
   Cycle: '270.53'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '46'
+- Rank: '47'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -458,7 +468,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '12.30'
-- Rank: '47'
+- Rank: '48'
   Name: jheng
   Group: ADSS/ADWS/ADWO
   FBID: jheng0000
@@ -468,7 +478,7 @@
   Cycle: '41.15'
   Swim: '5.50'
   Walk: '0.00'
-- Rank: '48'
+- Rank: '49'
   Name: Cookie-ATC
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -478,7 +488,7 @@
   Cycle: '33.69'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '49'
+- Rank: '50'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -488,7 +498,7 @@
   Cycle: '25.04'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '50'
+- Rank: '51'
   Name: Poon
   Group: ADSS/ADWS/ADWO
   FBID: Poon3636
@@ -498,7 +508,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '51'
+- Rank: '52'
   Name: Btee
   Group: AFE
   FBID: Brian0307
@@ -508,7 +518,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '52'
+- Rank: '53'
   Name: OLAF
   Group: ADW
   FBID: OLAF2156
@@ -518,16 +528,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '53'
-  Name: Liwei
-  Group: ADW
-  FBID: dragongate5270
-  Total_Mileage: '65.78'
-  Badges: '4'
-  Run: '25.33'
-  Cycle: '88.00'
-  Swim: '3.08'
-  Walk: '0.79'
 - Rank: '54'
   Name: Vapor
   Group: ADW
