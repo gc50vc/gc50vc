@@ -1359,6 +1359,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '137'
+  Name: COVID
+  Group: ADSS/ADWS/ADWO
+  FBID: COVID9999
+  Total_Mileage: '34.51'
+  Badges: '2'
+  Run: '34.51'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '8.70'
+- Rank: '138'
   Name: JTZH
   Group: ADSS/ADWS/ADWO
   FBID: Joshua2209
@@ -1368,7 +1378,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '138'
+- Rank: '139'
   Name: Dennis
   Group: ADSS/ADWS/ADWO
   FBID: Dennis0495
@@ -1378,7 +1388,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '139'
+- Rank: '140'
   Name: Waffles
   Group: ATC
   FBID: Waffles3567
@@ -1388,7 +1398,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.57'
-- Rank: '140'
+- Rank: '141'
   Name: Cactus
   Group: ADSS/ADWS/ADWO
   FBID: Daphne1234
@@ -1398,7 +1408,7 @@
   Cycle: '0.00'
   Swim: '5.40'
   Walk: '0.00'
-- Rank: '141'
+- Rank: '142'
   Name: Kelvin
   Group: ADSS/ADWS/ADWO
   FBID: Kelvin1111
@@ -1408,7 +1418,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '142'
+- Rank: '143'
   Name: 'Amarverest '
   Group: ADSS/ADWS/ADWO
   FBID: Amar0165
@@ -1418,7 +1428,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '143'
+- Rank: '144'
   Name: Manu
   Group: ABM
   FBID: Manu7894
@@ -1428,7 +1438,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '144'
+- Rank: '145'
   Name: Sze Tein
   Group: ATC
   FBID: Topaz1327
@@ -1438,7 +1448,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '145'
+- Rank: '146'
   Name: 'Beatbox '
   Group: ABM
   FBID: Beatbox0202
@@ -1448,7 +1458,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '7.54'
-- Rank: '146'
+- Rank: '147'
   Name: Ganesan
   Group: AFE
   FBID: Guinness2512
@@ -1458,16 +1468,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '147'
-  Name: COVID
-  Group: ADSS/ADWS/ADWO
-  FBID: COVID9999
-  Total_Mileage: '30.81'
-  Badges: '2'
-  Run: '30.81'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '8.70'
 - Rank: '148'
   Name: CSM
   Group: ADSS/ADWS/ADWO
