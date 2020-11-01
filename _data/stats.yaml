@@ -709,6 +709,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '72'
+  Name: Steyr
+  Group: ABM
+  FBID: Steyr9693
+  Total_Mileage: '54.74'
+  Badges: '3'
+  Run: '50.17'
+  Cycle: '18.27'
+  Swim: '0.00'
+  Walk: '3.42'
+- Rank: '73'
   Name: Lightyear
   Group: ADW
   FBID: Lightyear2020
@@ -718,7 +728,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '73'
+- Rank: '74'
   Name: 3sg Charlie
   Group: ADSS/ADWS/ADWO
   FBID: Charlie2539
@@ -728,7 +738,7 @@
   Cycle: '0.00'
   Swim: '2.45'
   Walk: '0.00'
-- Rank: '74'
+- Rank: '75'
   Name: Yeow Teck
   Group: AOSX/AOS
   FBID: Youtube6116
@@ -738,7 +748,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '75'
+- Rank: '76'
   Name: Rambo
   Group: AOSX/AOS
   FBID: Rambo0113
@@ -748,7 +758,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '76'
+- Rank: '77'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: Errick1991
@@ -758,7 +768,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '77'
+- Rank: '78'
   Name: francisyap
   Group: AFE
   FBID: francis7373
@@ -768,7 +778,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '78'
+- Rank: '79'
   Name: Lava
   Group: ATC
   FBID: Lava1717
@@ -778,7 +788,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '79'
+- Rank: '80'
   Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
   FBID: LeonYeo2590
@@ -788,7 +798,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '80'
+- Rank: '81'
   Name: Iggy
   Group: ADSS/ADWS/ADWO
   FBID: Iggy7900
@@ -798,7 +808,7 @@
   Cycle: '179.47'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '81'
+- Rank: '82'
   Name: Sen Kiat
   Group: ATC
   FBID: HSK7777
@@ -808,7 +818,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '82'
+- Rank: '83'
   Name: Geeky
   Group: ADW
   FBID: Geeky1989
@@ -818,7 +828,7 @@
   Cycle: '0.00'
   Swim: '3.50'
   Walk: '22.57'
-- Rank: '83'
+- Rank: '84'
   Name: Lia
   Group: ADSS/ADWS/ADWO
   FBID: Lia1116
@@ -828,7 +838,7 @@
   Cycle: '42.11'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '84'
+- Rank: '85'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -838,7 +848,7 @@
   Cycle: '149.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '85'
+- Rank: '86'
   Name: Rock
   Group: ADW
   FBID: Rock0165
@@ -848,16 +858,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '6.00'
-- Rank: '86'
-  Name: Steyr
-  Group: ABM
-  FBID: Steyr9693
-  Total_Mileage: '46.89'
-  Badges: '3'
-  Run: '42.32'
-  Cycle: '18.27'
-  Swim: '0.00'
-  Walk: '3.42'
 - Rank: '87'
   Name: Legend
   Group: ADW
@@ -1159,6 +1159,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '117'
+  Name: Wan Yuan
+  Group: ADW
+  FBID: Lost1908
+  Total_Mileage: '36.21'
+  Badges: '2'
+  Run: '36.21'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '118'
   Name: Yew Choong
   Group: ADSS/ADWS/ADWO
   FBID: GGXC0160
@@ -1168,7 +1178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '19.25'
-- Rank: '118'
+- Rank: '119'
   Name: Wong Wei Ming
   Group: ATC
   FBID: Shadow0206
@@ -1178,7 +1188,7 @@
   Cycle: '0.00'
   Swim: '2.14'
   Walk: '0.00'
-- Rank: '119'
+- Rank: '120'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -1188,7 +1198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '120'
+- Rank: '121'
   Name: Halu
   Group: AFE
   FBID: Halu1805
@@ -1198,7 +1208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '121'
+- Rank: '122'
   Name: JTZH
   Group: ADSS/ADWS/ADWO
   FBID: Joshua2209
@@ -1208,7 +1218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '122'
+- Rank: '123'
   Name: Dennis
   Group: ADSS/ADWS/ADWO
   FBID: Dennis0495
@@ -1218,23 +1228,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '123'
+- Rank: '124'
   Name: Andre
   Group: ADSS/ADWS/ADWO
   FBID: Wagon6190
   Total_Mileage: '33.88'
   Badges: '2'
   Run: '33.88'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '124'
-  Name: Wan Yuan
-  Group: ADW
-  FBID: Lost1908
-  Total_Mileage: '32.92'
-  Badges: '2'
-  Run: '32.92'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
