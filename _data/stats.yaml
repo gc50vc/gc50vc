@@ -339,16 +339,6 @@
   Swim: '0.00'
   Walk: '11.68'
 - Rank: '35'
-  Name: Vapor
-  Group: ADW
-  FBID: Vapor6148
-  Total_Mileage: '97.94'
-  Badges: '3'
-  Run: '97.94'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '36'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -358,7 +348,7 @@
   Cycle: '72.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '37'
+- Rank: '36'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -367,6 +357,16 @@
   Run: '16.76'
   Cycle: '216.46'
   Swim: '4.10'
+  Walk: '0.00'
+- Rank: '37'
+  Name: Vapor
+  Group: ADW
+  FBID: Vapor6148
+  Total_Mileage: '95.40'
+  Badges: '3'
+  Run: '95.40'
+  Cycle: '0.00'
+  Swim: '0.00'
   Walk: '0.00'
 - Rank: '38'
   Name: 'TiGeR3 '
@@ -969,16 +969,6 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '98'
-  Name: Viking
-  Group: ADW
-  FBID: Viking1987
-  Total_Mileage: '47.25'
-  Badges: '4'
-  Run: '10.00'
-  Cycle: '149.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '99'
   Name: Halu
   Group: AFE
   FBID: Halu1805
@@ -988,7 +978,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '100'
+- Rank: '99'
   Name: COVID
   Group: ADSS/ADWS/ADWO
   FBID: COVID9999
@@ -998,7 +988,7 @@
   Cycle: '45.11'
   Swim: '0.00'
   Walk: '21.50'
-- Rank: '101'
+- Rank: '100'
   Name: Eric Kwok
   Group: ABM
   FBID: Villain1111
@@ -1008,7 +998,7 @@
   Cycle: '125.14'
   Swim: '1.30'
   Walk: '0.00'
-- Rank: '102'
+- Rank: '101'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -1018,7 +1008,7 @@
   Cycle: '58.91'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '103'
+- Rank: '102'
   Name: Jeremy Tan
   Group: ATC
   FBID: Scavenge1601
@@ -1028,7 +1018,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '104'
+- Rank: '103'
   Name: Jeremy Ang
   Group: AFE
   FBID: Jayyleemee1993
@@ -1038,7 +1028,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '105'
+- Rank: '104'
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
@@ -1048,7 +1038,7 @@
   Cycle: '8.04'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '106'
+- Rank: '105'
   Name: Jamie Chen
   Group: ADSS/ADWS/ADWO
   FBID: FLASH2911
@@ -1056,6 +1046,16 @@
   Badges: '3'
   Run: '42.66'
   Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '106'
+  Name: Viking
+  Group: ADW
+  FBID: Viking1987
+  Total_Mileage: '42.25'
+  Badges: '4'
+  Run: '10.00'
+  Cycle: '129.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '107'
