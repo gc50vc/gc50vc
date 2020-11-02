@@ -189,6 +189,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '20'
+  Name: Marcus
+  Group: ADSS/ADWS/ADWO
+  FBID: Mtwk1998
+  Total_Mileage: '124.13'
+  Badges: '6'
+  Run: '44.00'
+  Cycle: '32.50'
+  Swim: '12.00'
+  Walk: '7.27'
+- Rank: '21'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -198,7 +208,7 @@
   Cycle: '88.94'
   Swim: '11.20'
   Walk: '8.34'
-- Rank: '21'
+- Rank: '22'
   Name: aH-MuNs-Ge
   Group: AFE
   FBID: ahmuns9861
@@ -208,7 +218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '79.15'
-- Rank: '22'
+- Rank: '23'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -218,7 +228,7 @@
   Cycle: '280.50'
   Swim: '3.70'
   Walk: '1.90'
-- Rank: '23'
+- Rank: '24'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -228,16 +238,6 @@
   Cycle: '373.31'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '24'
-  Name: Marcus
-  Group: ADSS/ADWS/ADWO
-  FBID: Mtwk1998
-  Total_Mileage: '118.13'
-  Badges: '6'
-  Run: '44.00'
-  Cycle: '32.50'
-  Swim: '11.00'
-  Walk: '7.27'
 - Rank: '25'
   Name: HC
   Group: ADSS/ADWS/ADWO
@@ -1749,6 +1749,16 @@
   Swim: '0.00'
   Walk: '28.59'
 - Rank: '176'
+  Name: Kelvis
+  Group: ADSS/ADWS/ADWO
+  FBID: Kelvis2000
+  Total_Mileage: '26.36'
+  Badges: '2'
+  Run: '16.18'
+  Cycle: '40.73'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '177'
   Name: Zinc
   Group: ADW
   FBID: zinc1997
@@ -1758,7 +1768,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '5.65'
-- Rank: '177'
+- Rank: '178'
   Name: Pat160A
   Group: ADSS/ADWS/ADWO
   FBID: Pat1991
@@ -1768,7 +1778,7 @@
   Cycle: '0.00'
   Swim: '3.68'
   Walk: '0.00'
-- Rank: '178'
+- Rank: '179'
   Name: Kent Zeng
   Group: ADSS/ADWS/ADWO
   FBID: Stonks69420
@@ -1778,7 +1788,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '178'
+- Rank: '179'
   Name: Kian Seng
   Group: ADW
   FBID: KianSeng0170
@@ -1788,7 +1798,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '180'
+- Rank: '181'
   Name: Soh Thiam Hing
   Group: ADSS/ADWS/ADWO
   FBID: daffodilistic1337
@@ -1798,7 +1808,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '181'
+- Rank: '182'
   Name: Songbird
   Group: ABM
   FBID: Songbird1904
@@ -1808,7 +1818,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '182'
+- Rank: '183'
   Name: Marcus
   Group: ADW
   FBID: Trident1107
@@ -1818,7 +1828,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '183'
+- Rank: '184'
   Name: Zippo
   Group: ABM
   FBID: Spencer7888
@@ -1828,7 +1838,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '184'
+- Rank: '185'
   Name: Joe Ng
   Group: AOSX/AOS
   FBID: Wiki5279
@@ -1838,7 +1848,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '185'
+- Rank: '186'
   Name: Fam
   Group: ADSS/ADWS/ADWO
   FBID: Phantom1997
@@ -1848,7 +1858,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '186'
+- Rank: '187'
   Name: 'Chiang Meng '
   Group: AOSX/AOS
   FBID: ccm1116
@@ -1858,7 +1868,7 @@
   Cycle: '0.00'
   Swim: '1.80'
   Walk: '0.00'
-- Rank: '187'
+- Rank: '188'
   Name: Hsien Rong
   Group: ADSS/ADWS/ADWO
   FBID: xian1108
@@ -1868,7 +1878,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '188'
+- Rank: '189'
   Name: ASHWIN1234
   Group: ADW
   FBID: ASHWIN1234
@@ -1878,7 +1888,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '2.47'
-- Rank: '189'
+- Rank: '190'
   Name: Joel Tan
   Group: ADW
   FBID: mojojojo2000
@@ -1888,7 +1898,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '190'
+- Rank: '191'
   Name: Bryan Tan GJ
   Group: ADW
   FBID: Bryan2727
@@ -1898,7 +1908,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '18.68'
-- Rank: '191'
+- Rank: '192'
   Name: Jun Jia
   Group: ADSS/ADWS/ADWO
   FBID: JJTAN1507
@@ -1908,7 +1918,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '192'
+- Rank: '193'
   Name: Rajaan
   Group: ADSS/ADWS/ADWO
   FBID: Rajaanleon0021
@@ -1916,16 +1926,6 @@
   Badges: '2'
   Run: '23.26'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '193'
-  Name: Kelvis
-  Group: ADSS/ADWS/ADWO
-  FBID: Kelvis2000
-  Total_Mileage: '23.14'
-  Badges: '2'
-  Run: '12.96'
-  Cycle: '40.73'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '194'
