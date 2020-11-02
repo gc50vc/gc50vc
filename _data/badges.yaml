@@ -2030,12 +2030,6 @@
   name: Yuhang
   definition: ''
   Week: '2'
-- timestamp: '2020-11-01 07:53:56'
-  fbid: HSYONG0001
-  badge: Baby Steps
-  name: Yong Haw Seng
-  definition: ''
-  Week: '2'
 - timestamp: '2020-11-01 11:07:25'
   fbid: Vernon7070
   badge: Baby Steps
@@ -3962,12 +3956,6 @@
   name: TWIG
   definition: ''
   Week: '2'
-- timestamp: '2020-11-01 07:53:56'
-  fbid: HSYONG0001
-  badge: Mount Everest
-  name: Yong Haw Seng
-  definition: ''
-  Week: '2'
 - timestamp: '2020-11-01 08:06:30'
   fbid: Jenny7373
   badge: Mount Everest
@@ -4098,6 +4086,12 @@
   fbid: Sunray0909
   badge: Mount Everest
   name: Sunray
+  definition: ''
+  Week: '3'
+- timestamp: '2020-11-02 19:34:07'
+  fbid: ZhuangWeijie1010
+  badge: Mount Everest
+  name: Weijie
   definition: ''
   Week: '3'
 - timestamp: '2020-10-22 00:35:59'
