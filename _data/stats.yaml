@@ -189,6 +189,16 @@
   Swim: '0.00'
   Walk: '79.15'
 - Rank: '20'
+  Name: Rycel Wong
+  Group: AOSX/AOS
+  FBID: Rycel2929
+  Total_Mileage: '118.63'
+  Badges: '8'
+  Run: '26.30'
+  Cycle: '280.50'
+  Swim: '3.70'
+  Walk: '1.90'
+- Rank: '21'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
@@ -198,7 +208,7 @@
   Cycle: '32.50'
   Swim: '11.00'
   Walk: '7.27'
-- Rank: '21'
+- Rank: '22'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -208,7 +218,7 @@
   Cycle: '88.94'
   Swim: '11.20'
   Walk: '8.34'
-- Rank: '22'
+- Rank: '23'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -218,7 +228,7 @@
   Cycle: '457.08'
   Swim: '0.00'
   Walk: '2.19'
-- Rank: '23'
+- Rank: '24'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -228,7 +238,7 @@
   Cycle: '289.00'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -238,7 +248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: Tony Foo
   Group: ADSS/ADWS/ADWO
   FBID: tonyfoo0165
@@ -248,7 +258,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: Bronson
   Group: ADW
   FBID: Bronze1234
@@ -258,7 +268,7 @@
   Cycle: '80.27'
   Swim: '11.03'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -268,16 +278,6 @@
   Cycle: '425.35'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '28'
-  Name: Rycel Wong
-  Group: AOSX/AOS
-  FBID: Rycel2929
-  Total_Mileage: '111.43'
-  Badges: '7'
-  Run: '26.30'
-  Cycle: '280.50'
-  Swim: '2.50'
-  Walk: '1.90'
 - Rank: '29'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
@@ -549,6 +549,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '56'
+  Name: OLAF
+  Group: ADW
+  FBID: OLAF2156
+  Total_Mileage: '74.24'
+  Badges: '3'
+  Run: '74.24'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '57'
   Name: JonChen
   Group: ADW
   FBID: JonChen0000
@@ -558,7 +568,7 @@
   Cycle: '270.53'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '57'
+- Rank: '58'
   Name: Legend
   Group: ADW
   FBID: Legend2512
@@ -568,7 +578,7 @@
   Cycle: '174.85'
   Swim: '0.00'
   Walk: '13.11'
-- Rank: '58'
+- Rank: '59'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -578,7 +588,7 @@
   Cycle: '25.04'
   Swim: '1.10'
   Walk: '0.00'
-- Rank: '59'
+- Rank: '60'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -588,7 +598,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '12.30'
-- Rank: '60'
+- Rank: '61'
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
@@ -598,7 +608,7 @@
   Cycle: '0.00'
   Swim: '2.05'
   Walk: '4.00'
-- Rank: '61'
+- Rank: '62'
   Name: TT
   Group: ABM
   FBID: jiawei1989
@@ -608,7 +618,7 @@
   Cycle: '10.83'
   Swim: '0.00'
   Walk: '1.89'
-- Rank: '62'
+- Rank: '63'
   Name: 'Tay Wen Hao '
   Group: ADW
   FBID: Wh8295
@@ -618,7 +628,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '63'
+- Rank: '64'
   Name: Cookie-ATC
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -626,16 +636,6 @@
   Badges: '3'
   Run: '58.67'
   Cycle: '33.69'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '64'
-  Name: OLAF
-  Group: ADW
-  FBID: OLAF2156
-  Total_Mileage: '66.24'
-  Badges: '3'
-  Run: '66.24'
-  Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '65'
