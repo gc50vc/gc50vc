@@ -2240,6 +2240,12 @@
   name: Hasty
   definition: ''
   Week: '3'
+- timestamp: '2020-11-03 07:00:41'
+  fbid: Slimer1234
+  badge: Half Ironman
+  name: Slimer
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-24 05:41:33'
   fbid: Trex1406
   badge: Ironman
@@ -5282,6 +5288,12 @@
   name: Sunray
   definition: ''
   Week: '3'
+- timestamp: '2020-11-03 07:00:41'
+  fbid: Slimer1234
+  badge: Cycopath
+  name: Slimer
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-20 16:25:36'
   fbid: LWY3942
   badge: Tour de Singapore
@@ -5987,15 +5999,15 @@
 - timestamp: '2020-10-30 08:37:35'
   fbid: Slimer1234
   badge: Iron Lungs
-  name: Slimer
+  name: ''
   definition: ''
-  Week: '2'
+  Week: ''
 - timestamp: '2020-10-30 21:39:51'
   fbid: Euj1871
   badge: Iron Lungs
-  name: Euj
+  name: ''
   definition: ''
-  Week: '2'
+  Week: ''
 - timestamp: '2020-10-31 18:53:01'
   fbid: Corrupt2705
   badge: Iron Lungs
