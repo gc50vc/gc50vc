@@ -289,16 +289,6 @@
   Swim: '0.00'
   Walk: '1.17'
 - Rank: '30'
-  Name: Btee
-  Group: AFE
-  FBID: Brian0307
-  Total_Mileage: '102.63'
-  Badges: '4'
-  Run: '102.63'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '31'
   Name: Maj Lim
   Group: ABM
   FBID: Legoz1000
@@ -308,7 +298,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '16.48'
-- Rank: '32'
+- Rank: '31'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -318,7 +308,7 @@
   Cycle: '267.18'
   Swim: '2.10'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '32'
   Name: Ah Bing
   Group: ADW
   FBID: Bingo0507
@@ -328,7 +318,7 @@
   Cycle: '74.57'
   Swim: '1.15'
   Walk: '0.00'
-- Rank: '34'
+- Rank: '33'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -338,7 +328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.68'
-- Rank: '35'
+- Rank: '34'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -348,7 +338,7 @@
   Cycle: '72.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '36'
+- Rank: '35'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -358,7 +348,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '37'
+- Rank: '36'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -368,7 +358,7 @@
   Cycle: '216.46'
   Swim: '4.10'
   Walk: '0.00'
-- Rank: '38'
+- Rank: '37'
   Name: 'TiGeR3 '
   Group: ADSS/ADWS/ADWO
   FBID: TiGeR2876
@@ -378,7 +368,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '39'
+- Rank: '38'
   Name: Poon
   Group: ADSS/ADWS/ADWO
   FBID: Poon3636
@@ -388,13 +378,23 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '40'
+- Rank: '39'
   Name: Vapor
   Group: ADW
   FBID: Vapor6148
   Total_Mileage: '93.94'
   Badges: '3'
   Run: '93.94'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '40'
+  Name: Btee
+  Group: AFE
+  FBID: Brian0307
+  Total_Mileage: '93.33'
+  Badges: '3'
+  Run: '93.33'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
