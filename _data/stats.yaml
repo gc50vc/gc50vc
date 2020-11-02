@@ -349,6 +349,16 @@
   Swim: '2.10'
   Walk: '0.00'
 - Rank: '36'
+  Name: Vapor
+  Group: ADW
+  FBID: Vapor6148
+  Total_Mileage: '97.42'
+  Badges: '3'
+  Run: '97.42'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '37'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -358,7 +368,7 @@
   Cycle: '72.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '37'
+- Rank: '38'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -367,16 +377,6 @@
   Run: '16.76'
   Cycle: '216.46'
   Swim: '4.10'
-  Walk: '0.00'
-- Rank: '38'
-  Name: Vapor
-  Group: ADW
-  FBID: Vapor6148
-  Total_Mileage: '95.40'
-  Badges: '3'
-  Run: '95.40'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '39'
   Name: 'TiGeR3 '
