@@ -89,6 +89,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '10'
+  Name: Tommy Tham
+  Group: ADSS/ADWS/ADWO
+  FBID: Tommy1976
+  Total_Mileage: '23.59'
+  Badges: '1'
+  Run: '5.24'
+  Cycle: '26.61'
+  Swim: '1.95'
+  Walk: '0.00'
+- Rank: '11'
   Name: Vapor
   Group: ADW
   FBID: Vapor6148
@@ -98,7 +108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -107,16 +117,6 @@
   Run: '20.20'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '12'
-  Name: Tommy Tham
-  Group: ADSS/ADWS/ADWO
-  FBID: Tommy1976
-  Total_Mileage: '19.58'
-  Badges: '0'
-  Run: '5.24'
-  Cycle: '10.54'
-  Swim: '1.95'
   Walk: '0.00'
 - Rank: '13'
   Name: Mayer
@@ -553,7 +553,7 @@
   Group: ADW
   FBID: horsepower2001
   Total_Mileage: '6.10'
-  Badges: '1'
+  Badges: '0'
   Run: '2.50'
   Cycle: '0.00'
   Swim: '0.60'
