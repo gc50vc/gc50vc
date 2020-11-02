@@ -289,6 +289,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '30'
+  Name: 'Tan Swee Kiat '
+  Group: ADW
+  FBID: Eskay0077
+  Total_Mileage: '110.24'
+  Badges: '4'
+  Run: '110.24'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '11.68'
+- Rank: '31'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -298,7 +308,7 @@
   Cycle: '65.00'
   Swim: '0.00'
   Walk: '1.17'
-- Rank: '31'
+- Rank: '32'
   Name: Ah Bing
   Group: ADW
   FBID: Bingo0507
@@ -308,7 +318,7 @@
   Cycle: '105.24'
   Swim: '1.15'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '33'
   Name: Maj Lim
   Group: ABM
   FBID: Legoz1000
@@ -318,7 +328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '16.48'
-- Rank: '33'
+- Rank: '34'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -328,16 +338,6 @@
   Cycle: '267.18'
   Swim: '2.10'
   Walk: '0.00'
-- Rank: '34'
-  Name: 'Tan Swee Kiat '
-  Group: ADW
-  FBID: Eskay0077
-  Total_Mileage: '98.34'
-  Badges: '3'
-  Run: '98.34'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '11.68'
 - Rank: '35'
   Name: PIXAR
   Group: ABM
@@ -492,10 +492,10 @@
   Name: Cookie-ATC
   Group: ATC
   FBID: Cookie3rdWSO1975
-  Total_Mileage: '77.12'
+  Total_Mileage: '79.09'
   Badges: '3'
   Run: '68.70'
-  Cycle: '33.69'
+  Cycle: '41.54'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '51'
