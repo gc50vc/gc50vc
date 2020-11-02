@@ -19,6 +19,16 @@
   Swim: '0.00'
   Walk: '53.00'
 - Rank: '3'
+  Name: JOLLY
+  Group: ADW
+  FBID: JOLLY8178
+  Total_Mileage: '25.67'
+  Badges: '2'
+  Run: '0.00'
+  Cycle: '42.68'
+  Swim: '2.50'
+  Walk: '0.00'
+- Rank: '4'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -28,7 +38,7 @@
   Cycle: '100.10'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '4'
+- Rank: '5'
   Name: Mayer
   Group: ADSS/ADWS/ADWO
   FBID: Ops3165
@@ -38,7 +48,7 @@
   Cycle: '76.13'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '5'
+- Rank: '6'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -48,7 +58,7 @@
   Cycle: '45.00'
   Swim: '1.20'
   Walk: '0.00'
-- Rank: '6'
+- Rank: '7'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -58,7 +68,7 @@
   Cycle: '45.78'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '7'
+- Rank: '8'
   Name: Logo
   Group: ABM
   FBID: Logo0200
@@ -68,7 +78,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '8'
+- Rank: '9'
   Name: Vapor
   Group: ADW
   FBID: Vapor6148
@@ -78,7 +88,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '9'
+- Rank: '10'
   Name: COVID
   Group: ADSS/ADWS/ADWO
   FBID: COVID9999
@@ -88,7 +98,7 @@
   Cycle: '45.11'
   Swim: '0.00'
   Walk: '12.80'
-- Rank: '10'
+- Rank: '11'
   Name: Kian Seng
   Group: ADW
   FBID: Kianseng0170
@@ -98,7 +108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: You Rong
   Group: ADW
   FBID: Audi1987
@@ -108,7 +118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
@@ -118,7 +128,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -128,7 +138,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.57'
-- Rank: '13'
+- Rank: '14'
   Name: Halu
   Group: AFE
   FBID: Halu1805
@@ -138,7 +148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '15'
+- Rank: '16'
   Name: Ankle
   Group: ADSS/ADWS/ADWO
   FBID: Redeyesblackdragon1310
@@ -148,7 +158,7 @@
   Cycle: '45.68'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '16'
+- Rank: '17'
   Name: Gabriel Tay Kai Xian
   Group: ADW
   FBID: Blueeyeswhitedragon2901
@@ -158,7 +168,7 @@
   Cycle: '45.48'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '17'
+- Rank: '18'
   Name: BY
   Group: ADSS/ADWS/ADWO
   FBID: Charlie3579
@@ -168,7 +178,7 @@
   Cycle: '45.46'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '18'
+- Rank: '19'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -178,7 +188,7 @@
   Cycle: '45.01'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '19'
+- Rank: '20'
   Name: Sean Chua
   Group: ADSS/ADWS/ADWO
   FBID: Stop0001
@@ -186,16 +196,6 @@
   Badges: '1'
   Run: '0.00'
   Cycle: '44.91'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '20'
-  Name: JOLLY
-  Group: ADW
-  FBID: JOLLY8178
-  Total_Mileage: '10.67'
-  Badges: '1'
-  Run: '0.00'
-  Cycle: '42.68'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '21'
