@@ -29,6 +29,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '4'
+  Name: Prem
+  Group: ADW
+  FBID: Premium6687
+  Total_Mileage: '28.65'
+  Badges: '1'
+  Run: '0.00'
+  Cycle: '42.58'
+  Swim: '3.00'
+  Walk: '0.00'
+- Rank: '5'
   Name: LZX
   Group: ADSS/ADWS/ADWO
   FBID: leezx1337
@@ -38,7 +48,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '5'
+- Rank: '6'
   Name: JOLLY
   Group: ADW
   FBID: JOLLY8178
@@ -48,7 +58,7 @@
   Cycle: '42.68'
   Swim: '2.50'
   Walk: '0.00'
-- Rank: '6'
+- Rank: '7'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -58,7 +68,7 @@
   Cycle: '100.10'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '7'
+- Rank: '8'
   Name: Mayer
   Group: ADSS/ADWS/ADWO
   FBID: Ops3165
@@ -68,7 +78,7 @@
   Cycle: '76.13'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '8'
+- Rank: '9'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -78,7 +88,7 @@
   Cycle: '45.00'
   Swim: '1.20'
   Walk: '0.00'
-- Rank: '9'
+- Rank: '10'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -88,7 +98,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.57'
-- Rank: '10'
+- Rank: '11'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -98,7 +108,7 @@
   Cycle: '45.78'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: Logo
   Group: ABM
   FBID: Logo0200
@@ -108,7 +118,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: Vapor
   Group: ADW
   FBID: Vapor6148
@@ -118,7 +128,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: COVID
   Group: ADSS/ADWS/ADWO
   FBID: COVID9999
@@ -128,7 +138,7 @@
   Cycle: '45.11'
   Swim: '0.00'
   Walk: '12.80'
-- Rank: '14'
+- Rank: '15'
   Name: Kian Seng
   Group: ADW
   FBID: Kianseng0170
@@ -138,7 +148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '15'
+- Rank: '16'
   Name: You Rong
   Group: ADW
   FBID: Audi1987
@@ -148,7 +158,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '16'
+- Rank: '17'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -158,7 +168,7 @@
   Cycle: '0.00'
   Swim: '2.10'
   Walk: '0.00'
-- Rank: '17'
+- Rank: '18'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
@@ -168,7 +178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '18'
+- Rank: '19'
   Name: Halu
   Group: AFE
   FBID: Halu1805
@@ -178,7 +188,17 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '19'
+- Rank: '20'
+  Name: Cookie-ATC
+  Group: ATC
+  FBID: Cookie3rdWSO1975
+  Total_Mileage: '11.99'
+  Badges: '0'
+  Run: '10.03'
+  Cycle: '7.85'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '21'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -188,7 +208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '22'
   Name: Ankle
   Group: ADSS/ADWS/ADWO
   FBID: Redeyesblackdragon1310
@@ -198,7 +218,7 @@
   Cycle: '45.68'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '23'
   Name: Gabriel Tay Kai Xian
   Group: ADW
   FBID: Blueeyeswhitedragon2901
@@ -208,7 +228,7 @@
   Cycle: '45.48'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '24'
   Name: BY
   Group: ADSS/ADWS/ADWO
   FBID: Charlie3579
@@ -218,7 +238,7 @@
   Cycle: '45.46'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '25'
   Name: aH Hui
   Group: ADSS/ADWS/ADWO
   FBID: Edgar0409
@@ -228,7 +248,7 @@
   Cycle: '45.33'
   Swim: '0.00'
   Walk: '2.36'
-- Rank: '24'
+- Rank: '26'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -238,7 +258,7 @@
   Cycle: '45.01'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '27'
   Name: Sean Chua
   Group: ADSS/ADWS/ADWO
   FBID: Stop0001
@@ -248,17 +268,7 @@
   Cycle: '44.91'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '26'
-  Name: Prem
-  Group: ADW
-  FBID: Premium6687
-  Total_Mileage: '10.65'
-  Badges: '1'
-  Run: '0.00'
-  Cycle: '42.58'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: 'Wei How '
   Group: AFE
   FBID: Weihow1503
@@ -268,7 +278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '52.11'
-- Rank: '28'
+- Rank: '29'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: Wang0165
@@ -278,23 +288,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: Quainapz
   Group: ADSS/ADWS/ADWO
   FBID: Quainapz8585
   Total_Mileage: '10.15'
   Badges: '0'
   Run: '10.15'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '30'
-  Name: Cookie-ATC
-  Group: ATC
-  FBID: Cookie3rdWSO1975
-  Total_Mileage: '10.03'
-  Badges: '0'
-  Run: '10.03'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
