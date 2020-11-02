@@ -2289,6 +2289,16 @@
   Swim: '2.00'
   Walk: '0.00'
 - Rank: '230'
+  Name: Max160A
+  Group: ADSS/ADWS/ADWO
+  FBID: Max2310
+  Total_Mileage: '17.52'
+  Badges: '2'
+  Run: '11.52'
+  Cycle: '0.00'
+  Swim: '1.00'
+  Walk: '15.28'
+- Rank: '231'
   Name: Simon Tan
   Group: ADW
   FBID: Simon1996
@@ -2298,7 +2308,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '231'
+- Rank: '232'
   Name: Winson
   Group: ADSS/ADWS/ADWO
   FBID: Winson1999
@@ -2308,7 +2318,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '232'
+- Rank: '233'
   Name: Ryan Tan
   Group: ADSS/ADWS/ADWO
   FBID: Menthol0701
@@ -2318,7 +2328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '233'
+- Rank: '234'
   Name: Tingle
   Group: ADW
   FBID: sxting1987
@@ -2328,7 +2338,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '234'
+- Rank: '235'
   Name: Guojie
   Group: ADSS/ADWS/ADWO
   FBID: Thug2107
@@ -2338,7 +2348,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '235'
+- Rank: '236'
   Name: Becks
   Group: ADW
   FBID: Gangster7777
@@ -2348,7 +2358,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '15.30'
-- Rank: '236'
+- Rank: '237'
   Name: Gabriel Tay Kai Xian
   Group: ADW
   FBID: Blueeyeswhitedragon2901
@@ -2358,7 +2368,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '237'
+- Rank: '238'
   Name: Gregg
   Group: ADSS/ADWS/ADWO
   FBID: Hoodini2112
@@ -2368,7 +2378,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '237'
+- Rank: '238'
   Name: Centaur
   Group: ADW
   FBID: Centaur1994
@@ -2378,7 +2388,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '239'
+- Rank: '240'
   Name: Nana
   Group: AFE
   FBID: Chris1166
@@ -2388,16 +2398,6 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '70.00'
-- Rank: '240'
-  Name: Max160A
-  Group: ADSS/ADWS/ADWO
-  FBID: Max2310
-  Total_Mileage: '16.42'
-  Badges: '2'
-  Run: '10.42'
-  Cycle: '0.00'
-  Swim: '1.00'
-  Walk: '15.28'
 - Rank: '241'
   Name: batu
   Group: ABM
