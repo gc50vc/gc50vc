@@ -2156,6 +2156,12 @@
   name: Bala
   definition: ''
   Week: '3'
+- timestamp: '2020-11-03 07:17:50'
+  fbid: CC0165
+  badge: Baby Steps
+  name: Charles
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-22 18:39:38'
   fbid: BY8362
   badge: Half Ironman
@@ -5993,9 +5999,9 @@
 - timestamp: '2020-10-29 19:54:26'
   fbid: Xiaolow3344
   badge: Iron Lungs
-  name: Xiaolow3344
+  name: ''
   definition: ''
-  Week: '2'
+  Week: ''
 - timestamp: '2020-10-30 08:37:35'
   fbid: Slimer1234
   badge: Iron Lungs
