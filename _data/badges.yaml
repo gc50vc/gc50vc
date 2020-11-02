@@ -5132,12 +5132,6 @@
   name: HC
   definition: ''
   Week: '1'
-- timestamp: '2020-10-27 12:05:18'
-  fbid: Iggy7900
-  badge: Cycopath
-  name: Iggy
-  definition: ''
-  Week: '2'
 - timestamp: '2020-10-27 23:08:04'
   fbid: Warren9588
   badge: Cycopath
@@ -5148,6 +5142,12 @@
   fbid: IceCube3008
   badge: Cycopath
   name: Chan Howe
+  definition: ''
+  Week: '2'
+- timestamp: '2020-10-29 11:59:08'
+  fbid: Iggy7900
+  badge: Cycopath
+  name: Iggy
   definition: ''
   Week: '2'
 - timestamp: '2020-10-31 10:08:31'
