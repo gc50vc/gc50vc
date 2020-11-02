@@ -119,6 +119,16 @@
   Swim: '3.40'
   Walk: '0.00'
 - Rank: '13'
+  Name: Euj
+  Group: ATC
+  FBID: Euj1871
+  Total_Mileage: '157.42'
+  Badges: '7'
+  Run: '59.43'
+  Cycle: '81.86'
+  Swim: '12.92'
+  Walk: '70.67'
+- Rank: '14'
   Name: Prem
   Group: ADW
   FBID: Premium6687
@@ -128,7 +138,7 @@
   Cycle: '42.58'
   Swim: '17.00'
   Walk: '1.32'
-- Rank: '14'
+- Rank: '15'
   Name: Nicholas Lian
   Group: ADW
   FBID: Horsepower2001
@@ -138,16 +148,6 @@
   Cycle: '30.26'
   Swim: '7.50'
   Walk: '0.00'
-- Rank: '15'
-  Name: Euj
-  Group: ATC
-  FBID: Euj1871
-  Total_Mileage: '151.12'
-  Badges: '7'
-  Run: '59.43'
-  Cycle: '81.86'
-  Swim: '11.87'
-  Walk: '70.67'
 - Rank: '16'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
