@@ -189,6 +189,16 @@
   Swim: '12.00'
   Walk: '7.27'
 - Rank: '20'
+  Name: Slimer
+  Group: ABM
+  FBID: Slimer1234
+  Total_Mileage: '128.69'
+  Badges: '8'
+  Run: '33.23'
+  Cycle: '113.03'
+  Swim: '11.20'
+  Walk: '8.34'
+- Rank: '21'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -198,7 +208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -208,16 +218,6 @@
   Cycle: '488.10'
   Swim: '0.00'
   Walk: '2.19'
-- Rank: '22'
-  Name: Slimer
-  Group: ABM
-  FBID: Slimer1234
-  Total_Mileage: '122.67'
-  Badges: '6'
-  Run: '33.23'
-  Cycle: '88.94'
-  Swim: '11.20'
-  Walk: '8.34'
 - Rank: '23'
   Name: aH-MuNs-Ge
   Group: AFE
