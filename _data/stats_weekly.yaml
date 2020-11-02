@@ -69,6 +69,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '8'
+  Name: Vapor
+  Group: ADW
+  FBID: Vapor6148
+  Total_Mileage: '21.92'
+  Badges: '1'
+  Run: '21.92'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '9'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -78,7 +88,7 @@
   Cycle: '10.54'
   Swim: '1.95'
   Walk: '0.00'
-- Rank: '9'
+- Rank: '10'
   Name: Mayer
   Group: ADSS/ADWS/ADWO
   FBID: Ops3165
@@ -88,7 +98,7 @@
   Cycle: '76.13'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '10'
+- Rank: '11'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -97,16 +107,6 @@
   Run: '0.00'
   Cycle: '45.00'
   Swim: '1.20'
-  Walk: '0.00'
-- Rank: '11'
-  Name: Vapor
-  Group: ADW
-  FBID: Vapor6148
-  Total_Mileage: '18.41'
-  Badges: '0'
-  Run: '18.41'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '12'
   Name: Slimer
