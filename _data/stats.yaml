@@ -609,6 +609,16 @@
   Swim: '0.00'
   Walk: '1.89'
 - Rank: '62'
+  Name: 'Tay Wen Hao '
+  Group: ADW
+  FBID: Wh8295
+  Total_Mileage: '67.34'
+  Badges: '3'
+  Run: '67.34'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '63'
   Name: Cookie-ATC
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -618,7 +628,7 @@
   Cycle: '33.69'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '63'
+- Rank: '64'
   Name: OLAF
   Group: ADW
   FBID: OLAF2156
@@ -628,7 +638,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '64'
+- Rank: '65'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -638,7 +648,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '65'
+- Rank: '66'
   Name: Barter
   Group: ATC
   FBID: Reload0203
@@ -648,7 +658,7 @@
   Cycle: '203.00'
   Swim: '1.50'
   Walk: '13.50'
-- Rank: '66'
+- Rank: '67'
   Name: Rock
   Group: ADW
   FBID: Rock0165
@@ -658,16 +668,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '6.00'
-- Rank: '67'
-  Name: 'Tay Wen Hao '
-  Group: ADW
-  FBID: Wh8295
-  Total_Mileage: '62.13'
-  Badges: '3'
-  Run: '62.13'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '68'
   Name: QUENCHER
   Group: ABM
