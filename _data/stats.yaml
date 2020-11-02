@@ -149,6 +149,16 @@
   Swim: '17.00'
   Walk: '1.32'
 - Rank: '16'
+  Name: Cutthroat
+  Group: ATC
+  FBID: Cutthroat0403
+  Total_Mileage: '152.88'
+  Badges: '6'
+  Run: '124.43'
+  Cycle: '16.60'
+  Swim: '4.05'
+  Walk: '0.00'
+- Rank: '17'
   Name: Nicholas Lian
   Group: ADW
   FBID: Horsepower2001
@@ -158,7 +168,7 @@
   Cycle: '30.26'
   Swim: '7.50'
   Walk: '0.00'
-- Rank: '17'
+- Rank: '18'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -167,16 +177,6 @@
   Run: '32.02'
   Cycle: '35.77'
   Swim: '16.79'
-  Walk: '0.00'
-- Rank: '18'
-  Name: Cutthroat
-  Group: ATC
-  FBID: Cutthroat0403
-  Total_Mileage: '140.28'
-  Badges: '5'
-  Run: '124.43'
-  Cycle: '16.60'
-  Swim: '1.95'
   Walk: '0.00'
 - Rank: '19'
   Name: Dan
