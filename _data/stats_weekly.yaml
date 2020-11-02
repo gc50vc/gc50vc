@@ -39,6 +39,16 @@
   Swim: '0.00'
   Walk: '53.00'
 - Rank: '5'
+  Name: Ektar
+  Group: ABM
+  FBID: Ektar1971
+  Total_Mileage: '31.28'
+  Badges: '0'
+  Run: '0.00'
+  Cycle: '96.30'
+  Swim: '1.20'
+  Walk: '0.00'
+- Rank: '6'
   Name: Prem
   Group: ADW
   FBID: Premium6687
@@ -48,7 +58,7 @@
   Cycle: '42.58'
   Swim: '3.00'
   Walk: '0.00'
-- Rank: '6'
+- Rank: '7'
   Name: LZX
   Group: ADSS/ADWS/ADWO
   FBID: leezx1337
@@ -58,7 +68,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '7'
+- Rank: '8'
   Name: JOLLY
   Group: ADW
   FBID: JOLLY8178
@@ -68,7 +78,7 @@
   Cycle: '42.68'
   Swim: '2.50'
   Walk: '0.00'
-- Rank: '8'
+- Rank: '9'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -78,7 +88,7 @@
   Cycle: '100.10'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '9'
+- Rank: '10'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -88,7 +98,7 @@
   Cycle: '99.46'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '10'
+- Rank: '11'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -98,7 +108,7 @@
   Cycle: '24.09'
   Swim: '2.00'
   Walk: '0.57'
-- Rank: '11'
+- Rank: '12'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -108,7 +118,7 @@
   Cycle: '26.61'
   Swim: '1.95'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: Vapor
   Group: ADW
   FBID: Vapor6148
@@ -118,7 +128,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -128,7 +138,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '15'
   Name: Mayer
   Group: ADSS/ADWS/ADWO
   FBID: Ops3165
@@ -138,7 +148,7 @@
   Cycle: '76.13'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '15'
+- Rank: '16'
   Name: Ben
   Group: ADW
   FBID: BY8362
@@ -147,16 +157,6 @@
   Run: '0.00'
   Cycle: '76.11'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '16'
-  Name: Ektar
-  Group: ABM
-  FBID: Ektar1971
-  Total_Mileage: '18.45'
-  Badges: '0'
-  Run: '0.00'
-  Cycle: '45.00'
-  Swim: '1.20'
   Walk: '0.00'
 - Rank: '17'
   Name: Ying Tat
