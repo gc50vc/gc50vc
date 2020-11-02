@@ -239,6 +239,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '25'
+  Name: LZX
+  Group: ADSS/ADWS/ADWO
+  FBID: leezx1337
+  Total_Mileage: '10.14'
+  Badges: '0'
+  Run: '10.14'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '26'
   Name: Cookie-ATC
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -248,7 +258,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: EG
   Group: ADSS/ADWS/ADWO
   FBID: EG3211
@@ -258,7 +268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: 'Windy '
   Group: ABM
   FBID: Windy4444
@@ -268,7 +278,7 @@
   Cycle: '0.00'
   Swim: '1.60'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: mermaid
   Group: ADW
   FBID: graci1234
@@ -278,7 +288,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: OLAF
   Group: ADW
   FBID: OLAF2156
@@ -288,7 +298,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '31'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -298,7 +308,7 @@
   Cycle: '10.54'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '32'
   Name: Chan Howe
   Group: AOSX/AOS
   FBID: IceCube3008
@@ -308,7 +318,7 @@
   Cycle: '30.98'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '33'
   Name: Ah Bing
   Group: ADW
   FBID: Bingo0507
@@ -318,7 +328,7 @@
   Cycle: '30.67'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '34'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -328,7 +338,7 @@
   Cycle: '0.00'
   Swim: '1.20'
   Walk: '0.00'
-- Rank: '34'
+- Rank: '35'
   Name: Fam
   Group: ADSS/ADWS/ADWO
   FBID: Phantom1997
@@ -338,7 +348,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: Pixel EQ
   Group: AOSX/AOS
   FBID: Pixel0323
@@ -348,7 +358,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '36'
+- Rank: '37'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -358,7 +368,7 @@
   Cycle: '0.00'
   Swim: '1.05'
   Walk: '0.00'
-- Rank: '37'
+- Rank: '38'
   Name: Nicholas Lian
   Group: ADW
   FBID: horsepower2001
@@ -367,16 +377,6 @@
   Run: '2.50'
   Cycle: '0.00'
   Swim: '0.60'
-  Walk: '0.00'
-- Rank: '38'
-  Name: LZX
-  Group: ADSS/ADWS/ADWO
-  FBID: leezx1337
-  Total_Mileage: '6.04'
-  Badges: '0'
-  Run: '6.04'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '39'
   Name: Ben
