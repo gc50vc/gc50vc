@@ -39,6 +39,16 @@
   Swim: '14.00'
   Walk: '0.00'
 - Rank: '5'
+  Name: LZX
+  Group: ADSS/ADWS/ADWO
+  FBID: leezx1337
+  Total_Mileage: '284.57'
+  Badges: '6'
+  Run: '50.45'
+  Cycle: '936.46'
+  Swim: '0.00'
+  Walk: '2.18'
+- Rank: '6'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -48,16 +58,6 @@
   Cycle: '582.72'
   Swim: '5.50'
   Walk: '0.00'
-- Rank: '6'
-  Name: LZX
-  Group: ADSS/ADWS/ADWO
-  FBID: leezx1337
-  Total_Mileage: '278.53'
-  Badges: '6'
-  Run: '44.41'
-  Cycle: '936.46'
-  Swim: '0.00'
-  Walk: '2.18'
 - Rank: '7'
   Name: Hasty
   Group: ADW
@@ -469,6 +469,16 @@
   Swim: '3.00'
   Walk: '0.00'
 - Rank: '48'
+  Name: Quainapz
+  Group: ADSS/ADWS/ADWO
+  FBID: Quainapz8585
+  Total_Mileage: '80.47'
+  Badges: '4'
+  Run: '61.87'
+  Cycle: '0.00'
+  Swim: '3.10'
+  Walk: '2.30'
+- Rank: '49'
   Name: jheng
   Group: ADSS/ADWS/ADWO
   FBID: jheng0000
@@ -478,7 +488,7 @@
   Cycle: '41.15'
   Swim: '5.50'
   Walk: '0.00'
-- Rank: '49'
+- Rank: '50'
   Name: Xiaolow3344
   Group: ADSS/ADWS/ADWO
   FBID: Xiaolow3344
@@ -488,7 +498,7 @@
   Cycle: '0.00'
   Swim: '12.60'
   Walk: '37.94'
-- Rank: '50'
+- Rank: '51'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -498,7 +508,7 @@
   Cycle: '96.95'
   Swim: '3.08'
   Walk: '1.91'
-- Rank: '51'
+- Rank: '52'
   Name: Silver
   Group: ABM
   FBID: Silver5117
@@ -508,7 +518,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.10'
-- Rank: '52'
+- Rank: '53'
   Name: Tan Chee Wee
   Group: ATC
   FBID: tancw1974
@@ -518,7 +528,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '53'
+- Rank: '54'
   Name: Keith low
   Group: ADSS/ADWS/ADWO
   FBID: Keithlow1998
@@ -528,7 +538,7 @@
   Cycle: '266.13'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '54'
+- Rank: '55'
   Name: Benson
   Group: ADW
   FBID: benoi1234
@@ -538,7 +548,7 @@
   Cycle: '10.94'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '55'
+- Rank: '56'
   Name: JonChen
   Group: ADW
   FBID: JonChen0000
@@ -548,7 +558,7 @@
   Cycle: '270.53'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '56'
+- Rank: '57'
   Name: Legend
   Group: ADW
   FBID: Legend2512
@@ -558,7 +568,7 @@
   Cycle: '174.85'
   Swim: '0.00'
   Walk: '13.11'
-- Rank: '57'
+- Rank: '58'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -568,7 +578,7 @@
   Cycle: '25.04'
   Swim: '1.10'
   Walk: '0.00'
-- Rank: '58'
+- Rank: '59'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -578,7 +588,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '12.30'
-- Rank: '59'
+- Rank: '60'
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
@@ -588,16 +598,6 @@
   Cycle: '0.00'
   Swim: '2.05'
   Walk: '4.00'
-- Rank: '60'
-  Name: Quainapz
-  Group: ADSS/ADWS/ADWO
-  FBID: Quainapz8585
-  Total_Mileage: '70.32'
-  Badges: '4'
-  Run: '51.72'
-  Cycle: '0.00'
-  Swim: '3.10'
-  Walk: '2.30'
 - Rank: '61'
   Name: TT
   Group: ABM
