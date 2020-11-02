@@ -1,4 +1,14 @@
 - Rank: '1'
+  Name: Hasty
+  Group: ADW
+  FBID: Hasty55555
+  Total_Mileage: '43.30'
+  Badges: '2'
+  Run: '17.24'
+  Cycle: '71.84'
+  Swim: '1.35'
+  Walk: '0.00'
+- Rank: '2'
   Name: Eric
   Group: AOSX/AOS
   FBID: RelacRun0011
@@ -8,7 +18,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '2'
+- Rank: '3'
   Name: Day
   Group: ATC
   FBID: Racer0370
@@ -18,16 +28,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '53.00'
-- Rank: '3'
-  Name: Hasty
-  Group: ADW
-  FBID: Hasty55555
-  Total_Mileage: '29.08'
-  Badges: '2'
-  Run: '11.12'
-  Cycle: '71.84'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '4'
   Name: Prem
   Group: ADW
