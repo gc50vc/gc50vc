@@ -218,17 +218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '22'
-  Name: Extreme
-  Group: ATC
-  FBID: Extreme8123
-  Total_Mileage: '5.00'
-  Badges: '0'
-  Run: '5.00'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '24'
+- Rank: '23'
   Name: Charles
   Group: ADSS/ADWS/ADWO
   FBID: CC0165
@@ -238,7 +228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '24'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -248,7 +238,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '25'
   Name: Manfred
   Group: ADSS/ADWS/ADWO
   FBID: Manfred1307
@@ -258,7 +248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '26'
   Name: Zhi Hao
   Group: ADSS/ADWS/ADWO
   FBID: ZhiHao_R0160
@@ -268,7 +258,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '27'
   Name: Max160A
   Group: ADSS/ADWS/ADWO
   FBID: Max2310
@@ -278,7 +268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '28'
   Name: Soh Thiam Hing
   Group: ADSS/ADWS/ADWO
   FBID: daffodilistic1337
@@ -288,7 +278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '29'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
@@ -298,7 +288,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '30'
   Name: COVID
   Group: ADSS/ADWS/ADWO
   FBID: COVID9999
@@ -308,7 +298,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '12.80'
-- Rank: '32'
+- Rank: '31'
   Name: MamaTrex
   Group: ADSS/ADWS/ADWO
   FBID: MamaTrex0247
@@ -318,7 +308,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '32'
   Name: Andrew Ng
   Group: ADW
   FBID: Maxcap2103
@@ -328,10 +318,20 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '34'
+- Rank: '33'
   Name: Yew Choong
   Group: ADSS/ADWS/ADWO
   FBID: GGXC0160
+  Total_Mileage: '3.00'
+  Badges: '0'
+  Run: '3.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '33'
+  Name: Extreme
+  Group: ATC
+  FBID: Extreme8123
   Total_Mileage: '3.00'
   Badges: '0'
   Run: '3.00'
