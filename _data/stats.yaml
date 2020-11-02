@@ -179,6 +179,16 @@
   Swim: '1.95'
   Walk: '0.00'
 - Rank: '19'
+  Name: Dan
+  Group: ADSS/ADWS/ADWO
+  FBID: Dan1234
+  Total_Mileage: '125.20'
+  Badges: '4'
+  Run: '125.20'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '20'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -188,7 +198,7 @@
   Cycle: '88.94'
   Swim: '11.20'
   Walk: '8.34'
-- Rank: '20'
+- Rank: '21'
   Name: aH-MuNs-Ge
   Group: AFE
   FBID: ahmuns9861
@@ -198,7 +208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '79.15'
-- Rank: '21'
+- Rank: '22'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -208,7 +218,7 @@
   Cycle: '280.50'
   Swim: '3.70'
   Walk: '1.90'
-- Rank: '22'
+- Rank: '23'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -218,7 +228,7 @@
   Cycle: '373.31'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
@@ -228,7 +238,7 @@
   Cycle: '32.50'
   Swim: '11.00'
   Walk: '7.27'
-- Rank: '24'
+- Rank: '25'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -238,7 +248,7 @@
   Cycle: '457.08'
   Swim: '0.00'
   Walk: '2.19'
-- Rank: '25'
+- Rank: '26'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -247,16 +257,6 @@
   Run: '34.50'
   Cycle: '289.00'
   Swim: '1.50'
-  Walk: '0.00'
-- Rank: '26'
-  Name: Dan
-  Group: ADSS/ADWS/ADWO
-  FBID: Dan1234
-  Total_Mileage: '115.18'
-  Badges: '4'
-  Run: '115.18'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '27'
   Name: Tony Foo
