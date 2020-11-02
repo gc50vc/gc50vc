@@ -289,6 +289,16 @@
   Swim: '0.00'
   Walk: '1.17'
 - Rank: '30'
+  Name: Ah Bing
+  Group: ADW
+  FBID: Bingo0507
+  Total_Mileage: '106.45'
+  Badges: '6'
+  Run: '73.24'
+  Cycle: '105.24'
+  Swim: '1.15'
+  Walk: '0.00'
+- Rank: '31'
   Name: Maj Lim
   Group: ABM
   FBID: Legoz1000
@@ -298,7 +308,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '16.48'
-- Rank: '31'
+- Rank: '32'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -307,16 +317,6 @@
   Run: '21.31'
   Cycle: '267.18'
   Swim: '2.10'
-  Walk: '0.00'
-- Rank: '32'
-  Name: Ah Bing
-  Group: ADW
-  FBID: Bingo0507
-  Total_Mileage: '98.78'
-  Badges: '4'
-  Run: '73.24'
-  Cycle: '74.57'
-  Swim: '1.15'
   Walk: '0.00'
 - Rank: '33'
   Name: 'Tan Swee Kiat '
