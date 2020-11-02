@@ -979,6 +979,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '99'
+  Name: Weaver
+  Group: ADW
+  FBID: Weaver5275
+  Total_Mileage: '46.23'
+  Badges: '3'
+  Run: '46.23'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '100'
   Name: COVID
   Group: ADSS/ADWS/ADWO
   FBID: COVID9999
@@ -988,7 +998,7 @@
   Cycle: '45.11'
   Swim: '0.00'
   Walk: '21.50'
-- Rank: '100'
+- Rank: '101'
   Name: Eric Kwok
   Group: ABM
   FBID: Villain1111
@@ -998,7 +1008,7 @@
   Cycle: '125.14'
   Swim: '1.30'
   Walk: '0.00'
-- Rank: '101'
+- Rank: '102'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -1008,7 +1018,7 @@
   Cycle: '58.91'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '102'
+- Rank: '103'
   Name: Jeremy Tan
   Group: ATC
   FBID: Scavenge1601
@@ -1018,7 +1028,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '103'
+- Rank: '104'
   Name: Jeremy Ang
   Group: AFE
   FBID: Jayyleemee1993
@@ -1028,7 +1038,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '104'
+- Rank: '105'
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
@@ -1038,7 +1048,7 @@
   Cycle: '8.04'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '105'
+- Rank: '106'
   Name: Jamie Chen
   Group: ADSS/ADWS/ADWO
   FBID: FLASH2911
@@ -1048,7 +1058,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '106'
+- Rank: '107'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -1058,7 +1068,7 @@
   Cycle: '129.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '107'
+- Rank: '108'
   Name: Zacchaeus
   Group: ADSS/ADWS/ADWO
   FBID: ZjSc9588
@@ -1068,7 +1078,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '108'
+- Rank: '109'
   Name: Iggy
   Group: ADSS/ADWS/ADWO
   FBID: Iggy7900
@@ -1078,7 +1088,7 @@
   Cycle: '147.21'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '109'
+- Rank: '110'
   Name: Glenn Lee
   Group: ADSS/ADWS/ADWO
   FBID: Garfield3110
@@ -1088,7 +1098,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '110'
+- Rank: '111'
   Name: Ankle
   Group: ADSS/ADWS/ADWO
   FBID: Redeyesblackdragon1310
@@ -1098,7 +1108,7 @@
   Cycle: '45.68'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '111'
+- Rank: '112'
   Name: Andre
   Group: ADW
   FBID: Andre7429
@@ -1107,16 +1117,6 @@
   Run: '2.17'
   Cycle: '136.98'
   Swim: '0.85'
-  Walk: '0.00'
-- Rank: '112'
-  Name: Weaver
-  Group: ADW
-  FBID: Weaver5275
-  Total_Mileage: '41.21'
-  Badges: '2'
-  Run: '41.21'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '113'
   Name: Vincent See
