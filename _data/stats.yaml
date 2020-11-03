@@ -939,6 +939,16 @@
   Swim: '2.50'
   Walk: '0.00'
 - Rank: '95'
+  Name: Weaver
+  Group: ADW
+  FBID: Weaver5275
+  Total_Mileage: '50.76'
+  Badges: '3'
+  Run: '50.76'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '96'
   Name: Gwyn
   Group: ADW
   FBID: Magma1201
@@ -948,7 +958,7 @@
   Cycle: '46.60'
   Swim: '0.00'
   Walk: '8.93'
-- Rank: '96'
+- Rank: '97'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
   FBID: Ahbye1234
@@ -958,7 +968,7 @@
   Cycle: '99.03'
   Swim: '0.50'
   Walk: '6.00'
-- Rank: '97'
+- Rank: '98'
   Name: Sean Chua
   Group: ADSS/ADWS/ADWO
   FBID: Stop0001
@@ -968,7 +978,7 @@
   Cycle: '58.61'
   Swim: '0.00'
   Walk: '1.04'
-- Rank: '98'
+- Rank: '99'
   Name: Fu Hao Wei
   Group: ADW
   FBID: fuhaowei8435
@@ -978,7 +988,7 @@
   Cycle: '163.06'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '99'
+- Rank: '100'
   Name: Halu
   Group: AFE
   FBID: Halu1805
@@ -988,23 +998,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '100'
+- Rank: '101'
   Name: Camper
   Group: ADW
   FBID: tanht1968
   Total_Mileage: '46.25'
   Badges: '3'
   Run: '46.25'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '101'
-  Name: Weaver
-  Group: ADW
-  FBID: Weaver5275
-  Total_Mileage: '46.23'
-  Badges: '3'
-  Run: '46.23'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
