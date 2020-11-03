@@ -69,6 +69,16 @@
   Swim: '1.20'
   Walk: '0.00'
 - Rank: '8'
+  Name: Slimer
+  Group: ABM
+  FBID: Slimer1234
+  Total_Mileage: '30.03'
+  Badges: '2'
+  Run: '6.01'
+  Cycle: '24.09'
+  Swim: '3.00'
+  Walk: '0.57'
+- Rank: '9'
   Name: Prem
   Group: ADW
   FBID: Premium6687
@@ -78,7 +88,7 @@
   Cycle: '42.58'
   Swim: '3.00'
   Walk: '0.00'
-- Rank: '9'
+- Rank: '10'
   Name: JOLLY
   Group: ADW
   FBID: JOLLY8178
@@ -88,7 +98,7 @@
   Cycle: '42.68'
   Swim: '2.50'
   Walk: '0.00'
-- Rank: '10'
+- Rank: '11'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -98,16 +108,6 @@
   Cycle: '100.10'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '11'
-  Name: Slimer
-  Group: ABM
-  FBID: Slimer1234
-  Total_Mileage: '24.03'
-  Badges: '2'
-  Run: '6.01'
-  Cycle: '24.09'
-  Swim: '2.00'
-  Walk: '0.57'
 - Rank: '12'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
