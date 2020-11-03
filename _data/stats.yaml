@@ -309,6 +309,16 @@
   Swim: '0.00'
   Walk: '1.17'
 - Rank: '32'
+  Name: PIXAR
+  Group: ABM
+  FBID: PIXAR0001
+  Total_Mileage: '107.33'
+  Badges: '4'
+  Run: '89.33'
+  Cycle: '72.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '33'
   Name: Ah Bing
   Group: ADW
   FBID: Bingo0507
@@ -317,16 +327,6 @@
   Run: '73.24'
   Cycle: '105.24'
   Swim: '1.15'
-  Walk: '0.00'
-- Rank: '33'
-  Name: PIXAR
-  Group: ABM
-  FBID: PIXAR0001
-  Total_Mileage: '102.32'
-  Badges: '4'
-  Run: '84.32'
-  Cycle: '72.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '34'
   Name: Coral
@@ -1039,6 +1039,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '105'
+  Name: Glenn Lee
+  Group: ADSS/ADWS/ADWO
+  FBID: Garfield3110
+  Total_Mileage: '44.38'
+  Badges: '2'
+  Run: '41.88'
+  Cycle: '10.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '106'
   Name: Jeremy Ang
   Group: AFE
   FBID: Jayyleemee1993
@@ -1048,7 +1058,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '106'
+- Rank: '107'
   Name: Manu
   Group: ABM
   FBID: Manu7894
@@ -1058,7 +1068,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '107'
+- Rank: '108'
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
@@ -1068,7 +1078,7 @@
   Cycle: '8.04'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '108'
+- Rank: '109'
   Name: Jamie Chen
   Group: ADSS/ADWS/ADWO
   FBID: FLASH2911
@@ -1078,7 +1088,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '109'
+- Rank: '110'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -1088,7 +1098,7 @@
   Cycle: '129.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '110'
+- Rank: '111'
   Name: Zacchaeus
   Group: ADSS/ADWS/ADWO
   FBID: ZjSc9588
@@ -1098,7 +1108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '111'
+- Rank: '112'
   Name: Iggy
   Group: ADSS/ADWS/ADWO
   FBID: Iggy7900
@@ -1106,16 +1116,6 @@
   Badges: '3'
   Run: '5.11'
   Cycle: '147.21'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '112'
-  Name: Glenn Lee
-  Group: ADSS/ADWS/ADWO
-  FBID: Garfield3110
-  Total_Mileage: '41.88'
-  Badges: '2'
-  Run: '41.88'
-  Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '113'
