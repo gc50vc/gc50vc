@@ -9,6 +9,16 @@
   Swim: '0.00'
   Walk: '57.30'
 - Rank: '2'
+  Name: Hasty
+  Group: ADW
+  FBID: Hasty55555
+  Total_Mileage: '70.38'
+  Badges: '2'
+  Run: '44.32'
+  Cycle: '71.84'
+  Swim: '1.35'
+  Walk: '0.00'
+- Rank: '3'
   Name: Ben
   Group: ADW
   FBID: BY8362
@@ -17,16 +27,6 @@
   Run: '0.00'
   Cycle: '176.29'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '3'
-  Name: Hasty
-  Group: ADW
-  FBID: Hasty55555
-  Total_Mileage: '43.30'
-  Badges: '2'
-  Run: '17.24'
-  Cycle: '71.84'
-  Swim: '1.35'
   Walk: '0.00'
 - Rank: '4'
   Name: LZX
@@ -403,7 +403,7 @@
   Group: ADW
   FBID: Akileis0163
   Total_Mileage: '14.85'
-  Badges: '2'
+  Badges: '1'
   Run: '0.00'
   Cycle: '0.00'
   Swim: '2.48'
@@ -1878,6 +1878,16 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '24.85'
+- Rank: '180'
+  Name: Chrispian
+  Group: AFE
+  FBID: kchrispian1979
+  Total_Mileage: '0.00'
+  Badges: ''
+  Run: '0.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '11.93'
 - Rank: '180'
   Name: Joey Lee Jian Wei
   Group: AFE
