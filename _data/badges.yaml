@@ -4736,6 +4736,12 @@
   name: Geeky
   definition: ''
   Week: '3'
+- timestamp: '2020-11-03 20:30:42'
+  fbid: Starbucks3756
+  badge: Marathon
+  name: Starbucks
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-24 01:24:37'
   fbid: Extreme8123
   badge: Run For Your Life
@@ -5250,6 +5256,12 @@
   fbid: ccey9191
   badge: Buns of Steel
   name: KW
+  definition: ''
+  Week: '3'
+- timestamp: '2020-11-03 20:29:19'
+  fbid: LC0809
+  badge: Buns of Steel
+  name: LC
   definition: ''
   Week: '3'
 - timestamp: '2020-10-20 16:24:58'
@@ -5989,13 +6001,13 @@
   badge: Swordfish
   name: Extreme
   definition: ''
-  Week: '1'
+  Week: ''
 - timestamp: '2020-10-24 12:27:01'
   fbid: Hasty55555
   badge: Swordfish
   name: Hasty
   definition: ''
-  Week: '1'
+  Week: ''
 - timestamp: '2020-10-24 16:03:43'
   fbid: Bronze1234
   badge: Swordfish
