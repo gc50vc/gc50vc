@@ -1039,6 +1039,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '105'
+  Name: Andre
+  Group: ADW
+  FBID: Andre7429
+  Total_Mileage: '46.00'
+  Badges: '3'
+  Run: '4.22'
+  Cycle: '146.73'
+  Swim: '0.85'
+  Walk: '0.00'
+- Rank: '106'
   Name: COVID
   Group: ADSS/ADWS/ADWO
   FBID: COVID9999
@@ -1048,7 +1058,7 @@
   Cycle: '45.11'
   Swim: '0.00'
   Walk: '21.50'
-- Rank: '106'
+- Rank: '107'
   Name: Eric Kwok
   Group: ABM
   FBID: Villain1111
@@ -1058,7 +1068,7 @@
   Cycle: '125.14'
   Swim: '1.30'
   Walk: '0.00'
-- Rank: '107'
+- Rank: '108'
   Name: Jeremy Tan
   Group: ATC
   FBID: Scavenge1601
@@ -1068,7 +1078,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '108'
+- Rank: '109'
   Name: Glenn Lee
   Group: ADSS/ADWS/ADWO
   FBID: Garfield3110
@@ -1077,16 +1087,6 @@
   Run: '41.88'
   Cycle: '10.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '109'
-  Name: Andre
-  Group: ADW
-  FBID: Andre7429
-  Total_Mileage: '43.95'
-  Badges: '3'
-  Run: '2.17'
-  Cycle: '146.73'
-  Swim: '0.85'
   Walk: '0.00'
 - Rank: '110'
   Name: Starbucks
