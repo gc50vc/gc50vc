@@ -1679,6 +1679,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '169'
+  Name: Diva
+  Group: ADW
+  FBID: Delia1234
+  Total_Mileage: '29.54'
+  Badges: '3'
+  Run: '17.01'
+  Cycle: '50.13'
+  Swim: '0.00'
+  Walk: '28.59'
+- Rank: '170'
   Name: Owyong
   Group: ATC
   FBID: Owyong251088
@@ -1688,7 +1698,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '170'
+- Rank: '171'
   Name: Yan Ting
   Group: ADSS/ADWS/ADWO
   FBID: Yeti1993
@@ -1698,7 +1708,7 @@
   Cycle: '0.00'
   Swim: '2.10'
   Walk: '0.00'
-- Rank: '171'
+- Rank: '172'
   Name: Yi Kuang
   Group: ADW
   FBID: rocket1999
@@ -1708,7 +1718,7 @@
   Cycle: '48.82'
   Swim: '0.00'
   Walk: '1.03'
-- Rank: '172'
+- Rank: '173'
   Name: Gabriel Tay Kai Xian
   Group: ADW
   FBID: Blueeyeswhitedragon2901
@@ -1718,7 +1728,7 @@
   Cycle: '45.48'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '173'
+- Rank: '174'
   Name: aH Hui
   Group: ADSS/ADWS/ADWO
   FBID: Edgar0409
@@ -1728,7 +1738,7 @@
   Cycle: '45.33'
   Swim: '0.00'
   Walk: '6.71'
-- Rank: '174'
+- Rank: '175'
   Name: Max160A
   Group: ADSS/ADWS/ADWO
   FBID: Max2310
@@ -1738,7 +1748,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '15.28'
-- Rank: '175'
+- Rank: '176'
   Name: EG
   Group: ADSS/ADWS/ADWO
   FBID: EG3211
@@ -1748,7 +1758,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '176'
+- Rank: '177'
   Name: Bryan Tan GJ
   Group: ADW
   FBID: Bryan2727
@@ -1758,7 +1768,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '18.68'
-- Rank: '177'
+- Rank: '178'
   Name: 'Crystal '
   Group: ABM
   FBID: Crystal1101
@@ -1768,7 +1778,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '178'
+- Rank: '179'
   Name: Der Siang
   Group: ATC
   FBID: Aku1234
@@ -1778,7 +1788,7 @@
   Cycle: '13.39'
   Swim: '1.60'
   Walk: '0.00'
-- Rank: '179'
+- Rank: '180'
   Name: Pterlek
   Group: ATC
   FBID: Conman7361
@@ -1788,7 +1798,7 @@
   Cycle: '0.00'
   Swim: '4.50'
   Walk: '6.49'
-- Rank: '180'
+- Rank: '181'
   Name: Hsien Rong
   Group: ADSS/ADWS/ADWO
   FBID: xian1108
@@ -1798,7 +1808,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '181'
+- Rank: '182'
   Name: Kush
   Group: AFE
   FBID: KM1695
@@ -1808,16 +1818,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '90.95'
-- Rank: '182'
-  Name: Diva
-  Group: ADW
-  FBID: Delia1234
-  Total_Mileage: '26.48'
-  Badges: '3'
-  Run: '13.95'
-  Cycle: '50.13'
-  Swim: '0.00'
-  Walk: '28.59'
 - Rank: '183'
   Name: Kelvis
   Group: ADSS/ADWS/ADWO
