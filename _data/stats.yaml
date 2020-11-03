@@ -149,6 +149,16 @@
   Swim: '3.40'
   Walk: '0.00'
 - Rank: '16'
+  Name: Nicholas Lian
+  Group: ADW
+  FBID: Horsepower2001
+  Total_Mileage: '159.16'
+  Badges: '7'
+  Run: '106.59'
+  Cycle: '30.26'
+  Swim: '7.50'
+  Walk: '0.00'
+- Rank: '17'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -158,7 +168,7 @@
   Cycle: '51.84'
   Swim: '18.74'
   Walk: '0.00'
-- Rank: '17'
+- Rank: '18'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -167,16 +177,6 @@
   Run: '124.43'
   Cycle: '16.60'
   Swim: '4.05'
-  Walk: '0.00'
-- Rank: '18'
-  Name: Nicholas Lian
-  Group: ADW
-  FBID: Horsepower2001
-  Total_Mileage: '152.03'
-  Badges: '6'
-  Run: '99.46'
-  Cycle: '30.26'
-  Swim: '7.50'
   Walk: '0.00'
 - Rank: '19'
   Name: Vincent Yap
@@ -1667,7 +1667,7 @@
   Run: '20.02'
   Cycle: '19.16'
   Swim: '0.95'
-  Walk: '0.00'
+  Walk: '8.62'
 - Rank: '168'
   Name: Clover
   Group: ABM
