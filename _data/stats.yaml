@@ -209,6 +209,16 @@
   Swim: '12.00'
   Walk: '7.27'
 - Rank: '22'
+  Name: Vincent Yap
+  Group: ADW
+  FBID: Vince2107
+  Total_Mileage: '128.50'
+  Badges: '7'
+  Run: '34.50'
+  Cycle: '340.00'
+  Swim: '1.50'
+  Walk: '0.00'
+- Rank: '23'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -218,7 +228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: Tony Foo
   Group: ADSS/ADWS/ADWO
   FBID: tonyfoo0165
@@ -228,7 +238,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: aH-MuNs-Ge
   Group: AFE
   FBID: ahmuns9861
@@ -238,7 +248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '79.15'
-- Rank: '25'
+- Rank: '26'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -248,7 +258,7 @@
   Cycle: '280.50'
   Swim: '3.70'
   Walk: '1.90'
-- Rank: '26'
+- Rank: '27'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -257,16 +267,6 @@
   Run: '18.93'
   Cycle: '373.31'
   Swim: '1.00'
-  Walk: '0.00'
-- Rank: '27'
-  Name: Vincent Yap
-  Group: ADW
-  FBID: Vince2107
-  Total_Mileage: '115.75'
-  Badges: '7'
-  Run: '34.50'
-  Cycle: '289.00'
-  Swim: '1.50'
   Walk: '0.00'
 - Rank: '28'
   Name: Bronson
