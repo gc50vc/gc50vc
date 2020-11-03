@@ -19,6 +19,16 @@
   Swim: '1.35'
   Walk: '0.00'
 - Rank: '3'
+  Name: Ben
+  Group: ADW
+  FBID: BY8362
+  Total_Mileage: '38.06'
+  Badges: '0'
+  Run: '0.00'
+  Cycle: '152.23'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '4'
   Name: LZX
   Group: ADSS/ADWS/ADWO
   FBID: leezx1337
@@ -28,7 +38,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '4'
+- Rank: '5'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -38,7 +48,7 @@
   Cycle: '99.46'
   Swim: '1.60'
   Walk: '0.00'
-- Rank: '5'
+- Rank: '6'
   Name: Eric
   Group: AOSX/AOS
   FBID: RelacRun0011
@@ -48,7 +58,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '6'
+- Rank: '7'
   Name: RainmanCYK
   Group: ADW
   FBID: Rainman0000
@@ -58,7 +68,7 @@
   Cycle: '0.00'
   Swim: '5.50'
   Walk: '0.00'
-- Rank: '6'
+- Rank: '7'
   Name: Day
   Group: ATC
   FBID: Racer0370
@@ -68,7 +78,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '53.00'
-- Rank: '8'
+- Rank: '9'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -77,16 +87,6 @@
   Run: '0.00'
   Cycle: '96.30'
   Swim: '1.20'
-  Walk: '0.00'
-- Rank: '9'
-  Name: Ben
-  Group: ADW
-  FBID: BY8362
-  Total_Mileage: '30.05'
-  Badges: '0'
-  Run: '0.00'
-  Cycle: '120.20'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '10'
   Name: Slimer
