@@ -4604,6 +4604,12 @@
   name: Rocky
   definition: ''
   Week: '3'
+- timestamp: '2020-11-03 09:00:03'
+  fbid: Manu7894
+  badge: Marathon
+  name: Manu
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-24 01:24:37'
   fbid: Extreme8123
   badge: Run For Your Life
@@ -5993,9 +5999,9 @@
 - timestamp: '2020-10-27 20:29:29'
   fbid: Mtwk1998
   badge: Iron Lungs
-  name: Marcus
+  name: ''
   definition: ''
-  Week: '2'
+  Week: ''
 - timestamp: '2020-10-28 08:21:10'
   fbid: Nn1974
   badge: Iron Lungs
