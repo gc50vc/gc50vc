@@ -189,6 +189,16 @@
   Swim: '3.10'
   Walk: '0.00'
 - Rank: '20'
+  Name: HC
+  Group: ADSS/ADWS/ADWO
+  FBID: hc1234
+  Total_Mileage: '137.68'
+  Badges: '4'
+  Run: '6.25'
+  Cycle: '525.71'
+  Swim: '0.00'
+  Walk: '2.19'
+- Rank: '21'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -198,16 +208,6 @@
   Cycle: '113.03'
   Swim: '12.20'
   Walk: '8.34'
-- Rank: '21'
-  Name: HC
-  Group: ADSS/ADWS/ADWO
-  FBID: hc1234
-  Total_Mileage: '133.80'
-  Badges: '4'
-  Run: '2.37'
-  Cycle: '525.71'
-  Swim: '0.00'
-  Walk: '2.19'
 - Rank: '22'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
@@ -829,6 +829,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '84'
+  Name: AP
+  Group: ADW
+  FBID: APHRMC0207
+  Total_Mileage: '56.00'
+  Badges: '4'
+  Run: '29.27'
+  Cycle: '58.91'
+  Swim: '2.00'
+  Walk: '0.00'
+- Rank: '85'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
   FBID: Ahbye1234
@@ -838,7 +848,7 @@
   Cycle: '99.03'
   Swim: '1.50'
   Walk: '6.00'
-- Rank: '85'
+- Rank: '86'
   Name: Gwyn
   Group: ADW
   FBID: Magma1201
@@ -848,7 +858,7 @@
   Cycle: '46.60'
   Swim: '0.00'
   Walk: '8.93'
-- Rank: '86'
+- Rank: '87'
   Name: Rats
   Group: ABM
   FBID: Rats1500
@@ -858,7 +868,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '87'
+- Rank: '88'
   Name: BENteo
   Group: AFE
   FBID: BEN7452
@@ -868,7 +878,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '88'
+- Rank: '89'
   Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
   FBID: LeonYeo2590
@@ -878,7 +888,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '89'
+- Rank: '90'
   Name: loanshark
   Group: ATC
   FBID: loanshark9356
@@ -888,7 +898,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '90'
+- Rank: '91'
   Name: 3sg Charlie
   Group: ADSS/ADWS/ADWO
   FBID: Charlie2539
@@ -898,7 +908,7 @@
   Cycle: '0.00'
   Swim: '2.45'
   Walk: '0.00'
-- Rank: '91'
+- Rank: '92'
   Name: Warren Chua
   Group: ADSS/ADWS/ADWO
   FBID: Warren9588
@@ -908,7 +918,7 @@
   Cycle: '166.30'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '92'
+- Rank: '93'
   Name: Rambo
   Group: AOSX/AOS
   FBID: Rambo0113
@@ -918,7 +928,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '93'
+- Rank: '94'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: Errick1991
@@ -928,7 +938,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '94'
+- Rank: '95'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -938,7 +948,7 @@
   Cycle: '18.27'
   Swim: '0.00'
   Walk: '3.42'
-- Rank: '95'
+- Rank: '96'
   Name: francisyap
   Group: AFE
   FBID: francis7373
@@ -948,7 +958,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '96'
+- Rank: '97'
   Name: JOLLY
   Group: ADW
   FBID: Jolly8178
@@ -958,7 +968,7 @@
   Cycle: '42.68'
   Swim: '2.50'
   Walk: '0.00'
-- Rank: '97'
+- Rank: '98'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -968,7 +978,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '98'
+- Rank: '99'
   Name: Sean Chua
   Group: ADSS/ADWS/ADWO
   FBID: Stop0001
@@ -978,7 +988,7 @@
   Cycle: '58.61'
   Swim: '0.00'
   Walk: '1.04'
-- Rank: '99'
+- Rank: '100'
   Name: Fu Hao Wei
   Group: ADW
   FBID: fuhaowei8435
@@ -988,7 +998,7 @@
   Cycle: '163.06'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '100'
+- Rank: '101'
   Name: Alan
   Group: ADSS/ADWS/ADWO
   FBID: Alan2881
@@ -998,7 +1008,7 @@
   Cycle: '0.00'
   Swim: '4.00'
   Walk: '32.00'
-- Rank: '101'
+- Rank: '102'
   Name: Halu
   Group: AFE
   FBID: Halu1805
@@ -1008,7 +1018,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '102'
+- Rank: '103'
   Name: Camper
   Group: ADW
   FBID: tanht1968
@@ -1018,7 +1028,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '103'
+- Rank: '104'
   Name: COVID
   Group: ADSS/ADWS/ADWO
   FBID: COVID9999
@@ -1028,7 +1038,7 @@
   Cycle: '45.11'
   Swim: '0.00'
   Walk: '21.50'
-- Rank: '104'
+- Rank: '105'
   Name: Eric Kwok
   Group: ABM
   FBID: Villain1111
@@ -1037,16 +1047,6 @@
   Run: '6.59'
   Cycle: '125.14'
   Swim: '1.30'
-  Walk: '0.00'
-- Rank: '105'
-  Name: AP
-  Group: ADW
-  FBID: APHRMC0207
-  Total_Mileage: '45.29'
-  Badges: '4'
-  Run: '18.56'
-  Cycle: '58.91'
-  Swim: '2.00'
   Walk: '0.00'
 - Rank: '106'
   Name: Jeremy Tan
