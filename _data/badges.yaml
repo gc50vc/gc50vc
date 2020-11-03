@@ -4160,6 +4160,12 @@
   name: Bala
   definition: ''
   Week: '3'
+- timestamp: '2020-11-03 08:16:55'
+  fbid: Goodman8888
+  badge: Mount Everest
+  name: Elliot Goodman
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-22 00:35:59'
   fbid: Extreme8123
   badge: Marathon
@@ -5993,9 +5999,9 @@
 - timestamp: '2020-10-28 21:41:40'
   fbid: Premium6687
   badge: Iron Lungs
-  name: Prem
+  name: ''
   definition: ''
-  Week: '2'
+  Week: ''
 - timestamp: '2020-10-29 19:54:26'
   fbid: Xiaolow3344
   badge: Iron Lungs
@@ -6028,6 +6034,12 @@
   Week: ''
 - timestamp: '2020-11-02 11:33:34'
   fbid: horsepower2001
+  badge: Iron Lungs
+  name: ''
+  definition: ''
+  Week: ''
+- timestamp: '2020-11-03 08:19:08'
+  fbid: Sloh0121
   badge: Iron Lungs
   name: ''
   definition: ''
