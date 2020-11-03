@@ -29,6 +29,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '4'
+  Name: Hasty
+  Group: ADW
+  FBID: Hasty55555
+  Total_Mileage: '334.01'
+  Badges: '10'
+  Run: '253.04'
+  Cycle: '123.47'
+  Swim: '8.35'
+  Walk: '0.00'
+- Rank: '5'
   Name: LZX
   Group: ADSS/ADWS/ADWO
   FBID: leezx1337
@@ -38,7 +48,7 @@
   Cycle: '936.46'
   Swim: '0.00'
   Walk: '2.18'
-- Rank: '5'
+- Rank: '6'
   Name: T-rex
   Group: ABM
   FBID: Trex1406
@@ -47,16 +57,6 @@
   Run: '112.66'
   Cycle: '450.30'
   Swim: '14.00'
-  Walk: '0.00'
-- Rank: '6'
-  Name: Hasty
-  Group: ADW
-  FBID: Hasty55555
-  Total_Mileage: '306.93'
-  Badges: '10'
-  Run: '225.96'
-  Cycle: '123.47'
-  Swim: '8.35'
   Walk: '0.00'
 - Rank: '7'
   Name: Sloh
@@ -5058,6 +5058,16 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '5.01'
+- Rank: '492'
+  Name: Chrispian
+  Group: AFE
+  FBID: kchrispian1979
+  Total_Mileage: '0.00'
+  Badges: '1'
+  Run: '0.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '11.93'
 - Rank: '492'
   Name: 'Joanne '
   Group: AFE
