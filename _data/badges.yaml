@@ -2198,6 +2198,12 @@
   name: Alloy
   definition: ''
   Week: '3'
+- timestamp: '2020-11-03 17:05:05'
+  fbid: Saturn1501
+  badge: Baby Steps
+  name: Saturn
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-22 18:39:38'
   fbid: BY8362
   badge: Half Ironman
@@ -4244,6 +4250,12 @@
   name: Alloy
   definition: ''
   Week: '3'
+- timestamp: '2020-11-03 17:05:05'
+  fbid: Saturn1501
+  badge: Mount Everest
+  name: Saturn
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-22 00:35:59'
   fbid: Extreme8123
   badge: Marathon
@@ -5989,13 +6001,13 @@
   badge: Swordfish
   name: Slimer
   definition: ''
-  Week: '2'
+  Week: ''
 - timestamp: '2020-10-27 17:10:32'
   fbid: jheng0000
   badge: Swordfish
   name: jheng
   definition: ''
-  Week: '2'
+  Week: ''
 - timestamp: '2020-10-27 19:11:00'
   fbid: Xiaolow3344
   badge: Swordfish
