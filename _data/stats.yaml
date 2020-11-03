@@ -179,6 +179,16 @@
   Swim: '7.50'
   Walk: '0.00'
 - Rank: '19'
+  Name: Vincent Yap
+  Group: ADW
+  FBID: Vince2107
+  Total_Mileage: '138.10'
+  Badges: '7'
+  Run: '34.50'
+  Cycle: '340.00'
+  Swim: '3.10'
+  Walk: '0.00'
+- Rank: '20'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -188,7 +198,7 @@
   Cycle: '113.03'
   Swim: '12.20'
   Walk: '8.34'
-- Rank: '20'
+- Rank: '21'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -198,7 +208,7 @@
   Cycle: '525.71'
   Swim: '0.00'
   Walk: '2.19'
-- Rank: '21'
+- Rank: '22'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
@@ -208,16 +218,6 @@
   Cycle: '32.50'
   Swim: '12.00'
   Walk: '7.27'
-- Rank: '22'
-  Name: Vincent Yap
-  Group: ADW
-  FBID: Vince2107
-  Total_Mileage: '128.50'
-  Badges: '7'
-  Run: '34.50'
-  Cycle: '340.00'
-  Swim: '1.50'
-  Walk: '0.00'
 - Rank: '23'
   Name: Dan
   Group: ADSS/ADWS/ADWO
