@@ -19,6 +19,16 @@
   Swim: '1.35'
   Walk: '0.00'
 - Rank: '3'
+  Name: Ben
+  Group: ADW
+  FBID: BY8362
+  Total_Mileage: '50.09'
+  Badges: '0'
+  Run: '0.00'
+  Cycle: '200.34'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '4'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -27,16 +37,6 @@
   Run: '11.19'
   Cycle: '99.46'
   Swim: '1.60'
-  Walk: '0.00'
-- Rank: '4'
-  Name: Ben
-  Group: ADW
-  FBID: BY8362
-  Total_Mileage: '44.07'
-  Badges: '0'
-  Run: '0.00'
-  Cycle: '176.29'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '5'
   Name: LZX
