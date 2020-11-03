@@ -1589,6 +1589,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '160'
+  Name: Kenneth
+  Group: ADSS/ADWS/ADWO
+  FBID: Cat0407
+  Total_Mileage: '31.50'
+  Badges: '2'
+  Run: '31.50'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '161'
   Name: Ham
   Group: ADSS/ADWS/ADWO
   FBID: Ham1234
@@ -1598,7 +1608,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '161'
+- Rank: '162'
   Name: Sze Tein
   Group: ATC
   FBID: Topaz1327
@@ -1608,7 +1618,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '162'
+- Rank: '163'
   Name: Ganesan
   Group: AFE
   FBID: Guinness2512
@@ -1618,7 +1628,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '163'
+- Rank: '164'
   Name: CSM
   Group: ADSS/ADWS/ADWO
   FBID: CSM8189
@@ -1628,7 +1638,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '12.30'
-- Rank: '164'
+- Rank: '165'
   Name: Volley
   Group: ADW
   FBID: Volley1543
@@ -1638,7 +1648,7 @@
   Cycle: '19.16'
   Swim: '0.95'
   Walk: '0.00'
-- Rank: '165'
+- Rank: '166'
   Name: Clover
   Group: ABM
   FBID: Clover1234
@@ -1648,23 +1658,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '166'
+- Rank: '167'
   Name: Owyong
   Group: ATC
   FBID: Owyong251088
   Total_Mileage: '29.53'
   Badges: '2'
   Run: '29.53'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '167'
-  Name: Kenneth
-  Group: ADSS/ADWS/ADWO
-  FBID: Cat0407
-  Total_Mileage: '29.00'
-  Badges: '2'
-  Run: '29.00'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
