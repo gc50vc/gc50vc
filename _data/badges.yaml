@@ -5420,6 +5420,12 @@
   name: Slimer
   definition: ''
   Week: '3'
+- timestamp: '2020-11-03 17:18:58'
+  fbid: PIXAR0001
+  badge: Cycopath
+  name: PIXAR
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-20 16:25:36'
   fbid: LWY3942
   badge: Tour de Singapore
@@ -5995,7 +6001,7 @@
   badge: Swordfish
   name: Cactus
   definition: ''
-  Week: '2'
+  Week: ''
 - timestamp: '2020-10-27 13:12:57'
   fbid: Slimer1234
   badge: Swordfish
