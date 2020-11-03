@@ -2312,6 +2312,12 @@
   name: Slimer
   definition: ''
   Week: '3'
+- timestamp: '2020-11-03 20:51:26'
+  fbid: Jonjuay8822
+  badge: Half Ironman
+  name: 'Jonjuay '
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-24 05:41:33'
   fbid: Trex1406
   badge: Ironman
@@ -4742,6 +4748,12 @@
   name: Starbucks
   definition: ''
   Week: '3'
+- timestamp: '2020-11-03 20:49:12'
+  fbid: Magma1201
+  badge: Marathon
+  name: Gwyn
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-24 01:24:37'
   fbid: Extreme8123
   badge: Run For Your Life
@@ -5989,13 +6001,13 @@
   badge: Swordfish
   name: Nicholas
   definition: ''
-  Week: '1'
+  Week: ''
 - timestamp: '2020-10-22 21:41:11'
   fbid: Mtwk1998
   badge: Swordfish
   name: Marcus
   definition: ''
-  Week: '1'
+  Week: ''
 - timestamp: '2020-10-23 18:18:07'
   fbid: Extreme8123
   badge: Swordfish
