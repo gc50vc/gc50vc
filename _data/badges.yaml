@@ -4298,6 +4298,12 @@
   name: Velvet
   definition: ''
   Week: '3'
+- timestamp: '2020-11-03 21:54:17'
+  fbid: Spear0213
+  badge: Mount Everest
+  name: Spear
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-22 00:35:59'
   fbid: Extreme8123
   badge: Marathon
@@ -5995,7 +6001,7 @@
   badge: Frogman
   name: RainmanCYK
   definition: ''
-  Week: '3'
+  Week: ''
 - timestamp: '2020-11-03 18:05:48'
   fbid: Bingo0507
   badge: Frogman
