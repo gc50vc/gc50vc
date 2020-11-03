@@ -49,6 +49,16 @@
   Swim: '0.00'
   Walk: '2.18'
 - Rank: '6'
+  Name: Sloh
+  Group: ADW
+  FBID: Sloh0121
+  Total_Mileage: '316.90'
+  Badges: '12'
+  Run: '115.01'
+  Cycle: '637.17'
+  Swim: '7.10'
+  Walk: '0.00'
+- Rank: '7'
   Name: T-rex
   Group: ABM
   FBID: Trex1406
@@ -57,16 +67,6 @@
   Run: '112.66'
   Cycle: '450.30'
   Swim: '14.00'
-  Walk: '0.00'
-- Rank: '7'
-  Name: Sloh
-  Group: ADW
-  FBID: Sloh0121
-  Total_Mileage: '305.71'
-  Badges: '12'
-  Run: '103.82'
-  Cycle: '637.17'
-  Swim: '7.10'
   Walk: '0.00'
 - Rank: '8'
   Name: Ektar
