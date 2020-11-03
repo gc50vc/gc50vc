@@ -69,6 +69,16 @@
   Swim: '7.10'
   Walk: '0.00'
 - Rank: '8'
+  Name: Ektar
+  Group: ABM
+  FBID: ektar1971
+  Total_Mileage: '198.99'
+  Badges: '9'
+  Run: '81.94'
+  Cycle: '403.41'
+  Swim: '2.70'
+  Walk: '0.00'
+- Rank: '9'
   Name: Nicholas
   Group: ADSS/ADWS/ADWO
   FBID: NN1974
@@ -78,16 +88,6 @@
   Cycle: '400.71'
   Swim: '8.60'
   Walk: '3.02'
-- Rank: '9'
-  Name: Ektar
-  Group: ABM
-  FBID: ektar1971
-  Total_Mileage: '191.49'
-  Badges: '9'
-  Run: '74.44'
-  Cycle: '403.41'
-  Swim: '2.70'
-  Walk: '0.00'
 - Rank: '10'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
@@ -679,6 +679,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '69'
+  Name: Geeky
+  Group: ADW
+  FBID: Geeky1989
+  Total_Mileage: '65.00'
+  Badges: '5'
+  Run: '44.00'
+  Cycle: '0.00'
+  Swim: '3.50'
+  Walk: '28.68'
+- Rank: '70'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -688,7 +698,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '70'
+- Rank: '71'
   Name: Barter
   Group: ATC
   FBID: Reload0203
@@ -698,7 +708,7 @@
   Cycle: '203.00'
   Swim: '1.50'
   Walk: '13.50'
-- Rank: '71'
+- Rank: '72'
   Name: PCK
   Group: ADW
   FBID: PCK2205
@@ -708,7 +718,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '72'
+- Rank: '73'
   Name: Yeow Teck
   Group: AOSX/AOS
   FBID: Youtube6116
@@ -718,7 +728,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '73'
+- Rank: '74'
   Name: Yun Jie (Rhythm)
   Group: ADW
   FBID: Jabez8686
@@ -728,7 +738,7 @@
   Cycle: '0.00'
   Swim: '8.45'
   Walk: '4.80'
-- Rank: '74'
+- Rank: '75'
   Name: Lia
   Group: ADSS/ADWS/ADWO
   FBID: Lia1116
@@ -738,7 +748,7 @@
   Cycle: '42.11'
   Swim: '0.90'
   Walk: '0.00'
-- Rank: '75'
+- Rank: '76'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -748,7 +758,7 @@
   Cycle: '45.78'
   Swim: '2.50'
   Walk: '1.63'
-- Rank: '76'
+- Rank: '77'
   Name: QUENCHER
   Group: ABM
   FBID: quencher2020
@@ -758,7 +768,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '77'
+- Rank: '78'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -768,7 +778,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '78'
+- Rank: '79'
   Name: Weng
   Group: ADSS/ADWS/ADWO
   FBID: Weng8238
@@ -778,7 +788,7 @@
   Cycle: '196.53'
   Swim: '0.00'
   Walk: '12.83'
-- Rank: '79'
+- Rank: '80'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
@@ -788,7 +798,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '80'
+- Rank: '81'
   Name: Sen Kiat
   Group: ATC
   FBID: HSK7777
@@ -798,7 +808,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '81'
+- Rank: '82'
   Name: Lightyear
   Group: ADW
   FBID: Lightyear2020
@@ -808,7 +818,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '82'
+- Rank: '83'
   Name: Lava
   Group: ATC
   FBID: Lava1717
@@ -818,16 +828,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '83'
-  Name: Geeky
-  Group: ADW
-  FBID: Geeky1989
-  Total_Mileage: '57.00'
-  Badges: '4'
-  Run: '36.00'
-  Cycle: '0.00'
-  Swim: '3.50'
-  Walk: '26.55'
 - Rank: '84'
   Name: Rats
   Group: ABM
