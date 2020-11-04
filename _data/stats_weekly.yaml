@@ -69,6 +69,16 @@
   Swim: '4.50'
   Walk: '0.00'
 - Rank: '8'
+  Name: Slimer
+  Group: ABM
+  FBID: Slimer1234
+  Total_Mileage: '36.08'
+  Badges: '2'
+  Run: '12.06'
+  Cycle: '24.09'
+  Swim: '3.00'
+  Walk: '1.13'
+- Rank: '9'
   Name: Eric
   Group: AOSX/AOS
   FBID: RelacRun0011
@@ -78,7 +88,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '9'
+- Rank: '10'
   Name: RainmanCYK
   Group: ADW
   FBID: Rainman0000
@@ -88,7 +98,7 @@
   Cycle: '0.00'
   Swim: '5.50'
   Walk: '0.00'
-- Rank: '9'
+- Rank: '10'
   Name: Day
   Group: ATC
   FBID: Racer0370
@@ -98,7 +108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '53.00'
-- Rank: '11'
+- Rank: '12'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -108,16 +118,6 @@
   Cycle: '100.10'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '12'
-  Name: Slimer
-  Group: ABM
-  FBID: Slimer1234
-  Total_Mileage: '30.03'
-  Badges: '2'
-  Run: '6.01'
-  Cycle: '24.09'
-  Swim: '3.00'
-  Walk: '0.57'
 - Rank: '13'
   Name: 'Tay Wen Hao '
   Group: ADW
