@@ -119,6 +119,16 @@
   Swim: '21.50'
   Walk: '1.32'
 - Rank: '13'
+  Name: Euj
+  Group: ATC
+  FBID: Euj1871
+  Total_Mileage: '180.04'
+  Badges: '7'
+  Run: '62.43'
+  Cycle: '81.86'
+  Swim: '16.19'
+  Walk: '93.22'
+- Rank: '14'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -128,16 +138,6 @@
   Cycle: '79.96'
   Swim: '20.99'
   Walk: '0.00'
-- Rank: '14'
-  Name: Euj
-  Group: ATC
-  FBID: Euj1871
-  Total_Mileage: '170.68'
-  Badges: '7'
-  Run: '62.43'
-  Cycle: '81.86'
-  Swim: '14.63'
-  Walk: '93.22'
 - Rank: '15'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
