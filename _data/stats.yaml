@@ -189,6 +189,16 @@
   Swim: '4.05'
   Walk: '0.00'
 - Rank: '20'
+  Name: Tony Foo
+  Group: ADW
+  FBID: tonyfoo0165
+  Total_Mileage: '151.00'
+  Badges: '4'
+  Run: '151.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '21'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -198,7 +208,7 @@
   Cycle: '113.03'
   Swim: '12.20'
   Walk: '8.90'
-- Rank: '21'
+- Rank: '22'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -207,16 +217,6 @@
   Run: '34.50'
   Cycle: '340.00'
   Swim: '3.10'
-  Walk: '0.00'
-- Rank: '22'
-  Name: Tony Foo
-  Group: ADW
-  FBID: tonyfoo0165
-  Total_Mileage: '138.00'
-  Badges: '4'
-  Run: '138.00'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '23'
   Name: HC
@@ -529,6 +529,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '54'
+  Name: Lo Heng
+  Group: ADSS/ADWS/ADWO
+  FBID: Random3050
+  Total_Mileage: '87.94'
+  Badges: '3'
+  Run: '87.94'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '1.28'
+- Rank: '55'
   Name: Andrew
   Group: ADW
   FBID: Hammer1990
@@ -538,7 +548,7 @@
   Cycle: '165.06'
   Swim: '3.00'
   Walk: '0.00'
-- Rank: '55'
+- Rank: '56'
   Name: Cosmo
   Group: ABM
   FBID: Cosmo6306
@@ -548,7 +558,7 @@
   Cycle: '0.00'
   Swim: '0.50'
   Walk: '10.51'
-- Rank: '56'
+- Rank: '57'
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
@@ -558,7 +568,7 @@
   Cycle: '0.00'
   Swim: '2.05'
   Walk: '4.00'
-- Rank: '57'
+- Rank: '58'
   Name: Rats
   Group: ABM
   FBID: Rats1500
@@ -568,7 +578,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '58'
+- Rank: '59'
   Name: Silver
   Group: ABM
   FBID: Silver5117
@@ -578,7 +588,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.10'
-- Rank: '59'
+- Rank: '60'
   Name: Tan Chee Wee
   Group: ATC
   FBID: tancw1974
@@ -588,16 +598,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '60'
-  Name: Lo Heng
-  Group: ADSS/ADWS/ADWO
-  FBID: Random3050
-  Total_Mileage: '76.27'
-  Badges: '3'
-  Run: '76.27'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '1.28'
 - Rank: '61'
   Name: Hanyong
   Group: ADW
