@@ -709,6 +709,16 @@
   Swim: '0.00'
   Walk: '6.00'
 - Rank: '72'
+  Name: Lightyear
+  Group: ADW
+  FBID: Lightyear2020
+  Total_Mileage: '68.96'
+  Badges: '3'
+  Run: '68.96'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '73'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
@@ -718,7 +728,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '73'
+- Rank: '74'
   Name: Lia
   Group: ADSS/ADWS/ADWO
   FBID: Lia1116
@@ -728,7 +738,7 @@
   Cycle: '63.18'
   Swim: '0.90'
   Walk: '0.00'
-- Rank: '74'
+- Rank: '75'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
   FBID: Ahbye1234
@@ -738,7 +748,7 @@
   Cycle: '99.03'
   Swim: '1.50'
   Walk: '6.00'
-- Rank: '75'
+- Rank: '76'
   Name: Lava
   Group: ATC
   FBID: Lava1717
@@ -748,7 +758,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '76'
+- Rank: '77'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: Errick1991
@@ -758,7 +768,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '77'
+- Rank: '78'
   Name: Geeky
   Group: ADW
   FBID: Geeky1989
@@ -768,7 +778,7 @@
   Cycle: '0.00'
   Swim: '3.50'
   Walk: '28.68'
-- Rank: '78'
+- Rank: '79'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -778,7 +788,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '79'
+- Rank: '80'
   Name: Barter
   Group: ATC
   FBID: Reload0203
@@ -788,23 +798,13 @@
   Cycle: '203.00'
   Swim: '1.50'
   Walk: '13.50'
-- Rank: '80'
+- Rank: '81'
   Name: PCK
   Group: ADW
   FBID: PCK2205
   Total_Mileage: '63.87'
   Badges: '3'
   Run: '63.87'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '81'
-  Name: Lightyear
-  Group: ADW
-  FBID: Lightyear2020
-  Total_Mileage: '63.42'
-  Badges: '3'
-  Run: '63.42'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
@@ -1717,7 +1717,7 @@
   Run: '20.02'
   Cycle: '19.16'
   Swim: '0.95'
-  Walk: '8.62'
+  Walk: '13.54'
 - Rank: '173'
   Name: NG Eng Ming
   Group: ADSS/ADWS/ADWO
