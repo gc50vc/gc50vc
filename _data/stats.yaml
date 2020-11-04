@@ -249,6 +249,16 @@
   Swim: '5.30'
   Walk: '1.90'
 - Rank: '26'
+  Name: 'Jonjuay '
+  Group: ADSS/ADWS/ADWO
+  FBID: Jonjuay8822
+  Total_Mileage: '127.40'
+  Badges: '6'
+  Run: '28.07'
+  Cycle: '373.31'
+  Swim: '1.00'
+  Walk: '0.00'
+- Rank: '27'
   Name: Bronson
   Group: ADW
   FBID: Bronze1234
@@ -257,16 +267,6 @@
   Run: '29.91'
   Cycle: '80.27'
   Swim: '12.23'
-  Walk: '0.00'
-- Rank: '27'
-  Name: 'Jonjuay '
-  Group: ADSS/ADWS/ADWO
-  FBID: Jonjuay8822
-  Total_Mileage: '123.28'
-  Badges: '6'
-  Run: '23.95'
-  Cycle: '373.31'
-  Swim: '1.00'
   Walk: '0.00'
 - Rank: '28'
   Name: 'Tan Swee Kiat '
