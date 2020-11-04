@@ -19,6 +19,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '3'
+  Name: Ektar
+  Group: ABM
+  FBID: Ektar1971
+  Total_Mileage: '50.78'
+  Badges: '0'
+  Run: '7.50'
+  Cycle: '96.30'
+  Swim: '3.20'
+  Walk: '0.00'
+- Rank: '4'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -28,7 +38,7 @@
   Cycle: '99.46'
   Swim: '1.60'
   Walk: '0.00'
-- Rank: '4'
+- Rank: '5'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -38,7 +48,7 @@
   Cycle: '54.73'
   Swim: '4.20'
   Walk: '0.00'
-- Rank: '5'
+- Rank: '6'
   Name: LZX
   Group: ADSS/ADWS/ADWO
   FBID: leezx1337
@@ -47,16 +57,6 @@
   Run: '41.73'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '6'
-  Name: Ektar
-  Group: ABM
-  FBID: Ektar1971
-  Total_Mileage: '38.78'
-  Badges: '0'
-  Run: '7.50'
-  Cycle: '96.30'
-  Swim: '1.20'
   Walk: '0.00'
 - Rank: '7'
   Name: Prem
