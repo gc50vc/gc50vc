@@ -29,6 +29,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '4'
+  Name: LZX
+  Group: ADSS/ADWS/ADWO
+  FBID: leezx1337
+  Total_Mileage: '338.42'
+  Badges: '6'
+  Run: '86.14'
+  Cycle: '1009.11'
+  Swim: '0.00'
+  Walk: '2.18'
+- Rank: '5'
   Name: Hasty
   Group: ADW
   FBID: Hasty55555
@@ -38,16 +48,6 @@
   Cycle: '123.47'
   Swim: '8.35'
   Walk: '0.00'
-- Rank: '5'
-  Name: LZX
-  Group: ADSS/ADWS/ADWO
-  FBID: leezx1337
-  Total_Mileage: '320.26'
-  Badges: '6'
-  Run: '86.14'
-  Cycle: '936.46'
-  Swim: '0.00'
-  Walk: '2.18'
 - Rank: '6'
   Name: Sloh
   Group: ADW
@@ -99,6 +99,16 @@
   Swim: '23.05'
   Walk: '1.32'
 - Rank: '11'
+  Name: Euj
+  Group: ATC
+  FBID: Euj1871
+  Total_Mileage: '185.64'
+  Badges: '7'
+  Run: '68.03'
+  Cycle: '81.86'
+  Swim: '16.19'
+  Walk: '93.22'
+- Rank: '12'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -108,7 +118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: yapoh
   Group: ADW
   FBID: yapoh0304
@@ -118,16 +128,6 @@
   Cycle: '372.00'
   Swim: '3.40'
   Walk: '0.00'
-- Rank: '13'
-  Name: Euj
-  Group: ATC
-  FBID: Euj1871
-  Total_Mileage: '180.04'
-  Badges: '7'
-  Run: '62.43'
-  Cycle: '81.86'
-  Swim: '16.19'
-  Walk: '93.22'
 - Rank: '14'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
