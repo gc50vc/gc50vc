@@ -169,6 +169,16 @@
   Swim: '7.50'
   Walk: '0.00'
 - Rank: '18'
+  Name: Marcus
+  Group: ADSS/ADWS/ADWO
+  FBID: Mtwk1998
+  Total_Mileage: '155.13'
+  Badges: '6'
+  Run: '57.00'
+  Cycle: '32.50'
+  Swim: '15.00'
+  Walk: '7.27'
+- Rank: '19'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -178,7 +188,7 @@
   Cycle: '16.60'
   Swim: '4.05'
   Walk: '0.00'
-- Rank: '19'
+- Rank: '20'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -188,7 +198,7 @@
   Cycle: '113.03'
   Swim: '12.20'
   Walk: '8.90'
-- Rank: '20'
+- Rank: '21'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -198,7 +208,7 @@
   Cycle: '340.00'
   Swim: '3.10'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: Tony Foo
   Group: ADW
   FBID: tonyfoo0165
@@ -208,7 +218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -218,7 +228,7 @@
   Cycle: '525.71'
   Swim: '0.00'
   Walk: '2.19'
-- Rank: '23'
+- Rank: '24'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -228,16 +238,6 @@
   Cycle: '280.50'
   Swim: '5.30'
   Walk: '1.90'
-- Rank: '24'
-  Name: Marcus
-  Group: ADSS/ADWS/ADWO
-  FBID: Mtwk1998
-  Total_Mileage: '133.13'
-  Badges: '6'
-  Run: '53.00'
-  Cycle: '32.50'
-  Swim: '12.00'
-  Walk: '7.27'
 - Rank: '25'
   Name: Dan
   Group: ADSS/ADWS/ADWO
@@ -829,6 +829,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '84'
+  Name: Ah Bye
+  Group: ADSS/ADWS/ADWO
+  FBID: Ahbye1234
+  Total_Mileage: '61.19'
+  Badges: '5'
+  Run: '27.43'
+  Cycle: '99.03'
+  Swim: '1.50'
+  Walk: '6.00'
+- Rank: '85'
   Name: Sen Kiat
   Group: ATC
   FBID: HSK7777
@@ -838,7 +848,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '85'
+- Rank: '86'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -848,7 +858,7 @@
   Cycle: '18.27'
   Swim: '0.00'
   Walk: '3.42'
-- Rank: '86'
+- Rank: '87'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -858,16 +868,6 @@
   Cycle: '58.91'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '87'
-  Name: Ah Bye
-  Group: ADSS/ADWS/ADWO
-  FBID: Ahbye1234
-  Total_Mileage: '55.96'
-  Badges: '5'
-  Run: '22.20'
-  Cycle: '99.03'
-  Swim: '1.50'
-  Walk: '6.00'
 - Rank: '88'
   Name: Gwyn
   Group: ADW
