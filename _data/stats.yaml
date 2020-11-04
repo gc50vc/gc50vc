@@ -309,6 +309,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '32'
+  Name: Ah Bing
+  Group: ADW
+  FBID: Bingo0507
+  Total_Mileage: '115.08'
+  Badges: '7'
+  Run: '78.27'
+  Cycle: '105.24'
+  Swim: '1.75'
+  Walk: '0.00'
+- Rank: '33'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -318,7 +328,7 @@
   Cycle: '267.18'
   Swim: '3.60'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '34'
   Name: Coral
   Group: ABM
   FBID: Coral5050
@@ -328,7 +338,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '9.48'
-- Rank: '34'
+- Rank: '35'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -337,16 +347,6 @@
   Run: '5.12'
   Cycle: '425.35'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '35'
-  Name: Ah Bing
-  Group: ADW
-  FBID: Bingo0507
-  Total_Mileage: '110.05'
-  Badges: '7'
-  Run: '73.24'
-  Cycle: '105.24'
-  Swim: '1.75'
   Walk: '0.00'
 - Rank: '36'
   Name: Loke Hon Wah
@@ -2168,7 +2168,17 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '218'
+- Rank: '217'
+  Name: JR
+  Group: ADW
+  FBID: JR1986
+  Total_Mileage: '23.00'
+  Badges: '2'
+  Run: '23.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '219'
   Name: Andreas
   Group: ADW
   FBID: Andreas1003
@@ -2178,7 +2188,7 @@
   Cycle: '54.17'
   Swim: '0.00'
   Walk: '6.23'
-- Rank: '219'
+- Rank: '220'
   Name: Min Jet
   Group: ADW
   FBID: Filter2174
@@ -2188,7 +2198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '220'
+- Rank: '221'
   Name: Leonard
   Group: ADW
   FBID: Leonard0402
@@ -2198,7 +2208,7 @@
   Cycle: '64.80'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '221'
+- Rank: '222'
   Name: Jj
   Group: ADSS/ADWS/ADWO
   FBID: TaroQ5061
@@ -2208,7 +2218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '222'
+- Rank: '223'
   Name: batu
   Group: ABM
   FBID: batu1984
@@ -2218,7 +2228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '2.50'
-- Rank: '223'
+- Rank: '224'
   Name: Pterlek
   Group: ATC
   FBID: Conman7347
@@ -2228,7 +2238,7 @@
   Cycle: '0.00'
   Swim: '3.63'
   Walk: '0.00'
-- Rank: '224'
+- Rank: '225'
   Name: Guang
   Group: ADSS/ADWS/ADWO
   FBID: Guang1309
@@ -2238,7 +2248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '225'
+- Rank: '226'
   Name: Oyster
   Group: ABM
   FBID: Oyster1990
@@ -2248,7 +2258,7 @@
   Cycle: '4.88'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '226'
+- Rank: '227'
   Name: Sirius
   Group: ABM
   FBID: Sirius1320
@@ -2258,7 +2268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '16.62'
-- Rank: '227'
+- Rank: '228'
   Name: junhui
   Group: ADW
   FBID: junhui2301
@@ -2268,7 +2278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '87.12'
-- Rank: '227'
+- Rank: '228'
   Name: Alloy
   Group: ABM
   FBID: alloy8585
@@ -2278,7 +2288,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '229'
+- Rank: '230'
   Name: Psychic
   Group: ATC
   FBID: psychic2204
@@ -2288,7 +2298,7 @@
   Cycle: '14.29'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '230'
+- Rank: '231'
   Name: Ian Zayne Andre
   Group: ADSS/ADWS/ADWO
   FBID: Black_Santa0311
@@ -2298,7 +2308,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '231'
+- Rank: '232'
   Name: Isaac
   Group: ADSS/ADWS/ADWO
   FBID: xMint1998
@@ -2308,7 +2318,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '232'
+- Rank: '233'
   Name: Essay
   Group: ADW
   FBID: Essay7696
@@ -2318,7 +2328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '5.16'
-- Rank: '233'
+- Rank: '234'
   Name: Jinson
   Group: AOSX/AOS
   FBID: Ironman1234
@@ -2328,7 +2338,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '234'
+- Rank: '235'
   Name: BY
   Group: ADSS/ADWS/ADWO
   FBID: Charlie3579
@@ -2338,7 +2348,7 @@
   Cycle: '45.46'
   Swim: '0.00'
   Walk: '5.06'
-- Rank: '235'
+- Rank: '236'
   Name: Malice
   Group: ABM
   FBID: Malice2323
@@ -2348,7 +2358,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '236'
+- Rank: '237'
   Name: Winson
   Group: ADSS/ADWS/ADWO
   FBID: Winson1999
@@ -2358,7 +2368,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '237'
+- Rank: '238'
   Name: Ryan Tan
   Group: ADSS/ADWS/ADWO
   FBID: Menthol0701
@@ -2368,7 +2378,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '239'
+- Rank: '240'
   Name: 'Eddie Chua '
   Group: AFE
   FBID: EddieChua1973
@@ -2378,7 +2388,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '238'
+- Rank: '239'
   Name: cheehao
   Group: ADSS/ADWS/ADWO
   FBID: 165sloth1999
@@ -2388,7 +2398,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '5.99'
-- Rank: '240'
+- Rank: '241'
   Name: DOMINIC
   Group: ADW
   FBID: Dom9898
@@ -2398,7 +2408,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '241'
+- Rank: '242'
   Name: JIN
   Group: ADSS/ADWS/ADWO
   FBID: JIN1999
@@ -2408,7 +2418,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '242'
+- Rank: '243'
   Name: Guojie
   Group: ADSS/ADWS/ADWO
   FBID: Thug2107
@@ -2418,7 +2428,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '243'
+- Rank: '244'
   Name: Dubs
   Group: ADW
   FBID: Dubs0002
@@ -2428,7 +2438,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '244'
+- Rank: '245'
   Name: Wu Hao
   Group: AOSX/AOS
   FBID: Lima5208
@@ -2438,7 +2448,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '245'
+- Rank: '246'
   Name: JYFS
   Group: ADSS/ADWS/ADWO
   FBID: Golddigger6449
@@ -2448,7 +2458,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '246'
+- Rank: '247'
   Name: Nigel Tan
   Group: ADW
   FBID: lavahound0404
@@ -2458,7 +2468,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '247'
+- Rank: '248'
   Name: Spacebar
   Group: ADW
   FBID: Spacebar5647
@@ -2468,7 +2478,7 @@
   Cycle: '0.00'
   Swim: '1.50'
   Walk: '5.12'
-- Rank: '248'
+- Rank: '249'
   Name: Ram
   Group: ADW
   FBID: ram7267
@@ -2477,16 +2487,6 @@
   Run: '10.00'
   Cycle: '0.00'
   Swim: '1.50'
-  Walk: '0.00'
-- Rank: '248'
-  Name: JR
-  Group: ADW
-  FBID: JR1986
-  Total_Mileage: '19.00'
-  Badges: '2'
-  Run: '19.00'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '250'
   Name: Chin Yong
