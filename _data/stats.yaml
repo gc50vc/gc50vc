@@ -289,6 +289,16 @@
   Swim: '0.00'
   Walk: '79.15'
 - Rank: '30'
+  Name: PIXAR
+  Group: ABM
+  FBID: PIXAR0001
+  Total_Mileage: '120.82'
+  Badges: '5'
+  Run: '89.32'
+  Cycle: '126.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '31'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -298,7 +308,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '32'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -308,16 +318,6 @@
   Cycle: '65.00'
   Swim: '0.00'
   Walk: '1.17'
-- Rank: '32'
-  Name: PIXAR
-  Group: ABM
-  FBID: PIXAR0001
-  Total_Mileage: '115.82'
-  Badges: '5'
-  Run: '84.32'
-  Cycle: '126.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '33'
   Name: Ah Bing
   Group: ADW
