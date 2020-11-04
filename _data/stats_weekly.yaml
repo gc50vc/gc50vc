@@ -1039,6 +1039,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '105'
+  Name: Yew Choong
+  Group: ADSS/ADWS/ADWO
+  FBID: GGXC0160
+  Total_Mileage: '9.40'
+  Badges: '0'
+  Run: '9.40'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '106'
   Name: jheng
   Group: ADSS/ADWS/ADWO
   FBID: jheng0000
@@ -1048,7 +1058,7 @@
   Cycle: '0.00'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '105'
+- Rank: '106'
   Name: Shawn Lim
   Group: ADW
   FBID: bison2609
@@ -1058,7 +1068,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '105'
+- Rank: '106'
   Name: Alan
   Group: ADSS/ADWS/ADWO
   FBID: Alan2881
@@ -1068,7 +1078,7 @@
   Cycle: '0.00'
   Swim: '0.50'
   Walk: '0.00'
-- Rank: '108'
+- Rank: '109'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -1078,7 +1088,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '109'
+- Rank: '110'
   Name: Min Jet
   Group: ADW
   FBID: Filter2174
@@ -1088,7 +1098,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '110'
+- Rank: '111'
   Name: Starbucks
   Group: ABM
   FBID: Starbucks3756
@@ -1098,7 +1108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '111'
+- Rank: '112'
   Name: Lava
   Group: ATC
   FBID: Lava1717
@@ -1108,7 +1118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '112'
+- Rank: '113'
   Name: mermaid
   Group: ADW
   FBID: graci1234
@@ -1118,7 +1128,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '113'
+- Rank: '114'
   Name: Rajaan
   Group: ADSS/ADWS/ADWO
   FBID: Rajaanleon0021
@@ -1128,7 +1138,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '114'
+- Rank: '115'
   Name: Spear
   Group: ATC
   FBID: Spear0213
@@ -1138,7 +1148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '114'
+- Rank: '115'
   Name: OLAF
   Group: ADW
   FBID: OLAF2156
@@ -1148,7 +1158,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '114'
+- Rank: '115'
   Name: Lin Weili
   Group: AOSX/AOS
   FBID: Michelin5052
@@ -1158,7 +1168,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '114'
+- Rank: '115'
   Name: Geeky
   Group: ADW
   FBID: Geeky1989
@@ -1168,7 +1178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '2.13'
-- Rank: '118'
+- Rank: '119'
   Name: Chan Howe
   Group: AOSX/AOS
   FBID: IceCube3008
@@ -1176,16 +1186,6 @@
   Badges: '0'
   Run: '0.00'
   Cycle: '30.98'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '119'
-  Name: Yew Choong
-  Group: ADSS/ADWS/ADWO
-  FBID: GGXC0160
-  Total_Mileage: '7.70'
-  Badges: '0'
-  Run: '7.70'
-  Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '120'
@@ -2218,6 +2218,16 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '41.08'
+- Rank: '216'
+  Name: 'Joanne '
+  Group: AFE
+  FBID: Jojo2210
+  Total_Mileage: '0.00'
+  Badges: ''
+  Run: '0.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '15.46'
 - Rank: '216'
   Name: Joey Lee Jian Wei
   Group: AFE
