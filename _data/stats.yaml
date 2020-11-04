@@ -919,6 +919,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '93'
+  Name: Andre
+  Group: ADW
+  FBID: Andre7429
+  Total_Mileage: '53.38'
+  Badges: '3'
+  Run: '4.22'
+  Cycle: '176.24'
+  Swim: '0.85'
+  Walk: '0.00'
+- Rank: '94'
   Name: loanshark
   Group: ATC
   FBID: loanshark9356
@@ -928,7 +938,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '94'
+- Rank: '95'
   Name: 3sg Charlie
   Group: ADSS/ADWS/ADWO
   FBID: Charlie2539
@@ -938,7 +948,7 @@
   Cycle: '0.00'
   Swim: '2.45'
   Walk: '0.00'
-- Rank: '95'
+- Rank: '96'
   Name: Warren Chua
   Group: ADSS/ADWS/ADWO
   FBID: Warren9588
@@ -948,7 +958,7 @@
   Cycle: '166.30'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '96'
+- Rank: '97'
   Name: Rambo
   Group: AOSX/AOS
   FBID: Rambo0113
@@ -958,7 +968,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '97'
+- Rank: '98'
   Name: francisyap
   Group: AFE
   FBID: francis7373
@@ -968,7 +978,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '98'
+- Rank: '99'
   Name: JOLLY
   Group: ADW
   FBID: Jolly8178
@@ -978,7 +988,7 @@
   Cycle: '42.68'
   Swim: '2.50'
   Walk: '0.00'
-- Rank: '99'
+- Rank: '100'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -988,7 +998,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '100'
+- Rank: '101'
   Name: Sean Chua
   Group: ADSS/ADWS/ADWO
   FBID: Stop0001
@@ -998,7 +1008,7 @@
   Cycle: '58.61'
   Swim: '0.00'
   Walk: '1.04'
-- Rank: '101'
+- Rank: '102'
   Name: Fu Hao Wei
   Group: ADW
   FBID: fuhaowei8435
@@ -1008,7 +1018,7 @@
   Cycle: '163.06'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '102'
+- Rank: '103'
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
@@ -1018,7 +1028,7 @@
   Cycle: '8.04'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '103'
+- Rank: '104'
   Name: Jamie Chen
   Group: ADSS/ADWS/ADWO
   FBID: FLASH2911
@@ -1028,7 +1038,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '104'
+- Rank: '105'
   Name: Halu
   Group: AFE
   FBID: Halu1805
@@ -1038,7 +1048,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '105'
+- Rank: '106'
   Name: Camper
   Group: ADW
   FBID: tanht1968
@@ -1047,16 +1057,6 @@
   Run: '46.25'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '106'
-  Name: Andre
-  Group: ADW
-  FBID: Andre7429
-  Total_Mileage: '46.00'
-  Badges: '3'
-  Run: '4.22'
-  Cycle: '146.73'
-  Swim: '0.85'
   Walk: '0.00'
 - Rank: '107'
   Name: COVID
