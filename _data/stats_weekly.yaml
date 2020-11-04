@@ -29,6 +29,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '4'
+  Name: Sloh
+  Group: ADW
+  FBID: Sloh0121
+  Total_Mileage: '58.52'
+  Badges: '0'
+  Run: '11.19'
+  Cycle: '150.93'
+  Swim: '1.60'
+  Walk: '0.00'
+- Rank: '5'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -38,7 +48,7 @@
   Cycle: '96.30'
   Swim: '3.20'
   Walk: '0.00'
-- Rank: '5'
+- Rank: '6'
   Name: Prem
   Group: ADW
   FBID: Premium6687
@@ -47,16 +57,6 @@
   Run: '0.00'
   Cycle: '42.58'
   Swim: '6.05'
-  Walk: '0.00'
-- Rank: '6'
-  Name: Sloh
-  Group: ADW
-  FBID: Sloh0121
-  Total_Mileage: '45.66'
-  Badges: '0'
-  Run: '11.19'
-  Cycle: '99.46'
-  Swim: '1.60'
   Walk: '0.00'
 - Rank: '7'
   Name: Tommy Tham
