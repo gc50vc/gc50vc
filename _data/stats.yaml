@@ -179,6 +179,16 @@
   Swim: '4.05'
   Walk: '0.00'
 - Rank: '19'
+  Name: Slimer
+  Group: ABM
+  FBID: Slimer1234
+  Total_Mileage: '140.74'
+  Badges: '8'
+  Run: '39.28'
+  Cycle: '113.03'
+  Swim: '12.20'
+  Walk: '8.34'
+- Rank: '20'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -188,7 +198,7 @@
   Cycle: '340.00'
   Swim: '3.10'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '21'
   Name: Tony Foo
   Group: ADW
   FBID: tonyfoo0165
@@ -198,7 +208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -208,16 +218,6 @@
   Cycle: '525.71'
   Swim: '0.00'
   Walk: '2.19'
-- Rank: '22'
-  Name: Slimer
-  Group: ABM
-  FBID: Slimer1234
-  Total_Mileage: '134.69'
-  Badges: '8'
-  Run: '33.23'
-  Cycle: '113.03'
-  Swim: '12.20'
-  Walk: '8.34'
 - Rank: '23'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
