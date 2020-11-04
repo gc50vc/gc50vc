@@ -4892,6 +4892,12 @@
   name: Waffles
   definition: ''
   Week: '3'
+- timestamp: '2020-11-04 23:16:37'
+  fbid: Matrix3280
+  badge: Marathon
+  name: Matrix
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-24 01:24:37'
   fbid: Extreme8123
   badge: Run For Your Life
@@ -5995,7 +6001,7 @@
   badge: Frogman
   name: Ektar
   definition: ''
-  Week: '2'
+  Week: ''
 - timestamp: '2020-10-27 18:37:32'
   fbid: Rycel2929
   badge: Frogman
