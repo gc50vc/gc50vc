@@ -89,6 +89,16 @@
   Swim: '8.60'
   Walk: '3.02'
 - Rank: '10'
+  Name: Prem
+  Group: ADW
+  FBID: Premium6687
+  Total_Mileage: '191.02'
+  Badges: '7'
+  Run: '42.07'
+  Cycle: '42.58'
+  Swim: '23.05'
+  Walk: '1.32'
+- Rank: '11'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -98,7 +108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: yapoh
   Group: ADW
   FBID: yapoh0304
@@ -108,16 +118,6 @@
   Cycle: '372.00'
   Swim: '3.40'
   Walk: '0.00'
-- Rank: '12'
-  Name: Prem
-  Group: ADW
-  FBID: Premium6687
-  Total_Mileage: '181.72'
-  Badges: '7'
-  Run: '42.07'
-  Cycle: '42.58'
-  Swim: '21.50'
-  Walk: '1.32'
 - Rank: '13'
   Name: Euj
   Group: ATC
@@ -859,6 +859,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '87'
+  Name: Viking
+  Group: ADW
+  FBID: Viking1987
+  Total_Mileage: '57.75'
+  Badges: '4'
+  Run: '17.75'
+  Cycle: '160.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '88'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -868,7 +878,7 @@
   Cycle: '18.27'
   Swim: '0.00'
   Walk: '3.42'
-- Rank: '88'
+- Rank: '89'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -878,7 +888,7 @@
   Cycle: '58.91'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '89'
+- Rank: '90'
   Name: Gwyn
   Group: ADW
   FBID: Magma1201
@@ -888,7 +898,7 @@
   Cycle: '46.60'
   Swim: '0.00'
   Walk: '8.93'
-- Rank: '90'
+- Rank: '91'
   Name: BENteo
   Group: AFE
   FBID: BEN7452
@@ -898,7 +908,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '91'
+- Rank: '92'
   Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
   FBID: LeonYeo2590
@@ -908,7 +918,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '92'
+- Rank: '93'
   Name: loanshark
   Group: ATC
   FBID: loanshark9356
@@ -918,7 +928,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '93'
+- Rank: '94'
   Name: 3sg Charlie
   Group: ADSS/ADWS/ADWO
   FBID: Charlie2539
@@ -928,7 +938,7 @@
   Cycle: '0.00'
   Swim: '2.45'
   Walk: '0.00'
-- Rank: '94'
+- Rank: '95'
   Name: Warren Chua
   Group: ADSS/ADWS/ADWO
   FBID: Warren9588
@@ -938,7 +948,7 @@
   Cycle: '166.30'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '95'
+- Rank: '96'
   Name: Rambo
   Group: AOSX/AOS
   FBID: Rambo0113
@@ -948,7 +958,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '96'
+- Rank: '97'
   Name: francisyap
   Group: AFE
   FBID: francis7373
@@ -958,7 +968,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '97'
+- Rank: '98'
   Name: JOLLY
   Group: ADW
   FBID: Jolly8178
@@ -968,7 +978,7 @@
   Cycle: '42.68'
   Swim: '2.50'
   Walk: '0.00'
-- Rank: '98'
+- Rank: '99'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -976,16 +986,6 @@
   Badges: '3'
   Run: '50.76'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '99'
-  Name: Viking
-  Group: ADW
-  FBID: Viking1987
-  Total_Mileage: '50.00'
-  Badges: '4'
-  Run: '17.75'
-  Cycle: '129.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '100'
