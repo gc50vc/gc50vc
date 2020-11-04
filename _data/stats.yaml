@@ -129,6 +129,16 @@
   Swim: '20.99'
   Walk: '0.00'
 - Rank: '14'
+  Name: Euj
+  Group: ATC
+  FBID: Euj1871
+  Total_Mileage: '170.68'
+  Badges: '7'
+  Run: '62.43'
+  Cycle: '81.86'
+  Swim: '14.63'
+  Walk: '93.22'
+- Rank: '15'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: WANG0165
@@ -138,16 +148,6 @@
   Cycle: '24.00'
   Swim: '1.78'
   Walk: '1.00'
-- Rank: '15'
-  Name: Euj
-  Group: ATC
-  FBID: Euj1871
-  Total_Mileage: '167.68'
-  Badges: '7'
-  Run: '59.43'
-  Cycle: '81.86'
-  Swim: '14.63'
-  Walk: '93.22'
 - Rank: '16'
   Name: AdolphusJJ
   Group: AOSX/AOS
