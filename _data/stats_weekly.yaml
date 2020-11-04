@@ -89,6 +89,16 @@
   Swim: '3.00'
   Walk: '1.13'
 - Rank: '10'
+  Name: 'Jonjuay '
+  Group: ADSS/ADWS/ADWO
+  FBID: Jonjuay8822
+  Total_Mileage: '34.17'
+  Badges: '1'
+  Run: '9.14'
+  Cycle: '100.10'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '11'
   Name: Eric
   Group: AOSX/AOS
   FBID: RelacRun0011
@@ -98,7 +108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: RainmanCYK
   Group: ADW
   FBID: Rainman0000
@@ -108,7 +118,7 @@
   Cycle: '0.00'
   Swim: '5.50'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: Day
   Group: ATC
   FBID: Racer0370
@@ -118,16 +128,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '53.00'
-- Rank: '13'
-  Name: 'Jonjuay '
-  Group: ADSS/ADWS/ADWO
-  FBID: Jonjuay8822
-  Total_Mileage: '30.05'
-  Badges: '1'
-  Run: '5.02'
-  Cycle: '100.10'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '14'
   Name: Akileis
   Group: ADW
