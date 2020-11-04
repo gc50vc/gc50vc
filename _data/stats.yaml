@@ -189,6 +189,16 @@
   Swim: '3.10'
   Walk: '0.00'
 - Rank: '20'
+  Name: Tony Foo
+  Group: ADSS/ADWS/ADWO
+  FBID: tonyfoo0165
+  Total_Mileage: '138.00'
+  Badges: '4'
+  Run: '138.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '21'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -198,7 +208,7 @@
   Cycle: '525.71'
   Swim: '0.00'
   Walk: '2.19'
-- Rank: '21'
+- Rank: '22'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -208,7 +218,7 @@
   Cycle: '113.03'
   Swim: '12.20'
   Walk: '8.34'
-- Rank: '22'
+- Rank: '23'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
@@ -218,7 +228,7 @@
   Cycle: '32.50'
   Swim: '12.00'
   Walk: '7.27'
-- Rank: '23'
+- Rank: '24'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -228,23 +238,13 @@
   Cycle: '280.50'
   Swim: '4.30'
   Walk: '1.90'
-- Rank: '24'
+- Rank: '25'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
   Total_Mileage: '125.20'
   Badges: '4'
   Run: '125.20'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '25'
-  Name: Tony Foo
-  Group: ADSS/ADWS/ADWO
-  FBID: tonyfoo0165
-  Total_Mileage: '125.00'
-  Badges: '4'
-  Run: '125.00'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
