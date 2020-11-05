@@ -309,6 +309,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '32'
+  Name: Ah Bing
+  Group: ADW
+  FBID: Bingo0507
+  Total_Mileage: '120.30'
+  Badges: '7'
+  Run: '83.49'
+  Cycle: '105.24'
+  Swim: '1.75'
+  Walk: '0.00'
+- Rank: '33'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -318,7 +328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '34'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -328,16 +338,6 @@
   Cycle: '65.00'
   Swim: '0.00'
   Walk: '1.17'
-- Rank: '34'
-  Name: Ah Bing
-  Group: ADW
-  FBID: Bingo0507
-  Total_Mileage: '115.08'
-  Badges: '7'
-  Run: '78.27'
-  Cycle: '105.24'
-  Swim: '1.75'
-  Walk: '0.00'
 - Rank: '35'
   Name: Jade
   Group: ABM
