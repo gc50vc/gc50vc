@@ -1819,6 +1819,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '183'
+  Name: Der Siang
+  Group: ATC
+  FBID: Aku1234
+  Total_Mileage: '30.60'
+  Badges: '3'
+  Run: '14.11'
+  Cycle: '27.56'
+  Swim: '1.60'
+  Walk: '0.00'
+- Rank: '184'
   Name: NG Eng Ming
   Group: ADSS/ADWS/ADWO
   FBID: NgEM1858
@@ -1828,7 +1838,7 @@
   Cycle: '121.60'
   Swim: '0.00'
   Walk: '21.96'
-- Rank: '184'
+- Rank: '185'
   Name: Fam
   Group: ADSS/ADWS/ADWO
   FBID: Phantom1997
@@ -1838,7 +1848,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '185'
+- Rank: '186'
   Name: Diva
   Group: ADW
   FBID: Delia1234
@@ -1848,7 +1858,7 @@
   Cycle: '50.13'
   Swim: '0.00'
   Walk: '28.59'
-- Rank: '186'
+- Rank: '187'
   Name: Owyong
   Group: ATC
   FBID: Owyong251088
@@ -1858,7 +1868,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '187'
+- Rank: '188'
   Name: Spear
   Group: ATC
   FBID: Spear0213
@@ -1868,7 +1878,7 @@
   Cycle: '0.00'
   Swim: '2.50'
   Walk: '0.00'
-- Rank: '188'
+- Rank: '189'
   Name: Pat160A
   Group: ADSS/ADWS/ADWO
   FBID: Pat1991
@@ -1878,7 +1888,7 @@
   Cycle: '0.00'
   Swim: '3.68'
   Walk: '0.00'
-- Rank: '190'
+- Rank: '191'
   Name: Dubs
   Group: ADW
   FBID: Dubs0002
@@ -1888,7 +1898,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '189'
+- Rank: '190'
   Name: Soh Thiam Hing
   Group: ADSS/ADWS/ADWO
   FBID: daffodilistic1337
@@ -1898,7 +1908,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '191'
+- Rank: '192'
   Name: Yan Ting
   Group: ADSS/ADWS/ADWO
   FBID: Yeti1993
@@ -1908,7 +1918,7 @@
   Cycle: '0.00'
   Swim: '2.10'
   Walk: '0.00'
-- Rank: '192'
+- Rank: '193'
   Name: Yi Kuang
   Group: ADW
   FBID: rocket1999
@@ -1918,7 +1928,7 @@
   Cycle: '48.82'
   Swim: '0.00'
   Walk: '1.03'
-- Rank: '193'
+- Rank: '194'
   Name: Gabriel Tay Kai Xian
   Group: ADW
   FBID: Blueeyeswhitedragon2901
@@ -1928,7 +1938,7 @@
   Cycle: '45.48'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '194'
+- Rank: '195'
   Name: aH Hui
   Group: ADSS/ADWS/ADWO
   FBID: Edgar0409
@@ -1938,7 +1948,7 @@
   Cycle: '45.33'
   Swim: '0.00'
   Walk: '6.71'
-- Rank: '195'
+- Rank: '196'
   Name: Max160A
   Group: ADSS/ADWS/ADWO
   FBID: Max2310
@@ -1948,7 +1958,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '15.28'
-- Rank: '196'
+- Rank: '197'
   Name: EG
   Group: ADSS/ADWS/ADWO
   FBID: EG3211
@@ -1957,16 +1967,6 @@
   Run: '27.50'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '197'
-  Name: Der Siang
-  Group: ATC
-  FBID: Aku1234
-  Total_Mileage: '27.06'
-  Badges: '3'
-  Run: '14.11'
-  Cycle: '13.39'
-  Swim: '1.60'
   Walk: '0.00'
 - Rank: '198'
   Name: Hsien Rong
