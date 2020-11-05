@@ -4496,6 +4496,12 @@
   name: Caden
   definition: ''
   Week: '3'
+- timestamp: '2020-11-05 22:25:24'
+  fbid: Playpang0113
+  badge: Mount Everest
+  name: Patrick Pang
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-22 00:35:59'
   fbid: Extreme8123
   badge: Marathon
@@ -5040,6 +5046,12 @@
   fbid: Vince2107
   badge: Marathon
   name: Vincent Yap
+  definition: ''
+  Week: '3'
+- timestamp: '2020-11-05 22:27:24'
+  fbid: zinc1997
+  badge: Marathon
+  name: Zinc
   definition: ''
   Week: '3'
 - timestamp: '2020-10-24 01:24:37'
@@ -5989,13 +6001,13 @@
   badge: Frogman
   name: Slimer
   definition: ''
-  Week: '1'
+  Week: ''
 - timestamp: '2020-10-21 12:36:58'
   fbid: Geeky1989
   badge: Frogman
   name: Geeky
   definition: ''
-  Week: '1'
+  Week: ''
 - timestamp: '2020-10-21 13:26:34'
   fbid: jheng0000
   badge: Frogman
