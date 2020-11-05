@@ -639,6 +639,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '65'
+  Name: Rock
+  Group: ADW
+  FBID: Rock0165
+  Total_Mileage: '75.00'
+  Badges: '3'
+  Run: '75.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '6.00'
+- Rank: '66'
   Name: Benson
   Group: ADW
   FBID: benoi1234
@@ -648,7 +658,7 @@
   Cycle: '10.94'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '66'
+- Rank: '67'
   Name: OLAF
   Group: ADW
   FBID: OLAF2156
@@ -658,7 +668,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '67'
+- Rank: '68'
   Name: JonChen
   Group: ADW
   FBID: JonChen0000
@@ -668,7 +678,7 @@
   Cycle: '270.53'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '68'
+- Rank: '69'
   Name: Legend
   Group: ADW
   FBID: Legend2512
@@ -678,7 +688,7 @@
   Cycle: '174.85'
   Swim: '0.00'
   Walk: '13.11'
-- Rank: '69'
+- Rank: '70'
   Name: TT
   Group: ABM
   FBID: jiawei1989
@@ -688,7 +698,7 @@
   Cycle: '10.83'
   Swim: '0.00'
   Walk: '1.89'
-- Rank: '70'
+- Rank: '71'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -698,16 +708,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '71'
-  Name: Rock
-  Group: ADW
-  FBID: Rock0165
-  Total_Mileage: '70.00'
-  Badges: '3'
-  Run: '70.00'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '6.00'
 - Rank: '72'
   Name: PCK
   Group: ADW
