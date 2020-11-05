@@ -719,6 +719,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '73'
+  Name: Lia
+  Group: ADSS/ADWS/ADWO
+  FBID: Lia1116
+  Total_Mileage: '74.22'
+  Badges: '4'
+  Run: '53.02'
+  Cycle: '63.18'
+  Swim: '0.90'
+  Walk: '0.00'
+- Rank: '74'
   Name: Legend
   Group: ADW
   FBID: Legend2512
@@ -728,7 +738,7 @@
   Cycle: '174.85'
   Swim: '0.00'
   Walk: '13.11'
-- Rank: '74'
+- Rank: '75'
   Name: TT
   Group: ABM
   FBID: jiawei1989
@@ -738,7 +748,7 @@
   Cycle: '10.83'
   Swim: '0.00'
   Walk: '1.89'
-- Rank: '75'
+- Rank: '76'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -748,7 +758,17 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '76'
+- Rank: '77'
+  Name: QUENCHER
+  Group: ABM
+  FBID: quencher2020
+  Total_Mileage: '71.90'
+  Badges: '3'
+  Run: '71.90'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '78'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -758,7 +778,7 @@
   Cycle: '45.78'
   Swim: '2.50'
   Walk: '1.63'
-- Rank: '77'
+- Rank: '79'
   Name: PCK
   Group: ADW
   FBID: PCK2205
@@ -768,7 +788,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '78'
+- Rank: '80'
   Name: Yun Jie (Rhythm)
   Group: ADW
   FBID: Jabez8686
@@ -778,17 +798,7 @@
   Cycle: '0.00'
   Swim: '8.45'
   Walk: '4.80'
-- Rank: '79'
-  Name: Lia
-  Group: ADSS/ADWS/ADWO
-  FBID: Lia1116
-  Total_Mileage: '67.19'
-  Badges: '4'
-  Run: '45.99'
-  Cycle: '63.18'
-  Swim: '0.90'
-  Walk: '0.00'
-- Rank: '80'
+- Rank: '81'
   Name: Lava
   Group: ATC
   FBID: Lava1717
@@ -798,7 +808,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '81'
+- Rank: '82'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: Errick1991
@@ -808,7 +818,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '82'
+- Rank: '83'
   Name: Geeky
   Group: ADW
   FBID: Geeky1989
@@ -818,7 +828,7 @@
   Cycle: '0.00'
   Swim: '3.50'
   Walk: '28.68'
-- Rank: '83'
+- Rank: '84'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -828,7 +838,7 @@
   Cycle: '160.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '83'
+- Rank: '84'
   Name: Barter
   Group: ATC
   FBID: Reload0203
@@ -838,7 +848,7 @@
   Cycle: '203.00'
   Swim: '1.50'
   Walk: '13.50'
-- Rank: '85'
+- Rank: '86'
   Name: Yeow Teck
   Group: AOSX/AOS
   FBID: Youtube6116
@@ -848,7 +858,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '86'
+- Rank: '87'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -858,16 +868,6 @@
   Cycle: '18.27'
   Swim: '0.00'
   Walk: '3.42'
-- Rank: '87'
-  Name: QUENCHER
-  Group: ABM
-  FBID: quencher2020
-  Total_Mileage: '61.68'
-  Badges: '3'
-  Run: '61.68'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '88'
   Name: loanshark
   Group: ATC
