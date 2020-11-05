@@ -2348,6 +2348,12 @@
   name: TEH
   definition: ''
   Week: '3'
+- timestamp: '2020-11-06 00:12:02'
+  fbid: skng3215
+  badge: Baby Steps
+  name: sikai
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-22 18:39:38'
   fbid: BY8362
   badge: Half Ironman
@@ -4532,6 +4538,12 @@
   name: Dominic
   definition: ''
   Week: '3'
+- timestamp: '2020-11-06 00:12:02'
+  fbid: skng3215
+  badge: Mount Everest
+  name: sikai
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-22 00:35:59'
   fbid: Extreme8123
   badge: Marathon
@@ -5989,13 +6001,13 @@
   badge: Tour de Singapore
   name: HC
   definition: ''
-  Week: '2'
+  Week: ''
 - timestamp: '2020-10-29 22:40:42'
   fbid: Yapoh0304
   badge: Tour de Singapore
   name: yapoh
   definition: ''
-  Week: '2'
+  Week: ''
 - timestamp: '2020-10-30 18:08:08'
   fbid: Reload0203
   badge: Tour de Singapore
