@@ -839,6 +839,16 @@
   Swim: '1.00'
   Walk: '0.00'
 - Rank: '85'
+  Name: Steyr
+  Group: ABM
+  FBID: Steyr9693
+  Total_Mileage: '62.63'
+  Badges: '3'
+  Run: '58.06'
+  Cycle: '18.27'
+  Swim: '0.00'
+  Walk: '3.42'
+- Rank: '86'
   Name: QUENCHER
   Group: ABM
   FBID: quencher2020
@@ -848,7 +858,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '86'
+- Rank: '87'
   Name: loanshark
   Group: ATC
   FBID: loanshark9356
@@ -858,7 +868,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '87'
+- Rank: '88'
   Name: Sen Kiat
   Group: ATC
   FBID: HSK7777
@@ -868,7 +878,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '88'
+- Rank: '89'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -878,16 +888,6 @@
   Cycle: '160.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '89'
-  Name: Steyr
-  Group: ABM
-  FBID: Steyr9693
-  Total_Mileage: '57.27'
-  Badges: '3'
-  Run: '52.70'
-  Cycle: '18.27'
-  Swim: '0.00'
-  Walk: '3.42'
 - Rank: '90'
   Name: AP
   Group: ADW
