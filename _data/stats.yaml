@@ -429,6 +429,16 @@
   Swim: '0.00'
   Walk: '16.48'
 - Rank: '44'
+  Name: Cookie
+  Group: ATC
+  FBID: Cookie3rdWSO1975
+  Total_Mileage: '98.76'
+  Badges: '4'
+  Run: '79.26'
+  Cycle: '78.01'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '45'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -438,7 +448,7 @@
   Cycle: '25.04'
   Swim: '1.10'
   Walk: '0.00'
-- Rank: '45'
+- Rank: '46'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -448,7 +458,7 @@
   Cycle: '216.46'
   Swim: '4.10'
   Walk: '0.00'
-- Rank: '46'
+- Rank: '47'
   Name: 'TiGeR3 '
   Group: ADSS/ADWS/ADWO
   FBID: TiGeR2876
@@ -456,16 +466,6 @@
   Badges: '3'
   Run: '94.86'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '47'
-  Name: Cookie
-  Group: ATC
-  FBID: Cookie3rdWSO1975
-  Total_Mileage: '94.82'
-  Badges: '4'
-  Run: '79.26'
-  Cycle: '62.25'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '48'
