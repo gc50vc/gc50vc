@@ -289,6 +289,16 @@
   Swim: '4.50'
   Walk: '0.00'
 - Rank: '30'
+  Name: Ying Tat
+  Group: ADW
+  FBID: thumbs8599
+  Total_Mileage: '26.78'
+  Badges: '2'
+  Run: '9.33'
+  Cycle: '45.78'
+  Swim: '1.00'
+  Walk: '0.00'
+- Rank: '31'
   Name: Rats
   Group: ABM
   FBID: Rats1500
@@ -298,7 +308,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '32'
   Name: Coral
   Group: ABM
   FBID: Coral5050
@@ -307,16 +317,6 @@
   Run: '25.83'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '32'
-  Name: Ying Tat
-  Group: ADW
-  FBID: thumbs8599
-  Total_Mileage: '25.77'
-  Badges: '2'
-  Run: '8.32'
-  Cycle: '45.78'
-  Swim: '1.00'
   Walk: '0.00'
 - Rank: '33'
   Name: JOLLY
