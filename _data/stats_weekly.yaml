@@ -219,6 +219,16 @@
   Swim: '5.00'
   Walk: '1.06'
 - Rank: '23'
+  Name: 'Tay Wen Hao '
+  Group: ADW
+  FBID: Wh8295
+  Total_Mileage: '29.84'
+  Badges: '0'
+  Run: '29.84'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '24'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -228,7 +238,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: Cookie
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -238,7 +248,7 @@
   Cycle: '28.56'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: Jenny
   Group: AFE
   FBID: Jenny7373
@@ -248,7 +258,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '17.06'
-- Rank: '25'
+- Rank: '26'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -257,16 +267,6 @@
   Run: '0.00'
   Cycle: '0.00'
   Swim: '4.50'
-  Walk: '0.00'
-- Rank: '27'
-  Name: 'Tay Wen Hao '
-  Group: ADW
-  FBID: Wh8295
-  Total_Mileage: '26.21'
-  Badges: '0'
-  Run: '26.21'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '28'
   Name: Rats
