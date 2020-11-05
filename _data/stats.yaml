@@ -229,6 +229,16 @@
   Swim: '5.30'
   Walk: '1.90'
 - Rank: '24'
+  Name: 'Jonjuay '
+  Group: ADSS/ADWS/ADWO
+  FBID: Jonjuay8822
+  Total_Mileage: '139.44'
+  Badges: '7'
+  Run: '34.11'
+  Cycle: '373.31'
+  Swim: '2.00'
+  Walk: '0.00'
+- Rank: '25'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -238,7 +248,7 @@
   Cycle: '525.71'
   Swim: '0.00'
   Walk: '2.19'
-- Rank: '25'
+- Rank: '26'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -247,16 +257,6 @@
   Run: '136.66'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '26'
-  Name: 'Jonjuay '
-  Group: ADSS/ADWS/ADWO
-  FBID: Jonjuay8822
-  Total_Mileage: '133.44'
-  Badges: '6'
-  Run: '34.11'
-  Cycle: '373.31'
-  Swim: '1.00'
   Walk: '0.00'
 - Rank: '27'
   Name: 'Tan Swee Kiat '
