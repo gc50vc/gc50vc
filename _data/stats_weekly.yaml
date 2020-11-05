@@ -9,6 +9,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '2'
+  Name: Sloh
+  Group: ADW
+  FBID: Sloh0121
+  Total_Mileage: '81.04'
+  Badges: '0'
+  Run: '11.19'
+  Cycle: '202.61'
+  Swim: '3.20'
+  Walk: '0.00'
+- Rank: '3'
   Name: Ben
   Group: ADW
   FBID: BY8362
@@ -18,7 +28,7 @@
   Cycle: '320.66'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '3'
+- Rank: '4'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -28,7 +38,7 @@
   Cycle: '134.43'
   Swim: '5.70'
   Walk: '0.00'
-- Rank: '4'
+- Rank: '5'
   Name: Dominic
   Group: ATC
   FBID: Nickel1191
@@ -38,7 +48,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '5'
+- Rank: '6'
   Name: Hasty
   Group: ADW
   FBID: Hasty55555
@@ -47,16 +57,6 @@
   Run: '44.32'
   Cycle: '71.84'
   Swim: '1.35'
-  Walk: '0.00'
-- Rank: '6'
-  Name: Sloh
-  Group: ADW
-  FBID: Sloh0121
-  Total_Mileage: '68.12'
-  Badges: '0'
-  Run: '11.19'
-  Cycle: '150.93'
-  Swim: '3.20'
   Walk: '0.00'
 - Rank: '7'
   Name: Extreme
