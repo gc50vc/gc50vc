@@ -479,6 +479,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '49'
+  Name: Andrew
+  Group: ADW
+  FBID: Hammer1990
+  Total_Mileage: '93.91'
+  Badges: '6'
+  Run: '34.64'
+  Cycle: '165.06'
+  Swim: '3.00'
+  Walk: '0.00'
+- Rank: '50'
   Name: Btee
   Group: AFE
   FBID: Brian0307
@@ -488,7 +498,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '50'
+- Rank: '51'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -498,7 +508,7 @@
   Cycle: '96.95'
   Swim: '4.60'
   Walk: '2.45'
-- Rank: '51'
+- Rank: '52'
   Name: 'Tay Wen Hao '
   Group: ADW
   FBID: Wh8295
@@ -508,7 +518,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '52'
+- Rank: '53'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -518,7 +528,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '12.30'
-- Rank: '53'
+- Rank: '54'
   Name: Quainapz
   Group: ADSS/ADWS/ADWO
   FBID: Quainapz8585
@@ -528,7 +538,7 @@
   Cycle: '0.00'
   Swim: '3.10'
   Walk: '2.30'
-- Rank: '54'
+- Rank: '55'
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
@@ -538,7 +548,7 @@
   Cycle: '0.00'
   Swim: '2.55'
   Walk: '4.00'
-- Rank: '55'
+- Rank: '56'
   Name: Rocky
   Group: AOSX/AOS
   FBID: ZeRo7113
@@ -548,7 +558,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '57.30'
-- Rank: '56'
+- Rank: '57'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -558,16 +568,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.28'
-- Rank: '57'
-  Name: Andrew
-  Group: ADW
-  FBID: Hammer1990
-  Total_Mileage: '87.81'
-  Badges: '6'
-  Run: '28.54'
-  Cycle: '165.06'
-  Swim: '3.00'
-  Walk: '0.00'
 - Rank: '58'
   Name: Cosmo
   Group: ABM
@@ -1629,6 +1629,16 @@
   Swim: '4.00'
   Walk: '11.06'
 - Rank: '164'
+  Name: Nana
+  Group: AFE
+  FBID: Chris1166
+  Total_Mileage: '33.42'
+  Badges: '3'
+  Run: '21.42'
+  Cycle: '0.00'
+  Swim: '2.00'
+  Walk: '70.00'
+- Rank: '165'
   Name: 'Crystal '
   Group: ABM
   FBID: Crystal1101
@@ -1638,7 +1648,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '165'
+- Rank: '166'
   Name: USwiftO
   Group: ADW
   FBID: Swift1010
@@ -1648,7 +1658,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '166'
+- Rank: '167'
   Name: Eric
   Group: AOSX/AOS
   FBID: RelacRun0011
@@ -1658,7 +1668,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '167'
+- Rank: '168'
   Name: RainmanCYK
   Group: ADW
   FBID: Rainman0000
@@ -1668,7 +1678,7 @@
   Cycle: '0.00'
   Swim: '5.50'
   Walk: '0.00'
-- Rank: '167'
+- Rank: '168'
   Name: Day
   Group: ATC
   FBID: Racer0370
@@ -1678,7 +1688,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '53.00'
-- Rank: '169'
+- Rank: '170'
   Name: Hy
   Group: ATC
   FBID: huangyi2111
@@ -1688,7 +1698,7 @@
   Cycle: '22.72'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '170'
+- Rank: '171'
   Name: Mayer
   Group: ADSS/ADWS/ADWO
   FBID: Ops3165
@@ -1698,7 +1708,7 @@
   Cycle: '95.56'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '171'
+- Rank: '172'
   Name: AL
   Group: AOSX/AOS
   FBID: Alnino9999
@@ -1708,7 +1718,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '172'
+- Rank: '173'
   Name: Kelvin
   Group: ADSS/ADWS/ADWO
   FBID: Kelvin1111
@@ -1718,7 +1728,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '173'
+- Rank: '174'
   Name: Kenneth
   Group: ADSS/ADWS/ADWO
   FBID: Cat0407
@@ -1728,7 +1738,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '174'
+- Rank: '175'
   Name: Ham
   Group: ADSS/ADWS/ADWO
   FBID: Ham1234
@@ -1738,7 +1748,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '175'
+- Rank: '176'
   Name: Sze Tein
   Group: ATC
   FBID: Topaz1327
@@ -1748,7 +1758,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '176'
+- Rank: '177'
   Name: TRIPS
   Group: ATC
   FBID: TRIPS_0000
@@ -1758,7 +1768,7 @@
   Cycle: '63.28'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '177'
+- Rank: '178'
   Name: Ganesan
   Group: AFE
   FBID: Guinness2512
@@ -1768,7 +1778,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '178'
+- Rank: '179'
   Name: NG Eng Ming
   Group: ADSS/ADWS/ADWO
   FBID: NgEM1858
@@ -1778,7 +1788,7 @@
   Cycle: '121.60'
   Swim: '0.00'
   Walk: '21.96'
-- Rank: '179'
+- Rank: '180'
   Name: Clover
   Group: ABM
   FBID: Clover1234
@@ -1788,7 +1798,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '180'
+- Rank: '181'
   Name: Fam
   Group: ADSS/ADWS/ADWO
   FBID: Phantom1997
@@ -1798,7 +1808,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '181'
+- Rank: '182'
   Name: Diva
   Group: ADW
   FBID: Delia1234
@@ -1808,7 +1818,7 @@
   Cycle: '50.13'
   Swim: '0.00'
   Walk: '28.59'
-- Rank: '182'
+- Rank: '183'
   Name: Owyong
   Group: ATC
   FBID: Owyong251088
@@ -1818,7 +1828,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '183'
+- Rank: '184'
   Name: Spear
   Group: ATC
   FBID: Spear0213
@@ -1828,7 +1838,7 @@
   Cycle: '0.00'
   Swim: '2.50'
   Walk: '0.00'
-- Rank: '184'
+- Rank: '185'
   Name: Pat160A
   Group: ADSS/ADWS/ADWO
   FBID: Pat1991
@@ -1838,7 +1848,7 @@
   Cycle: '0.00'
   Swim: '3.68'
   Walk: '0.00'
-- Rank: '186'
+- Rank: '187'
   Name: Dubs
   Group: ADW
   FBID: Dubs0002
@@ -1848,7 +1858,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '185'
+- Rank: '186'
   Name: Soh Thiam Hing
   Group: ADSS/ADWS/ADWO
   FBID: daffodilistic1337
@@ -1858,7 +1868,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '187'
+- Rank: '188'
   Name: Yan Ting
   Group: ADSS/ADWS/ADWO
   FBID: Yeti1993
@@ -1868,7 +1878,7 @@
   Cycle: '0.00'
   Swim: '2.10'
   Walk: '0.00'
-- Rank: '188'
+- Rank: '189'
   Name: Yi Kuang
   Group: ADW
   FBID: rocket1999
@@ -1878,7 +1888,7 @@
   Cycle: '48.82'
   Swim: '0.00'
   Walk: '1.03'
-- Rank: '189'
+- Rank: '190'
   Name: Gabriel Tay Kai Xian
   Group: ADW
   FBID: Blueeyeswhitedragon2901
@@ -1888,16 +1898,6 @@
   Cycle: '45.48'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '190'
-  Name: Nana
-  Group: AFE
-  FBID: Chris1166
-  Total_Mileage: '27.86'
-  Badges: '3'
-  Run: '15.86'
-  Cycle: '0.00'
-  Swim: '2.00'
-  Walk: '70.00'
 - Rank: '191'
   Name: aH Hui
   Group: ADSS/ADWS/ADWO
