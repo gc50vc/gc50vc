@@ -1569,6 +1569,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '158'
+  Name: Kelvis
+  Group: ADSS/ADWS/ADWO
+  FBID: Kelvis2000
+  Total_Mileage: '34.32'
+  Badges: '2'
+  Run: '24.14'
+  Cycle: '40.73'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '159'
   Name: Pravin
   Group: ADSS/ADWS/ADWO
   FBID: Pravin8938
@@ -1578,7 +1588,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '159'
+- Rank: '160'
   Name: Dennis
   Group: ADSS/ADWS/ADWO
   FBID: Dennis0495
@@ -1588,7 +1598,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '160'
+- Rank: '161'
   Name: Jiajun
   Group: ADSS/ADWS/ADWO
   FBID: Jj2304
@@ -1598,7 +1608,7 @@
   Cycle: '0.00'
   Swim: '4.00'
   Walk: '11.06'
-- Rank: '161'
+- Rank: '162'
   Name: 'Crystal '
   Group: ABM
   FBID: Crystal1101
@@ -1608,7 +1618,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '162'
+- Rank: '163'
   Name: USwiftO
   Group: ADW
   FBID: Swift1010
@@ -1618,7 +1628,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '163'
+- Rank: '164'
   Name: Eric
   Group: AOSX/AOS
   FBID: RelacRun0011
@@ -1628,7 +1638,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '164'
+- Rank: '165'
   Name: RainmanCYK
   Group: ADW
   FBID: Rainman0000
@@ -1638,7 +1648,7 @@
   Cycle: '0.00'
   Swim: '5.50'
   Walk: '0.00'
-- Rank: '164'
+- Rank: '165'
   Name: Day
   Group: ATC
   FBID: Racer0370
@@ -1648,7 +1658,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '53.00'
-- Rank: '166'
+- Rank: '167'
   Name: Mayer
   Group: ADSS/ADWS/ADWO
   FBID: Ops3165
@@ -1658,7 +1668,7 @@
   Cycle: '95.56'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '167'
+- Rank: '168'
   Name: AL
   Group: AOSX/AOS
   FBID: Alnino9999
@@ -1668,7 +1678,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '168'
+- Rank: '169'
   Name: Kelvin
   Group: ADSS/ADWS/ADWO
   FBID: Kelvin1111
@@ -1678,7 +1688,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '169'
+- Rank: '170'
   Name: Bgtan
   Group: ADSS/ADWS/ADWO
   FBID: Kenny9889
@@ -1688,7 +1698,7 @@
   Cycle: '126.04'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '170'
+- Rank: '171'
   Name: Kenneth
   Group: ADSS/ADWS/ADWO
   FBID: Cat0407
@@ -1696,16 +1706,6 @@
   Badges: '2'
   Run: '31.50'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '171'
-  Name: Kelvis
-  Group: ADSS/ADWS/ADWO
-  FBID: Kelvis2000
-  Total_Mileage: '31.43'
-  Badges: '2'
-  Run: '21.25'
-  Cycle: '40.73'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '172'
