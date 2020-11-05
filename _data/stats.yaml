@@ -72,11 +72,11 @@
   Name: Ektar
   Group: ABM
   FBID: ektar1971
-  Total_Mileage: '220.53'
-  Badges: '10'
+  Total_Mileage: '235.53'
+  Badges: '11'
   Run: '81.94'
   Cycle: '441.54'
-  Swim: '4.70'
+  Swim: '7.20'
   Walk: '0.00'
 - Rank: '9'
   Name: Euj
@@ -249,6 +249,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '26'
+  Name: 'Jonjuay '
+  Group: ADSS/ADWS/ADWO
+  FBID: Jonjuay8822
+  Total_Mileage: '133.44'
+  Badges: '6'
+  Run: '34.11'
+  Cycle: '373.31'
+  Swim: '1.00'
+  Walk: '0.00'
+- Rank: '27'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -258,16 +268,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.68'
-- Rank: '27'
-  Name: 'Jonjuay '
-  Group: ADSS/ADWS/ADWO
-  FBID: Jonjuay8822
-  Total_Mileage: '127.40'
-  Badges: '6'
-  Run: '28.07'
-  Cycle: '373.31'
-  Swim: '1.00'
-  Walk: '0.00'
 - Rank: '28'
   Name: Bronson
   Group: ADW
