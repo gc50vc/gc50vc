@@ -679,6 +679,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '69'
+  Name: Lightyear
+  Group: ADW
+  FBID: Lightyear2020
+  Total_Mileage: '74.46'
+  Badges: '3'
+  Run: '74.46'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '70'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
   FBID: Ahbye1234
@@ -688,7 +698,7 @@
   Cycle: '131.03'
   Swim: '1.50'
   Walk: '6.00'
-- Rank: '70'
+- Rank: '71'
   Name: OLAF
   Group: ADW
   FBID: OLAF2156
@@ -698,7 +708,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '71'
+- Rank: '72'
   Name: JonChen
   Group: ADW
   FBID: JonChen0000
@@ -708,7 +718,7 @@
   Cycle: '270.53'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '72'
+- Rank: '73'
   Name: Legend
   Group: ADW
   FBID: Legend2512
@@ -718,7 +728,7 @@
   Cycle: '174.85'
   Swim: '0.00'
   Walk: '13.11'
-- Rank: '73'
+- Rank: '74'
   Name: TT
   Group: ABM
   FBID: jiawei1989
@@ -728,7 +738,7 @@
   Cycle: '10.83'
   Swim: '0.00'
   Walk: '1.89'
-- Rank: '74'
+- Rank: '75'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -738,7 +748,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '75'
+- Rank: '76'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -748,23 +758,13 @@
   Cycle: '45.78'
   Swim: '2.50'
   Walk: '1.63'
-- Rank: '76'
+- Rank: '77'
   Name: PCK
   Group: ADW
   FBID: PCK2205
   Total_Mileage: '69.23'
   Badges: '3'
   Run: '69.23'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '77'
-  Name: Lightyear
-  Group: ADW
-  FBID: Lightyear2020
-  Total_Mileage: '68.96'
-  Badges: '3'
-  Run: '68.96'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
