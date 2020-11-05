@@ -239,6 +239,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '25'
+  Name: 'Tan Swee Kiat '
+  Group: ADW
+  FBID: Eskay0077
+  Total_Mileage: '139.57'
+  Badges: '4'
+  Run: '139.57'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '11.68'
+- Rank: '26'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -248,7 +258,7 @@
   Cycle: '373.31'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -258,16 +268,6 @@
   Cycle: '525.71'
   Swim: '0.00'
   Walk: '2.19'
-- Rank: '27'
-  Name: 'Tan Swee Kiat '
-  Group: ADW
-  FBID: Eskay0077
-  Total_Mileage: '133.24'
-  Badges: '4'
-  Run: '133.24'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '11.68'
 - Rank: '28'
   Name: jheng
   Group: ADSS/ADWS/ADWO
@@ -679,6 +679,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '69'
+  Name: Ah Bye
+  Group: ADSS/ADWS/ADWO
+  FBID: Ahbye1234
+  Total_Mileage: '74.42'
+  Badges: '6'
+  Run: '32.66'
+  Cycle: '131.03'
+  Swim: '1.50'
+  Walk: '6.00'
+- Rank: '70'
   Name: OLAF
   Group: ADW
   FBID: OLAF2156
@@ -688,7 +698,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '70'
+- Rank: '71'
   Name: JonChen
   Group: ADW
   FBID: JonChen0000
@@ -698,7 +708,7 @@
   Cycle: '270.53'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '71'
+- Rank: '72'
   Name: Legend
   Group: ADW
   FBID: Legend2512
@@ -708,7 +718,7 @@
   Cycle: '174.85'
   Swim: '0.00'
   Walk: '13.11'
-- Rank: '72'
+- Rank: '73'
   Name: TT
   Group: ABM
   FBID: jiawei1989
@@ -718,7 +728,7 @@
   Cycle: '10.83'
   Swim: '0.00'
   Walk: '1.89'
-- Rank: '73'
+- Rank: '74'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -728,7 +738,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '74'
+- Rank: '75'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -738,7 +748,7 @@
   Cycle: '45.78'
   Swim: '2.50'
   Walk: '1.63'
-- Rank: '75'
+- Rank: '76'
   Name: PCK
   Group: ADW
   FBID: PCK2205
@@ -748,7 +758,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '76'
+- Rank: '77'
   Name: Lightyear
   Group: ADW
   FBID: Lightyear2020
@@ -758,7 +768,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '77'
+- Rank: '78'
   Name: Yun Jie (Rhythm)
   Group: ADW
   FBID: Jabez8686
@@ -768,7 +778,7 @@
   Cycle: '0.00'
   Swim: '8.45'
   Walk: '4.80'
-- Rank: '78'
+- Rank: '79'
   Name: Lia
   Group: ADSS/ADWS/ADWO
   FBID: Lia1116
@@ -778,16 +788,6 @@
   Cycle: '63.18'
   Swim: '0.90'
   Walk: '0.00'
-- Rank: '79'
-  Name: Ah Bye
-  Group: ADSS/ADWS/ADWO
-  FBID: Ahbye1234
-  Total_Mileage: '66.42'
-  Badges: '5'
-  Run: '32.66'
-  Cycle: '99.03'
-  Swim: '1.50'
-  Walk: '6.00'
 - Rank: '80'
   Name: Lava
   Group: ATC
