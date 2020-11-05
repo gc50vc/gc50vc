@@ -349,6 +349,16 @@
   Swim: '0.00'
   Walk: '1.17'
 - Rank: '36'
+  Name: Hanyong
+  Group: ADW
+  FBID: Hany2801
+  Total_Mileage: '115.12'
+  Badges: '4'
+  Run: '115.12'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '37'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -358,7 +368,7 @@
   Cycle: '267.18'
   Swim: '3.60'
   Walk: '0.00'
-- Rank: '37'
+- Rank: '38'
   Name: Coral
   Group: ABM
   FBID: Coral5050
@@ -368,7 +378,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '9.48'
-- Rank: '38'
+- Rank: '39'
   Name: Xiaolow3344
   Group: ADSS/ADWS/ADWO
   FBID: Xiaolow3344
@@ -378,16 +388,6 @@
   Cycle: '0.00'
   Swim: '18.00'
   Walk: '51.60'
-- Rank: '39'
-  Name: Hanyong
-  Group: ADW
-  FBID: Hany2801
-  Total_Mileage: '108.11'
-  Badges: '4'
-  Run: '108.11'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '40'
   Name: Daniel Tay
   Group: AOSX/AOS
