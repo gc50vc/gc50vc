@@ -5012,6 +5012,12 @@
   name: Pixel EQ
   definition: ''
   Week: '3'
+- timestamp: '2020-11-05 21:20:50'
+  fbid: Stop0001
+  badge: Marathon
+  name: Sean Chua
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-24 01:24:37'
   fbid: Extreme8123
   badge: Run For Your Life
@@ -5995,7 +6001,7 @@
   badge: Frogman
   name: Marcus
   definition: ''
-  Week: '1'
+  Week: ''
 - timestamp: '2020-10-22 10:08:17'
   fbid: spaceman1234
   badge: Frogman
