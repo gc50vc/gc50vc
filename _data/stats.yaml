@@ -79,6 +79,16 @@
   Swim: '4.70'
   Walk: '0.00'
 - Rank: '9'
+  Name: Euj
+  Group: ATC
+  FBID: Euj1871
+  Total_Mileage: '196.44'
+  Badges: '7'
+  Run: '68.03'
+  Cycle: '81.86'
+  Swim: '17.99'
+  Walk: '93.22'
+- Rank: '10'
   Name: Nicholas
   Group: ADSS/ADWS/ADWO
   FBID: NN1974
@@ -88,7 +98,7 @@
   Cycle: '400.71'
   Swim: '8.60'
   Walk: '3.02'
-- Rank: '10'
+- Rank: '11'
   Name: Prem
   Group: ADW
   FBID: Premium6687
@@ -98,16 +108,6 @@
   Cycle: '42.58'
   Swim: '23.05'
   Walk: '1.32'
-- Rank: '11'
-  Name: Euj
-  Group: ATC
-  FBID: Euj1871
-  Total_Mileage: '185.64'
-  Badges: '7'
-  Run: '68.03'
-  Cycle: '81.86'
-  Swim: '16.19'
-  Walk: '93.22'
 - Rank: '12'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
