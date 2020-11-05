@@ -89,6 +89,16 @@
   Swim: '19.07'
   Walk: '93.22'
 - Rank: '10'
+  Name: Prem
+  Group: ADW
+  FBID: Premium6687
+  Total_Mileage: '199.72'
+  Badges: '7'
+  Run: '42.07'
+  Cycle: '42.58'
+  Swim: '24.50'
+  Walk: '1.32'
+- Rank: '11'
   Name: yapoh
   Group: ADW
   FBID: yapoh0304
@@ -98,7 +108,7 @@
   Cycle: '372.00'
   Swim: '5.40'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: Nicholas
   Group: ADSS/ADWS/ADWO
   FBID: NN1974
@@ -108,16 +118,6 @@
   Cycle: '400.71'
   Swim: '8.60'
   Walk: '3.02'
-- Rank: '12'
-  Name: Prem
-  Group: ADW
-  FBID: Premium6687
-  Total_Mileage: '191.02'
-  Badges: '7'
-  Run: '42.07'
-  Cycle: '42.58'
-  Swim: '23.05'
-  Walk: '1.32'
 - Rank: '13'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
@@ -439,6 +439,16 @@
   Swim: '0.00'
   Walk: '16.48'
 - Rank: '45'
+  Name: AngmoATB
+  Group: ADW
+  FBID: Angmo1984
+  Total_Mileage: '99.21'
+  Badges: '4'
+  Run: '83.91'
+  Cycle: '0.00'
+  Swim: '2.55'
+  Walk: '4.00'
+- Rank: '46'
   Name: Cookie
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -448,7 +458,7 @@
   Cycle: '78.01'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '46'
+- Rank: '47'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -458,7 +468,7 @@
   Cycle: '216.46'
   Swim: '4.10'
   Walk: '0.00'
-- Rank: '47'
+- Rank: '48'
   Name: 'TiGeR3 '
   Group: ADSS/ADWS/ADWO
   FBID: TiGeR2876
@@ -468,7 +478,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '48'
+- Rank: '49'
   Name: Poon
   Group: ADSS/ADWS/ADWO
   FBID: Poon3636
@@ -478,7 +488,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '49'
+- Rank: '50'
   Name: Andrew
   Group: ADW
   FBID: Hammer1990
@@ -488,7 +498,7 @@
   Cycle: '165.06'
   Swim: '3.00'
   Walk: '0.00'
-- Rank: '50'
+- Rank: '51'
   Name: Btee
   Group: AFE
   FBID: Brian0307
@@ -498,7 +508,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '51'
+- Rank: '52'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -508,7 +518,7 @@
   Cycle: '96.95'
   Swim: '4.60'
   Walk: '2.45'
-- Rank: '52'
+- Rank: '53'
   Name: 'Tay Wen Hao '
   Group: ADW
   FBID: Wh8295
@@ -518,7 +528,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '53'
+- Rank: '54'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -528,7 +538,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '12.30'
-- Rank: '54'
+- Rank: '55'
   Name: Quainapz
   Group: ADSS/ADWS/ADWO
   FBID: Quainapz8585
@@ -538,16 +548,6 @@
   Cycle: '0.00'
   Swim: '3.10'
   Walk: '2.30'
-- Rank: '55'
-  Name: AngmoATB
-  Group: ADW
-  FBID: Angmo1984
-  Total_Mileage: '90.34'
-  Badges: '4'
-  Run: '75.04'
-  Cycle: '0.00'
-  Swim: '2.55'
-  Walk: '4.00'
 - Rank: '56'
   Name: Rocky
   Group: AOSX/AOS
