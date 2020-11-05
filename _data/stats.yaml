@@ -89,6 +89,16 @@
   Swim: '19.07'
   Walk: '93.22'
 - Rank: '10'
+  Name: yapoh
+  Group: ADW
+  FBID: yapoh0304
+  Total_Mileage: '195.40'
+  Badges: '10'
+  Run: '70.00'
+  Cycle: '372.00'
+  Swim: '5.40'
+  Walk: '0.00'
+- Rank: '11'
   Name: Nicholas
   Group: ADSS/ADWS/ADWO
   FBID: NN1974
@@ -98,7 +108,7 @@
   Cycle: '400.71'
   Swim: '8.60'
   Walk: '3.02'
-- Rank: '11'
+- Rank: '12'
   Name: Prem
   Group: ADW
   FBID: Premium6687
@@ -108,7 +118,7 @@
   Cycle: '42.58'
   Swim: '23.05'
   Walk: '1.32'
-- Rank: '12'
+- Rank: '13'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -117,16 +127,6 @@
   Run: '184.14'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '13'
-  Name: yapoh
-  Group: ADW
-  FBID: yapoh0304
-  Total_Mileage: '183.40'
-  Badges: '9'
-  Run: '70.00'
-  Cycle: '372.00'
-  Swim: '3.40'
   Walk: '0.00'
 - Rank: '14'
   Name: Leonard ong
@@ -1219,6 +1219,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '123'
+  Name: Kent Zeng
+  Group: ADSS/ADWS/ADWO
+  FBID: Stonks69420
+  Total_Mileage: '43.50'
+  Badges: '2'
+  Run: '37.50'
+  Cycle: '0.00'
+  Swim: '1.00'
+  Walk: '0.00'
+- Rank: '124'
   Name: ARROW
   Group: ADW
   FBID: Tee1980
@@ -1228,7 +1238,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '124'
+- Rank: '125'
   Name: Darius Ng
   Group: ADSS/ADWS/ADWO
   FBID: bobo1234
@@ -1238,7 +1248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '125'
+- Rank: '126'
   Name: Waffles
   Group: ATC
   FBID: Waffles3567
@@ -1248,7 +1258,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.57'
-- Rank: '126'
+- Rank: '127'
   Name: Pixel EQ
   Group: AOSX/AOS
   FBID: Pixel0323
@@ -1258,7 +1268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.70'
-- Rank: '127'
+- Rank: '128'
   Name: Zacchaeus
   Group: ADSS/ADWS/ADWO
   FBID: ZjSc9588
@@ -1268,7 +1278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '128'
+- Rank: '129'
   Name: Ankle
   Group: ADSS/ADWS/ADWO
   FBID: Redeyesblackdragon1310
@@ -1278,7 +1288,7 @@
   Cycle: '45.68'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '129'
+- Rank: '130'
   Name: Sze Tein
   Group: ATC
   FBID: Topaz1327
@@ -1287,16 +1297,6 @@
   Run: '41.06'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '130'
-  Name: Kent Zeng
-  Group: ADSS/ADWS/ADWO
-  FBID: Stonks69420
-  Total_Mileage: '41.00'
-  Badges: '2'
-  Run: '35.00'
-  Cycle: '0.00'
-  Swim: '1.00'
   Walk: '0.00'
 - Rank: '131'
   Name: Hector
@@ -2289,6 +2289,16 @@
   Swim: '0.00'
   Walk: '6.23'
 - Rank: '230'
+  Name: Wu Hao
+  Group: AOSX/AOS
+  FBID: Lima5208
+  Total_Mileage: '22.79'
+  Badges: '2'
+  Run: '22.79'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '231'
   Name: Min Jet
   Group: ADW
   FBID: Filter2174
@@ -2298,7 +2308,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '231'
+- Rank: '232'
   Name: Leonard
   Group: ADW
   FBID: Leonard0402
@@ -2308,7 +2318,7 @@
   Cycle: '64.80'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '232'
+- Rank: '233'
   Name: Jj
   Group: ADSS/ADWS/ADWO
   FBID: TaroQ5061
@@ -2318,7 +2328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '233'
+- Rank: '234'
   Name: batu
   Group: ABM
   FBID: batu1984
@@ -2328,7 +2338,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '2.50'
-- Rank: '234'
+- Rank: '235'
   Name: Pterlek
   Group: ATC
   FBID: Conman7347
@@ -2338,7 +2348,7 @@
   Cycle: '0.00'
   Swim: '3.63'
   Walk: '0.00'
-- Rank: '235'
+- Rank: '236'
   Name: Oyster
   Group: ABM
   FBID: Oyster1990
@@ -2348,7 +2358,7 @@
   Cycle: '4.88'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '236'
+- Rank: '237'
   Name: Sirius
   Group: ABM
   FBID: Sirius1320
@@ -2358,7 +2368,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '16.62'
-- Rank: '237'
+- Rank: '238'
   Name: junhui
   Group: ADW
   FBID: junhui2301
@@ -2368,7 +2378,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '87.12'
-- Rank: '237'
+- Rank: '238'
   Name: Alloy
   Group: ABM
   FBID: alloy8585
@@ -2378,7 +2388,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '239'
+- Rank: '240'
   Name: Psychic
   Group: ATC
   FBID: psychic2204
@@ -2388,7 +2398,7 @@
   Cycle: '14.29'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '240'
+- Rank: '241'
   Name: Ian Zayne Andre
   Group: ADSS/ADWS/ADWO
   FBID: Black_Santa0311
@@ -2398,7 +2408,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '241'
+- Rank: '242'
   Name: Isaac
   Group: ADSS/ADWS/ADWO
   FBID: xMint1998
@@ -2408,7 +2418,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '242'
+- Rank: '243'
   Name: Liang
   Group: ADW
   FBID: Foodislyfe091098
@@ -2418,7 +2428,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.00'
-- Rank: '243'
+- Rank: '244'
   Name: Essay
   Group: ADW
   FBID: Essay7696
@@ -2428,7 +2438,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '5.16'
-- Rank: '244'
+- Rank: '245'
   Name: Jinson
   Group: AOSX/AOS
   FBID: Ironman1234
@@ -2438,7 +2448,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '245'
+- Rank: '246'
   Name: BY
   Group: ADSS/ADWS/ADWO
   FBID: Charlie3579
@@ -2448,7 +2458,7 @@
   Cycle: '45.46'
   Swim: '0.00'
   Walk: '5.06'
-- Rank: '246'
+- Rank: '247'
   Name: Malice
   Group: ABM
   FBID: Malice2323
@@ -2458,7 +2468,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '247'
+- Rank: '248'
   Name: Winson
   Group: ADSS/ADWS/ADWO
   FBID: Winson1999
@@ -2468,7 +2478,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '248'
+- Rank: '249'
   Name: 'Eddie Chua '
   Group: AFE
   FBID: EddieChua1973
@@ -2478,7 +2488,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '249'
+- Rank: '250'
   Name: DOMINIC
   Group: ADW
   FBID: Dom9898
@@ -2488,23 +2498,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '250'
+- Rank: '251'
   Name: Guojie
   Group: ADSS/ADWS/ADWO
   FBID: Thug2107
   Total_Mileage: '19.87'
   Badges: '2'
   Run: '19.87'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '251'
-  Name: Wu Hao
-  Group: AOSX/AOS
-  FBID: Lima5208
-  Total_Mileage: '19.60'
-  Badges: '2'
-  Run: '19.60'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
