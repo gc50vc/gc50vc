@@ -419,6 +419,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '43'
+  Name: Ah Bing
+  Group: ADW
+  FBID: Bingo0507
+  Total_Mileage: '21.52'
+  Badges: '2'
+  Run: '10.25'
+  Cycle: '30.67'
+  Swim: '0.60'
+  Walk: '0.00'
+- Rank: '44'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -428,7 +438,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '44'
+- Rank: '45'
   Name: Shawn Chia
   Group: ADW
   FBID: SCWE9595
@@ -438,7 +448,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '45'
+- Rank: '46'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -448,7 +458,7 @@
   Cycle: '68.63'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '46'
+- Rank: '47'
   Name: Nicholas Lian
   Group: ADW
   FBID: horsepower2001
@@ -458,7 +468,7 @@
   Cycle: '0.00'
   Swim: '0.60'
   Walk: '0.00'
-- Rank: '47'
+- Rank: '48'
   Name: Daniel Tay
   Group: AOSX/AOS
   FBID: Corrupt2705
@@ -468,7 +478,7 @@
   Cycle: '0.00'
   Swim: '1.40'
   Walk: '0.00'
-- Rank: '48'
+- Rank: '49'
   Name: Quainapz
   Group: ADSS/ADWS/ADWO
   FBID: Quainapz8585
@@ -478,7 +488,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '49'
+- Rank: '50'
   Name: 'Eddie Chua '
   Group: AFE
   FBID: EddieChua1973
@@ -488,7 +498,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '50'
+- Rank: '51'
   Name: Xiaolow3344
   Group: ADSS/ADWS/ADWO
   FBID: Xiaolow3344
@@ -498,7 +508,7 @@
   Cycle: '0.00'
   Swim: '3.30'
   Walk: '13.66'
-- Rank: '51'
+- Rank: '52'
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
@@ -508,7 +518,7 @@
   Cycle: '0.00'
   Swim: '0.50'
   Walk: '0.00'
-- Rank: '52'
+- Rank: '53'
   Name: Rubiks
   Group: ABM
   FBID: Rubiks1234
@@ -518,7 +528,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '53'
+- Rank: '54'
   Name: Mayer
   Group: ADSS/ADWS/ADWO
   FBID: Ops3165
@@ -528,7 +538,7 @@
   Cycle: '76.13'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '54'
+- Rank: '55'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -538,7 +548,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '55'
+- Rank: '56'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -548,7 +558,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '56'
+- Rank: '57'
   Name: Logo
   Group: ABM
   FBID: Logo0200
@@ -558,7 +568,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '57'
+- Rank: '58'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
   FBID: Ahbye1234
@@ -567,16 +577,6 @@
   Run: '10.46'
   Cycle: '0.00'
   Swim: '1.00'
-  Walk: '0.00'
-- Rank: '58'
-  Name: Ah Bing
-  Group: ADW
-  FBID: Bingo0507
-  Total_Mileage: '16.30'
-  Badges: '2'
-  Run: '5.03'
-  Cycle: '30.67'
-  Swim: '0.60'
   Walk: '0.00'
 - Rank: '59'
   Name: Weng
