@@ -179,6 +179,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '19'
+  Name: Slimer
+  Group: ABM
+  FBID: Slimer1234
+  Total_Mileage: '155.75'
+  Badges: '8'
+  Run: '39.28'
+  Cycle: '137.09'
+  Swim: '13.70'
+  Walk: '8.90'
+- Rank: '20'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
@@ -188,7 +198,7 @@
   Cycle: '32.50'
   Swim: '15.00'
   Walk: '7.27'
-- Rank: '20'
+- Rank: '21'
   Name: Tony Foo
   Group: ADW
   FBID: tonyfoo0165
@@ -198,17 +208,17 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '21'
-  Name: Slimer
-  Group: ABM
-  FBID: Slimer1234
-  Total_Mileage: '146.75'
-  Badges: '8'
-  Run: '39.28'
-  Cycle: '137.09'
-  Swim: '12.20'
-  Walk: '8.90'
 - Rank: '22'
+  Name: Vincent Yap
+  Group: ADW
+  FBID: Vince2107
+  Total_Mileage: '147.10'
+  Badges: '7'
+  Run: '34.50'
+  Cycle: '376.00'
+  Swim: '3.10'
+  Walk: '0.00'
+- Rank: '23'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -218,16 +228,6 @@
   Cycle: '280.50'
   Swim: '5.30'
   Walk: '1.90'
-- Rank: '23'
-  Name: Vincent Yap
-  Group: ADW
-  FBID: Vince2107
-  Total_Mileage: '138.10'
-  Badges: '7'
-  Run: '34.50'
-  Cycle: '340.00'
-  Swim: '3.10'
-  Walk: '0.00'
 - Rank: '24'
   Name: HC
   Group: ADSS/ADWS/ADWO
