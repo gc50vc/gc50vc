@@ -489,6 +489,16 @@
   Swim: '4.60'
   Walk: '2.45'
 - Rank: '50'
+  Name: 'Tay Wen Hao '
+  Group: ADW
+  FBID: Wh8295
+  Total_Mileage: '91.97'
+  Badges: '3'
+  Run: '91.97'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '51'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -498,7 +508,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '12.30'
-- Rank: '51'
+- Rank: '52'
   Name: Quainapz
   Group: ADSS/ADWS/ADWO
   FBID: Quainapz8585
@@ -508,7 +518,7 @@
   Cycle: '0.00'
   Swim: '3.10'
   Walk: '2.30'
-- Rank: '52'
+- Rank: '53'
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
@@ -518,7 +528,7 @@
   Cycle: '0.00'
   Swim: '2.55'
   Walk: '4.00'
-- Rank: '53'
+- Rank: '54'
   Name: jheng
   Group: ADSS/ADWS/ADWO
   FBID: jheng0000
@@ -528,7 +538,7 @@
   Cycle: '41.15'
   Swim: '7.00'
   Walk: '0.00'
-- Rank: '54'
+- Rank: '55'
   Name: Rocky
   Group: AOSX/AOS
   FBID: ZeRo7113
@@ -538,16 +548,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '57.30'
-- Rank: '55'
-  Name: 'Tay Wen Hao '
-  Group: ADW
-  FBID: Wh8295
-  Total_Mileage: '88.34'
-  Badges: '3'
-  Run: '88.34'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '56'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
