@@ -2420,6 +2420,12 @@
   name: 'Jonjuay '
   definition: ''
   Week: '3'
+- timestamp: '2020-11-05 21:12:52'
+  fbid: APHRMC0207
+  badge: Half Ironman
+  name: AP
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-24 05:41:33'
   fbid: Trex1406
   badge: Ironman
@@ -5995,7 +6001,7 @@
   badge: Frogman
   name: Spaceman
   definition: ''
-  Week: '1'
+  Week: ''
 - timestamp: '2020-10-22 12:51:47'
   fbid: Tommy1976
   badge: Frogman
