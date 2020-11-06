@@ -2276,12 +2276,6 @@
   name: Shawn Chia
   definition: ''
   Week: '3'
-- timestamp: '2020-11-04 22:20:57'
-  fbid: syke8890
-  badge: Baby Steps
-  name: J L
-  definition: ''
-  Week: '3'
 - timestamp: '2020-11-04 22:32:19'
   fbid: Radar0909
   badge: Baby Steps
@@ -2328,6 +2322,12 @@
   fbid: caden2000
   badge: Baby Steps
   name: Caden
+  definition: ''
+  Week: '3'
+- timestamp: '2020-11-05 22:03:23'
+  fbid: syke8890
+  badge: Baby Steps
+  name: J L
   definition: ''
   Week: '3'
 - timestamp: '2020-11-05 23:38:46'
@@ -4490,12 +4490,6 @@
   name: Shawn Chia
   definition: ''
   Week: '3'
-- timestamp: '2020-11-04 22:20:57'
-  fbid: syke8890
-  badge: Mount Everest
-  name: J L
-  definition: ''
-  Week: '3'
 - timestamp: '2020-11-04 23:22:52'
   fbid: Winston0160
   badge: Mount Everest
@@ -4530,6 +4524,12 @@
   fbid: caden2000
   badge: Mount Everest
   name: Caden
+  definition: ''
+  Week: '3'
+- timestamp: '2020-11-05 21:49:49'
+  fbid: syke8890
+  badge: Mount Everest
+  name: J L
   definition: ''
   Week: '3'
 - timestamp: '2020-11-05 22:25:24'
