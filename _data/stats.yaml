@@ -189,16 +189,6 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '20'
-  Name: Marcus
-  Group: ADSS/ADWS/ADWO
-  FBID: Mtwk1998
-  Total_Mileage: '155.13'
-  Badges: '6'
-  Run: '57.00'
-  Cycle: '32.50'
-  Swim: '15.00'
-  Walk: '7.27'
-- Rank: '21'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -208,6 +198,16 @@
   Cycle: '376.00'
   Swim: '3.10'
   Walk: '0.00'
+- Rank: '21'
+  Name: Marcus
+  Group: ADSS/ADWS/ADWO
+  FBID: Mtwk1998
+  Total_Mileage: '151.13'
+  Badges: '6'
+  Run: '53.00'
+  Cycle: '32.50'
+  Swim: '15.00'
+  Walk: '7.27'
 - Rank: '22'
   Name: Tony Foo
   Group: ADW
