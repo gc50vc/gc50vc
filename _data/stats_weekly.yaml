@@ -159,16 +159,6 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '17'
-  Name: Marcus
-  Group: ADSS/ADWS/ADWO
-  FBID: Mtwk1998
-  Total_Mileage: '41.00'
-  Badges: '1'
-  Run: '17.00'
-  Cycle: '0.00'
-  Swim: '4.00'
-  Walk: '0.00'
-- Rank: '18'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -177,6 +167,16 @@
   Run: '8.00'
   Cycle: '87.00'
   Swim: '1.60'
+  Walk: '0.00'
+- Rank: '18'
+  Name: Marcus
+  Group: ADSS/ADWS/ADWO
+  FBID: Mtwk1998
+  Total_Mileage: '37.00'
+  Badges: '1'
+  Run: '13.00'
+  Cycle: '0.00'
+  Swim: '4.00'
   Walk: '0.00'
 - Rank: '19'
   Name: Vapor
