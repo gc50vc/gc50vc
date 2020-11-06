@@ -489,16 +489,6 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '50'
-  Name: Ah Bye
-  Group: ADSS/ADWS/ADWO
-  FBID: Ahbye1234
-  Total_Mileage: '24.46'
-  Badges: '1'
-  Run: '10.46'
-  Cycle: '32.00'
-  Swim: '1.00'
-  Walk: '0.00'
-- Rank: '51'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -508,7 +498,7 @@
   Cycle: '0.00'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '52'
+- Rank: '51'
   Name: Saturn
   Group: ADW
   FBID: Saturn1501
@@ -518,7 +508,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '53'
+- Rank: '52'
   Name: leslie
   Group: ADW
   FBID: les0374
@@ -528,7 +518,7 @@
   Cycle: '95.67'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '54'
+- Rank: '53'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -538,7 +528,7 @@
   Cycle: '54.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '55'
+- Rank: '54'
   Name: TEH
   Group: ADW
   FBID: TEH0501
@@ -548,7 +538,7 @@
   Cycle: '42.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '56'
+- Rank: '55'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -558,7 +548,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.40'
-- Rank: '57'
+- Rank: '56'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -568,7 +558,7 @@
   Cycle: '31.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '58'
+- Rank: '57'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -578,7 +568,7 @@
   Cycle: '28.00'
   Swim: '1.53'
   Walk: '0.54'
-- Rank: '59'
+- Rank: '58'
   Name: Ah Bing
   Group: ADW
   FBID: Bingo0507
@@ -588,7 +578,7 @@
   Cycle: '30.67'
   Swim: '0.60'
   Walk: '0.00'
-- Rank: '60'
+- Rank: '59'
   Name: Shawn Chia
   Group: ADW
   FBID: SCWE9595
@@ -598,7 +588,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '61'
+- Rank: '60'
   Name: GN
   Group: ADSS/ADWS/ADWO
   FBID: GN8282
@@ -608,7 +598,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '62'
+- Rank: '61'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -618,7 +608,7 @@
   Cycle: '68.63'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '63'
+- Rank: '62'
   Name: COVID
   Group: ADSS/ADWS/ADWO
   FBID: COVID9999
@@ -628,7 +618,7 @@
   Cycle: '45.11'
   Swim: '0.00'
   Walk: '12.80'
-- Rank: '64'
+- Rank: '63'
   Name: Quainapz
   Group: ADSS/ADWS/ADWO
   FBID: Quainapz8585
@@ -638,7 +628,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '65'
+- Rank: '64'
   Name: 'Eddie Chua '
   Group: AFE
   FBID: EddieChua1973
@@ -648,7 +638,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '66'
+- Rank: '65'
   Name: Gekhro
   Group: ADSS/ADWS/ADWO
   FBID: Gekhro1234
@@ -657,6 +647,16 @@
   Run: '19.95'
   Cycle: '0.00'
   Swim: '0.00'
+  Walk: '0.00'
+- Rank: '66'
+  Name: Ah Bye
+  Group: ADSS/ADWS/ADWO
+  FBID: Ahbye1234
+  Total_Mileage: '19.23'
+  Badges: '1'
+  Run: '5.23'
+  Cycle: '32.00'
+  Swim: '1.00'
   Walk: '0.00'
 - Rank: '67'
   Name: Rubiks
