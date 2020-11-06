@@ -69,6 +69,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '8'
+  Name: Slimer
+  Group: ABM
+  FBID: Slimer1234
+  Total_Mileage: '72.16'
+  Badges: '2'
+  Run: '24.12'
+  Cycle: '48.15'
+  Swim: '6.00'
+  Walk: '2.24'
+- Rank: '9'
   Name: Hasty
   Group: ADW
   FBID: Hasty55555
@@ -78,7 +88,7 @@
   Cycle: '71.84'
   Swim: '1.35'
   Walk: '0.00'
-- Rank: '9'
+- Rank: '10'
   Name: Lee Wen Yang
   Group: AFE
   FBID: LWY3942
@@ -88,7 +98,7 @@
   Cycle: '275.30'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '10'
+- Rank: '11'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -98,16 +108,6 @@
   Cycle: '18.14'
   Swim: '7.20'
   Walk: '22.55'
-- Rank: '11'
-  Name: Slimer
-  Group: ABM
-  FBID: Slimer1234
-  Total_Mileage: '66.10'
-  Badges: '2'
-  Run: '18.06'
-  Cycle: '48.15'
-  Swim: '6.00'
-  Walk: '2.24'
 - Rank: '12'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
