@@ -177,7 +177,7 @@
   Run: '45.28'
   Cycle: '137.09'
   Swim: '15.20'
-  Walk: '8.90'
+  Walk: '10.01'
 - Rank: '19'
   Name: AdolphusJJ
   Group: AOSX/AOS
@@ -1089,6 +1089,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '110'
+  Name: Alan
+  Group: ADSS/ADWS/ADWO
+  FBID: Alan2881
+  Total_Mileage: '50.00'
+  Badges: '4'
+  Run: '29.00'
+  Cycle: '0.00'
+  Swim: '3.50'
+  Walk: '32.00'
+- Rank: '111'
   Name: Chin Yong
   Group: ADSS/ADWS/ADWO
   FBID: Relaxing1234
@@ -1098,7 +1108,7 @@
   Cycle: '55.45'
   Swim: '0.00'
   Walk: '23.71'
-- Rank: '111'
+- Rank: '112'
   Name: Fu Hao Wei
   Group: ADW
   FBID: fuhaowei8435
@@ -1108,7 +1118,7 @@
   Cycle: '163.06'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '112'
+- Rank: '113'
   Name: Jamie Chen
   Group: ADSS/ADWS/ADWO
   FBID: FLASH2911
@@ -1118,7 +1128,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '113'
+- Rank: '114'
   Name: Halu
   Group: AFE
   FBID: Halu1805
@@ -1128,7 +1138,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '114'
+- Rank: '115'
   Name: Camper
   Group: ADW
   FBID: tanht1968
@@ -1138,7 +1148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '115'
+- Rank: '116'
   Name: 'Windy '
   Group: ABM
   FBID: Windy4444
@@ -1148,7 +1158,7 @@
   Cycle: '0.00'
   Swim: '7.70'
   Walk: '0.00'
-- Rank: '116'
+- Rank: '117'
   Name: Matrix
   Group: ABM
   FBID: Matrix3280
@@ -1158,7 +1168,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '117'
+- Rank: '118'
   Name: Jing Wee
   Group: ADSS/ADWS/ADWO
   FBID: Pork2070
@@ -1168,7 +1178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '117'
+- Rank: '118'
   Name: Wan Yuan
   Group: ADW
   FBID: Lost1908
@@ -1178,7 +1188,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '119'
+- Rank: '120'
   Name: Eric Kwok
   Group: ABM
   FBID: Villain1111
@@ -1188,7 +1198,7 @@
   Cycle: '125.14'
   Swim: '1.30'
   Walk: '0.00'
-- Rank: '120'
+- Rank: '121'
   Name: Andre
   Group: ADSS/ADWS/ADWO
   FBID: Wagon6190
@@ -1198,7 +1208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '121'
+- Rank: '122'
   Name: Zacchaeus
   Group: ADSS/ADWS/ADWO
   FBID: ZjSc9588
@@ -1208,7 +1218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '122'
+- Rank: '123'
   Name: Bgtan
   Group: ADSS/ADWS/ADWO
   FBID: Kenny9889
@@ -1218,7 +1228,7 @@
   Cycle: '179.34'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '123'
+- Rank: '124'
   Name: Jenny
   Group: AFE
   FBID: Jenny7373
@@ -1228,7 +1238,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '64.91'
-- Rank: '124'
+- Rank: '125'
   Name: Glenn Lee
   Group: ADSS/ADWS/ADWO
   FBID: Garfield3110
@@ -1238,16 +1248,6 @@
   Cycle: '10.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '125'
-  Name: Alan
-  Group: ADSS/ADWS/ADWO
-  FBID: Alan2881
-  Total_Mileage: '44.00'
-  Badges: '4'
-  Run: '23.00'
-  Cycle: '0.00'
-  Swim: '3.50'
-  Walk: '32.00'
 - Rank: '126'
   Name: Starbucks
   Group: ABM
