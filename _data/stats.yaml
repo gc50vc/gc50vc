@@ -82,9 +82,9 @@
   Name: Euj
   Group: ATC
   FBID: Euj1871
-  Total_Mileage: '210.03'
+  Total_Mileage: '213.03'
   Badges: '7'
-  Run: '75.14'
+  Run: '78.14'
   Cycle: '81.86'
   Swim: '19.07'
   Walk: '93.22'
@@ -189,6 +189,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '20'
+  Name: Tony Foo
+  Group: ADW
+  FBID: tonyfoo0165
+  Total_Mileage: '161.00'
+  Badges: '4'
+  Run: '161.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '21'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -198,7 +208,7 @@
   Cycle: '376.00'
   Swim: '3.10'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
@@ -208,16 +218,6 @@
   Cycle: '32.50'
   Swim: '15.00'
   Walk: '7.27'
-- Rank: '22'
-  Name: Tony Foo
-  Group: ADW
-  FBID: tonyfoo0165
-  Total_Mileage: '151.00'
-  Badges: '4'
-  Run: '151.00'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '23'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
