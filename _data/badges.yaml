@@ -5852,6 +5852,12 @@
   name: JOVAN
   definition: ''
   Week: '3'
+- timestamp: '2020-11-06 21:37:00'
+  fbid: YH1234
+  badge: Buns of Steel
+  name: Yuhang
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-20 16:24:58'
   fbid: LWY3942
   badge: Cycopath
@@ -5995,7 +6001,7 @@
   badge: Cycopath
   name: Iggy
   definition: ''
-  Week: '2'
+  Week: ''
 - timestamp: '2020-10-31 10:08:31'
   fbid: Legend2512
   badge: Cycopath
