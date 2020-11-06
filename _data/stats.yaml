@@ -99,6 +99,16 @@
   Swim: '19.07'
   Walk: '93.22'
 - Rank: '11'
+  Name: Prem
+  Group: ADW
+  FBID: Premium6687
+  Total_Mileage: '206.92'
+  Badges: '7'
+  Run: '42.07'
+  Cycle: '42.58'
+  Swim: '25.70'
+  Walk: '1.32'
+- Rank: '12'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -108,16 +118,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '12'
-  Name: Prem
-  Group: ADW
-  FBID: Premium6687
-  Total_Mileage: '199.72'
-  Badges: '7'
-  Run: '42.07'
-  Cycle: '42.58'
-  Swim: '24.50'
-  Walk: '1.32'
 - Rank: '13'
   Name: yapoh
   Group: ADW
@@ -142,11 +142,11 @@
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: WANG0165
-  Total_Mileage: '182.53'
+  Total_Mileage: '187.33'
   Badges: '5'
   Run: '165.85'
   Cycle: '24.00'
-  Swim: '1.78'
+  Swim: '2.58'
   Walk: '1.00'
 - Rank: '16'
   Name: Nicholas Lian
