@@ -63,7 +63,7 @@
   Group: ADW
   FBID: Hasty55555
   Total_Mileage: '70.38'
-  Badges: '2'
+  Badges: '1'
   Run: '44.32'
   Cycle: '71.84'
   Swim: '1.35'
@@ -439,6 +439,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '45'
+  Name: Liwei
+  Group: ADW
+  FBID: dragongate5270
+  Total_Mileage: '27.16'
+  Badges: '1'
+  Run: '11.01'
+  Cycle: '28.00'
+  Swim: '1.53'
+  Walk: '0.54'
+- Rank: '46'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -448,7 +458,7 @@
   Cycle: '45.78'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '46'
+- Rank: '47'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -458,7 +468,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '47'
+- Rank: '48'
   Name: Rats
   Group: ABM
   FBID: Rats1500
@@ -468,7 +478,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '48'
+- Rank: '49'
   Name: Sean Chua
   Group: ADSS/ADWS/ADWO
   FBID: Stop0001
@@ -478,7 +488,7 @@
   Cycle: '44.91'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '49'
+- Rank: '50'
   Name: JOLLY
   Group: ADW
   FBID: JOLLY8178
@@ -488,7 +498,7 @@
   Cycle: '42.68'
   Swim: '2.50'
   Walk: '0.00'
-- Rank: '50'
+- Rank: '51'
   Name: Chan Howe
   Group: AOSX/AOS
   FBID: IceCube3008
@@ -498,7 +508,7 @@
   Cycle: '100.94'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '51'
+- Rank: '52'
   Name: Weng
   Group: ADSS/ADWS/ADWO
   FBID: Weng8238
@@ -508,7 +518,7 @@
   Cycle: '35.01'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '52'
+- Rank: '53'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -518,7 +528,7 @@
   Cycle: '0.00'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '53'
+- Rank: '54'
   Name: Saturn
   Group: ADW
   FBID: Saturn1501
@@ -528,7 +538,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '54'
+- Rank: '55'
   Name: leslie
   Group: ADW
   FBID: les0374
@@ -538,7 +548,7 @@
   Cycle: '95.67'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '55'
+- Rank: '56'
   Name: TEH
   Group: ADW
   FBID: TEH0501
@@ -548,7 +558,7 @@
   Cycle: '42.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '56'
+- Rank: '57'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -558,7 +568,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '57'
+- Rank: '58'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -568,7 +578,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.40'
-- Rank: '58'
+- Rank: '59'
   Name: Lightyear
   Group: ADW
   FBID: Lightyear2020
@@ -578,7 +588,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '59'
+- Rank: '60'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -588,7 +598,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '60'
+- Rank: '61'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -598,16 +608,6 @@
   Cycle: '31.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '61'
-  Name: Liwei
-  Group: ADW
-  FBID: dragongate5270
-  Total_Mileage: '22.44'
-  Badges: '0'
-  Run: '6.29'
-  Cycle: '28.00'
-  Swim: '1.53'
-  Walk: '0.54'
 - Rank: '62'
   Name: Ah Bing
   Group: ADW
