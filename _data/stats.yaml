@@ -529,6 +529,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '54'
+  Name: Benson
+  Group: ADW
+  FBID: benoi1234
+  Total_Mileage: '91.21'
+  Badges: '3'
+  Run: '88.47'
+  Cycle: '10.94'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '55'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -538,7 +548,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '12.30'
-- Rank: '55'
+- Rank: '56'
   Name: Quainapz
   Group: ADSS/ADWS/ADWO
   FBID: Quainapz8585
@@ -548,7 +558,7 @@
   Cycle: '0.00'
   Swim: '3.10'
   Walk: '2.30'
-- Rank: '56'
+- Rank: '57'
   Name: Rocky
   Group: AOSX/AOS
   FBID: ZeRo7113
@@ -558,7 +568,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '57.30'
-- Rank: '57'
+- Rank: '58'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -568,7 +578,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.28'
-- Rank: '58'
+- Rank: '59'
   Name: Cosmo
   Group: ABM
   FBID: Cosmo6306
@@ -578,7 +588,7 @@
   Cycle: '0.00'
   Swim: '0.50'
   Walk: '10.51'
-- Rank: '59'
+- Rank: '60'
   Name: Weng
   Group: ADSS/ADWS/ADWO
   FBID: Weng8238
@@ -588,7 +598,7 @@
   Cycle: '231.54'
   Swim: '0.00'
   Walk: '12.83'
-- Rank: '60'
+- Rank: '61'
   Name: Rats
   Group: ABM
   FBID: Rats1500
@@ -598,7 +608,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '61'
+- Rank: '62'
   Name: GN
   Group: ADSS/ADWS/ADWO
   FBID: GN8282
@@ -606,16 +616,6 @@
   Badges: '3'
   Run: '81.30'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '62'
-  Name: Benson
-  Group: ADW
-  FBID: benoi1234
-  Total_Mileage: '79.51'
-  Badges: '3'
-  Run: '76.77'
-  Cycle: '10.94'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '63'
