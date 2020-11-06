@@ -5246,6 +5246,12 @@
   name: Liwei
   definition: ''
   Week: '3'
+- timestamp: '2020-11-06 19:06:12'
+  fbid: Clover1234
+  badge: Marathon
+  name: Clover
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-24 01:24:37'
   fbid: Extreme8123
   badge: Run For Your Life
@@ -5995,7 +6001,7 @@
   badge: Cycopath
   name: Fu Hao Wei
   definition: ''
-  Week: '2'
+  Week: ''
 - timestamp: '2020-11-02 12:27:20'
   fbid: Bingo0507
   badge: Cycopath
