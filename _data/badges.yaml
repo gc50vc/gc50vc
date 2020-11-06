@@ -2366,6 +2366,12 @@
   name: Jia Heng
   definition: ''
   Week: '3'
+- timestamp: '2020-11-06 12:20:00'
+  fbid: gabrieltried1234
+  badge: Baby Steps
+  name: Gabriel Low
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-22 18:39:38'
   fbid: BY8362
   badge: Half Ironman
@@ -4580,6 +4586,12 @@
   name: Christian
   definition: ''
   Week: '3'
+- timestamp: '2020-11-06 12:20:00'
+  fbid: gabrieltried1234
+  badge: Mount Everest
+  name: Gabriel Low
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-22 00:35:59'
   fbid: Extreme8123
   badge: Marathon
@@ -5154,6 +5166,12 @@
   fbid: Slimer1234
   badge: Marathon
   name: Slimer
+  definition: ''
+  Week: '3'
+- timestamp: '2020-11-06 12:20:00'
+  fbid: gabrieltried1234
+  badge: Marathon
+  name: Gabriel Low
   definition: ''
   Week: '3'
 - timestamp: '2020-10-24 01:24:37'
@@ -5983,19 +6001,19 @@
   badge: Tour de Singapore
   name: LZX
   definition: ''
-  Week: '1'
+  Week: ''
 - timestamp: '2020-10-23 18:51:47'
   fbid: BY8362
   badge: Tour de Singapore
   name: Ben
   definition: ''
-  Week: '1'
+  Week: ''
 - timestamp: '2020-10-24 11:56:16'
   fbid: Sloh0121
   badge: Tour de Singapore
   name: Sloh
   definition: ''
-  Week: '1'
+  Week: ''
 - timestamp: '2020-10-24 13:02:21'
   fbid: Rycel2929
   badge: Tour de Singapore
