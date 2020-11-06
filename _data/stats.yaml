@@ -132,9 +132,9 @@
   Name: yapoh
   Group: ADW
   FBID: yapoh0304
-  Total_Mileage: '195.40'
+  Total_Mileage: '200.40'
   Badges: '10'
-  Run: '70.00'
+  Run: '75.00'
   Cycle: '372.00'
   Swim: '5.40'
   Walk: '0.00'
@@ -329,6 +329,16 @@
   Swim: '3.60'
   Walk: '0.00'
 - Rank: '34'
+  Name: Ah Bing
+  Group: ADW
+  FBID: Bingo0507
+  Total_Mileage: '123.24'
+  Badges: '7'
+  Run: '83.49'
+  Cycle: '117.00'
+  Swim: '1.75'
+  Walk: '0.00'
+- Rank: '35'
   Name: Xiaolow3344
   Group: ADSS/ADWS/ADWO
   FBID: Xiaolow3344
@@ -337,8 +347,8 @@
   Run: '2.17'
   Cycle: '0.00'
   Swim: '20.00'
-  Walk: '57.80'
-- Rank: '35'
+  Walk: '71.88'
+- Rank: '36'
   Name: Coral
   Group: ABM
   FBID: Coral5050
@@ -348,7 +358,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '9.48'
-- Rank: '36'
+- Rank: '37'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -358,7 +368,7 @@
   Cycle: '465.71'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '37'
+- Rank: '38'
   Name: aH-MuNs-Ge
   Group: AFE
   FBID: ahmuns9861
@@ -368,16 +378,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '79.15'
-- Rank: '38'
-  Name: Ah Bing
-  Group: ADW
-  FBID: Bingo0507
-  Total_Mileage: '120.30'
-  Badges: '7'
-  Run: '83.49'
-  Cycle: '105.24'
-  Swim: '1.75'
-  Walk: '0.00'
 - Rank: '39'
   Name: Daniel Tay
   Group: AOSX/AOS
