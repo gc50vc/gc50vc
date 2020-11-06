@@ -379,6 +379,16 @@
   Swim: '0.00'
   Walk: '53.00'
 - Rank: '39'
+  Name: AngmoATB
+  Group: ADW
+  FBID: Angmo1984
+  Total_Mileage: '32.45'
+  Badges: '0'
+  Run: '29.45'
+  Cycle: '0.00'
+  Swim: '0.50'
+  Walk: '0.00'
+- Rank: '40'
   Name: NicC
   Group: ADSS/ADWS/ADWO
   FBID: NC1634
@@ -388,7 +398,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '40'
+- Rank: '41'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -398,7 +408,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '41'
+- Rank: '42'
   Name: Nicholas Lian
   Group: ADW
   FBID: horsepower2001
@@ -408,7 +418,7 @@
   Cycle: '0.00'
   Swim: '0.60'
   Walk: '0.00'
-- Rank: '42'
+- Rank: '43'
   Name: Daniel Tay
   Group: AOSX/AOS
   FBID: Corrupt2705
@@ -418,7 +428,7 @@
   Cycle: '0.00'
   Swim: '1.40'
   Walk: '0.00'
-- Rank: '43'
+- Rank: '44'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
@@ -428,7 +438,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '44'
+- Rank: '45'
   Name: Jenny
   Group: AFE
   FBID: Jenny7373
@@ -438,7 +448,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '19.54'
-- Rank: '45'
+- Rank: '46'
   Name: Akileis
   Group: ADW
   FBID: Akileis0163
@@ -448,7 +458,7 @@
   Cycle: '0.00'
   Swim: '5.00'
   Walk: '1.06'
-- Rank: '46'
+- Rank: '47'
   Name: 'Tay Wen Hao '
   Group: ADW
   FBID: Wh8295
@@ -457,16 +467,6 @@
   Run: '29.84'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '47'
-  Name: AngmoATB
-  Group: ADW
-  FBID: Angmo1984
-  Total_Mileage: '28.37'
-  Badges: '0'
-  Run: '25.37'
-  Cycle: '0.00'
-  Swim: '0.50'
   Walk: '0.00'
 - Rank: '48'
   Name: Liwei
