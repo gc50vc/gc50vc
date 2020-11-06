@@ -49,6 +49,16 @@
   Swim: '3.20'
   Walk: '0.00'
 - Rank: '6'
+  Name: Prem
+  Group: ADW
+  FBID: Premium6687
+  Total_Mileage: '74.19'
+  Badges: '1'
+  Run: '11.34'
+  Cycle: '42.58'
+  Swim: '8.70'
+  Walk: '0.00'
+- Rank: '7'
   Name: Dominic
   Group: ATC
   FBID: Nickel1191
@@ -58,7 +68,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '7'
+- Rank: '8'
   Name: Hasty
   Group: ADW
   FBID: Hasty55555
@@ -68,7 +78,7 @@
   Cycle: '71.84'
   Swim: '1.35'
   Walk: '0.00'
-- Rank: '8'
+- Rank: '9'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -78,7 +88,7 @@
   Cycle: '18.14'
   Swim: '7.20'
   Walk: '22.55'
-- Rank: '9'
+- Rank: '10'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -88,16 +98,6 @@
   Cycle: '48.15'
   Swim: '6.00'
   Walk: '2.24'
-- Rank: '10'
-  Name: Prem
-  Group: ADW
-  FBID: Premium6687
-  Total_Mileage: '62.85'
-  Badges: '1'
-  Run: '0.00'
-  Cycle: '42.58'
-  Swim: '8.70'
-  Walk: '0.00'
 - Rank: '11'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
@@ -217,7 +217,7 @@
   Run: '0.00'
   Cycle: '0.00'
   Swim: '7.40'
-  Walk: '13.66'
+  Walk: '19.86'
 - Rank: '23'
   Name: Cookie
   Group: ATC
