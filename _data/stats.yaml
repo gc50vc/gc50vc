@@ -1099,6 +1099,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '111'
+  Name: Camper
+  Group: ADW
+  FBID: tanht1968
+  Total_Mileage: '50.53'
+  Badges: '3'
+  Run: '50.53'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '112'
   Name: Chan Howe
   Group: AOSX/AOS
   FBID: IceCube3008
@@ -1108,7 +1118,7 @@
   Cycle: '202.04'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '112'
+- Rank: '113'
   Name: Alan
   Group: ADSS/ADWS/ADWO
   FBID: Alan2881
@@ -1118,7 +1128,7 @@
   Cycle: '0.00'
   Swim: '3.50'
   Walk: '32.00'
-- Rank: '113'
+- Rank: '114'
   Name: Starbucks
   Group: ABM
   FBID: Starbucks3756
@@ -1128,7 +1138,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '114'
+- Rank: '115'
   Name: Fu Hao Wei
   Group: ADW
   FBID: fuhaowei8435
@@ -1138,7 +1148,7 @@
   Cycle: '163.06'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '115'
+- Rank: '116'
   Name: Jamie Chen
   Group: ADSS/ADWS/ADWO
   FBID: FLASH2911
@@ -1148,23 +1158,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '116'
+- Rank: '117'
   Name: Halu
   Group: AFE
   FBID: Halu1805
   Total_Mileage: '46.66'
   Badges: '3'
   Run: '46.66'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '117'
-  Name: Camper
-  Group: ADW
-  FBID: tanht1968
-  Total_Mileage: '46.25'
-  Badges: '3'
-  Run: '46.25'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
