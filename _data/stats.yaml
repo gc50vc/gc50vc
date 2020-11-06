@@ -419,6 +419,16 @@
   Swim: '1.10'
   Walk: '0.00'
 - Rank: '43'
+  Name: Liwei
+  Group: ADW
+  FBID: dragongate5270
+  Total_Mileage: '104.19'
+  Badges: '8'
+  Run: '45.35'
+  Cycle: '124.95'
+  Swim: '4.60'
+  Walk: '2.45'
+- Rank: '44'
   Name: Rubiks
   Group: ABM
   FBID: Rubiks1234
@@ -428,7 +438,7 @@
   Cycle: '41.78'
   Swim: '4.10'
   Walk: '0.00'
-- Rank: '44'
+- Rank: '45'
   Name: Maj Lim
   Group: ABM
   FBID: Legoz1000
@@ -438,16 +448,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '16.48'
-- Rank: '45'
-  Name: Liwei
-  Group: ADW
-  FBID: dragongate5270
-  Total_Mileage: '99.47'
-  Badges: '7'
-  Run: '40.63'
-  Cycle: '124.95'
-  Swim: '4.60'
-  Walk: '2.45'
 - Rank: '46'
   Name: AngmoATB
   Group: ADW
