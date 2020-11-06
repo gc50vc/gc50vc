@@ -79,6 +79,16 @@
   Swim: '1.35'
   Walk: '0.00'
 - Rank: '9'
+  Name: Lee Wen Yang
+  Group: AFE
+  FBID: LWY3942
+  Total_Mileage: '68.83'
+  Badges: '1'
+  Run: '0.00'
+  Cycle: '275.30'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '10'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -88,7 +98,7 @@
   Cycle: '18.14'
   Swim: '7.20'
   Walk: '22.55'
-- Rank: '10'
+- Rank: '11'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -98,7 +108,7 @@
   Cycle: '48.15'
   Swim: '6.00'
   Walk: '2.24'
-- Rank: '11'
+- Rank: '12'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -108,7 +118,7 @@
   Cycle: '90.29'
   Swim: '5.30'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: Gabriel Low
   Group: ADSS/ADWS/ADWO
   FBID: gabrieltried1234
@@ -118,7 +128,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -128,7 +138,7 @@
   Cycle: '143.95'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '15'
   Name: Nicholas
   Group: ADSS/ADWS/ADWO
   FBID: Nn1974
@@ -136,16 +146,6 @@
   Badges: '0'
   Run: '0.00'
   Cycle: '226.92'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '15'
-  Name: Lee Wen Yang
-  Group: AFE
-  FBID: LWY3942
-  Total_Mileage: '54.50'
-  Badges: '1'
-  Run: '0.00'
-  Cycle: '218.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '16'
