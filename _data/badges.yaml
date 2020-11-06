@@ -5282,6 +5282,12 @@
   name: Ah Bye
   definition: ''
   Week: '3'
+- timestamp: '2020-11-07 00:20:55'
+  fbid: Steroid1007
+  badge: Marathon
+  name: Steroid
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-24 01:24:37'
   fbid: Extreme8123
   badge: Run For Your Life
@@ -5995,7 +6001,7 @@
   badge: Cycopath
   name: HC
   definition: ''
-  Week: '1'
+  Week: ''
 - timestamp: '2020-10-27 23:08:04'
   fbid: Warren9588
   badge: Cycopath
