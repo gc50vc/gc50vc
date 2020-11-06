@@ -89,6 +89,16 @@
   Swim: '6.00'
   Walk: '2.24'
 - Rank: '10'
+  Name: Tommy Tham
+  Group: ADSS/ADWS/ADWO
+  FBID: Tommy1976
+  Total_Mileage: '59.61'
+  Badges: '2'
+  Run: '5.24'
+  Cycle: '90.29'
+  Swim: '5.30'
+  Walk: '0.00'
+- Rank: '11'
   Name: Gabriel Low
   Group: ADSS/ADWS/ADWO
   FBID: gabrieltried1234
@@ -98,7 +108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -108,7 +118,7 @@
   Cycle: '143.95'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: Prem
   Group: ADW
   FBID: Premium6687
@@ -118,7 +128,7 @@
   Cycle: '42.58'
   Swim: '7.50'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: Lee Wen Yang
   Group: AFE
   FBID: LWY3942
@@ -128,7 +138,7 @@
   Cycle: '218.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '15'
   Name: jheng
   Group: ADSS/ADWS/ADWO
   FBID: jheng0000
@@ -138,7 +148,7 @@
   Cycle: '0.00'
   Swim: '7.77'
   Walk: '0.00'
-- Rank: '15'
+- Rank: '16'
   Name: Tony Foo
   Group: ADW
   FBID: tonyfoo0165
@@ -148,7 +158,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '16'
+- Rank: '17'
   Name: Bgtan
   Group: ADSS/ADWS/ADWO
   FBID: Kenny9889
@@ -157,16 +167,6 @@
   Run: '0.00'
   Cycle: '179.34'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '17'
-  Name: Tommy Tham
-  Group: ADSS/ADWS/ADWO
-  FBID: Tommy1976
-  Total_Mileage: '44.12'
-  Badges: '1'
-  Run: '5.24'
-  Cycle: '54.73'
-  Swim: '4.20'
   Walk: '0.00'
 - Rank: '18'
   Name: 'Tan Swee Kiat '
@@ -223,7 +223,7 @@
   Group: ABM
   FBID: PIXAR0001
   Total_Mileage: '36.07'
-  Badges: '2'
+  Badges: '1'
   Run: '15.01'
   Cycle: '54.00'
   Swim: '1.26'
