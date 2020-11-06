@@ -299,6 +299,16 @@
   Swim: '12.23'
   Walk: '0.00'
 - Rank: '31'
+  Name: Loke Hon Wah
+  Group: ADSS/ADWS/ADWO
+  FBID: HonWah1607
+  Total_Mileage: '127.00'
+  Badges: '4'
+  Run: '127.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '32'
   Name: jheng
   Group: ADSS/ADWS/ADWO
   FBID: jheng0000
@@ -308,7 +318,7 @@
   Cycle: '41.15'
   Swim: '13.27'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '33'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -318,7 +328,7 @@
   Cycle: '267.18'
   Swim: '3.60'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '34'
   Name: Coral
   Group: ABM
   FBID: Coral5050
@@ -328,7 +338,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '9.48'
-- Rank: '34'
+- Rank: '35'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -338,7 +348,7 @@
   Cycle: '465.71'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: aH-MuNs-Ge
   Group: AFE
   FBID: ahmuns9861
@@ -348,7 +358,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '79.15'
-- Rank: '36'
+- Rank: '37'
   Name: Ah Bing
   Group: ADW
   FBID: Bingo0507
@@ -357,16 +367,6 @@
   Run: '83.49'
   Cycle: '105.24'
   Swim: '1.75'
-  Walk: '0.00'
-- Rank: '37'
-  Name: Loke Hon Wah
-  Group: ADSS/ADWS/ADWO
-  FBID: HonWah1607
-  Total_Mileage: '119.92'
-  Badges: '4'
-  Run: '119.92'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '38'
   Name: Daniel Tay
