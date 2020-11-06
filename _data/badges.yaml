@@ -2468,6 +2468,12 @@
   name: AP
   definition: ''
   Week: '3'
+- timestamp: '2020-11-06 11:34:12'
+  fbid: Euj1871
+  badge: Half Ironman
+  name: Euj
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-24 05:41:33'
   fbid: Trex1406
   badge: Ironman
@@ -5960,6 +5966,12 @@
   name: Liwei
   definition: ''
   Week: '3'
+- timestamp: '2020-11-06 11:34:12'
+  fbid: Euj1871
+  badge: Cycopath
+  name: Euj
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-20 16:25:36'
   fbid: LWY3942
   badge: Tour de Singapore
@@ -5989,13 +6001,13 @@
   badge: Tour de Singapore
   name: Rycel Wong
   definition: ''
-  Week: '1'
+  Week: ''
 - timestamp: '2020-10-24 13:45:18'
   fbid: Vince2107
   badge: Tour de Singapore
   name: Vincent Yap
   definition: ''
-  Week: '1'
+  Week: ''
 - timestamp: '2020-10-24 21:42:03'
   fbid: Trex1406
   badge: Tour de Singapore
