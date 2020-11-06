@@ -59,6 +59,16 @@
   Swim: '1.35'
   Walk: '0.00'
 - Rank: '7'
+  Name: Euj
+  Group: ATC
+  FBID: Euj1871
+  Total_Mileage: '66.45'
+  Badges: '2'
+  Run: '18.71'
+  Cycle: '18.14'
+  Swim: '7.20'
+  Walk: '22.55'
+- Rank: '8'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -68,7 +78,7 @@
   Cycle: '48.15'
   Swim: '6.00'
   Walk: '2.24'
-- Rank: '8'
+- Rank: '9'
   Name: Extreme
   Group: ATC
   FBID: Extreme8123
@@ -78,16 +88,6 @@
   Cycle: '0.00'
   Swim: '6.20'
   Walk: '0.00'
-- Rank: '9'
-  Name: Euj
-  Group: ATC
-  FBID: Euj1871
-  Total_Mileage: '61.91'
-  Badges: '0'
-  Run: '18.71'
-  Cycle: '0.00'
-  Swim: '7.20'
-  Walk: '22.55'
 - Rank: '10'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
