@@ -159,6 +159,16 @@
   Swim: '7.50'
   Walk: '0.00'
 - Rank: '17'
+  Name: Slimer
+  Group: ABM
+  FBID: Slimer1234
+  Total_Mileage: '176.81'
+  Badges: '9'
+  Run: '51.34'
+  Cycle: '137.09'
+  Swim: '15.20'
+  Walk: '10.01'
+- Rank: '18'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -168,16 +178,6 @@
   Cycle: '16.60'
   Swim: '6.45'
   Walk: '0.00'
-- Rank: '18'
-  Name: Slimer
-  Group: ABM
-  FBID: Slimer1234
-  Total_Mileage: '170.75'
-  Badges: '9'
-  Run: '45.28'
-  Cycle: '137.09'
-  Swim: '15.20'
-  Walk: '10.01'
 - Rank: '19'
   Name: AdolphusJJ
   Group: AOSX/AOS
