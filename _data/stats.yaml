@@ -709,16 +709,6 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '72'
-  Name: Ah Bye
-  Group: ADSS/ADWS/ADWO
-  FBID: Ahbye1234
-  Total_Mileage: '74.42'
-  Badges: '6'
-  Run: '32.66'
-  Cycle: '131.03'
-  Swim: '1.50'
-  Walk: '6.00'
-- Rank: '73'
   Name: OLAF
   Group: ADW
   FBID: OLAF2156
@@ -728,7 +718,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '74'
+- Rank: '73'
   Name: JonChen
   Group: ADW
   FBID: JonChen0000
@@ -738,7 +728,7 @@
   Cycle: '270.53'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '75'
+- Rank: '74'
   Name: Legend
   Group: ADW
   FBID: Legend2512
@@ -748,7 +738,7 @@
   Cycle: '174.85'
   Swim: '0.00'
   Walk: '13.11'
-- Rank: '76'
+- Rank: '75'
   Name: Dominic
   Group: ATC
   FBID: Nickel1191
@@ -758,7 +748,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '77'
+- Rank: '76'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -768,7 +758,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '78'
+- Rank: '77'
   Name: QUENCHER
   Group: ABM
   FBID: quencher2020
@@ -778,7 +768,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '79'
+- Rank: '78'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -788,7 +778,7 @@
   Cycle: '45.78'
   Swim: '2.50'
   Walk: '1.63'
-- Rank: '80'
+- Rank: '79'
   Name: PCK
   Group: ADW
   FBID: PCK2205
@@ -798,6 +788,16 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
+- Rank: '80'
+  Name: Ah Bye
+  Group: ADSS/ADWS/ADWO
+  FBID: Ahbye1234
+  Total_Mileage: '69.19'
+  Badges: '6'
+  Run: '27.43'
+  Cycle: '131.03'
+  Swim: '1.50'
+  Walk: '6.00'
 - Rank: '81'
   Name: Yun Jie (Rhythm)
   Group: ADW
