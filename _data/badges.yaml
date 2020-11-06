@@ -4658,6 +4658,12 @@
   name: NicC
   definition: ''
   Week: '3'
+- timestamp: '2020-11-06 20:13:58'
+  fbid: LC0809
+  badge: Mount Everest
+  name: LC
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-22 00:35:59'
   fbid: Extreme8123
   badge: Marathon
@@ -5995,7 +6001,7 @@
   badge: Cycopath
   name: Andrew
   definition: ''
-  Week: '2'
+  Week: ''
 - timestamp: '2020-11-01 21:46:56'
   fbid: fuhaowei8435
   badge: Cycopath
