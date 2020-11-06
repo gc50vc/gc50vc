@@ -269,6 +269,16 @@
   Swim: '0.00'
   Walk: '2.19'
 - Rank: '28'
+  Name: PIXAR
+  Group: ABM
+  FBID: PIXAR0001
+  Total_Mileage: '133.38'
+  Badges: '6'
+  Run: '94.32'
+  Cycle: '126.00'
+  Swim: '1.26'
+  Walk: '0.00'
+- Rank: '29'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -278,7 +288,7 @@
   Cycle: '65.00'
   Swim: '0.00'
   Walk: '1.57'
-- Rank: '29'
+- Rank: '30'
   Name: jheng
   Group: ADSS/ADWS/ADWO
   FBID: jheng0000
@@ -287,16 +297,6 @@
   Run: '36.93'
   Cycle: '41.15'
   Swim: '13.27'
-  Walk: '0.00'
-- Rank: '30'
-  Name: PIXAR
-  Group: ABM
-  FBID: PIXAR0001
-  Total_Mileage: '125.82'
-  Badges: '5'
-  Run: '94.32'
-  Cycle: '126.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '31'
   Name: Jade
