@@ -89,6 +89,16 @@
   Swim: '6.00'
   Walk: '2.24'
 - Rank: '10'
+  Name: Prem
+  Group: ADW
+  FBID: Premium6687
+  Total_Mileage: '62.85'
+  Badges: '1'
+  Run: '0.00'
+  Cycle: '42.58'
+  Swim: '8.70'
+  Walk: '0.00'
+- Rank: '11'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -98,7 +108,7 @@
   Cycle: '90.29'
   Swim: '5.30'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: Gabriel Low
   Group: ADSS/ADWS/ADWO
   FBID: gabrieltried1234
@@ -108,7 +118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -118,7 +128,7 @@
   Cycle: '143.95'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: Nicholas
   Group: ADSS/ADWS/ADWO
   FBID: Nn1974
@@ -127,16 +137,6 @@
   Run: '0.00'
   Cycle: '226.92'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '14'
-  Name: Prem
-  Group: ADW
-  FBID: Premium6687
-  Total_Mileage: '55.65'
-  Badges: '1'
-  Run: '0.00'
-  Cycle: '42.58'
-  Swim: '7.50'
   Walk: '0.00'
 - Rank: '15'
   Name: Lee Wen Yang
@@ -239,6 +239,16 @@
   Swim: '1.60'
   Walk: '0.00'
 - Rank: '25'
+  Name: Leonard ong
+  Group: ADSS/ADWS/ADWO
+  FBID: Wang0165
+  Total_Mileage: '37.31'
+  Badges: '0'
+  Run: '32.51'
+  Cycle: '0.00'
+  Swim: '0.80'
+  Walk: '0.00'
+- Rank: '26'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
@@ -248,7 +258,7 @@
   Cycle: '0.00'
   Swim: '4.00'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: Vapor
   Group: ADW
   FBID: Vapor6148
@@ -258,7 +268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -268,7 +278,7 @@
   Cycle: '54.00'
   Swim: '1.26'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: Coral
   Group: ABM
   FBID: Coral5050
@@ -278,7 +288,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -288,7 +298,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '31'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -298,7 +308,7 @@
   Cycle: '0.00'
   Swim: '4.50'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '32'
   Name: yapoh
   Group: ADW
   FBID: Yapoh0304
@@ -308,7 +318,7 @@
   Cycle: '52.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '33'
   Name: Chin Yong
   Group: ADSS/ADWS/ADWO
   FBID: Relaxing1234
@@ -318,7 +328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.63'
-- Rank: '33'
+- Rank: '34'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -328,7 +338,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '34'
+- Rank: '35'
   Name: Eric
   Group: AOSX/AOS
   FBID: RelacRun0011
@@ -338,7 +348,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: RainmanCYK
   Group: ADW
   FBID: Rainman0000
@@ -348,7 +358,7 @@
   Cycle: '0.00'
   Swim: '5.50'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: Day
   Group: ATC
   FBID: Racer0370
@@ -358,16 +368,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '53.00'
-- Rank: '37'
-  Name: Leonard ong
-  Group: ADSS/ADWS/ADWO
-  FBID: Wang0165
-  Total_Mileage: '32.51'
-  Badges: '0'
-  Run: '32.51'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '38'
   Name: NicC
   Group: ADSS/ADWS/ADWO
