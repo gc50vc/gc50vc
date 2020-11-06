@@ -1,12 +1,12 @@
 - Rank: '1'
-  Name: Extreme
-  Group: ATC
-  FBID: Extreme8123
-  Total_Mileage: '136.67'
-  Badges: '0'
-  Run: '24.77'
-  Cycle: '0.00'
-  Swim: '18.65'
+  Name: LZX
+  Group: ADSS/ADWS/ADWO
+  FBID: leezx1337
+  Total_Mileage: '115.67'
+  Badges: '1'
+  Run: '63.28'
+  Cycle: '209.56'
+  Swim: '0.00'
   Walk: '0.00'
 - Rank: '2'
   Name: Ben
@@ -19,6 +19,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '3'
+  Name: Extreme
+  Group: ATC
+  FBID: Extreme8123
+  Total_Mileage: '86.87'
+  Badges: '0'
+  Run: '24.77'
+  Cycle: '0.00'
+  Swim: '10.35'
+  Walk: '0.00'
+- Rank: '4'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -27,16 +37,6 @@
   Run: '7.50'
   Cycle: '172.86'
   Swim: '5.70'
-  Walk: '0.00'
-- Rank: '4'
-  Name: LZX
-  Group: ADSS/ADWS/ADWO
-  FBID: leezx1337
-  Total_Mileage: '81.44'
-  Badges: '1'
-  Run: '63.28'
-  Cycle: '72.65'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '5'
   Name: Sloh
@@ -83,7 +83,7 @@
   Group: ABM
   FBID: Slimer1234
   Total_Mileage: '66.10'
-  Badges: '3'
+  Badges: '2'
   Run: '18.06'
   Cycle: '48.15'
   Swim: '6.00'
@@ -1440,10 +1440,10 @@
   Walk: '0.00'
 - Rank: '145'
   Name: Julian
-  Group: ADSS/ADWS/ADWO
+  Group: ADW
   FBID: Echo9694
   Total_Mileage: '9.68'
-  Badges: '0'
+  Badges: '1'
   Run: '0.00'
   Cycle: '38.70'
   Swim: '0.00'
