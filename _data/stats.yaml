@@ -819,6 +819,16 @@
   Swim: '0.00'
   Walk: '1.04'
 - Rank: '83'
+  Name: Viking
+  Group: ADW
+  FBID: Viking1987
+  Total_Mileage: '73.25'
+  Badges: '5'
+  Run: '24.75'
+  Cycle: '194.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '84'
   Name: Dominic
   Group: ATC
   FBID: Nickel1191
@@ -828,7 +838,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '84'
+- Rank: '85'
   Name: Geeky
   Group: ADW
   FBID: Geeky1989
@@ -838,7 +848,7 @@
   Cycle: '0.00'
   Swim: '4.80'
   Walk: '28.68'
-- Rank: '85'
+- Rank: '86'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -848,7 +858,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '86'
+- Rank: '87'
   Name: QUENCHER
   Group: ABM
   FBID: quencher2020
@@ -858,7 +868,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '87'
+- Rank: '88'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -868,7 +878,7 @@
   Cycle: '45.78'
   Swim: '2.50'
   Walk: '1.63'
-- Rank: '88'
+- Rank: '89'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -878,7 +888,7 @@
   Cycle: '18.27'
   Swim: '0.00'
   Walk: '3.42'
-- Rank: '89'
+- Rank: '90'
   Name: loanshark
   Group: ATC
   FBID: loanshark9356
@@ -888,7 +898,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '90'
+- Rank: '91'
   Name: Yun Jie (Rhythm)
   Group: ADW
   FBID: Jabez8686
@@ -898,7 +908,7 @@
   Cycle: '0.00'
   Swim: '8.45'
   Walk: '4.80'
-- Rank: '91'
+- Rank: '92'
   Name: Lava
   Group: ATC
   FBID: Lava1717
@@ -908,7 +918,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '92'
+- Rank: '93'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: Errick1991
@@ -918,7 +928,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '93'
+- Rank: '94'
   Name: Iggy
   Group: ADSS/ADWS/ADWO
   FBID: Iggy7900
@@ -928,17 +938,7 @@
   Cycle: '199.76'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '94'
-  Name: Viking
-  Group: ADW
-  FBID: Viking1987
-  Total_Mileage: '64.75'
-  Badges: '4'
-  Run: '24.75'
-  Cycle: '160.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '94'
+- Rank: '95'
   Name: Barter
   Group: ATC
   FBID: Reload0203
