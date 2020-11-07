@@ -249,6 +249,16 @@
   Swim: '15.00'
   Walk: '7.27'
 - Rank: '26'
+  Name: HC
+  Group: ADSS/ADWS/ADWO
+  FBID: hc1234
+  Total_Mileage: '148.85'
+  Badges: '4'
+  Run: '6.25'
+  Cycle: '570.39'
+  Swim: '0.00'
+  Walk: '2.19'
+- Rank: '27'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -258,7 +268,7 @@
   Cycle: '130.38'
   Swim: '0.00'
   Walk: '1.57'
-- Rank: '27'
+- Rank: '28'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -268,7 +278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.68'
-- Rank: '28'
+- Rank: '29'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -278,16 +288,6 @@
   Cycle: '544.41'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '29'
-  Name: HC
-  Group: ADSS/ADWS/ADWO
-  FBID: hc1234
-  Total_Mileage: '137.68'
-  Badges: '4'
-  Run: '6.25'
-  Cycle: '525.71'
-  Swim: '0.00'
-  Walk: '2.19'
 - Rank: '30'
   Name: Daniel Tay
   Group: AOSX/AOS
