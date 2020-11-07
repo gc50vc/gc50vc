@@ -248,6 +248,16 @@
   Cycle: '0.00'
   Swim: '1.15'
   Walk: '0.00'
+- Rank: '27'
+  Name: Dan
+  Group: ADSS/ADWS/ADWO
+  FBID: Dan1234
+  Total_Mileage: '49.23'
+  Badges: '0'
+  Run: '49.23'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
 - Rank: '26'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
@@ -258,7 +268,7 @@
   Cycle: '32.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: RainmanCYK
   Group: ADW
   FBID: Rainman0000
@@ -268,7 +278,7 @@
   Cycle: '0.00'
   Swim: '8.00'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -278,7 +288,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: Coral
   Group: ABM
   FBID: Coral5050
@@ -288,7 +298,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '31'
   Name: Xiaolow3344
   Group: ADSS/ADWS/ADWO
   FBID: Xiaolow3344
@@ -298,7 +308,7 @@
   Cycle: '0.00'
   Swim: '7.40'
   Walk: '33.94'
-- Rank: '31'
+- Rank: '32'
   Name: Cookie
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -308,7 +318,7 @@
   Cycle: '44.32'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '33'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -318,7 +328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '34'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
@@ -328,7 +338,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '34'
+- Rank: '35'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -338,7 +348,7 @@
   Cycle: '0.00'
   Swim: '3.90'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: Vapor
   Group: ADW
   FBID: Vapor6148
@@ -348,7 +358,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '36'
+- Rank: '37'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -358,7 +368,7 @@
   Cycle: '65.38'
   Swim: '0.00'
   Walk: '0.40'
-- Rank: '37'
+- Rank: '38'
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
@@ -367,16 +377,6 @@
   Run: '29.45'
   Cycle: '0.00'
   Swim: '1.55'
-  Walk: '0.00'
-- Rank: '38'
-  Name: Dan
-  Group: ADSS/ADWS/ADWO
-  FBID: Dan1234
-  Total_Mileage: '38.08'
-  Badges: '0'
-  Run: '38.08'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '39'
   Name: Marcus
