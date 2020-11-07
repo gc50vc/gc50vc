@@ -39,6 +39,16 @@
   Swim: '3.20'
   Walk: '0.00'
 - Rank: '5'
+  Name: Bgtan
+  Group: ADSS/ADWS/ADWO
+  FBID: Kenny9889
+  Total_Mileage: '102.06'
+  Badges: '2'
+  Run: '0.00'
+  Cycle: '408.24'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '6'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -47,16 +57,6 @@
   Run: '7.50'
   Cycle: '240.86'
   Swim: '5.70'
-  Walk: '0.00'
-- Rank: '6'
-  Name: Bgtan
-  Group: ADSS/ADWS/ADWO
-  FBID: Kenny9889
-  Total_Mileage: '95.68'
-  Badges: '2'
-  Run: '0.00'
-  Cycle: '382.73'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '7'
   Name: Prem
@@ -209,6 +209,16 @@
   Swim: '0.80'
   Walk: '0.00'
 - Rank: '22'
+  Name: PIXAR
+  Group: ABM
+  FBID: PIXAR0001
+  Total_Mileage: '51.07'
+  Badges: '2'
+  Run: '15.01'
+  Cycle: '114.00'
+  Swim: '1.26'
+  Walk: '0.00'
+- Rank: '23'
   Name: l0ng live the beard
   Group: ADSS/ADWS/ADWO
   FBID: Rovin0787
@@ -218,7 +228,7 @@
   Cycle: '141.04'
   Swim: '0.00'
   Walk: '5.07'
-- Rank: '23'
+- Rank: '24'
   Name: Daniel Tay
   Group: AOSX/AOS
   FBID: Corrupt2705
@@ -228,7 +238,7 @@
   Cycle: '0.00'
   Swim: '4.40'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -238,7 +248,7 @@
   Cycle: '0.00'
   Swim: '1.15'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
   FBID: Ahbye1234
@@ -248,7 +258,7 @@
   Cycle: '32.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: RainmanCYK
   Group: ADW
   FBID: Rainman0000
@@ -258,7 +268,7 @@
   Cycle: '0.00'
   Swim: '8.00'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -268,7 +278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: Coral
   Group: ABM
   FBID: Coral5050
@@ -278,7 +288,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: Xiaolow3344
   Group: ADSS/ADWS/ADWO
   FBID: Xiaolow3344
@@ -288,7 +298,7 @@
   Cycle: '0.00'
   Swim: '7.40'
   Walk: '33.94'
-- Rank: '30'
+- Rank: '31'
   Name: Cookie
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -298,7 +308,7 @@
   Cycle: '44.32'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '32'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -308,7 +318,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '33'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -318,7 +328,7 @@
   Cycle: '0.00'
   Swim: '3.90'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '34'
   Name: Vapor
   Group: ADW
   FBID: Vapor6148
@@ -328,7 +338,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '34'
+- Rank: '35'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -338,7 +348,7 @@
   Cycle: '65.38'
   Swim: '0.00'
   Walk: '0.40'
-- Rank: '35'
+- Rank: '36'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -348,7 +358,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '36'
+- Rank: '37'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
@@ -357,16 +367,6 @@
   Run: '13.00'
   Cycle: '0.00'
   Swim: '4.00'
-  Walk: '0.00'
-- Rank: '37'
-  Name: PIXAR
-  Group: ABM
-  FBID: PIXAR0001
-  Total_Mileage: '36.07'
-  Badges: '1'
-  Run: '15.01'
-  Cycle: '54.00'
-  Swim: '1.26'
   Walk: '0.00'
 - Rank: '38'
   Name: Loke Hon Wah
