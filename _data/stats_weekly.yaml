@@ -529,6 +529,16 @@
   Swim: '2.00'
   Walk: '0.00'
 - Rank: '54'
+  Name: Ah Bing
+  Group: ADW
+  FBID: Bingo0507
+  Total_Mileage: '30.58'
+  Badges: '1'
+  Run: '16.37'
+  Cycle: '42.43'
+  Swim: '0.60'
+  Walk: '0.00'
+- Rank: '55'
   Name: Akileis
   Group: ADW
   FBID: Akileis0163
@@ -538,7 +548,7 @@
   Cycle: '0.00'
   Swim: '5.00'
   Walk: '1.06'
-- Rank: '55'
+- Rank: '56'
   Name: 'Tay Wen Hao '
   Group: ADW
   FBID: Wh8295
@@ -548,7 +558,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '56'
+- Rank: '57'
   Name: Lia
   Group: ADSS/ADWS/ADWO
   FBID: Lia1116
@@ -558,7 +568,7 @@
   Cycle: '21.07'
   Swim: '1.10'
   Walk: '0.00'
-- Rank: '57'
+- Rank: '58'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -568,7 +578,7 @@
   Cycle: '28.00'
   Swim: '1.53'
   Walk: '0.54'
-- Rank: '58'
+- Rank: '59'
   Name: PCK
   Group: ADW
   FBID: PCK2205
@@ -578,7 +588,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '59'
+- Rank: '60'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -588,7 +598,7 @@
   Cycle: '45.78'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '60'
+- Rank: '61'
   Name: Rats
   Group: ABM
   FBID: Rats1500
@@ -598,7 +608,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '61'
+- Rank: '62'
   Name: Sean Chua
   Group: ADSS/ADWS/ADWO
   FBID: Stop0001
@@ -608,7 +618,7 @@
   Cycle: '44.91'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '62'
+- Rank: '63'
   Name: JOLLY
   Group: ADW
   FBID: JOLLY8178
@@ -618,7 +628,7 @@
   Cycle: '42.68'
   Swim: '2.50'
   Walk: '0.00'
-- Rank: '63'
+- Rank: '64'
   Name: Chan Howe
   Group: AOSX/AOS
   FBID: IceCube3008
@@ -628,7 +638,7 @@
   Cycle: '100.94'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '64'
+- Rank: '65'
   Name: Benson
   Group: ADW
   FBID: Benoi1234
@@ -638,7 +648,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '65'
+- Rank: '66'
   Name: Weng
   Group: ADSS/ADWS/ADWO
   FBID: Weng8238
@@ -648,16 +658,6 @@
   Cycle: '35.01'
   Swim: '0.00'
   Walk: '1.03'
-- Rank: '66'
-  Name: Ah Bing
-  Group: ADW
-  FBID: Bingo0507
-  Total_Mileage: '24.46'
-  Badges: '1'
-  Run: '10.25'
-  Cycle: '42.43'
-  Swim: '0.60'
-  Walk: '0.00'
 - Rank: '67'
   Name: Jade
   Group: ABM
