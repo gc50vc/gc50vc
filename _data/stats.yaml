@@ -1889,6 +1889,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '190'
+  Name: Pat160A
+  Group: ADSS/ADWS/ADWO
+  FBID: Pat1991
+  Total_Mileage: '31.99'
+  Badges: '4'
+  Run: '9.94'
+  Cycle: '0.00'
+  Swim: '3.68'
+  Walk: '0.00'
+- Rank: '191'
   Name: Kenneth
   Group: ADSS/ADWS/ADWO
   FBID: Cat0407
@@ -1898,7 +1908,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '191'
+- Rank: '192'
   Name: TRIPS
   Group: ATC
   FBID: TRIPS_0000
@@ -1908,7 +1918,7 @@
   Cycle: '63.28'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '192'
+- Rank: '193'
   Name: Ganesan
   Group: AFE
   FBID: Guinness2512
@@ -1918,7 +1928,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '193'
+- Rank: '194'
   Name: BY
   Group: ADSS/ADWS/ADWO
   FBID: Charlie3579
@@ -1928,7 +1938,7 @@
   Cycle: '45.46'
   Swim: '0.00'
   Walk: '5.06'
-- Rank: '194'
+- Rank: '195'
   Name: NG Eng Ming
   Group: ADSS/ADWS/ADWO
   FBID: NgEM1858
@@ -1938,7 +1948,7 @@
   Cycle: '121.60'
   Swim: '0.00'
   Walk: '21.96'
-- Rank: '195'
+- Rank: '196'
   Name: Songbird
   Group: ABM
   FBID: Songbird1904
@@ -1948,7 +1958,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '196'
+- Rank: '197'
   Name: Joe Ng
   Group: AOSX/AOS
   FBID: Wiki5279
@@ -1958,7 +1968,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '197'
+- Rank: '198'
   Name: Button
   Group: ATC
   FBID: Button9029
@@ -1968,7 +1978,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '2.85'
-- Rank: '198'
+- Rank: '199'
   Name: Fam
   Group: ADSS/ADWS/ADWO
   FBID: Phantom1997
@@ -1978,7 +1988,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '199'
+- Rank: '200'
   Name: batu
   Group: ABM
   FBID: batu1984
@@ -1988,7 +1998,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '2.50'
-- Rank: '200'
+- Rank: '201'
   Name: Spear
   Group: ATC
   FBID: Spear0213
@@ -1998,7 +2008,7 @@
   Cycle: '0.00'
   Swim: '2.50'
   Walk: '0.00'
-- Rank: '201'
+- Rank: '202'
   Name: Hsien Rong
   Group: ADSS/ADWS/ADWO
   FBID: xian1108
@@ -2007,16 +2017,6 @@
   Run: '29.39'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '202'
-  Name: Pat160A
-  Group: ADSS/ADWS/ADWO
-  FBID: Pat1991
-  Total_Mileage: '29.10'
-  Badges: '3'
-  Run: '7.05'
-  Cycle: '0.00'
-  Swim: '3.68'
   Walk: '0.00'
 - Rank: '203'
   Name: Soh Thiam Hing
