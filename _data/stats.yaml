@@ -329,6 +329,16 @@
   Swim: '0.00'
   Walk: '9.48'
 - Rank: '34'
+  Name: Ah Bing
+  Group: ADW
+  FBID: Bingo0507
+  Total_Mileage: '129.36'
+  Badges: '7'
+  Run: '89.61'
+  Cycle: '117.00'
+  Swim: '1.75'
+  Walk: '0.00'
+- Rank: '35'
   Name: Bronson
   Group: ADW
   FBID: Bronze1234
@@ -338,7 +348,7 @@
   Cycle: '80.27'
   Swim: '12.23'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -348,7 +358,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '36'
+- Rank: '37'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -357,16 +367,6 @@
   Run: '36.45'
   Cycle: '267.18'
   Swim: '3.60'
-  Walk: '0.00'
-- Rank: '37'
-  Name: Ah Bing
-  Group: ADW
-  FBID: Bingo0507
-  Total_Mileage: '123.24'
-  Badges: '7'
-  Run: '83.49'
-  Cycle: '117.00'
-  Swim: '1.75'
   Walk: '0.00'
 - Rank: '38'
   Name: YuenG
