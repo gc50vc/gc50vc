@@ -1,4 +1,14 @@
 - Rank: '1'
+  Name: Bgtan
+  Group: ADSS/ADWS/ADWO
+  FBID: Kenny9889
+  Total_Mileage: '127.87'
+  Badges: '2'
+  Run: '0.00'
+  Cycle: '511.49'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '2'
   Name: Extreme
   Group: ATC
   FBID: Extreme8123
@@ -8,7 +18,7 @@
   Cycle: '0.00'
   Swim: '10.35'
   Walk: '0.00'
-- Rank: '2'
+- Rank: '3'
   Name: LZX
   Group: ADSS/ADWS/ADWO
   FBID: leezx1337
@@ -18,7 +28,7 @@
   Cycle: '209.56'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '3'
+- Rank: '4'
   Name: Ben
   Group: ADW
   FBID: BY8362
@@ -28,7 +38,7 @@
   Cycle: '438.17'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '4'
+- Rank: '5'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -37,16 +47,6 @@
   Run: '32.71'
   Cycle: '202.61'
   Swim: '3.20'
-  Walk: '0.00'
-- Rank: '5'
-  Name: Bgtan
-  Group: ADSS/ADWS/ADWO
-  FBID: Kenny9889
-  Total_Mileage: '102.06'
-  Badges: '2'
-  Run: '0.00'
-  Cycle: '408.24'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '6'
   Name: Ektar
