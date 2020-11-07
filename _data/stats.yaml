@@ -319,6 +319,16 @@
   Swim: '14.23'
   Walk: '0.00'
 - Rank: '33'
+  Name: Coral
+  Group: ABM
+  FBID: Coral5050
+  Total_Mileage: '142.24'
+  Badges: '4'
+  Run: '142.24'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '9.48'
+- Rank: '34'
   Name: Daniel Tay
   Group: AOSX/AOS
   FBID: Corrupt2705
@@ -328,7 +338,7 @@
   Cycle: '0.00'
   Swim: '12.90'
   Walk: '0.00'
-- Rank: '34'
+- Rank: '35'
   Name: jheng
   Group: ADSS/ADWS/ADWO
   FBID: jheng0000
@@ -338,16 +348,6 @@
   Cycle: '41.15'
   Swim: '13.27'
   Walk: '0.00'
-- Rank: '35'
-  Name: Coral
-  Group: ABM
-  FBID: Coral5050
-  Total_Mileage: '131.91'
-  Badges: '4'
-  Run: '131.91'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '9.48'
 - Rank: '36'
   Name: Ah Bing
   Group: ADW
