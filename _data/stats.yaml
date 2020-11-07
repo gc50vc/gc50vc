@@ -649,6 +649,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '66'
+  Name: Lia
+  Group: ADSS/ADWS/ADWO
+  FBID: Lia1116
+  Total_Mileage: '80.82'
+  Badges: '5'
+  Run: '53.02'
+  Cycle: '63.18'
+  Swim: '2.00'
+  Walk: '0.00'
+- Rank: '67'
   Name: Lightyear
   Group: ADW
   FBID: Lightyear2020
@@ -658,7 +668,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '67'
+- Rank: '68'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
@@ -668,7 +678,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '68'
+- Rank: '69'
   Name: Silver
   Group: ABM
   FBID: Silver5117
@@ -678,7 +688,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.10'
-- Rank: '69'
+- Rank: '70'
   Name: Tan Chee Wee
   Group: ATC
   FBID: tancw1974
@@ -688,7 +698,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '70'
+- Rank: '71'
   Name: Rock
   Group: ADW
   FBID: Rock0165
@@ -698,7 +708,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '6.00'
-- Rank: '71'
+- Rank: '72'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -708,7 +718,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '72'
+- Rank: '73'
   Name: OLAF
   Group: ADW
   FBID: OLAF2156
@@ -718,7 +728,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '73'
+- Rank: '74'
   Name: JonChen
   Group: ADW
   FBID: JonChen0000
@@ -727,16 +737,6 @@
   Run: '6.60'
   Cycle: '270.53'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '74'
-  Name: Lia
-  Group: ADSS/ADWS/ADWO
-  FBID: Lia1116
-  Total_Mileage: '74.22'
-  Badges: '4'
-  Run: '53.02'
-  Cycle: '63.18'
-  Swim: '0.90'
   Walk: '0.00'
 - Rank: '75'
   Name: Steroid
