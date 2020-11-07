@@ -69,6 +69,16 @@
   Swim: '8.55'
   Walk: '0.00'
 - Rank: '8'
+  Name: Slimer
+  Group: ABM
+  FBID: Slimer1234
+  Total_Mileage: '78.18'
+  Badges: '2'
+  Run: '24.12'
+  Cycle: '72.23'
+  Swim: '6.00'
+  Walk: '2.24'
+- Rank: '9'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -78,7 +88,7 @@
   Cycle: '47.48'
   Swim: '7.92'
   Walk: '22.55'
-- Rank: '9'
+- Rank: '10'
   Name: Gabriel Low
   Group: ADSS/ADWS/ADWO
   FBID: gabrieltried1234
@@ -88,7 +98,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '10'
+- Rank: '11'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -98,16 +108,6 @@
   Cycle: '206.33'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '11'
-  Name: Slimer
-  Group: ABM
-  FBID: Slimer1234
-  Total_Mileage: '72.16'
-  Badges: '2'
-  Run: '24.12'
-  Cycle: '48.15'
-  Swim: '6.00'
-  Walk: '2.24'
 - Rank: '12'
   Name: Andrew
   Group: ADW
