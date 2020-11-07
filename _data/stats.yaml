@@ -269,6 +269,16 @@
   Swim: '0.00'
   Walk: '1.57'
 - Rank: '28'
+  Name: PIXAR
+  Group: ABM
+  FBID: PIXAR0001
+  Total_Mileage: '148.38'
+  Badges: '7'
+  Run: '94.32'
+  Cycle: '186.00'
+  Swim: '1.26'
+  Walk: '0.00'
+- Rank: '29'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -278,7 +288,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.68'
-- Rank: '29'
+- Rank: '30'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -288,7 +298,7 @@
   Cycle: '544.41'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '31'
   Name: Daniel Tay
   Group: AOSX/AOS
   FBID: Corrupt2705
@@ -298,7 +308,7 @@
   Cycle: '0.00'
   Swim: '12.90'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '32'
   Name: jheng
   Group: ADSS/ADWS/ADWO
   FBID: jheng0000
@@ -307,16 +317,6 @@
   Run: '46.93'
   Cycle: '41.15'
   Swim: '13.27'
-  Walk: '0.00'
-- Rank: '32'
-  Name: PIXAR
-  Group: ABM
-  FBID: PIXAR0001
-  Total_Mileage: '133.38'
-  Badges: '6'
-  Run: '94.32'
-  Cycle: '126.00'
-  Swim: '1.26'
   Walk: '0.00'
 - Rank: '33'
   Name: Coral
@@ -449,6 +449,16 @@
   Swim: '4.10'
   Walk: '0.00'
 - Rank: '46'
+  Name: Bgtan
+  Group: ADSS/ADWS/ADWO
+  FBID: Kenny9889
+  Total_Mileage: '102.06'
+  Badges: '4'
+  Run: '0.00'
+  Cycle: '408.24'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '47'
   Name: Maj Lim
   Group: ABM
   FBID: Legoz1000
@@ -458,7 +468,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '16.48'
-- Rank: '47'
+- Rank: '48'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -468,7 +478,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.28'
-- Rank: '48'
+- Rank: '49'
   Name: Benson
   Group: ADW
   FBID: benoi1234
@@ -478,7 +488,7 @@
   Cycle: '10.94'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '49'
+- Rank: '50'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
   FBID: Ahbye1234
@@ -488,7 +498,7 @@
   Cycle: '131.03'
   Swim: '1.50'
   Walk: '6.00'
-- Rank: '50'
+- Rank: '51'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -496,16 +506,6 @@
   Badges: '3'
   Run: '99.12'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '51'
-  Name: Bgtan
-  Group: ADSS/ADWS/ADWO
-  FBID: Kenny9889
-  Total_Mileage: '95.68'
-  Badges: '4'
-  Run: '0.00'
-  Cycle: '382.73'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '52'
