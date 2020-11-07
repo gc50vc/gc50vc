@@ -419,6 +419,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '43'
+  Name: AngmoATB
+  Group: ADW
+  FBID: Angmo1984
+  Total_Mileage: '109.59'
+  Badges: '5'
+  Run: '87.99'
+  Cycle: '0.00'
+  Swim: '3.60'
+  Walk: '4.00'
+- Rank: '44'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -428,16 +438,6 @@
   Cycle: '124.95'
   Swim: '4.60'
   Walk: '2.45'
-- Rank: '44'
-  Name: AngmoATB
-  Group: ADW
-  FBID: Angmo1984
-  Total_Mileage: '103.29'
-  Badges: '4'
-  Run: '87.99'
-  Cycle: '0.00'
-  Swim: '2.55'
-  Walk: '4.00'
 - Rank: '45'
   Name: Rubiks
   Group: ABM
