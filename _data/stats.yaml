@@ -229,6 +229,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '24'
+  Name: HC
+  Group: ADSS/ADWS/ADWO
+  FBID: hc1234
+  Total_Mileage: '158.54'
+  Badges: '4'
+  Run: '6.25'
+  Cycle: '609.17'
+  Swim: '0.00'
+  Walk: '2.19'
+- Rank: '25'
   Name: Andrew
   Group: ADW
   FBID: Hammer1990
@@ -238,7 +248,7 @@
   Cycle: '165.06'
   Swim: '3.00'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -248,7 +258,7 @@
   Cycle: '280.50'
   Swim: '6.40'
   Walk: '1.90'
-- Rank: '26'
+- Rank: '27'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
@@ -258,16 +268,6 @@
   Cycle: '32.50'
   Swim: '15.00'
   Walk: '7.27'
-- Rank: '27'
-  Name: HC
-  Group: ADSS/ADWS/ADWO
-  FBID: hc1234
-  Total_Mileage: '148.85'
-  Badges: '4'
-  Run: '6.25'
-  Cycle: '570.39'
-  Swim: '0.00'
-  Walk: '2.19'
 - Rank: '28'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
@@ -2189,6 +2189,16 @@
   Swim: '0.00'
   Walk: '5.99'
 - Rank: '220'
+  Name: 'Chiang Meng '
+  Group: AOSX/AOS
+  FBID: ccm1116
+  Total_Mileage: '26.55'
+  Badges: '3'
+  Run: '13.54'
+  Cycle: '8.84'
+  Swim: '1.80'
+  Walk: '0.00'
+- Rank: '221'
   Name: Tyrone
   Group: ADW
   FBID: Tyrone1234
@@ -2198,7 +2208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '221'
+- Rank: '222'
   Name: Shawn Chia
   Group: ADW
   FBID: SCWE9595
@@ -2208,7 +2218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '222'
+- Rank: '223'
   Name: Andrew Ng
   Group: ADW
   FBID: Maxcap2103
@@ -2218,7 +2228,7 @@
   Cycle: '33.59'
   Swim: '0.00'
   Walk: '0.98'
-- Rank: '223'
+- Rank: '224'
   Name: Rajaan
   Group: ADSS/ADWS/ADWO
   FBID: Rajaanleon0021
@@ -2228,7 +2238,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '224'
+- Rank: '225'
   Name: Malice
   Group: ABM
   FBID: Malice2323
@@ -2238,7 +2248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '225'
+- Rank: '226'
   Name: Logan
   Group: ABM
   FBID: Logan0001
@@ -2248,7 +2258,7 @@
   Cycle: '43.24'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '226'
+- Rank: '227'
   Name: Lin Weili
   Group: AOSX/AOS
   FBID: Michelin5052
@@ -2258,7 +2268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '226'
+- Rank: '227'
   Name: Kian Seng
   Group: ADW
   FBID: KianSeng0170
@@ -2268,7 +2278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '228'
+- Rank: '229'
   Name: Junan
   Group: ADW
   FBID: Junan1111
@@ -2278,7 +2288,7 @@
   Cycle: '17.19'
   Swim: '0.00'
   Walk: '19.16'
-- Rank: '229'
+- Rank: '230'
   Name: Rong Sheng
   Group: ADSS/ADWS/ADWO
   FBID: Rong2208
@@ -2288,7 +2298,7 @@
   Cycle: '101.94'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '230'
+- Rank: '231'
   Name: Ryan Tan
   Group: ADSS/ADWS/ADWO
   FBID: Menthol0701
@@ -2298,7 +2308,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '231'
+- Rank: '232'
   Name: Hoa Chong Xian
   Group: ADSS/ADWS/ADWO
   FBID: ADWS2415
@@ -2308,7 +2318,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '232'
+- Rank: '233'
   Name: Marcus
   Group: ADW
   FBID: Trident1107
@@ -2318,7 +2328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '233'
+- Rank: '234'
   Name: Duster
   Group: ABM
   FBID: Yeogpg5892
@@ -2328,7 +2338,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '234'
+- Rank: '235'
   Name: LC
   Group: AFE
   FBID: LC0809
@@ -2338,7 +2348,7 @@
   Cycle: '54.24'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '235'
+- Rank: '236'
   Name: Zippo
   Group: ABM
   FBID: Spencer7888
@@ -2348,7 +2358,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '236'
+- Rank: '237'
   Name: Jon Thia
   Group: ADW
   FBID: Penguin3812
@@ -2358,7 +2368,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '7.31'
-- Rank: '237'
+- Rank: '238'
   Name: Krishdaz
   Group: ADSS/ADWS/ADWO
   FBID: Kd1999
@@ -2368,7 +2378,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '238'
+- Rank: '239'
   Name: Essay
   Group: ADW
   FBID: Essay7696
@@ -2378,16 +2388,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '5.16'
-- Rank: '239'
-  Name: 'Chiang Meng '
-  Group: AOSX/AOS
-  FBID: ccm1116
-  Total_Mileage: '24.34'
-  Badges: '3'
-  Run: '13.54'
-  Cycle: '0.00'
-  Swim: '1.80'
-  Walk: '0.00'
 - Rank: '240'
   Name: leslie
   Group: ADW
