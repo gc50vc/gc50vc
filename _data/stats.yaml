@@ -2,10 +2,10 @@
   Name: Extreme
   Group: ATC
   FBID: Extreme8123
-  Total_Mileage: '726.09'
+  Total_Mileage: '728.64'
   Badges: '8'
   Run: '327.99'
-  Cycle: '0.00'
+  Cycle: '10.20'
   Swim: '66.35'
   Walk: '3.10'
 - Rank: '2'
@@ -89,6 +89,16 @@
   Swim: '9.50'
   Walk: '3.02'
 - Rank: '10'
+  Name: K Y Leong
+  Group: ADSS/ADWS/ADWO
+  FBID: Kyxy2808
+  Total_Mileage: '222.42'
+  Badges: '4'
+  Run: '222.42'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '11'
   Name: Prem
   Group: ADW
   FBID: Premium6687
@@ -98,7 +108,7 @@
   Cycle: '42.58'
   Swim: '25.70'
   Walk: '1.32'
-- Rank: '11'
+- Rank: '12'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -108,7 +118,7 @@
   Cycle: '100.00'
   Swim: '19.07'
   Walk: '93.22'
-- Rank: '12'
+- Rank: '13'
   Name: yapoh
   Group: ADW
   FBID: yapoh0304
@@ -118,7 +128,7 @@
   Cycle: '372.00'
   Swim: '7.10'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -128,7 +138,7 @@
   Cycle: '115.52'
   Swim: '24.09'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '15'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: WANG0165
@@ -138,16 +148,6 @@
   Cycle: '24.00'
   Swim: '2.58'
   Walk: '1.00'
-- Rank: '15'
-  Name: K Y Leong
-  Group: ADSS/ADWS/ADWO
-  FBID: Kyxy2808
-  Total_Mileage: '200.63'
-  Badges: '4'
-  Run: '200.63'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '16'
   Name: Tony Foo
   Group: ADW
