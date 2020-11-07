@@ -89,6 +89,16 @@
   Swim: '9.50'
   Walk: '3.02'
 - Rank: '10'
+  Name: Prem
+  Group: ADW
+  FBID: Premium6687
+  Total_Mileage: '229.06'
+  Badges: '7'
+  Run: '53.41'
+  Cycle: '42.58'
+  Swim: '27.50'
+  Walk: '1.32'
+- Rank: '11'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -98,16 +108,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '11'
-  Name: Prem
-  Group: ADW
-  FBID: Premium6687
-  Total_Mileage: '218.26'
-  Badges: '7'
-  Run: '53.41'
-  Cycle: '42.58'
-  Swim: '25.70'
-  Walk: '1.32'
 - Rank: '12'
   Name: Euj
   Group: ATC
