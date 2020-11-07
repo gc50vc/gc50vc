@@ -4742,6 +4742,12 @@
   name: Pat160A
   definition: ''
   Week: '3'
+- timestamp: '2020-11-07 20:12:16'
+  fbid: Kong1609
+  badge: Mount Everest
+  name: Kong
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-22 00:35:59'
   fbid: Extreme8123
   badge: Marathon
@@ -5364,6 +5370,12 @@
   fbid: Topaz1327
   badge: Marathon
   name: Sze Tein
+  definition: ''
+  Week: '3'
+- timestamp: '2020-11-07 20:12:12'
+  fbid: Hammer1990
+  badge: Marathon
+  name: Andrew
   definition: ''
   Week: '3'
 - timestamp: '2020-10-24 01:24:37'
@@ -5989,13 +6001,13 @@
   badge: Cycopath
   name: Sloh
   definition: ''
-  Week: '1'
+  Week: ''
 - timestamp: '2020-10-22 09:37:26'
   fbid: BY8362
   badge: Cycopath
   name: Ben
   definition: ''
-  Week: '1'
+  Week: ''
 - timestamp: '2020-10-22 13:44:47'
   fbid: Villain1111
   badge: Cycopath
