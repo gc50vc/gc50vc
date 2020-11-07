@@ -149,6 +149,16 @@
   Swim: '22.09'
   Walk: '0.00'
 - Rank: '16'
+  Name: Tony Foo
+  Group: ADW
+  FBID: tonyfoo0165
+  Total_Mileage: '186.00'
+  Badges: '4'
+  Run: '186.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '17'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -158,7 +168,7 @@
   Cycle: '499.00'
   Swim: '3.10'
   Walk: '0.00'
-- Rank: '17'
+- Rank: '18'
   Name: Nicholas Lian
   Group: ADW
   FBID: Horsepower2001
@@ -168,7 +178,7 @@
   Cycle: '30.26'
   Swim: '7.50'
   Walk: '0.00'
-- Rank: '18'
+- Rank: '19'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -178,7 +188,7 @@
   Cycle: '137.09'
   Swim: '15.20'
   Walk: '10.01'
-- Rank: '19'
+- Rank: '20'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -188,7 +198,7 @@
   Cycle: '16.60'
   Swim: '6.45'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '21'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -198,23 +208,13 @@
   Cycle: '479.54'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: AdolphusJJ
   Group: AOSX/AOS
   FBID: Bamboo1234
   Total_Mileage: '162.45'
   Badges: '4'
   Run: '162.45'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '22'
-  Name: Tony Foo
-  Group: ADW
-  FBID: tonyfoo0165
-  Total_Mileage: '161.00'
-  Badges: '4'
-  Run: '161.00'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
