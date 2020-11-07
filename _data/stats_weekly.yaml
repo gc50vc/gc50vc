@@ -69,6 +69,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '8'
+  Name: 'Jonjuay '
+  Group: ADSS/ADWS/ADWO
+  FBID: Jonjuay8822
+  Total_Mileage: '72.76'
+  Badges: '1'
+  Run: '15.18'
+  Cycle: '206.33'
+  Swim: '1.00'
+  Walk: '0.00'
+- Rank: '9'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -78,7 +88,7 @@
   Cycle: '48.15'
   Swim: '6.00'
   Walk: '2.24'
-- Rank: '9'
+- Rank: '10'
   Name: Hasty
   Group: ADW
   FBID: Hasty55555
@@ -88,7 +98,7 @@
   Cycle: '71.84'
   Swim: '1.35'
   Walk: '0.00'
-- Rank: '10'
+- Rank: '11'
   Name: Lee Wen Yang
   Group: AFE
   FBID: LWY3942
@@ -98,7 +108,7 @@
   Cycle: '275.30'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -108,7 +118,7 @@
   Cycle: '18.14'
   Swim: '7.20'
   Walk: '22.55'
-- Rank: '12'
+- Rank: '13'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -118,7 +128,7 @@
   Cycle: '90.29'
   Swim: '5.30'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: Gabriel Low
   Group: ADSS/ADWS/ADWO
   FBID: gabrieltried1234
@@ -127,16 +137,6 @@
   Run: '57.90'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '14'
-  Name: 'Jonjuay '
-  Group: ADSS/ADWS/ADWO
-  FBID: Jonjuay8822
-  Total_Mileage: '57.17'
-  Badges: '1'
-  Run: '15.18'
-  Cycle: '143.95'
-  Swim: '1.00'
   Walk: '0.00'
 - Rank: '15'
   Name: Nicholas
