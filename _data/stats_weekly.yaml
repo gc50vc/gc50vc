@@ -69,6 +69,16 @@
   Swim: '8.55'
   Walk: '0.00'
 - Rank: '8'
+  Name: Euj
+  Group: ATC
+  FBID: Euj1871
+  Total_Mileage: '78.10'
+  Badges: '1'
+  Run: '18.71'
+  Cycle: '47.48'
+  Swim: '7.92'
+  Walk: '22.55'
+- Rank: '9'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -78,7 +88,7 @@
   Cycle: '206.33'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '9'
+- Rank: '10'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -88,7 +98,7 @@
   Cycle: '48.15'
   Swim: '6.00'
   Walk: '2.24'
-- Rank: '10'
+- Rank: '11'
   Name: Andrew
   Group: ADW
   FBID: Hammer1990
@@ -98,7 +108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: Tony Foo
   Group: ADW
   FBID: tonyfoo0165
@@ -108,7 +118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: Bgtan
   Group: ADSS/ADWS/ADWO
   FBID: Kenny9889
@@ -118,7 +128,7 @@
   Cycle: '282.59'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: Hasty
   Group: ADW
   FBID: Hasty55555
@@ -128,7 +138,7 @@
   Cycle: '71.84'
   Swim: '1.35'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '15'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -138,7 +148,7 @@
   Cycle: '210.00'
   Swim: '1.60'
   Walk: '0.00'
-- Rank: '15'
+- Rank: '16'
   Name: Lee Wen Yang
   Group: AFE
   FBID: LWY3942
@@ -148,16 +158,6 @@
   Cycle: '275.30'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '16'
-  Name: Euj
-  Group: ATC
-  FBID: Euj1871
-  Total_Mileage: '66.45'
-  Badges: '1'
-  Run: '18.71'
-  Cycle: '18.14'
-  Swim: '7.20'
-  Walk: '22.55'
 - Rank: '17'
   Name: Nicholas
   Group: ADSS/ADWS/ADWO
