@@ -179,6 +179,16 @@
   Swim: '6.45'
   Walk: '0.00'
 - Rank: '19'
+  Name: 'Jonjuay '
+  Group: ADSS/ADWS/ADWO
+  FBID: Jonjuay8822
+  Total_Mileage: '166.00'
+  Badges: '7'
+  Run: '34.11'
+  Cycle: '479.54'
+  Swim: '2.00'
+  Walk: '0.00'
+- Rank: '20'
   Name: AdolphusJJ
   Group: AOSX/AOS
   FBID: Bamboo1234
@@ -188,7 +198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '21'
   Name: Tony Foo
   Group: ADW
   FBID: tonyfoo0165
@@ -198,7 +208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -208,7 +218,7 @@
   Cycle: '376.00'
   Swim: '3.10'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -218,7 +228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -228,7 +238,7 @@
   Cycle: '280.50'
   Swim: '6.40'
   Walk: '1.90'
-- Rank: '24'
+- Rank: '25'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
@@ -238,16 +248,6 @@
   Cycle: '32.50'
   Swim: '15.00'
   Walk: '7.27'
-- Rank: '25'
-  Name: 'Jonjuay '
-  Group: ADSS/ADWS/ADWO
-  FBID: Jonjuay8822
-  Total_Mileage: '150.40'
-  Badges: '7'
-  Run: '34.11'
-  Cycle: '417.16'
-  Swim: '2.00'
-  Walk: '0.00'
 - Rank: '26'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
