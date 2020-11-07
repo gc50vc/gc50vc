@@ -989,6 +989,16 @@
   Swim: '1.30'
   Walk: '2.13'
 - Rank: '100'
+  Name: Sen Kiat
+  Group: ATC
+  FBID: HSK7777
+  Total_Mileage: '15.67'
+  Badges: '0'
+  Run: '15.67'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '101'
   Name: Andre
   Group: ADW
   FBID: Andre7429
@@ -998,7 +1008,7 @@
   Cycle: '54.39'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '101'
+- Rank: '102'
   Name: Bronson
   Group: ADW
   FBID: Bronze1234
@@ -1008,7 +1018,7 @@
   Cycle: '0.00'
   Swim: '1.20'
   Walk: '0.00'
-- Rank: '102'
+- Rank: '103'
   Name: Bryan Tan GJ
   Group: ADW
   FBID: Bryan2727
@@ -1018,23 +1028,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '103'
+- Rank: '104'
   Name: POR KB
   Group: AFE
   FBID: AP0316
   Total_Mileage: '15.47'
   Badges: '2'
   Run: '15.47'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '104'
-  Name: Sen Kiat
-  Group: ATC
-  FBID: HSK7777
-  Total_Mileage: '15.22'
-  Badges: '0'
-  Run: '15.22'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
