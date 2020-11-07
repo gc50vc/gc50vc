@@ -929,6 +929,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '94'
+  Name: Warren Chua
+  Group: ADSS/ADWS/ADWO
+  FBID: Warren9588
+  Total_Mileage: '65.54'
+  Badges: '5'
+  Run: '10.49'
+  Cycle: '220.20'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '95'
   Name: Iggy
   Group: ADSS/ADWS/ADWO
   FBID: Iggy7900
@@ -938,7 +948,7 @@
   Cycle: '199.76'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '95'
+- Rank: '96'
   Name: Barter
   Group: ATC
   FBID: Reload0203
@@ -948,7 +958,7 @@
   Cycle: '203.00'
   Swim: '1.50'
   Walk: '13.50'
-- Rank: '96'
+- Rank: '97'
   Name: Yeow Teck
   Group: AOSX/AOS
   FBID: Youtube6116
@@ -958,7 +968,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '97'
+- Rank: '98'
   Name: Gwyn
   Group: ADW
   FBID: Magma1201
@@ -968,7 +978,7 @@
   Cycle: '46.60'
   Swim: '0.00'
   Walk: '8.93'
-- Rank: '98'
+- Rank: '99'
   Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
   FBID: LeonYeo2590
@@ -978,7 +988,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '99'
+- Rank: '100'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -988,7 +998,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '100'
+- Rank: '101'
   Name: Gabriel Low
   Group: ADSS/ADWS/ADWO
   FBID: gabrieltried1234
@@ -998,7 +1008,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '101'
+- Rank: '102'
   Name: Andre
   Group: ADW
   FBID: Andre7429
@@ -1008,7 +1018,7 @@
   Cycle: '191.37'
   Swim: '0.85'
   Walk: '0.00'
-- Rank: '102'
+- Rank: '103'
   Name: You Rong
   Group: ADW
   FBID: Audi1987
@@ -1018,7 +1028,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '103'
+- Rank: '104'
   Name: KevinKKW
   Group: ADSS/ADWS/ADWO
   FBID: Kkkw0165
@@ -1028,7 +1038,7 @@
   Cycle: '117.90'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '104'
+- Rank: '105'
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
@@ -1036,16 +1046,6 @@
   Badges: '3'
   Run: '53.56'
   Cycle: '8.04'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '105'
-  Name: Warren Chua
-  Group: ADSS/ADWS/ADWO
-  FBID: Warren9588
-  Total_Mileage: '55.54'
-  Badges: '4'
-  Run: '10.49'
-  Cycle: '180.18'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '106'
@@ -3277,7 +3277,7 @@
   Run: '12.70'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '290.11'
+  Walk: '313.61'
 - Rank: '329'
   Name: SquarePants
   Group: AOSX/AOS
@@ -5427,7 +5427,7 @@
   Run: '0.00'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '12.51'
+  Walk: '24.80'
 - Rank: '515'
   Name: Maiboliao
   Group: AFE
