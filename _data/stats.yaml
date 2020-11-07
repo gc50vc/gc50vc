@@ -289,6 +289,16 @@
   Swim: '12.90'
   Walk: '0.00'
 - Rank: '30'
+  Name: jheng
+  Group: ADSS/ADWS/ADWO
+  FBID: jheng0000
+  Total_Mileage: '136.84'
+  Badges: '6'
+  Run: '46.93'
+  Cycle: '41.15'
+  Swim: '13.27'
+  Walk: '0.00'
+- Rank: '31'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -298,7 +308,7 @@
   Cycle: '126.00'
   Swim: '1.26'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '32'
   Name: Coral
   Group: ABM
   FBID: Coral5050
@@ -308,7 +318,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '9.48'
-- Rank: '32'
+- Rank: '33'
   Name: Bronson
   Group: ADW
   FBID: Bronze1234
@@ -318,7 +328,7 @@
   Cycle: '80.27'
   Swim: '12.23'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '34'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -327,16 +337,6 @@
   Run: '127.00'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '34'
-  Name: jheng
-  Group: ADSS/ADWS/ADWO
-  FBID: jheng0000
-  Total_Mileage: '126.84'
-  Badges: '5'
-  Run: '36.93'
-  Cycle: '41.15'
-  Swim: '13.27'
   Walk: '0.00'
 - Rank: '35'
   Name: Jade
