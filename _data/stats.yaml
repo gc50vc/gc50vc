@@ -1589,6 +1589,16 @@
   Swim: '4.80'
   Walk: '0.00'
 - Rank: '160'
+  Name: Der Siang
+  Group: ATC
+  FBID: Aku1234
+  Total_Mileage: '38.42'
+  Badges: '4'
+  Run: '18.32'
+  Cycle: '42.00'
+  Swim: '1.60'
+  Walk: '0.00'
+- Rank: '161'
   Name: YK
   Group: ADSS/ADWS/ADWO
   FBID: yk2574
@@ -1598,7 +1608,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '161'
+- Rank: '162'
   Name: Dennis
   Group: ADSS/ADWS/ADWO
   FBID: Dennis0495
@@ -1608,7 +1618,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '162'
+- Rank: '163'
   Name: Cactus
   Group: ADSS/ADWS/ADWO
   FBID: Daphne1234
@@ -1618,7 +1628,7 @@
   Cycle: '0.00'
   Swim: '6.20'
   Walk: '0.00'
-- Rank: '163'
+- Rank: '164'
   Name: Pravin
   Group: ADSS/ADWS/ADWO
   FBID: Pravin8938
@@ -1628,7 +1638,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '164'
+- Rank: '165'
   Name: Akileis
   Group: ADW
   FBID: Akileis0163
@@ -1638,7 +1648,7 @@
   Cycle: '0.00'
   Swim: '6.00'
   Walk: '1.06'
-- Rank: '165'
+- Rank: '166'
   Name: You Rong
   Group: ADW
   FBID: Audi1987
@@ -1648,7 +1658,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '166'
+- Rank: '167'
   Name: spirit
   Group: ATC
   FBID: spirit5555
@@ -1658,7 +1668,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.37'
-- Rank: '167'
+- Rank: '168'
   Name: Wong Wei Ming
   Group: ATC
   FBID: Shadow0206
@@ -1668,7 +1678,7 @@
   Cycle: '0.00'
   Swim: '2.14'
   Walk: '0.00'
-- Rank: '168'
+- Rank: '169'
   Name: Guang
   Group: ADSS/ADWS/ADWO
   FBID: Guang1309
@@ -1678,7 +1688,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '169'
+- Rank: '170'
   Name: 'Beatbox '
   Group: ABM
   FBID: Beatbox0202
@@ -1688,7 +1698,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '7.54'
-- Rank: '170'
+- Rank: '171'
   Name: CSM
   Group: ADSS/ADWS/ADWO
   FBID: CSM8189
@@ -1698,16 +1708,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '12.30'
-- Rank: '171'
-  Name: Der Siang
-  Group: ATC
-  FBID: Aku1234
-  Total_Mileage: '34.81'
-  Badges: '3'
-  Run: '18.32'
-  Cycle: '27.56'
-  Swim: '1.60'
-  Walk: '0.00'
 - Rank: '172'
   Name: Kelvis
   Group: ADSS/ADWS/ADWO
