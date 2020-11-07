@@ -59,6 +59,16 @@
   Swim: '10.50'
   Walk: '0.00'
 - Rank: '7'
+  Name: Tommy Tham
+  Group: ADSS/ADWS/ADWO
+  FBID: Tommy1976
+  Total_Mileage: '84.25'
+  Badges: '2'
+  Run: '10.38'
+  Cycle: '90.29'
+  Swim: '8.55'
+  Walk: '0.00'
+- Rank: '8'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -68,7 +78,7 @@
   Cycle: '206.33'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '8'
+- Rank: '9'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -78,16 +88,6 @@
   Cycle: '48.15'
   Swim: '6.00'
   Walk: '2.24'
-- Rank: '9'
-  Name: Tommy Tham
-  Group: ADSS/ADWS/ADWO
-  FBID: Tommy1976
-  Total_Mileage: '71.61'
-  Badges: '2'
-  Run: '5.24'
-  Cycle: '90.29'
-  Swim: '7.30'
-  Walk: '0.00'
 - Rank: '10'
   Name: Andrew
   Group: ADW
