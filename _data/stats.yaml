@@ -629,6 +629,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '64'
+  Name: Rats
+  Group: ABM
+  FBID: Rats1500
+  Total_Mileage: '87.99'
+  Badges: '3'
+  Run: '87.99'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '65'
   Name: PCK
   Group: ADW
   FBID: PCK2205
@@ -638,7 +648,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '65'
+- Rank: '66'
   Name: Weng
   Group: ADSS/ADWS/ADWO
   FBID: Weng8238
@@ -648,7 +658,7 @@
   Cycle: '231.54'
   Swim: '0.00'
   Walk: '13.86'
-- Rank: '66'
+- Rank: '67'
   Name: TT
   Group: ABM
   FBID: jiawei1989
@@ -658,16 +668,6 @@
   Cycle: '10.83'
   Swim: '0.00'
   Walk: '1.89'
-- Rank: '67'
-  Name: Rats
-  Group: ABM
-  FBID: Rats1500
-  Total_Mileage: '81.76'
-  Badges: '3'
-  Run: '81.76'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '68'
   Name: GN
   Group: ADSS/ADWS/ADWO
