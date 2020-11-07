@@ -609,6 +609,16 @@
   Swim: '0.00'
   Walk: '57.30'
 - Rank: '62'
+  Name: 'Jack eng '
+  Group: AOSX/AOS
+  FBID: Jackpot6967
+  Total_Mileage: '88.32'
+  Badges: '3'
+  Run: '88.32'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '63'
   Name: Cosmo
   Group: ABM
   FBID: Cosmo6306
@@ -618,7 +628,7 @@
   Cycle: '0.00'
   Swim: '0.50'
   Walk: '10.51'
-- Rank: '63'
+- Rank: '64'
   Name: PCK
   Group: ADW
   FBID: PCK2205
@@ -628,7 +638,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '64'
+- Rank: '65'
   Name: Weng
   Group: ADSS/ADWS/ADWO
   FBID: Weng8238
@@ -638,7 +648,7 @@
   Cycle: '231.54'
   Swim: '0.00'
   Walk: '13.86'
-- Rank: '65'
+- Rank: '66'
   Name: TT
   Group: ABM
   FBID: jiawei1989
@@ -648,7 +658,7 @@
   Cycle: '10.83'
   Swim: '0.00'
   Walk: '1.89'
-- Rank: '66'
+- Rank: '67'
   Name: Rats
   Group: ABM
   FBID: Rats1500
@@ -658,7 +668,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '67'
+- Rank: '68'
   Name: GN
   Group: ADSS/ADWS/ADWO
   FBID: GN8282
@@ -668,7 +678,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '68'
+- Rank: '69'
   Name: Lia
   Group: ADSS/ADWS/ADWO
   FBID: Lia1116
@@ -678,23 +688,13 @@
   Cycle: '63.18'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '69'
+- Rank: '70'
   Name: Lightyear
   Group: ADW
   FBID: Lightyear2020
   Total_Mileage: '80.76'
   Badges: '3'
   Run: '80.76'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '70'
-  Name: 'Jack eng '
-  Group: AOSX/AOS
-  FBID: Jackpot6967
-  Total_Mileage: '77.94'
-  Badges: '3'
-  Run: '77.94'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
@@ -979,6 +979,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '99'
+  Name: Weaver
+  Group: ADW
+  FBID: Weaver5275
+  Total_Mileage: '58.38'
+  Badges: '3'
+  Run: '58.38'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '100'
   Name: Gabriel Low
   Group: ADSS/ADWS/ADWO
   FBID: gabrieltried1234
@@ -988,7 +998,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '100'
+- Rank: '101'
   Name: Andre
   Group: ADW
   FBID: Andre7429
@@ -998,7 +1008,7 @@
   Cycle: '191.37'
   Swim: '0.85'
   Walk: '0.00'
-- Rank: '101'
+- Rank: '102'
   Name: KevinKKW
   Group: ADSS/ADWS/ADWO
   FBID: Kkkw0165
@@ -1008,7 +1018,7 @@
   Cycle: '117.90'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '102'
+- Rank: '103'
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
@@ -1018,7 +1028,7 @@
   Cycle: '8.04'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '103'
+- Rank: '104'
   Name: Warren Chua
   Group: ADSS/ADWS/ADWO
   FBID: Warren9588
@@ -1028,7 +1038,7 @@
   Cycle: '180.18'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '104'
+- Rank: '105'
   Name: BENteo
   Group: AFE
   FBID: BEN7452
@@ -1038,7 +1048,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '105'
+- Rank: '106'
   Name: Alan
   Group: ADSS/ADWS/ADWO
   FBID: Alan2881
@@ -1048,7 +1058,7 @@
   Cycle: '0.00'
   Swim: '4.05'
   Walk: '32.00'
-- Rank: '106'
+- Rank: '107'
   Name: Jeremy Tan
   Group: ATC
   FBID: Scavenge1601
@@ -1058,7 +1068,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '107'
+- Rank: '108'
   Name: Chin Yong
   Group: ADSS/ADWS/ADWO
   FBID: Relaxing1234
@@ -1068,7 +1078,7 @@
   Cycle: '55.45'
   Swim: '0.00'
   Walk: '25.34'
-- Rank: '108'
+- Rank: '109'
   Name: 3sg Charlie
   Group: ADSS/ADWS/ADWO
   FBID: Charlie2539
@@ -1078,7 +1088,7 @@
   Cycle: '0.00'
   Swim: '2.45'
   Walk: '0.00'
-- Rank: '109'
+- Rank: '110'
   Name: Rambo
   Group: AOSX/AOS
   FBID: Rambo0113
@@ -1088,7 +1098,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '110'
+- Rank: '111'
   Name: COVID
   Group: ADSS/ADWS/ADWO
   FBID: COVID9999
@@ -1098,7 +1108,7 @@
   Cycle: '45.11'
   Swim: '0.00'
   Walk: '21.50'
-- Rank: '111'
+- Rank: '112'
   Name: Darius Ng
   Group: ADSS/ADWS/ADWO
   FBID: bobo1234
@@ -1108,7 +1118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '112'
+- Rank: '113'
   Name: francisyap
   Group: AFE
   FBID: francis7373
@@ -1118,7 +1128,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '113'
+- Rank: '114'
   Name: JOLLY
   Group: ADW
   FBID: Jolly8178
@@ -1127,16 +1137,6 @@
   Run: '25.11'
   Cycle: '42.68'
   Swim: '2.50'
-  Walk: '0.00'
-- Rank: '114'
-  Name: Weaver
-  Group: ADW
-  FBID: Weaver5275
-  Total_Mileage: '50.76'
-  Badges: '3'
-  Run: '50.76'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '115'
   Name: Camper
