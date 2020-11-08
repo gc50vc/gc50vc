@@ -49,6 +49,16 @@
   Swim: '3.20'
   Walk: '0.00'
 - Rank: '6'
+  Name: Euj
+  Group: ATC
+  FBID: Euj1871
+  Total_Mileage: '89.15'
+  Badges: '1'
+  Run: '22.56'
+  Cycle: '47.48'
+  Swim: '9.12'
+  Walk: '22.55'
+- Rank: '7'
   Name: Prem
   Group: ADW
   FBID: Premium6687
@@ -58,7 +68,7 @@
   Cycle: '42.58'
   Swim: '10.50'
   Walk: '0.00'
-- Rank: '7'
+- Rank: '8'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -68,7 +78,7 @@
   Cycle: '90.29'
   Swim: '8.55'
   Walk: '0.00'
-- Rank: '8'
+- Rank: '9'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -78,16 +88,6 @@
   Cycle: '72.23'
   Swim: '6.00'
   Walk: '2.24'
-- Rank: '9'
-  Name: Euj
-  Group: ATC
-  FBID: Euj1871
-  Total_Mileage: '78.10'
-  Badges: '1'
-  Run: '18.71'
-  Cycle: '47.48'
-  Swim: '7.92'
-  Walk: '22.55'
 - Rank: '10'
   Name: Gabriel Low
   Group: ADSS/ADWS/ADWO
