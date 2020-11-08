@@ -309,6 +309,16 @@
   Swim: '15.25'
   Walk: '0.00'
 - Rank: '32'
+  Name: Coral
+  Group: ABM
+  FBID: Coral5050
+  Total_Mileage: '160.58'
+  Badges: '4'
+  Run: '160.58'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '9.48'
+- Rank: '33'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -318,7 +328,7 @@
   Cycle: '186.00'
   Swim: '1.26'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '34'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
@@ -328,7 +338,7 @@
   Cycle: '32.50'
   Swim: '15.00'
   Walk: '7.27'
-- Rank: '34'
+- Rank: '35'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -338,7 +348,7 @@
   Cycle: '130.38'
   Swim: '0.00'
   Walk: '1.57'
-- Rank: '35'
+- Rank: '36'
   Name: jheng
   Group: ADSS/ADWS/ADWO
   FBID: jheng0000
@@ -348,7 +358,7 @@
   Cycle: '77.27'
   Swim: '13.27'
   Walk: '0.00'
-- Rank: '36'
+- Rank: '37'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -358,16 +368,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '37'
-  Name: Coral
-  Group: ABM
-  FBID: Coral5050
-  Total_Mileage: '142.24'
-  Badges: '4'
-  Run: '142.24'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '9.48'
 - Rank: '38'
   Name: Daniel Tay
   Group: AOSX/AOS
