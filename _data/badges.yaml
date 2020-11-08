@@ -5642,6 +5642,12 @@
   name: Hanyong
   definition: ''
   Week: '3'
+- timestamp: '2020-11-08 19:03:25'
+  fbid: PIXAR0001
+  badge: Run For Your Life
+  name: PIXAR
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-20 06:11:07'
   fbid: Sloh0121
   badge: Buns of Steel
@@ -5995,7 +6001,7 @@
   badge: Buns of Steel
   name: Gabriel Tay Kai Xian
   definition: ''
-  Week: '3'
+  Week: ''
 - timestamp: '2020-11-02 13:39:00'
   fbid: Redeyesblackdragon1310
   badge: Buns of Steel
@@ -7391,7 +7397,7 @@
 - timestamp: '2020-11-07 14:36:47'
   fbid: Rainman0000
   badge: Iron Lungs
-  name: RainmanCYK
+  name: ''
   definition: ''
   Week: ''
 - timestamp: '2020-11-08 13:46:45'
