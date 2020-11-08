@@ -2654,6 +2654,12 @@
   name: Tommy Tham
   definition: ''
   Week: '3'
+- timestamp: '2020-11-08 22:16:22'
+  fbid: Bronze1234
+  badge: Half Ironman
+  name: Bronson
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-24 05:41:33'
   fbid: Trex1406
   badge: Ironman
@@ -5995,7 +6001,7 @@
   badge: Buns of Steel
   name: Fu Hao Wei
   definition: ''
-  Week: '2'
+  Week: ''
 - timestamp: '2020-10-26 20:33:36'
   fbid: Hasty55555
   badge: Buns of Steel
@@ -6552,6 +6558,12 @@
   fbid: TAONG8070
   badge: Cycopath
   name: Malcolm Taong
+  definition: ''
+  Week: ''
+- timestamp: '2020-11-08 22:16:22'
+  fbid: Bronze1234
+  badge: Cycopath
+  name: Bronson
   definition: ''
   Week: ''
 - timestamp: '2020-10-20 16:25:36'
@@ -7385,13 +7397,13 @@
 - timestamp: '2020-11-08 13:46:45'
   fbid: Worldwide1994
   badge: Swordfish
-  name: 'JOASH THANABALAN '
+  name: ''
   definition: ''
   Week: ''
 - timestamp: '2020-11-08 15:56:19'
   fbid: Aku1234
   badge: Swordfish
-  name: Der Siang
+  name: ''
   definition: ''
   Week: ''
 - timestamp: '2020-10-23 18:18:07'
