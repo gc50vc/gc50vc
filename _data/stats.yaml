@@ -209,6 +209,16 @@
   Swim: '2.00'
   Walk: '0.00'
 - Rank: '22'
+  Name: Andrew
+  Group: ADW
+  FBID: Hammer1990
+  Total_Mileage: '165.91'
+  Badges: '8'
+  Run: '106.64'
+  Cycle: '165.06'
+  Swim: '3.00'
+  Walk: '0.00'
+- Rank: '23'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -218,7 +228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: AdolphusJJ
   Group: AOSX/AOS
   FBID: Bamboo1234
@@ -228,7 +238,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -238,16 +248,6 @@
   Cycle: '609.17'
   Swim: '0.00'
   Walk: '2.19'
-- Rank: '25'
-  Name: Andrew
-  Group: ADW
-  FBID: Hammer1990
-  Total_Mileage: '153.91'
-  Badges: '7'
-  Run: '94.64'
-  Cycle: '165.06'
-  Swim: '3.00'
-  Walk: '0.00'
 - Rank: '26'
   Name: Rycel Wong
   Group: AOSX/AOS
