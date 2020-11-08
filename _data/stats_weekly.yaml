@@ -269,6 +269,16 @@
   Swim: '3.70'
   Walk: '0.00'
 - Rank: '28'
+  Name: Cookie
+  Group: ATC
+  FBID: Cookie3rdWSO1975
+  Total_Mileage: '53.89'
+  Badges: '1'
+  Run: '42.81'
+  Cycle: '44.32'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '29'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -278,7 +288,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: Wang0165
@@ -288,7 +298,7 @@
   Cycle: '0.00'
   Swim: '0.80'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '31'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -298,7 +308,7 @@
   Cycle: '0.00'
   Swim: '3.90'
   Walk: '12.49'
-- Rank: '31'
+- Rank: '32'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -308,7 +318,7 @@
   Cycle: '114.00'
   Swim: '1.26'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '33'
   Name: l0ng live the beard
   Group: ADSS/ADWS/ADWO
   FBID: Rovin0787
@@ -318,7 +328,7 @@
   Cycle: '141.04'
   Swim: '0.00'
   Walk: '5.07'
-- Rank: '33'
+- Rank: '34'
   Name: Daniel Tay
   Group: AOSX/AOS
   FBID: Corrupt2705
@@ -328,7 +338,7 @@
   Cycle: '0.00'
   Swim: '4.40'
   Walk: '0.00'
-- Rank: '34'
+- Rank: '35'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -338,7 +348,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: RainmanCYK
   Group: ADW
   FBID: Rainman0000
@@ -348,7 +358,7 @@
   Cycle: '0.00'
   Swim: '8.00'
   Walk: '0.00'
-- Rank: '36'
+- Rank: '37'
   Name: Slong
   Group: ADW
   FBID: Slong1234
@@ -358,7 +368,7 @@
   Cycle: '0.00'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '37'
+- Rank: '38'
   Name: Xiaolow3344
   Group: ADSS/ADWS/ADWO
   FBID: Xiaolow3344
@@ -368,16 +378,6 @@
   Cycle: '0.00'
   Swim: '7.40'
   Walk: '33.94'
-- Rank: '38'
-  Name: Cookie
-  Group: ATC
-  FBID: Cookie3rdWSO1975
-  Total_Mileage: '43.67'
-  Badges: '0'
-  Run: '32.59'
-  Cycle: '44.32'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '39'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
@@ -523,7 +523,7 @@
   Group: ADSS/ADWS/ADWO
   FBID: Stop0001
   Total_Mileage: '35.29'
-  Badges: '2'
+  Badges: '1'
   Run: '24.06'
   Cycle: '44.91'
   Swim: '0.00'
@@ -683,7 +683,7 @@
   Group: ADW
   FBID: thumbs8599
   Total_Mileage: '31.59'
-  Badges: '2'
+  Badges: '1'
   Run: '14.14'
   Cycle: '45.78'
   Swim: '1.00'
@@ -3168,6 +3168,16 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '105.98'
+- Rank: '313'
+  Name: Allen Ong
+  Group: AFE
+  FBID: Longwind3686
+  Total_Mileage: '0.00'
+  Badges: ''
+  Run: '0.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '8.00'
 - Rank: '313'
   Name: Laser
   Group: ADW
