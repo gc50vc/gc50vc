@@ -2522,6 +2522,12 @@
   name: Wolf Mun
   definition: ''
   Week: '3'
+- timestamp: '2020-11-08 20:26:52'
+  fbid: NUMBER1111
+  badge: Baby Steps
+  name: TAN
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-22 18:39:38'
   fbid: BY8362
   badge: Half Ironman
@@ -2718,6 +2724,12 @@
   fbid: LWY3942
   badge: ONE PUNCHHHHH
   name: Lee Wen Yang
+  definition: ''
+  Week: '3'
+- timestamp: '2020-11-08 20:25:34'
+  fbid: Hasty55555
+  badge: ONE PUNCHHHHH
+  name: Hasty
   definition: ''
   Week: '3'
 - timestamp: '2020-10-20 06:06:51'
@@ -4880,6 +4892,12 @@
   name: SARATH
   definition: ''
   Week: '3'
+- timestamp: '2020-11-08 20:26:52'
+  fbid: NUMBER1111
+  badge: Mount Everest
+  name: TAN
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-22 00:35:59'
   fbid: Extreme8123
   badge: Marathon
@@ -5983,19 +6001,19 @@
   badge: Buns of Steel
   name: Andreas
   definition: ''
-  Week: '2'
+  Week: ''
 - timestamp: '2020-10-28 19:22:19'
   fbid: Bingo0507
   badge: Buns of Steel
   name: Ah Bing
   definition: ''
-  Week: '2'
+  Week: ''
 - timestamp: '2020-10-29 13:15:15'
   fbid: Euj1871
   badge: Buns of Steel
   name: Euj
   definition: ''
-  Week: '2'
+  Week: ''
 - timestamp: '2020-10-29 21:47:02'
   fbid: Magma1201
   badge: Buns of Steel
@@ -7379,19 +7397,19 @@
 - timestamp: '2020-10-27 16:29:21'
   fbid: Tommy1976
   badge: Iron Lungs
-  name: Tommy Tham
+  name: ''
   definition: ''
   Week: ''
 - timestamp: '2020-10-27 20:29:29'
   fbid: Mtwk1998
   badge: Iron Lungs
-  name: Marcus
+  name: ''
   definition: ''
   Week: ''
 - timestamp: '2020-10-28 08:21:10'
   fbid: Nn1974
   badge: Iron Lungs
-  name: Nicholas
+  name: ''
   definition: ''
   Week: ''
 - timestamp: '2020-10-28 21:41:40'
