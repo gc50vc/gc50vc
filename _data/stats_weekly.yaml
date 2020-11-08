@@ -209,6 +209,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '22'
+  Name: PIXAR
+  Group: ABM
+  FBID: PIXAR0001
+  Total_Mileage: '57.67'
+  Badges: '3'
+  Run: '21.61'
+  Cycle: '114.00'
+  Swim: '1.26'
+  Walk: '0.00'
+- Rank: '23'
   Name: Coral
   Group: ABM
   FBID: Coral5050
@@ -218,7 +228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -228,7 +238,7 @@
   Cycle: '213.71'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -238,7 +248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: yapoh
   Group: ADW
   FBID: Yapoh0304
@@ -248,7 +258,7 @@
   Cycle: '52.00'
   Swim: '3.70'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: Cookie
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -258,7 +268,7 @@
   Cycle: '44.32'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: Nicholas Lian
   Group: ADW
   FBID: horsepower2001
@@ -268,7 +278,7 @@
   Cycle: '0.00'
   Swim: '2.70'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -278,7 +288,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: Wang0165
@@ -288,7 +298,7 @@
   Cycle: '0.00'
   Swim: '0.80'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '31'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -298,16 +308,6 @@
   Cycle: '0.00'
   Swim: '3.90'
   Walk: '12.49'
-- Rank: '31'
-  Name: PIXAR
-  Group: ABM
-  FBID: PIXAR0001
-  Total_Mileage: '51.07'
-  Badges: '2'
-  Run: '15.01'
-  Cycle: '114.00'
-  Swim: '1.26'
-  Walk: '0.00'
 - Rank: '32'
   Name: HC
   Group: ADSS/ADWS/ADWO
@@ -1683,7 +1683,7 @@
   Group: ADW
   FBID: Blueeyeswhitedragon2901
   Total_Mileage: '11.37'
-  Badges: '1'
+  Badges: '0'
   Run: '0.00'
   Cycle: '45.48'
   Swim: '0.00'
