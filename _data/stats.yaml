@@ -439,6 +439,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '45'
+  Name: Ah Bye
+  Group: ADSS/ADWS/ADWO
+  FBID: Ahbye1234
+  Total_Mileage: '110.21'
+  Badges: '7'
+  Run: '62.45'
+  Cycle: '131.03'
+  Swim: '2.50'
+  Walk: '6.00'
+- Rank: '46'
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
@@ -448,7 +458,7 @@
   Cycle: '0.00'
   Swim: '3.60'
   Walk: '4.00'
-- Rank: '46'
+- Rank: '47'
   Name: Btee
   Group: AFE
   FBID: Brian0307
@@ -458,7 +468,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '47'
+- Rank: '48'
   Name: Cosmo
   Group: ABM
   FBID: Cosmo6306
@@ -468,16 +478,6 @@
   Cycle: '0.00'
   Swim: '0.50'
   Walk: '10.51'
-- Rank: '48'
-  Name: Ah Bye
-  Group: ADSS/ADWS/ADWO
-  FBID: Ahbye1234
-  Total_Mileage: '104.21'
-  Badges: '7'
-  Run: '62.45'
-  Cycle: '131.03'
-  Swim: '1.50'
-  Walk: '6.00'
 - Rank: '49'
   Name: Liwei
   Group: ADW
