@@ -5612,6 +5612,12 @@
   name: Jade
   definition: ''
   Week: '3'
+- timestamp: '2020-11-08 22:39:18'
+  fbid: SMLD1234
+  badge: Marathon
+  name: Ja5on
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-24 01:24:37'
   fbid: Extreme8123
   badge: Run For Your Life
@@ -5790,6 +5796,12 @@
   fbid: Silver5117
   badge: Run For Your Life
   name: Silver
+  definition: ''
+  Week: '3'
+- timestamp: '2020-11-08 22:39:18'
+  fbid: SMLD1234
+  badge: Run For Your Life
+  name: Ja5on
   definition: ''
   Week: '3'
 - timestamp: '2020-10-20 06:11:07'
@@ -5989,13 +6001,13 @@
   badge: Buns of Steel
   name: Leonard
   definition: ''
-  Week: '1'
+  Week: ''
 - timestamp: '2020-10-25 17:54:53'
   fbid: Hammer1990
   badge: Buns of Steel
   name: Andrew
   definition: ''
-  Week: '1'
+  Week: ''
 - timestamp: '2020-10-25 19:11:40'
   fbid: Sunray0909
   badge: Buns of Steel
@@ -7385,13 +7397,13 @@
 - timestamp: '2020-11-04 19:23:34'
   fbid: dragongate5270
   badge: Swordfish
-  name: Liwei
+  name: ''
   definition: ''
   Week: ''
 - timestamp: '2020-11-05 15:05:12'
   fbid: Hector0911
   badge: Swordfish
-  name: Hector
+  name: ''
   definition: ''
   Week: ''
 - timestamp: '2020-11-05 20:51:23'
