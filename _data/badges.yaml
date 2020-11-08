@@ -2510,6 +2510,18 @@
   name: Ming Feng
   definition: ''
   Week: '3'
+- timestamp: '2020-11-08 20:07:25'
+  fbid: SARATH2311
+  badge: Baby Steps
+  name: SARATH
+  definition: ''
+  Week: '3'
+- timestamp: '2020-11-08 20:10:12'
+  fbid: Mun7686
+  badge: Baby Steps
+  name: Wolf Mun
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-22 18:39:38'
   fbid: BY8362
   badge: Half Ironman
@@ -2682,6 +2694,12 @@
   fbid: Hammer1990
   badge: Ironman
   name: Andrew
+  definition: ''
+  Week: '3'
+- timestamp: '2020-11-08 20:10:53'
+  fbid: Hasty55555
+  badge: Ironman
+  name: Hasty
   definition: ''
   Week: '3'
 - timestamp: '2020-10-31 13:57:53'
@@ -4850,6 +4868,12 @@
   name: Ming Feng
   definition: ''
   Week: '3'
+- timestamp: '2020-11-08 20:10:12'
+  fbid: Mun7686
+  badge: Mount Everest
+  name: Wolf Mun
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-22 00:35:59'
   fbid: Extreme8123
   badge: Marathon
@@ -5498,6 +5522,12 @@
   name: Owyong
   definition: ''
   Week: '3'
+- timestamp: '2020-11-08 20:10:12'
+  fbid: Mun7686
+  badge: Marathon
+  name: Wolf Mun
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-24 01:24:37'
   fbid: Extreme8123
   badge: Run For Your Life
@@ -5664,6 +5694,12 @@
   fbid: PIXAR0001
   badge: Run For Your Life
   name: PIXAR
+  definition: ''
+  Week: '3'
+- timestamp: '2020-11-08 20:10:12'
+  fbid: Mun7686
+  badge: Run For Your Life
+  name: Wolf Mun
   definition: ''
   Week: '3'
 - timestamp: '2020-10-20 06:11:07'
@@ -5965,37 +6001,37 @@
   badge: Buns of Steel
   name: NG Eng Ming
   definition: ''
-  Week: '2'
+  Week: ''
 - timestamp: '2020-10-31 11:49:35'
   fbid: Rong2208
   badge: Buns of Steel
   name: Rong Sheng
   definition: ''
-  Week: '2'
+  Week: ''
 - timestamp: '2020-10-31 16:07:16'
   fbid: PIXAR0001
   badge: Buns of Steel
   name: PIXAR
   definition: ''
-  Week: '2'
+  Week: ''
 - timestamp: '2020-11-01 03:32:30'
   fbid: Lia1116
   badge: Buns of Steel
   name: Lia
   definition: ''
-  Week: '2'
+  Week: ''
 - timestamp: '2020-11-01 11:07:25'
   fbid: Vernon7070
   badge: Buns of Steel
   name: Vernon Lim
   definition: ''
-  Week: '2'
+  Week: ''
 - timestamp: '2020-11-01 11:23:04'
   fbid: TRIPS_0000
   badge: Buns of Steel
   name: TRIPS
   definition: ''
-  Week: '2'
+  Week: ''
 - timestamp: '2020-11-01 23:06:09'
   fbid: Bronze1234
   badge: Buns of Steel
@@ -6168,6 +6204,12 @@
   fbid: Extreme8123
   badge: Buns of Steel
   name: Extreme
+  definition: ''
+  Week: ''
+- timestamp: '2020-11-08 20:07:25'
+  fbid: SARATH2311
+  badge: Buns of Steel
+  name: SARATH
   definition: ''
   Week: ''
 - timestamp: '2020-10-20 16:24:58'
@@ -6612,6 +6654,12 @@
   fbid: TAONG8070
   badge: Tour de Singapore
   name: Malcolm Taong
+  definition: ''
+  Week: ''
+- timestamp: '2020-11-08 20:10:53'
+  fbid: Hasty55555
+  badge: Tour de Singapore
+  name: Hasty
   definition: ''
   Week: ''
 - timestamp: '2020-10-20 20:07:13'
@@ -7349,49 +7397,49 @@
 - timestamp: '2020-10-30 08:37:35'
   fbid: Slimer1234
   badge: Iron Lungs
-  name: Slimer
+  name: ''
   definition: ''
   Week: ''
 - timestamp: '2020-10-30 21:39:51'
   fbid: Euj1871
   badge: Iron Lungs
-  name: Euj
+  name: ''
   definition: ''
   Week: ''
 - timestamp: '2020-10-31 18:53:01'
   fbid: Corrupt2705
   badge: Iron Lungs
-  name: Daniel Tay
+  name: ''
   definition: ''
   Week: ''
 - timestamp: '2020-11-01 19:10:57'
   fbid: Jabez8686
   badge: Iron Lungs
-  name: Yun Jie (Rhythm)
+  name: ''
   definition: ''
   Week: ''
 - timestamp: '2020-11-02 11:33:34'
   fbid: horsepower2001
   badge: Iron Lungs
-  name: Nicholas Lian
+  name: ''
   definition: ''
   Week: ''
 - timestamp: '2020-11-03 08:19:08'
   fbid: Sloh0121
   badge: Iron Lungs
-  name: Sloh
+  name: ''
   definition: ''
   Week: ''
 - timestamp: '2020-11-03 16:45:21'
   fbid: jheng0000
   badge: Iron Lungs
-  name: jheng
+  name: ''
   definition: ''
   Week: ''
 - timestamp: '2020-11-05 16:11:25'
   fbid: Ektar1971
   badge: Iron Lungs
-  name: Ektar
+  name: ''
   definition: ''
   Week: ''
 - timestamp: '2020-11-05 21:55:00'
