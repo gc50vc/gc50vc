@@ -2534,6 +2534,12 @@
   name: 'Eric '
   definition: ''
   Week: '3'
+- timestamp: '2020-11-08 22:30:58'
+  fbid: SMLD1234
+  badge: Baby Steps
+  name: Ja5on
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-22 18:39:38'
   fbid: BY8362
   badge: Half Ironman
@@ -2718,6 +2724,12 @@
   fbid: Hasty55555
   badge: Ironman
   name: Hasty
+  definition: ''
+  Week: '3'
+- timestamp: '2020-11-08 22:27:22'
+  fbid: Jade9669
+  badge: Ironman
+  name: Jade
   definition: ''
   Week: '3'
 - timestamp: '2020-10-31 13:57:53'
@@ -4934,6 +4946,12 @@
   name: 'Eric '
   definition: ''
   Week: '3'
+- timestamp: '2020-11-08 22:30:58'
+  fbid: SMLD1234
+  badge: Mount Everest
+  name: Ja5on
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-22 00:35:59'
   fbid: Extreme8123
   badge: Marathon
@@ -5588,6 +5606,12 @@
   name: Wolf Mun
   definition: ''
   Week: '3'
+- timestamp: '2020-11-08 22:27:22'
+  fbid: Jade9669
+  badge: Marathon
+  name: Jade
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-24 01:24:37'
   fbid: Extreme8123
   badge: Run For Your Life
@@ -5977,25 +6001,25 @@
   badge: Buns of Steel
   name: Sunray
   definition: ''
-  Week: '1'
+  Week: ''
 - timestamp: '2020-10-25 20:22:44'
   fbid: Kevinlcc4369
   badge: Buns of Steel
   name: Kevin Leong
   definition: ''
-  Week: '1'
+  Week: ''
 - timestamp: '2020-10-25 21:47:11'
   fbid: rocket1999
   badge: Buns of Steel
   name: Yi Kuang
   definition: ''
-  Week: '1'
+  Week: ''
 - timestamp: '2020-10-26 07:41:05'
   fbid: Reload0203
   badge: Buns of Steel
   name: Barter
   definition: ''
-  Week: '2'
+  Week: ''
 - timestamp: '2020-10-26 08:36:21'
   fbid: fuhaowei8435
   badge: Buns of Steel
@@ -7373,25 +7397,25 @@
 - timestamp: '2020-11-05 20:51:23'
   fbid: Yapoh0304
   badge: Swordfish
-  name: yapoh
+  name: ''
   definition: ''
   Week: ''
 - timestamp: '2020-11-06 21:53:05'
   fbid: Ram7267
   badge: Swordfish
-  name: Ram
+  name: ''
   definition: ''
   Week: ''
 - timestamp: '2020-11-07 16:19:51'
   fbid: APHRMC0207
   badge: Swordfish
-  name: AP
+  name: ''
   definition: ''
   Week: ''
 - timestamp: '2020-11-07 16:34:49'
   fbid: Angmo1984
   badge: Swordfish
-  name: AngmoATB
+  name: ''
   definition: ''
   Week: ''
 - timestamp: '2020-11-08 13:46:45'
