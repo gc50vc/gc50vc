@@ -1719,6 +1719,16 @@
   Swim: '0.00'
   Walk: '3.37'
 - Rank: '173'
+  Name: Pat160A
+  Group: ADSS/ADWS/ADWO
+  FBID: Pat1991
+  Total_Mileage: '35.56'
+  Badges: '4'
+  Run: '13.51'
+  Cycle: '0.00'
+  Swim: '3.68'
+  Walk: '0.00'
+- Rank: '174'
   Name: Wong Wei Ming
   Group: ATC
   FBID: Shadow0206
@@ -1728,7 +1738,7 @@
   Cycle: '0.00'
   Swim: '2.14'
   Walk: '0.00'
-- Rank: '174'
+- Rank: '175'
   Name: Alloy
   Group: ABM
   FBID: alloy8585
@@ -1738,7 +1748,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '175'
+- Rank: '176'
   Name: Guang
   Group: ADSS/ADWS/ADWO
   FBID: Guang1309
@@ -1748,7 +1758,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '176'
+- Rank: '177'
   Name: 'Beatbox '
   Group: ABM
   FBID: Beatbox0202
@@ -1758,7 +1768,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '7.54'
-- Rank: '177'
+- Rank: '178'
   Name: CSM
   Group: ADSS/ADWS/ADWO
   FBID: CSM8189
@@ -1768,7 +1778,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '12.30'
-- Rank: '178'
+- Rank: '179'
   Name: Kelvis
   Group: ADSS/ADWS/ADWO
   FBID: Kelvis2000
@@ -1778,7 +1788,7 @@
   Cycle: '40.73'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '179'
+- Rank: '180'
   Name: Ham
   Group: ADSS/ADWS/ADWO
   FBID: Ham1234
@@ -1788,7 +1798,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '180'
+- Rank: '181'
   Name: Jiajun
   Group: ADSS/ADWS/ADWO
   FBID: Jj2304
@@ -1798,7 +1808,7 @@
   Cycle: '0.00'
   Swim: '4.00'
   Walk: '11.06'
-- Rank: '181'
+- Rank: '182'
   Name: Nana
   Group: AFE
   FBID: Chris1166
@@ -1808,7 +1818,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '70.00'
-- Rank: '182'
+- Rank: '183'
   Name: Gekhro
   Group: ADSS/ADWS/ADWO
   FBID: Gekhro1234
@@ -1818,7 +1828,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '183'
+- Rank: '184'
   Name: USwiftO
   Group: ADW
   FBID: Swift1010
@@ -1828,7 +1838,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '184'
+- Rank: '185'
   Name: Eric
   Group: AOSX/AOS
   FBID: RelacRun0011
@@ -1838,7 +1848,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '185'
+- Rank: '186'
   Name: Day
   Group: ATC
   FBID: Racer0370
@@ -1848,7 +1858,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '53.00'
-- Rank: '186'
+- Rank: '187'
   Name: Hy
   Group: ATC
   FBID: huangyi2111
@@ -1858,7 +1868,7 @@
   Cycle: '22.72'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '187'
+- Rank: '188'
   Name: Mayer
   Group: ADSS/ADWS/ADWO
   FBID: Ops3165
@@ -1868,7 +1878,7 @@
   Cycle: '95.56'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '188'
+- Rank: '189'
   Name: AL
   Group: AOSX/AOS
   FBID: Alnino9999
@@ -1878,7 +1888,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '189'
+- Rank: '190'
   Name: NicC
   Group: ADSS/ADWS/ADWO
   FBID: NC1634
@@ -1888,7 +1898,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '189'
+- Rank: '190'
   Name: Kelvin
   Group: ADSS/ADWS/ADWO
   FBID: Kelvin1111
@@ -1897,16 +1907,6 @@
   Run: '32.00'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '191'
-  Name: Pat160A
-  Group: ADSS/ADWS/ADWO
-  FBID: Pat1991
-  Total_Mileage: '31.99'
-  Badges: '4'
-  Run: '9.94'
-  Cycle: '0.00'
-  Swim: '3.68'
   Walk: '0.00'
 - Rank: '192'
   Name: Kenneth
