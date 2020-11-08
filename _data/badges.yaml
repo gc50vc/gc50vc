@@ -4910,6 +4910,12 @@
   name: charl
   definition: ''
   Week: '3'
+- timestamp: '2020-11-08 21:24:15'
+  fbid: Meliodas4545
+  badge: Mount Everest
+  name: Evan
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-22 00:35:59'
   fbid: Extreme8123
   badge: Marathon
@@ -5995,7 +6001,7 @@
   badge: Buns of Steel
   name: HC
   definition: ''
-  Week: '1'
+  Week: ''
 - timestamp: '2020-10-27 23:01:00'
   fbid: Relaxing1234
   badge: Buns of Steel
@@ -7391,7 +7397,7 @@
 - timestamp: '2020-10-25 16:46:04'
   fbid: Trex1406
   badge: Iron Lungs
-  name: T-rex
+  name: ''
   definition: ''
   Week: ''
 - timestamp: '2020-10-25 23:59:58'
