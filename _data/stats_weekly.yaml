@@ -52,11 +52,11 @@
   Name: Prem
   Group: ADW
   FBID: Premium6687
-  Total_Mileage: '92.99'
+  Total_Mileage: '102.29'
   Badges: '1'
   Run: '19.34'
   Cycle: '42.58'
-  Swim: '10.50'
+  Swim: '12.05'
   Walk: '0.00'
 - Rank: '7'
   Name: Lee Wen Yang
@@ -319,6 +319,16 @@
   Swim: '1.26'
   Walk: '0.00'
 - Rank: '33'
+  Name: HC
+  Group: ADSS/ADWS/ADWO
+  FBID: hc1234
+  Total_Mileage: '50.61'
+  Badges: '0'
+  Run: '3.88'
+  Cycle: '186.92'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '34'
   Name: l0ng live the beard
   Group: ADSS/ADWS/ADWO
   FBID: Rovin0787
@@ -328,7 +338,7 @@
   Cycle: '141.04'
   Swim: '0.00'
   Walk: '5.07'
-- Rank: '34'
+- Rank: '35'
   Name: Daniel Tay
   Group: AOSX/AOS
   FBID: Corrupt2705
@@ -338,7 +348,7 @@
   Cycle: '0.00'
   Swim: '4.40'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -348,7 +358,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '36'
+- Rank: '37'
   Name: RainmanCYK
   Group: ADW
   FBID: Rainman0000
@@ -358,7 +368,7 @@
   Cycle: '0.00'
   Swim: '8.00'
   Walk: '0.00'
-- Rank: '37'
+- Rank: '38'
   Name: Slong
   Group: ADW
   FBID: Slong1234
@@ -368,7 +378,7 @@
   Cycle: '0.00'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '38'
+- Rank: '39'
   Name: Xiaolow3344
   Group: ADSS/ADWS/ADWO
   FBID: Xiaolow3344
@@ -378,7 +388,7 @@
   Cycle: '0.00'
   Swim: '7.40'
   Walk: '33.94'
-- Rank: '39'
+- Rank: '40'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -388,7 +398,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '40'
+- Rank: '41'
   Name: 'JOASH THANABALAN '
   Group: ADSS/ADWS/ADWO
   FBID: Worldwide1994
@@ -397,16 +407,6 @@
   Run: '0.00'
   Cycle: '0.00'
   Swim: '7.00'
-  Walk: '0.00'
-- Rank: '41'
-  Name: HC
-  Group: ADSS/ADWS/ADWO
-  FBID: hc1234
-  Total_Mileage: '41.90'
-  Badges: '0'
-  Run: '3.88'
-  Cycle: '152.09'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '42'
   Name: Jefferson
