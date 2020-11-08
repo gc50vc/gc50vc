@@ -109,6 +109,16 @@
   Swim: '8.55'
   Walk: '0.00'
 - Rank: '12'
+  Name: Tony Foo
+  Group: ADW
+  FBID: tonyfoo0165
+  Total_Mileage: '81.00'
+  Badges: '0'
+  Run: '81.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '13'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -118,7 +128,7 @@
   Cycle: '72.23'
   Swim: '6.00'
   Walk: '2.24'
-- Rank: '13'
+- Rank: '14'
   Name: 'TiGeR3 '
   Group: ADSS/ADWS/ADWO
   FBID: TiGeR2876
@@ -128,7 +138,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '15'
   Name: Gabriel Low
   Group: ADSS/ADWS/ADWO
   FBID: gabrieltried1234
@@ -138,7 +148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '15'
+- Rank: '16'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -147,16 +157,6 @@
   Run: '15.18'
   Cycle: '206.33'
   Swim: '1.00'
-  Walk: '0.00'
-- Rank: '16'
-  Name: Tony Foo
-  Group: ADW
-  FBID: tonyfoo0165
-  Total_Mileage: '71.00'
-  Badges: '0'
-  Run: '71.00'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '17'
   Name: Bgtan
