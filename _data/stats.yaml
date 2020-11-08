@@ -489,6 +489,16 @@
   Swim: '0.00'
   Walk: '11.10'
 - Rank: '50'
+  Name: Liwei
+  Group: ADW
+  FBID: dragongate5270
+  Total_Mileage: '109.19'
+  Badges: '8'
+  Run: '45.35'
+  Cycle: '144.95'
+  Swim: '4.60'
+  Walk: '2.45'
+- Rank: '51'
   Name: Btee
   Group: AFE
   FBID: Brian0307
@@ -498,7 +508,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '51'
+- Rank: '52'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -508,16 +518,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '23.30'
-- Rank: '52'
-  Name: Liwei
-  Group: ADW
-  FBID: dragongate5270
-  Total_Mileage: '104.19'
-  Badges: '8'
-  Run: '45.35'
-  Cycle: '124.95'
-  Swim: '4.60'
-  Walk: '2.45'
 - Rank: '53'
   Name: Rubiks
   Group: ABM
