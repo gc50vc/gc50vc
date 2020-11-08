@@ -219,6 +219,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '23'
+  Name: Ah Bye
+  Group: ADSS/ADWS/ADWO
+  FBID: Ahbye1234
+  Total_Mileage: '54.25'
+  Badges: '1'
+  Run: '40.25'
+  Cycle: '32.00'
+  Swim: '1.00'
+  Walk: '0.00'
+- Rank: '24'
   Name: yapoh
   Group: ADW
   FBID: Yapoh0304
@@ -228,7 +238,7 @@
   Cycle: '52.00'
   Swim: '3.70'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: Wang0165
@@ -238,7 +248,7 @@
   Cycle: '0.00'
   Swim: '0.80'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -248,7 +258,7 @@
   Cycle: '114.00'
   Swim: '1.26'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: l0ng live the beard
   Group: ADSS/ADWS/ADWO
   FBID: Rovin0787
@@ -258,7 +268,7 @@
   Cycle: '141.04'
   Swim: '0.00'
   Walk: '5.07'
-- Rank: '27'
+- Rank: '28'
   Name: Daniel Tay
   Group: AOSX/AOS
   FBID: Corrupt2705
@@ -277,16 +287,6 @@
   Run: '49.23'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '28'
-  Name: Ah Bye
-  Group: ADSS/ADWS/ADWO
-  FBID: Ahbye1234
-  Total_Mileage: '49.23'
-  Badges: '1'
-  Run: '35.23'
-  Cycle: '32.00'
-  Swim: '1.00'
   Walk: '0.00'
 - Rank: '30'
   Name: RainmanCYK
