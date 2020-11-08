@@ -412,9 +412,9 @@
   Name: Vapor
   Group: ADW
   FBID: Vapor6148
-  Total_Mileage: '124.58'
+  Total_Mileage: '129.59'
   Badges: '4'
-  Run: '124.58'
+  Run: '129.59'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
@@ -959,6 +959,16 @@
   Swim: '4.80'
   Walk: '28.68'
 - Rank: '97'
+  Name: Akileis
+  Group: ADW
+  FBID: Akileis0163
+  Total_Mileage: '68.30'
+  Badges: '4'
+  Run: '2.30'
+  Cycle: '0.00'
+  Swim: '11.00'
+  Walk: '6.29'
+- Rank: '98'
   Name: Jeremy Tan
   Group: ATC
   FBID: Scavenge1601
@@ -968,7 +978,7 @@
   Cycle: '0.00'
   Swim: '0.80'
   Walk: '0.00'
-- Rank: '98'
+- Rank: '99'
   Name: loanshark
   Group: ATC
   FBID: loanshark9356
@@ -978,7 +988,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '99'
+- Rank: '100'
   Name: Yun Jie (Rhythm)
   Group: ADW
   FBID: Jabez8686
@@ -988,7 +998,7 @@
   Cycle: '0.00'
   Swim: '8.45'
   Walk: '4.80'
-- Rank: '100'
+- Rank: '101'
   Name: Lava
   Group: ATC
   FBID: Lava1717
@@ -998,7 +1008,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '101'
+- Rank: '102'
   Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
   FBID: LeonYeo2590
@@ -1008,7 +1018,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '102'
+- Rank: '103'
   Name: Andre
   Group: ADW
   FBID: Andre7429
@@ -1018,7 +1028,7 @@
   Cycle: '222.16'
   Swim: '0.85'
   Walk: '0.00'
-- Rank: '103'
+- Rank: '104'
   Name: Barter
   Group: ATC
   FBID: Reload0203
@@ -1028,7 +1038,7 @@
   Cycle: '203.00'
   Swim: '1.50'
   Walk: '13.50'
-- Rank: '104'
+- Rank: '105'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -1038,7 +1048,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '105'
+- Rank: '106'
   Name: Yeow Teck
   Group: AOSX/AOS
   FBID: Youtube6116
@@ -1048,7 +1058,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '106'
+- Rank: '107'
   Name: Gwyn
   Group: ADW
   FBID: Magma1201
@@ -1058,7 +1068,7 @@
   Cycle: '46.60'
   Swim: '0.00'
   Walk: '8.93'
-- Rank: '107'
+- Rank: '108'
   Name: COVID
   Group: ADSS/ADWS/ADWO
   FBID: COVID9999
@@ -1068,7 +1078,7 @@
   Cycle: '74.61'
   Swim: '0.00'
   Walk: '21.50'
-- Rank: '108'
+- Rank: '109'
   Name: KevinKKW
   Group: ADSS/ADWS/ADWO
   FBID: Kkkw0165
@@ -1078,7 +1088,7 @@
   Cycle: '117.90'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '109'
+- Rank: '110'
   Name: 'Windy '
   Group: ABM
   FBID: Windy4444
@@ -1088,7 +1098,7 @@
   Cycle: '0.00'
   Swim: '9.60'
   Walk: '0.00'
-- Rank: '110'
+- Rank: '111'
   Name: You Rong
   Group: ADW
   FBID: Audi1987
@@ -1098,7 +1108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '111'
+- Rank: '112'
   Name: Camper
   Group: ADW
   FBID: tanht1968
@@ -1108,7 +1118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '112'
+- Rank: '113'
   Name: Wan Yuan
   Group: ADW
   FBID: Lost1908
@@ -1118,7 +1128,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '113'
+- Rank: '114'
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
@@ -1128,7 +1138,7 @@
   Cycle: '8.04'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '114'
+- Rank: '115'
   Name: BENteo
   Group: AFE
   FBID: BEN7452
@@ -1138,7 +1148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '115'
+- Rank: '116'
   Name: Jenny
   Group: AFE
   FBID: Jenny7373
@@ -1148,7 +1158,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '67.39'
-- Rank: '116'
+- Rank: '117'
   Name: Alan
   Group: ADSS/ADWS/ADWO
   FBID: Alan2881
@@ -1158,16 +1168,6 @@
   Cycle: '0.00'
   Swim: '4.05'
   Walk: '32.00'
-- Rank: '116'
-  Name: Akileis
-  Group: ADW
-  FBID: Akileis0163
-  Total_Mileage: '53.30'
-  Badges: '4'
-  Run: '2.30'
-  Cycle: '0.00'
-  Swim: '8.50'
-  Walk: '6.29'
 - Rank: '118'
   Name: Chin Yong
   Group: ADSS/ADWS/ADWO
