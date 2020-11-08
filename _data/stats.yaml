@@ -12,10 +12,10 @@
   Name: Ben
   Group: ADW
   FBID: BY8362
-  Total_Mileage: '611.26'
+  Total_Mileage: '617.27'
   Badges: '13'
   Run: '131.34'
-  Cycle: '1383.26'
+  Cycle: '1407.32'
   Swim: '22.35'
   Walk: '5.05'
 - Rank: '3'
@@ -269,6 +269,16 @@
   Swim: '15.00'
   Walk: '7.27'
 - Rank: '28'
+  Name: Bronson
+  Group: ADW
+  FBID: Bronze1234
+  Total_Mileage: '149.85'
+  Badges: '6'
+  Run: '38.28'
+  Cycle: '80.27'
+  Swim: '15.25'
+  Walk: '0.00'
+- Rank: '29'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -278,7 +288,7 @@
   Cycle: '130.38'
   Swim: '0.00'
   Walk: '1.57'
-- Rank: '29'
+- Rank: '30'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -288,7 +298,7 @@
   Cycle: '186.00'
   Swim: '1.26'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '31'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -298,7 +308,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.68'
-- Rank: '31'
+- Rank: '32'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -307,16 +317,6 @@
   Run: '7.94'
   Cycle: '544.41'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '32'
-  Name: Bronson
-  Group: ADW
-  FBID: Bronze1234
-  Total_Mileage: '143.70'
-  Badges: '6'
-  Run: '38.28'
-  Cycle: '80.27'
-  Swim: '14.23'
   Walk: '0.00'
 - Rank: '33'
   Name: Coral
@@ -1749,6 +1749,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '176'
+  Name: Soh Thiam Hing
+  Group: ADSS/ADWS/ADWO
+  FBID: daffodilistic1337
+  Total_Mileage: '35.33'
+  Badges: '2'
+  Run: '32.89'
+  Cycle: '9.74'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '177'
   Name: Guang
   Group: ADSS/ADWS/ADWO
   FBID: Guang1309
@@ -1758,7 +1768,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '177'
+- Rank: '178'
   Name: 'Beatbox '
   Group: ABM
   FBID: Beatbox0202
@@ -1768,7 +1778,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '7.54'
-- Rank: '178'
+- Rank: '179'
   Name: CSM
   Group: ADSS/ADWS/ADWO
   FBID: CSM8189
@@ -1778,7 +1788,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '12.30'
-- Rank: '179'
+- Rank: '180'
   Name: Kelvis
   Group: ADSS/ADWS/ADWO
   FBID: Kelvis2000
@@ -1788,7 +1798,7 @@
   Cycle: '40.73'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '180'
+- Rank: '181'
   Name: Ham
   Group: ADSS/ADWS/ADWO
   FBID: Ham1234
@@ -1798,7 +1808,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '181'
+- Rank: '182'
   Name: Jiajun
   Group: ADSS/ADWS/ADWO
   FBID: Jj2304
@@ -1808,7 +1818,7 @@
   Cycle: '0.00'
   Swim: '4.00'
   Walk: '11.06'
-- Rank: '182'
+- Rank: '183'
   Name: Nana
   Group: AFE
   FBID: Chris1166
@@ -1818,7 +1828,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '70.00'
-- Rank: '183'
+- Rank: '184'
   Name: Gekhro
   Group: ADSS/ADWS/ADWO
   FBID: Gekhro1234
@@ -1828,7 +1838,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '184'
+- Rank: '185'
   Name: USwiftO
   Group: ADW
   FBID: Swift1010
@@ -1838,7 +1848,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '185'
+- Rank: '186'
   Name: Eric
   Group: AOSX/AOS
   FBID: RelacRun0011
@@ -1848,7 +1858,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '186'
+- Rank: '187'
   Name: Day
   Group: ATC
   FBID: Racer0370
@@ -1858,7 +1868,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '53.00'
-- Rank: '187'
+- Rank: '188'
   Name: Hy
   Group: ATC
   FBID: huangyi2111
@@ -1868,7 +1878,7 @@
   Cycle: '22.72'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '188'
+- Rank: '189'
   Name: Mayer
   Group: ADSS/ADWS/ADWO
   FBID: Ops3165
@@ -1878,7 +1888,7 @@
   Cycle: '95.56'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '189'
+- Rank: '190'
   Name: AL
   Group: AOSX/AOS
   FBID: Alnino9999
@@ -1888,7 +1898,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '190'
+- Rank: '191'
   Name: NicC
   Group: ADSS/ADWS/ADWO
   FBID: NC1634
@@ -1898,7 +1908,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '190'
+- Rank: '191'
   Name: Kelvin
   Group: ADSS/ADWS/ADWO
   FBID: Kelvin1111
@@ -1908,7 +1918,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '192'
+- Rank: '193'
   Name: Kenneth
   Group: ADSS/ADWS/ADWO
   FBID: Cat0407
@@ -1916,16 +1926,6 @@
   Badges: '2'
   Run: '31.50'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '193'
-  Name: Soh Thiam Hing
-  Group: ADSS/ADWS/ADWO
-  FBID: daffodilistic1337
-  Total_Mileage: '31.46'
-  Badges: '2'
-  Run: '29.02'
-  Cycle: '9.74'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '194'
