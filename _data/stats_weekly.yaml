@@ -79,6 +79,16 @@
   Swim: '8.55'
   Walk: '0.00'
 - Rank: '9'
+  Name: Andrew
+  Group: ADW
+  FBID: Hammer1990
+  Total_Mileage: '83.11'
+  Badges: '2'
+  Run: '83.11'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '10'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -88,7 +98,7 @@
   Cycle: '72.23'
   Swim: '6.00'
   Walk: '2.24'
-- Rank: '10'
+- Rank: '11'
   Name: Gabriel Low
   Group: ADSS/ADWS/ADWO
   FBID: gabrieltried1234
@@ -98,7 +108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -107,16 +117,6 @@
   Run: '15.18'
   Cycle: '206.33'
   Swim: '1.00'
-  Walk: '0.00'
-- Rank: '12'
-  Name: Andrew
-  Group: ADW
-  FBID: Hammer1990
-  Total_Mileage: '71.11'
-  Badges: '1'
-  Run: '71.11'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '13'
   Name: Tony Foo
@@ -773,7 +773,7 @@
   Group: ADW
   FBID: TEH0501
   Total_Mileage: '23.36'
-  Badges: '3'
+  Badges: '2'
   Run: '12.86'
   Cycle: '42.00'
   Swim: '0.00'
