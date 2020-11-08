@@ -699,6 +699,16 @@
   Swim: '2.50'
   Walk: '6.00'
 - Rank: '71'
+  Name: TT
+  Group: ABM
+  FBID: jiawei1989
+  Total_Mileage: '90.00'
+  Badges: '3'
+  Run: '87.29'
+  Cycle: '10.83'
+  Swim: '0.00'
+  Walk: '1.89'
+- Rank: '72'
   Name: Rocky
   Group: AOSX/AOS
   FBID: ZeRo7113
@@ -708,7 +718,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '57.30'
-- Rank: '72'
+- Rank: '73'
   Name: Rats
   Group: ABM
   FBID: Rats1500
@@ -718,7 +728,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '73'
+- Rank: '74'
   Name: Slong
   Group: ADW
   FBID: Slong1234
@@ -728,7 +738,7 @@
   Cycle: '0.00'
   Swim: '3.22'
   Walk: '0.00'
-- Rank: '74'
+- Rank: '75'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -738,16 +748,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '75'
-  Name: TT
-  Group: ABM
-  FBID: jiawei1989
-  Total_Mileage: '83.84'
-  Badges: '3'
-  Run: '81.13'
-  Cycle: '10.83'
-  Swim: '0.00'
-  Walk: '1.89'
 - Rank: '76'
   Name: Tan Chee Wee
   Group: ATC
