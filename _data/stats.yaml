@@ -1039,16 +1039,6 @@
   Swim: '0.00'
   Walk: '21.50'
 - Rank: '105'
-  Name: Sunray
-  Group: ABM
-  FBID: Sunray0909
-  Total_Mileage: '57.72'
-  Badges: '4'
-  Run: '20.10'
-  Cycle: '150.49'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '106'
   Name: You Rong
   Group: ADW
   FBID: Audi1987
@@ -1058,7 +1048,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '107'
+- Rank: '106'
   Name: KevinKKW
   Group: ADSS/ADWS/ADWO
   FBID: Kkkw0165
@@ -1068,7 +1058,7 @@
   Cycle: '117.90'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '108'
+- Rank: '107'
   Name: Camper
   Group: ADW
   FBID: tanht1968
@@ -1078,7 +1068,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '109'
+- Rank: '108'
   Name: Wan Yuan
   Group: ADW
   FBID: Lost1908
@@ -1088,7 +1078,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '110'
+- Rank: '109'
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
@@ -1098,7 +1088,7 @@
   Cycle: '8.04'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '111'
+- Rank: '110'
   Name: BENteo
   Group: AFE
   FBID: BEN7452
@@ -1108,7 +1098,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '112'
+- Rank: '111'
   Name: Alan
   Group: ADSS/ADWS/ADWO
   FBID: Alan2881
@@ -1118,7 +1108,7 @@
   Cycle: '0.00'
   Swim: '4.05'
   Walk: '32.00'
-- Rank: '113'
+- Rank: '112'
   Name: Jeremy Tan
   Group: ATC
   FBID: Scavenge1601
@@ -1128,7 +1118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '114'
+- Rank: '113'
   Name: Chin Yong
   Group: ADSS/ADWS/ADWO
   FBID: Relaxing1234
@@ -1138,6 +1128,16 @@
   Cycle: '55.45'
   Swim: '0.00'
   Walk: '25.34'
+- Rank: '114'
+  Name: Sunray
+  Group: ABM
+  FBID: Sunray0909
+  Total_Mileage: '52.72'
+  Badges: '4'
+  Run: '15.10'
+  Cycle: '150.49'
+  Swim: '0.00'
+  Walk: '0.00'
 - Rank: '115'
   Name: 3sg Charlie
   Group: ADSS/ADWS/ADWO
