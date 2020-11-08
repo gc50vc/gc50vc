@@ -979,6 +979,16 @@
   Swim: '1.00'
   Walk: '0.00'
 - Rank: '99'
+  Name: Andre
+  Group: ADW
+  FBID: Andre7429
+  Total_Mileage: '63.17'
+  Badges: '4'
+  Run: '4.22'
+  Cycle: '215.41'
+  Swim: '0.85'
+  Walk: '0.00'
+- Rank: '100'
   Name: Gwyn
   Group: ADW
   FBID: Magma1201
@@ -988,7 +998,7 @@
   Cycle: '46.60'
   Swim: '0.00'
   Walk: '8.93'
-- Rank: '100'
+- Rank: '101'
   Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
   FBID: LeonYeo2590
@@ -998,7 +1008,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '101'
+- Rank: '102'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -1008,7 +1018,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '102'
+- Rank: '103'
   Name: Sunray
   Group: ABM
   FBID: Sunray0909
@@ -1017,16 +1027,6 @@
   Run: '20.10'
   Cycle: '150.49'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '103'
-  Name: Andre
-  Group: ADW
-  FBID: Andre7429
-  Total_Mileage: '57.16'
-  Badges: '3'
-  Run: '4.22'
-  Cycle: '191.37'
-  Swim: '0.85'
   Walk: '0.00'
 - Rank: '104'
   Name: You Rong
@@ -1287,7 +1287,7 @@
   Run: '46.87'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '3.70'
+  Walk: '5.77'
 - Rank: '130'
   Name: Hector
   Group: ADW
