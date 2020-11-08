@@ -979,6 +979,16 @@
   Swim: '1.50'
   Walk: '13.50'
 - Rank: '99'
+  Name: Weaver
+  Group: ADW
+  FBID: Weaver5275
+  Total_Mileage: '64.44'
+  Badges: '3'
+  Run: '64.44'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '100'
   Name: Yeow Teck
   Group: AOSX/AOS
   FBID: Youtube6116
@@ -988,7 +998,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '100'
+- Rank: '101'
   Name: Andre
   Group: ADW
   FBID: Andre7429
@@ -998,7 +1008,7 @@
   Cycle: '215.41'
   Swim: '0.85'
   Walk: '0.00'
-- Rank: '101'
+- Rank: '102'
   Name: Gwyn
   Group: ADW
   FBID: Magma1201
@@ -1008,7 +1018,7 @@
   Cycle: '46.60'
   Swim: '0.00'
   Walk: '8.93'
-- Rank: '102'
+- Rank: '103'
   Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
   FBID: LeonYeo2590
@@ -1018,7 +1028,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '103'
+- Rank: '104'
   Name: COVID
   Group: ADSS/ADWS/ADWO
   FBID: COVID9999
@@ -1028,16 +1038,6 @@
   Cycle: '74.61'
   Swim: '0.00'
   Walk: '21.50'
-- Rank: '104'
-  Name: Weaver
-  Group: ADW
-  FBID: Weaver5275
-  Total_Mileage: '58.38'
-  Badges: '3'
-  Run: '58.38'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '105'
   Name: Sunray
   Group: ABM
