@@ -1999,6 +1999,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '201'
+  Name: Dubs
+  Group: ADW
+  FBID: Dubs0002
+  Total_Mileage: '31.71'
+  Badges: '2'
+  Run: '31.71'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '202'
   Name: Lin Weili
   Group: AOSX/AOS
   FBID: Michelin5052
@@ -2008,7 +2018,7 @@
   Cycle: '22.35'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '202'
+- Rank: '203'
   Name: Kenneth
   Group: ADSS/ADWS/ADWO
   FBID: Cat0407
@@ -2018,7 +2028,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '203'
+- Rank: '204'
   Name: 'Eddie Chua '
   Group: AFE
   FBID: EddieChua1973
@@ -2028,7 +2038,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '204'
+- Rank: '205'
   Name: Jon Thia
   Group: ADW
   FBID: Penguin3812
@@ -2038,7 +2048,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '7.31'
-- Rank: '205'
+- Rank: '206'
   Name: Logan
   Group: ABM
   FBID: Logan0001
@@ -2048,7 +2058,7 @@
   Cycle: '43.24'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '206'
+- Rank: '207'
   Name: Ganesan
   Group: AFE
   FBID: Guinness2512
@@ -2058,7 +2068,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '207'
+- Rank: '208'
   Name: Junan
   Group: ADW
   FBID: Junan1111
@@ -2068,7 +2078,7 @@
   Cycle: '37.19'
   Swim: '0.00'
   Walk: '19.16'
-- Rank: '208'
+- Rank: '209'
   Name: NG Eng Ming
   Group: ADSS/ADWS/ADWO
   FBID: NgEM1858
@@ -2078,7 +2088,7 @@
   Cycle: '121.60'
   Swim: '0.00'
   Walk: '32.45'
-- Rank: '209'
+- Rank: '210'
   Name: Songbird
   Group: ABM
   FBID: Songbird1904
@@ -2088,7 +2098,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '210'
+- Rank: '211'
   Name: SARATH
   Group: ADW
   FBID: SARATH2311
@@ -2098,7 +2108,7 @@
   Cycle: '66.37'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '211'
+- Rank: '212'
   Name: Joe Ng
   Group: AOSX/AOS
   FBID: Wiki5279
@@ -2108,7 +2118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '212'
+- Rank: '213'
   Name: Fam
   Group: ADSS/ADWS/ADWO
   FBID: Phantom1997
@@ -2118,7 +2128,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '213'
+- Rank: '214'
   Name: batu
   Group: ABM
   FBID: batu1984
@@ -2128,7 +2138,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '2.50'
-- Rank: '214'
+- Rank: '215'
   Name: Guojie
   Group: ADSS/ADWS/ADWO
   FBID: Thug2107
@@ -2138,7 +2148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '215'
+- Rank: '216'
   Name: Spear
   Group: ATC
   FBID: Spear0213
@@ -2148,7 +2158,7 @@
   Cycle: '0.00'
   Swim: '2.50'
   Walk: '0.00'
-- Rank: '216'
+- Rank: '217'
   Name: Hsien Rong
   Group: ADSS/ADWS/ADWO
   FBID: xian1108
@@ -2158,7 +2168,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '217'
+- Rank: '218'
   Name: Yan Ting
   Group: ADSS/ADWS/ADWO
   FBID: Yeti1993
@@ -2167,16 +2177,6 @@
   Run: '16.16'
   Cycle: '0.00'
   Swim: '2.10'
-  Walk: '0.00'
-- Rank: '218'
-  Name: Dubs
-  Group: ADW
-  FBID: Dubs0002
-  Total_Mileage: '28.29'
-  Badges: '2'
-  Run: '28.29'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '219'
   Name: Yi Kuang
