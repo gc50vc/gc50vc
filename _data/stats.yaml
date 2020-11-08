@@ -459,6 +459,16 @@
   Swim: '0.50'
   Walk: '10.51'
 - Rank: '47'
+  Name: Ah Bye
+  Group: ADSS/ADWS/ADWO
+  FBID: Ahbye1234
+  Total_Mileage: '104.21'
+  Badges: '7'
+  Run: '62.45'
+  Cycle: '131.03'
+  Swim: '1.50'
+  Walk: '6.00'
+- Rank: '48'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -468,7 +478,7 @@
   Cycle: '124.95'
   Swim: '4.60'
   Walk: '2.45'
-- Rank: '48'
+- Rank: '49'
   Name: Rubiks
   Group: ABM
   FBID: Rubiks1234
@@ -478,7 +488,7 @@
   Cycle: '41.78'
   Swim: '4.10'
   Walk: '0.00'
-- Rank: '49'
+- Rank: '50'
   Name: Maj Lim
   Group: ABM
   FBID: Legoz1000
@@ -488,7 +498,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '16.48'
-- Rank: '50'
+- Rank: '51'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -498,7 +508,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.28'
-- Rank: '51'
+- Rank: '52'
   Name: Benson
   Group: ADW
   FBID: benoi1234
@@ -508,16 +518,6 @@
   Cycle: '10.94'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '52'
-  Name: Ah Bye
-  Group: ADSS/ADWS/ADWO
-  FBID: Ahbye1234
-  Total_Mileage: '99.19'
-  Badges: '7'
-  Run: '57.43'
-  Cycle: '131.03'
-  Swim: '1.50'
-  Walk: '6.00'
 - Rank: '53'
   Name: Hanyong
   Group: ADW
