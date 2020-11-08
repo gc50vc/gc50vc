@@ -1009,6 +1009,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '102'
+  Name: COVID
+  Group: ADSS/ADWS/ADWO
+  FBID: COVID9999
+  Total_Mileage: '58.96'
+  Badges: '3'
+  Run: '40.31'
+  Cycle: '74.61'
+  Swim: '0.00'
+  Walk: '21.50'
+- Rank: '103'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -1018,7 +1028,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '103'
+- Rank: '104'
   Name: Sunray
   Group: ABM
   FBID: Sunray0909
@@ -1028,7 +1038,7 @@
   Cycle: '150.49'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '104'
+- Rank: '105'
   Name: You Rong
   Group: ADW
   FBID: Audi1987
@@ -1038,7 +1048,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '105'
+- Rank: '106'
   Name: KevinKKW
   Group: ADSS/ADWS/ADWO
   FBID: Kkkw0165
@@ -1048,7 +1058,7 @@
   Cycle: '117.90'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '106'
+- Rank: '107'
   Name: Wan Yuan
   Group: ADW
   FBID: Lost1908
@@ -1058,7 +1068,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '107'
+- Rank: '108'
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
@@ -1068,7 +1078,7 @@
   Cycle: '8.04'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '108'
+- Rank: '109'
   Name: BENteo
   Group: AFE
   FBID: BEN7452
@@ -1078,7 +1088,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '109'
+- Rank: '110'
   Name: Alan
   Group: ADSS/ADWS/ADWO
   FBID: Alan2881
@@ -1088,7 +1098,7 @@
   Cycle: '0.00'
   Swim: '4.05'
   Walk: '32.00'
-- Rank: '110'
+- Rank: '111'
   Name: Jeremy Tan
   Group: ATC
   FBID: Scavenge1601
@@ -1098,7 +1108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '111'
+- Rank: '112'
   Name: Chin Yong
   Group: ADSS/ADWS/ADWO
   FBID: Relaxing1234
@@ -1108,7 +1118,7 @@
   Cycle: '55.45'
   Swim: '0.00'
   Walk: '25.34'
-- Rank: '112'
+- Rank: '113'
   Name: 3sg Charlie
   Group: ADSS/ADWS/ADWO
   FBID: Charlie2539
@@ -1118,7 +1128,7 @@
   Cycle: '0.00'
   Swim: '2.45'
   Walk: '0.00'
-- Rank: '113'
+- Rank: '114'
   Name: Rambo
   Group: AOSX/AOS
   FBID: Rambo0113
@@ -1128,16 +1138,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '114'
-  Name: COVID
-  Group: ADSS/ADWS/ADWO
-  FBID: COVID9999
-  Total_Mileage: '51.59'
-  Badges: '3'
-  Run: '40.31'
-  Cycle: '45.11'
-  Swim: '0.00'
-  Walk: '21.50'
 - Rank: '115'
   Name: Darius Ng
   Group: ADSS/ADWS/ADWO
