@@ -1079,6 +1079,16 @@
   Swim: '0.80'
   Walk: '0.00'
 - Rank: '109'
+  Name: 'Windy '
+  Group: ABM
+  FBID: Windy4444
+  Total_Mileage: '57.60'
+  Badges: '4'
+  Run: '0.00'
+  Cycle: '0.00'
+  Swim: '9.60'
+  Walk: '0.00'
+- Rank: '110'
   Name: You Rong
   Group: ADW
   FBID: Audi1987
@@ -1088,7 +1098,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '110'
+- Rank: '111'
   Name: Camper
   Group: ADW
   FBID: tanht1968
@@ -1098,7 +1108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '111'
+- Rank: '112'
   Name: Wan Yuan
   Group: ADW
   FBID: Lost1908
@@ -1108,7 +1118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '112'
+- Rank: '113'
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
@@ -1117,16 +1127,6 @@
   Run: '53.56'
   Cycle: '8.04'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '113'
-  Name: 'Windy '
-  Group: ABM
-  FBID: Windy4444
-  Total_Mileage: '55.20'
-  Badges: '4'
-  Run: '0.00'
-  Cycle: '0.00'
-  Swim: '9.20'
   Walk: '0.00'
 - Rank: '114'
   Name: BENteo
