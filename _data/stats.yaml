@@ -439,6 +439,16 @@
   Swim: '3.60'
   Walk: '4.00'
 - Rank: '45'
+  Name: Btee
+  Group: AFE
+  FBID: Brian0307
+  Total_Mileage: '108.89'
+  Badges: '4'
+  Run: '108.89'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '46'
   Name: Cosmo
   Group: ABM
   FBID: Cosmo6306
@@ -448,7 +458,7 @@
   Cycle: '0.00'
   Swim: '0.50'
   Walk: '10.51'
-- Rank: '46'
+- Rank: '47'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -458,7 +468,7 @@
   Cycle: '124.95'
   Swim: '4.60'
   Walk: '2.45'
-- Rank: '47'
+- Rank: '48'
   Name: Rubiks
   Group: ABM
   FBID: Rubiks1234
@@ -468,7 +478,7 @@
   Cycle: '41.78'
   Swim: '4.10'
   Walk: '0.00'
-- Rank: '48'
+- Rank: '49'
   Name: Maj Lim
   Group: ABM
   FBID: Legoz1000
@@ -478,7 +488,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '16.48'
-- Rank: '49'
+- Rank: '50'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -488,7 +498,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.28'
-- Rank: '50'
+- Rank: '51'
   Name: Benson
   Group: ADW
   FBID: benoi1234
@@ -498,7 +508,7 @@
   Cycle: '10.94'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '51'
+- Rank: '52'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
   FBID: Ahbye1234
@@ -508,7 +518,7 @@
   Cycle: '131.03'
   Swim: '1.50'
   Walk: '6.00'
-- Rank: '52'
+- Rank: '53'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -518,7 +528,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '53'
+- Rank: '54'
   Name: Bgtan
   Group: ADSS/ADWS/ADWO
   FBID: Kenny9889
@@ -528,7 +538,7 @@
   Cycle: '382.73'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '54'
+- Rank: '55'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -538,7 +548,7 @@
   Cycle: '216.46'
   Swim: '4.10'
   Walk: '0.00'
-- Rank: '55'
+- Rank: '56'
   Name: 'TiGeR3 '
   Group: ADSS/ADWS/ADWO
   FBID: TiGeR2876
@@ -548,7 +558,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '56'
+- Rank: '57'
   Name: Poon
   Group: ADSS/ADWS/ADWO
   FBID: Poon3636
@@ -558,7 +568,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '57'
+- Rank: '58'
   Name: Weng
   Group: ADSS/ADWS/ADWO
   FBID: Weng8238
@@ -568,16 +578,6 @@
   Cycle: '231.54'
   Swim: '0.00'
   Walk: '13.86'
-- Rank: '58'
-  Name: Btee
-  Group: AFE
-  FBID: Brian0307
-  Total_Mileage: '93.33'
-  Badges: '3'
-  Run: '93.33'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '59'
   Name: Keith low
   Group: ADSS/ADWS/ADWO
