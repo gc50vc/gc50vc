@@ -1429,6 +1429,16 @@
   Swim: '1.00'
   Walk: '0.00'
 - Rank: '144'
+  Name: Yew Choong
+  Group: ADSS/ADWS/ADWO
+  FBID: GGXC0160
+  Total_Mileage: '43.29'
+  Badges: '3'
+  Run: '43.29'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '19.25'
+- Rank: '145'
   Name: ARROW
   Group: ADW
   FBID: Tee1980
@@ -1438,7 +1448,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '145'
+- Rank: '146'
   Name: Pterlek
   Group: ATC
   FBID: Conman7361
@@ -1448,16 +1458,6 @@
   Cycle: '0.00'
   Swim: '7.00'
   Walk: '6.49'
-- Rank: '146'
-  Name: Yew Choong
-  Group: ADSS/ADWS/ADWO
-  FBID: GGXC0160
-  Total_Mileage: '41.79'
-  Badges: '2'
-  Run: '41.79'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '19.25'
 - Rank: '147'
   Name: TRIPS
   Group: ATC
