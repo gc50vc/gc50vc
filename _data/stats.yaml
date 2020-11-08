@@ -199,6 +199,16 @@
   Swim: '6.45'
   Walk: '0.00'
 - Rank: '21'
+  Name: 'TiGeR3 '
+  Group: ADSS/ADWS/ADWO
+  FBID: TiGeR2876
+  Total_Mileage: '169.66'
+  Badges: '4'
+  Run: '169.66'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '22'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -208,7 +218,7 @@
   Cycle: '639.06'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -218,7 +228,7 @@
   Cycle: '479.54'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -228,7 +238,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: AdolphusJJ
   Group: AOSX/AOS
   FBID: Bamboo1234
@@ -238,7 +248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -248,16 +258,6 @@
   Cycle: '609.17'
   Swim: '0.00'
   Walk: '2.19'
-- Rank: '26'
-  Name: 'TiGeR3 '
-  Group: ADSS/ADWS/ADWO
-  FBID: TiGeR2876
-  Total_Mileage: '153.99'
-  Badges: '4'
-  Run: '153.99'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '27'
   Name: Rycel Wong
   Group: AOSX/AOS
