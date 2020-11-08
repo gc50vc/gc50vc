@@ -399,6 +399,16 @@
   Swim: '8.00'
   Walk: '0.00'
 - Rank: '41'
+  Name: Bronson
+  Group: ADW
+  FBID: Bronze1234
+  Total_Mileage: '47.52'
+  Badges: '1'
+  Run: '11.43'
+  Cycle: '42.95'
+  Swim: '4.23'
+  Walk: '0.00'
+- Rank: '42'
   Name: Slong
   Group: ADW
   FBID: Slong1234
@@ -408,7 +418,7 @@
   Cycle: '0.00'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '42'
+- Rank: '43'
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
@@ -418,7 +428,7 @@
   Cycle: '0.00'
   Swim: '1.55'
   Walk: '0.00'
-- Rank: '43'
+- Rank: '44'
   Name: Xiaolow3344
   Group: ADSS/ADWS/ADWO
   FBID: Xiaolow3344
@@ -428,7 +438,17 @@
   Cycle: '0.00'
   Swim: '7.40'
   Walk: '33.94'
-- Rank: '44'
+- Rank: '45'
+  Name: Cutthroat
+  Group: ATC
+  FBID: Cutthroat0403
+  Total_Mileage: '43.65'
+  Badges: '0'
+  Run: '16.65'
+  Cycle: '0.00'
+  Swim: '4.50'
+  Walk: '0.00'
+- Rank: '46'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -438,7 +458,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '45'
+- Rank: '47'
   Name: 'JOASH THANABALAN '
   Group: ADSS/ADWS/ADWO
   FBID: Worldwide1994
@@ -448,7 +468,7 @@
   Cycle: '0.00'
   Swim: '7.00'
   Walk: '0.00'
-- Rank: '46'
+- Rank: '48'
   Name: Jefferson
   Group: AFE
   FBID: VolvoJeff1985
@@ -458,7 +478,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '47'
+- Rank: '49'
   Name: Vapor
   Group: ADW
   FBID: Vapor6148
@@ -468,7 +488,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '48'
+- Rank: '50'
   Name: PCK
   Group: ADW
   FBID: PCK2205
@@ -478,7 +498,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '49'
+- Rank: '51'
   Name: Jenny
   Group: AFE
   FBID: Jenny7373
@@ -488,7 +508,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '19.54'
-- Rank: '50'
+- Rank: '52'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
   FBID: Ahbye1234
@@ -498,7 +518,7 @@
   Cycle: '32.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '51'
+- Rank: '53'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -508,7 +528,7 @@
   Cycle: '65.38'
   Swim: '0.00'
   Walk: '0.40'
-- Rank: '52'
+- Rank: '54'
   Name: Ah Bing
   Group: ADW
   FBID: Bingo0507
@@ -518,7 +538,7 @@
   Cycle: '73.81'
   Swim: '0.60'
   Walk: '0.00'
-- Rank: '53'
+- Rank: '55'
   Name: Andrew
   Group: ADW
   FBID: Hammer1990
@@ -528,7 +548,7 @@
   Cycle: '60.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '54'
+- Rank: '56'
   Name: Lia
   Group: ADSS/ADWS/ADWO
   FBID: Lia1116
@@ -538,7 +558,7 @@
   Cycle: '21.07'
   Swim: '1.10'
   Walk: '0.00'
-- Rank: '55'
+- Rank: '57'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
@@ -548,17 +568,7 @@
   Cycle: '0.00'
   Swim: '4.00'
   Walk: '0.00'
-- Rank: '56'
-  Name: Bronson
-  Group: ADW
-  FBID: Bronze1234
-  Total_Mileage: '36.78'
-  Badges: '0'
-  Run: '11.43'
-  Cycle: '0.00'
-  Swim: '4.23'
-  Walk: '0.00'
-- Rank: '57'
+- Rank: '58'
   Name: Sean Chua
   Group: ADSS/ADWS/ADWO
   FBID: Stop0001
@@ -568,7 +578,7 @@
   Cycle: '44.91'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '58'
+- Rank: '59'
   Name: Weng
   Group: ADSS/ADWS/ADWO
   FBID: Weng8238
@@ -578,7 +588,7 @@
   Cycle: '35.01'
   Swim: '0.00'
   Walk: '1.03'
-- Rank: '59'
+- Rank: '60'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -587,16 +597,6 @@
   Run: '35.01'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '59'
-  Name: Cutthroat
-  Group: ATC
-  FBID: Cutthroat0403
-  Total_Mileage: '35.01'
-  Badges: '0'
-  Run: '8.01'
-  Cycle: '0.00'
-  Swim: '4.50'
   Walk: '0.00'
 - Rank: '61'
   Name: Steroid
