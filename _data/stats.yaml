@@ -409,6 +409,16 @@
   Swim: '0.00'
   Walk: '79.15'
 - Rank: '42'
+  Name: Cookie
+  Group: ATC
+  FBID: Cookie3rdWSO1975
+  Total_Mileage: '120.98'
+  Badges: '5'
+  Run: '101.48'
+  Cycle: '78.01'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '43'
   Name: Andrew
   Group: ADW
   FBID: Hammer1990
@@ -418,7 +428,7 @@
   Cycle: '225.06'
   Swim: '3.00'
   Walk: '0.00'
-- Rank: '43'
+- Rank: '44'
   Name: Vapor
   Group: ADW
   FBID: Vapor6148
@@ -426,16 +436,6 @@
   Badges: '4'
   Run: '120.56'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '44'
-  Name: Cookie
-  Group: ATC
-  FBID: Cookie3rdWSO1975
-  Total_Mileage: '110.76'
-  Badges: '4'
-  Run: '91.26'
-  Cycle: '78.01'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '45'
@@ -5273,11 +5273,11 @@
   Group: AFE
   FBID: longwind3686
   Total_Mileage: '0.00'
-  Badges: '0'
+  Badges: '1'
   Run: '0.00'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '6.00'
+  Walk: '14.00'
 - Rank: '516'
   Name: Laser
   Group: ADW
