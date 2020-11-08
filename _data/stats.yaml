@@ -89,6 +89,16 @@
   Swim: '9.50'
   Walk: '3.02'
 - Rank: '10'
+  Name: Prem
+  Group: ADW
+  FBID: Premium6687
+  Total_Mileage: '246.36'
+  Badges: '7'
+  Run: '61.41'
+  Cycle: '42.58'
+  Swim: '29.05'
+  Walk: '1.32'
+- Rank: '11'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -98,16 +108,6 @@
   Cycle: '129.34'
   Swim: '20.99'
   Walk: '93.22'
-- Rank: '11'
-  Name: Prem
-  Group: ADW
-  FBID: Premium6687
-  Total_Mileage: '237.06'
-  Badges: '7'
-  Run: '61.41'
-  Cycle: '42.58'
-  Swim: '27.50'
-  Walk: '1.32'
 - Rank: '12'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
@@ -219,6 +219,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '23'
+  Name: HC
+  Group: ADSS/ADWS/ADWO
+  FBID: hc1234
+  Total_Mileage: '167.25'
+  Badges: '4'
+  Run: '6.25'
+  Cycle: '644.00'
+  Swim: '0.00'
+  Walk: '2.19'
+- Rank: '24'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -228,7 +238,7 @@
   Cycle: '479.54'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -238,7 +248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -248,7 +258,7 @@
   Cycle: '280.50'
   Swim: '6.40'
   Walk: '14.39'
-- Rank: '26'
+- Rank: '27'
   Name: AdolphusJJ
   Group: AOSX/AOS
   FBID: Bamboo1234
@@ -258,16 +268,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '27'
-  Name: HC
-  Group: ADSS/ADWS/ADWO
-  FBID: hc1234
-  Total_Mileage: '158.54'
-  Badges: '4'
-  Run: '6.25'
-  Cycle: '609.17'
-  Swim: '0.00'
-  Walk: '2.19'
 - Rank: '28'
   Name: 'Tan Swee Kiat '
   Group: ADW
