@@ -189,6 +189,16 @@
   Swim: '3.10'
   Walk: '0.00'
 - Rank: '20'
+  Name: Cutthroat
+  Group: ATC
+  FBID: Cutthroat0403
+  Total_Mileage: '183.93'
+  Badges: '6'
+  Run: '141.08'
+  Cycle: '16.60'
+  Swim: '6.45'
+  Walk: '0.00'
+- Rank: '21'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -198,7 +208,7 @@
   Cycle: '161.17'
   Swim: '15.20'
   Walk: '10.01'
-- Rank: '21'
+- Rank: '22'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -208,16 +218,6 @@
   Cycle: '681.03'
   Swim: '0.00'
   Walk: '2.19'
-- Rank: '22'
-  Name: Cutthroat
-  Group: ATC
-  FBID: Cutthroat0403
-  Total_Mileage: '175.29'
-  Badges: '6'
-  Run: '132.44'
-  Cycle: '16.60'
-  Swim: '6.45'
-  Walk: '0.00'
 - Rank: '23'
   Name: 'TiGeR3 '
   Group: ADSS/ADWS/ADWO
@@ -289,6 +289,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '30'
+  Name: Bronson
+  Group: ADW
+  FBID: Bronze1234
+  Total_Mileage: '160.59'
+  Badges: '8'
+  Run: '38.28'
+  Cycle: '123.22'
+  Swim: '15.25'
+  Walk: '0.00'
+- Rank: '31'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -298,7 +308,7 @@
   Cycle: '186.00'
   Swim: '1.26'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '32'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
@@ -308,16 +318,6 @@
   Cycle: '32.50'
   Swim: '15.00'
   Walk: '7.27'
-- Rank: '32'
-  Name: Bronson
-  Group: ADW
-  FBID: Bronze1234
-  Total_Mileage: '149.85'
-  Badges: '6'
-  Run: '38.28'
-  Cycle: '80.27'
-  Swim: '15.25'
-  Walk: '0.00'
 - Rank: '33'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
