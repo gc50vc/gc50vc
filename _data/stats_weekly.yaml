@@ -419,6 +419,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '43'
+  Name: Vapor
+  Group: ADW
+  FBID: Vapor6148
+  Total_Mileage: '41.55'
+  Badges: '1'
+  Run: '41.55'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '44'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
@@ -428,7 +438,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '44'
+- Rank: '45'
   Name: Nicholas Lian
   Group: ADW
   FBID: horsepower2001
@@ -437,16 +447,6 @@
   Run: '37.43'
   Cycle: '0.00'
   Swim: '0.60'
-  Walk: '0.00'
-- Rank: '45'
-  Name: Vapor
-  Group: ADW
-  FBID: Vapor6148
-  Total_Mileage: '39.93'
-  Badges: '1'
-  Run: '39.93'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '46'
   Name: Andrew Leong
