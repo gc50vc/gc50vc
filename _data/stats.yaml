@@ -92,11 +92,11 @@
   Name: Euj
   Group: ATC
   FBID: Euj1871
-  Total_Mileage: '229.22'
+  Total_Mileage: '240.27'
   Badges: '9'
-  Run: '78.14'
+  Run: '81.99'
   Cycle: '129.34'
-  Swim: '19.79'
+  Swim: '20.99'
   Walk: '93.22'
 - Rank: '11'
   Name: Prem
@@ -609,6 +609,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '62'
+  Name: Lia
+  Group: ADSS/ADWS/ADWO
+  FBID: Lia1116
+  Total_Mileage: '91.33'
+  Badges: '5'
+  Run: '63.53'
+  Cycle: '63.18'
+  Swim: '2.00'
+  Walk: '0.00'
+- Rank: '63'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -618,7 +628,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '23.30'
-- Rank: '63'
+- Rank: '64'
   Name: Quainapz
   Group: ADSS/ADWS/ADWO
   FBID: Quainapz8585
@@ -628,7 +638,7 @@
   Cycle: '0.00'
   Swim: '3.10'
   Walk: '2.30'
-- Rank: '64'
+- Rank: '65'
   Name: Rocky
   Group: AOSX/AOS
   FBID: ZeRo7113
@@ -638,7 +648,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '57.30'
-- Rank: '65'
+- Rank: '66'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
@@ -648,7 +658,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '66'
+- Rank: '67'
   Name: Rats
   Group: ABM
   FBID: Rats1500
@@ -658,7 +668,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '67'
+- Rank: '68'
   Name: PCK
   Group: ADW
   FBID: PCK2205
@@ -668,7 +678,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '68'
+- Rank: '69'
   Name: Slong
   Group: ADW
   FBID: Slong1234
@@ -678,7 +688,7 @@
   Cycle: '0.00'
   Swim: '3.22'
   Walk: '0.00'
-- Rank: '69'
+- Rank: '70'
   Name: TT
   Group: ABM
   FBID: jiawei1989
@@ -688,16 +698,6 @@
   Cycle: '10.83'
   Swim: '0.00'
   Walk: '1.89'
-- Rank: '70'
-  Name: Lia
-  Group: ADSS/ADWS/ADWO
-  FBID: Lia1116
-  Total_Mileage: '80.82'
-  Badges: '5'
-  Run: '53.02'
-  Cycle: '63.18'
-  Swim: '2.00'
-  Walk: '0.00'
 - Rank: '71'
   Name: Lightyear
   Group: ADW
