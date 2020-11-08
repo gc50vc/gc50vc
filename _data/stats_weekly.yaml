@@ -209,6 +209,16 @@
   Swim: '1.15'
   Walk: '0.00'
 - Rank: '22'
+  Name: Ah Bye
+  Group: ADSS/ADWS/ADWO
+  FBID: Ahbye1234
+  Total_Mileage: '60.25'
+  Badges: '1'
+  Run: '40.25'
+  Cycle: '32.00'
+  Swim: '2.00'
+  Walk: '0.00'
+- Rank: '23'
   Name: Coral
   Group: ABM
   FBID: Coral5050
@@ -218,7 +228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -228,7 +238,7 @@
   Cycle: '213.71'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -237,16 +247,6 @@
   Run: '55.80'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '25'
-  Name: Ah Bye
-  Group: ADSS/ADWS/ADWO
-  FBID: Ahbye1234
-  Total_Mileage: '54.25'
-  Badges: '1'
-  Run: '40.25'
-  Cycle: '32.00'
-  Swim: '1.00'
   Walk: '0.00'
 - Rank: '26'
   Name: yapoh
