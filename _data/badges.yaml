@@ -2528,6 +2528,12 @@
   name: TAN
   definition: ''
   Week: '3'
+- timestamp: '2020-11-08 21:48:58'
+  fbid: RelacRunner0011
+  badge: Baby Steps
+  name: 'Eric '
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-22 18:39:38'
   fbid: BY8362
   badge: Half Ironman
@@ -4916,6 +4922,12 @@
   name: Evan
   definition: ''
   Week: '3'
+- timestamp: '2020-11-08 21:48:58'
+  fbid: RelacRunner0011
+  badge: Mount Everest
+  name: 'Eric '
+  definition: ''
+  Week: '3'
 - timestamp: '2020-10-22 00:35:59'
   fbid: Extreme8123
   badge: Marathon
@@ -5989,13 +6001,13 @@
   badge: Buns of Steel
   name: Hasty
   definition: ''
-  Week: '2'
+  Week: ''
 - timestamp: '2020-10-26 21:24:31'
   fbid: Andre7429
   badge: Buns of Steel
   name: Andre
   definition: ''
-  Week: '2'
+  Week: ''
 - timestamp: '2020-10-25 23:59:58'
   fbid: hc1234
   badge: Buns of Steel
@@ -7385,13 +7397,13 @@
 - timestamp: '2020-10-23 18:18:07'
   fbid: Extreme8123
   badge: Iron Lungs
-  name: Extreme
+  name: ''
   definition: ''
   Week: ''
 - timestamp: '2020-10-25 11:26:15'
   fbid: BY8362
   badge: Iron Lungs
-  name: Ben
+  name: ''
   definition: ''
   Week: ''
 - timestamp: '2020-10-25 16:46:04'
