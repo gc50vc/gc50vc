@@ -12,10 +12,10 @@
   Name: Ben
   Group: ADW
   FBID: BY8362
-  Total_Mileage: '617.27'
+  Total_Mileage: '622.29'
   Badges: '13'
   Run: '131.34'
-  Cycle: '1407.32'
+  Cycle: '1427.38'
   Swim: '22.35'
   Walk: '5.05'
 - Rank: '3'
@@ -102,9 +102,9 @@
   Name: Prem
   Group: ADW
   FBID: Premium6687
-  Total_Mileage: '229.06'
+  Total_Mileage: '237.06'
   Badges: '7'
-  Run: '53.41'
+  Run: '61.41'
   Cycle: '42.58'
   Swim: '27.50'
   Walk: '1.32'
@@ -709,6 +709,16 @@
   Swim: '0.00'
   Walk: '1.89'
 - Rank: '72'
+  Name: Tan Chee Wee
+  Group: ATC
+  FBID: tancw1974
+  Total_Mileage: '83.65'
+  Badges: '3'
+  Run: '83.65'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '73'
   Name: QUENCHER
   Group: ABM
   FBID: quencher2020
@@ -718,7 +728,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '73'
+- Rank: '74'
   Name: Lightyear
   Group: ADW
   FBID: Lightyear2020
@@ -728,7 +738,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '74'
+- Rank: '75'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -738,7 +748,7 @@
   Cycle: '18.27'
   Swim: '0.00'
   Walk: '3.42'
-- Rank: '75'
+- Rank: '76'
   Name: Rock
   Group: ADW
   FBID: Rock0165
@@ -748,7 +758,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '6.00'
-- Rank: '76'
+- Rank: '77'
   Name: Silver
   Group: ABM
   FBID: Silver5117
@@ -758,16 +768,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.10'
-- Rank: '77'
-  Name: Tan Chee Wee
-  Group: ATC
-  FBID: tancw1974
-  Total_Mileage: '76.85'
-  Badges: '3'
-  Run: '76.85'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '78'
   Name: AP
   Group: ADW
