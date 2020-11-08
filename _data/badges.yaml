@@ -2540,6 +2540,12 @@
   name: Ja5on
   definition: ''
   Week: '3'
+- timestamp: '2020-11-09 00:14:19'
+  fbid: OUTLAW2111
+  badge: Baby Steps
+  name: Parthiban
+  definition: ''
+  Week: '4'
 - timestamp: '2020-10-22 18:39:38'
   fbid: BY8362
   badge: Half Ironman
@@ -4952,6 +4958,12 @@
   name: Ja5on
   definition: ''
   Week: '3'
+- timestamp: '2020-11-09 00:14:19'
+  fbid: OUTLAW2111
+  badge: Mount Everest
+  name: Parthiban
+  definition: ''
+  Week: '4'
 - timestamp: '2020-10-22 00:35:59'
   fbid: Extreme8123
   badge: Marathon
@@ -5989,13 +6001,13 @@
   badge: Buns of Steel
   name: AP
   definition: ''
-  Week: '1'
+  Week: ''
 - timestamp: '2020-10-25 15:05:51'
   fbid: Slimer1234
   badge: Buns of Steel
   name: Slimer
   definition: ''
-  Week: '1'
+  Week: ''
 - timestamp: '2020-10-25 15:54:09'
   fbid: Leonard0402
   badge: Buns of Steel
@@ -7385,13 +7397,13 @@
 - timestamp: '2020-11-04 16:54:19'
   fbid: Ektar1971
   badge: Swordfish
-  name: Ektar
+  name: ''
   definition: ''
   Week: ''
 - timestamp: '2020-11-04 19:18:45'
   fbid: Akileis0163
   badge: Swordfish
-  name: Akileis
+  name: ''
   definition: ''
   Week: ''
 - timestamp: '2020-11-04 19:23:34'
