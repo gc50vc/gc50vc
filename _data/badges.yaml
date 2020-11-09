@@ -1472,78 +1472,24 @@
   name: TINY
   definition: ''
   Week: '1'
-- timestamp: '2020-10-26 08:36:21'
-  fbid: fuhaowei8435
-  badge: Baby Steps
-  name: Fu Hao Wei
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-26 09:02:45'
-  fbid: jie0304
-  badge: Baby Steps
-  name: WJ
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-26 09:07:13'
-  fbid: Cat0407
-  badge: Baby Steps
-  name: Kenneth
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-26 09:19:43'
-  fbid: Amar0165
-  badge: Baby Steps
-  name: 'Amarverest '
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-26 09:36:39'
-  fbid: Filter2174
-  badge: Baby Steps
-  name: Min Jet
-  definition: ''
-  Week: '2'
 - timestamp: '2020-10-25 23:59:58'
   fbid: Ihit0103
   badge: Baby Steps
   name: Ihit
   definition: ''
   Week: '1'
-- timestamp: '2020-10-26 17:41:21'
-  fbid: Jaywhy0309
+- timestamp: '2020-10-25 23:59:58'
+  fbid: fuhaowei8435
   badge: Baby Steps
-  name: JIAYONG
+  name: Fu Hao Wei
   definition: ''
-  Week: '2'
+  Week: '1'
 - timestamp: '2020-10-25 23:59:58'
   fbid: KianSeng0170
   badge: Baby Steps
   name: Kian Seng
   definition: ''
   Week: '1'
-- timestamp: '2020-10-26 18:12:19'
-  fbid: Menthol0701
-  badge: Baby Steps
-  name: Ryan Tan
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-26 18:44:59'
-  fbid: Eug8626
-  badge: Baby Steps
-  name: Eugene lee
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-26 19:14:05'
-  fbid: Jon3445
-  badge: Baby Steps
-  name: Lim Kian Hock
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-26 19:36:48'
-  fbid: Pohlw7878
-  badge: Baby Steps
-  name: Poh Liong Wui
-  definition: ''
-  Week: '2'
 - timestamp: '2020-10-25 23:59:58'
   fbid: Logan0001
   badge: Baby Steps
@@ -1568,6 +1514,108 @@
   name: bok ong
   definition: ''
   Week: '1'
+- timestamp: '2020-10-25 23:59:58'
+  fbid: KM1695
+  badge: Baby Steps
+  name: Kush
+  definition: ''
+  Week: '1'
+- timestamp: '2020-10-25 23:59:58'
+  fbid: Guinness2512
+  badge: Baby Steps
+  name: Ganesan
+  definition: ''
+  Week: '1'
+- timestamp: '2020-10-25 23:59:58'
+  fbid: hc1234
+  badge: Baby Steps
+  name: HC
+  definition: ''
+  Week: '1'
+- timestamp: '2020-10-25 23:59:58'
+  fbid: ZeRo7113
+  badge: Baby Steps
+  name: Rocky
+  definition: ''
+  Week: '1'
+- timestamp: '2020-10-25 23:59:58'
+  fbid: Kchrispian1979
+  badge: Baby Steps
+  name: Maiboliao
+  definition: ''
+  Week: '1'
+- timestamp: '2020-10-25 23:59:58'
+  fbid: Kenny9889
+  badge: Baby Steps
+  name: Bgtan
+  definition: ''
+  Week: '1'
+- timestamp: '2020-10-25 23:59:58'
+  fbid: TAONG8070
+  badge: Baby Steps
+  name: Malcolm Taong
+  definition: ''
+  Week: '1'
+- timestamp: '2020-10-25 23:59:58'
+  fbid: SMLD1234
+  badge: Baby Steps
+  name: Ja5on
+  definition: ''
+  Week: '1'
+- timestamp: '2020-10-26 09:02:45'
+  fbid: jie0304
+  badge: Baby Steps
+  name: WJ
+  definition: ''
+  Week: '2'
+- timestamp: '2020-10-26 09:07:13'
+  fbid: Cat0407
+  badge: Baby Steps
+  name: Kenneth
+  definition: ''
+  Week: '2'
+- timestamp: '2020-10-26 09:19:43'
+  fbid: Amar0165
+  badge: Baby Steps
+  name: 'Amarverest '
+  definition: ''
+  Week: '2'
+- timestamp: '2020-10-26 09:36:39'
+  fbid: Filter2174
+  badge: Baby Steps
+  name: Min Jet
+  definition: ''
+  Week: '2'
+- timestamp: '2020-10-26 17:41:21'
+  fbid: Jaywhy0309
+  badge: Baby Steps
+  name: JIAYONG
+  definition: ''
+  Week: '2'
+- timestamp: '2020-10-26 18:12:19'
+  fbid: Menthol0701
+  badge: Baby Steps
+  name: Ryan Tan
+  definition: ''
+  Week: '2'
+- timestamp: '2020-10-26 18:44:59'
+  fbid: Eug8626
+  badge: Baby Steps
+  name: Eugene lee
+  definition: ''
+  Week: '2'
+- timestamp: '2020-10-26 19:14:05'
+  fbid: Jon3445
+  badge: Baby Steps
+  name: Lim Kian Hock
+  definition: ''
+  Week: '2'
+- timestamp: '2020-10-26 19:36:48'
+  fbid: Pohlw7878
+  badge: Baby Steps
+  name: Poh Liong Wui
+  definition: ''
+  Week: '2'
 - timestamp: '2020-10-26 20:59:31'
   fbid: lima5208
   badge: Baby Steps
@@ -1610,22 +1658,10 @@
   name: Halu
   definition: ''
   Week: '2'
-- timestamp: '2020-10-25 23:59:58'
-  fbid: KM1695
-  badge: Baby Steps
-  name: Kush
-  definition: ''
-  Week: '1'
 - timestamp: '2020-10-27 09:10:14'
   fbid: disco2541
   badge: Baby Steps
   name: Zach Elliott
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-27 10:09:23'
-  fbid: Guinness2512
-  badge: Baby Steps
-  name: Ganesan
   definition: ''
   Week: '2'
 - timestamp: '2020-10-27 10:45:16'
@@ -1634,12 +1670,6 @@
   name: Spear
   definition: ''
   Week: '2'
-- timestamp: '2020-10-25 23:59:58'
-  fbid: hc1234
-  badge: Baby Steps
-  name: HC
-  definition: ''
-  Week: '1'
 - timestamp: '2020-10-27 17:25:17'
   fbid: HOOPS4881
   badge: Baby Steps
@@ -1670,12 +1700,12 @@
   name: Edgar
   definition: ''
   Week: '2'
-- timestamp: '2020-10-25 23:59:58'
+- timestamp: '2020-10-27 22:01:28'
   fbid: Saw1818
   badge: Baby Steps
   name: Saw
   definition: ''
-  Week: '1'
+  Week: '2'
 - timestamp: '2020-10-27 22:13:54'
   fbid: timkan1991
   badge: Baby Steps
@@ -2090,6 +2120,24 @@
   name: Siew Boon Choy
   definition: ''
   Week: '2'
+- timestamp: '2020-11-01 23:59:58'
+  fbid: Nickel1191
+  badge: Baby Steps
+  name: Dominic
+  definition: ''
+  Week: '2'
+- timestamp: '2020-11-01 23:59:58'
+  fbid: OUTLAW2111
+  badge: Baby Steps
+  name: Parthiban
+  definition: ''
+  Week: '2'
+- timestamp: '2020-11-01 23:59:58'
+  fbid: Desmondowx1992
+  badge: Baby Steps
+  name: Desmond Ong
+  definition: ''
+  Week: '2'
 - timestamp: '2020-11-02 09:47:26'
   fbid: Weihow1503
   badge: Baby Steps
@@ -2138,12 +2186,6 @@
   name: Brandon
   definition: ''
   Week: '3'
-- timestamp: '2020-10-25 23:59:58'
-  fbid: ZeRo7113
-  badge: Baby Steps
-  name: Rocky
-  definition: ''
-  Week: '1'
 - timestamp: '2020-11-03 06:00:58'
   fbid: Akileis0163
   badge: Baby Steps
@@ -2162,18 +2204,18 @@
   name: Charles
   definition: ''
   Week: '3'
-- timestamp: '2020-10-25 23:59:58'
+- timestamp: '2020-11-03 09:50:28'
   fbid: Fedrik6315
   badge: Baby Steps
   name: 'Kow Zi Jie '
   definition: ''
-  Week: '1'
-- timestamp: '2020-11-01 23:59:58'
+  Week: '3'
+- timestamp: '2020-11-03 09:51:03'
   fbid: alpha0000
   badge: Baby Steps
   name: Caleb
   definition: ''
-  Week: '2'
+  Week: '3'
 - timestamp: '2020-11-03 15:58:14'
   fbid: EddieChua1973
   badge: Baby Steps
@@ -2234,12 +2276,6 @@
   name: 'Jolean '
   definition: ''
   Week: '3'
-- timestamp: '2020-11-01 23:59:58'
-  fbid: kchrispian1979
-  badge: Baby Steps
-  name: Chrispian
-  definition: ''
-  Week: '2'
 - timestamp: '2020-11-04 16:35:49'
   fbid: Sour1234
   badge: Baby Steps
@@ -2288,12 +2324,6 @@
   name: leslie
   definition: ''
   Week: '3'
-- timestamp: '2020-11-05 07:45:40'
-  fbid: Kenny9889
-  badge: Baby Steps
-  name: Bgtan
-  definition: ''
-  Week: '3'
 - timestamp: '2020-11-05 11:01:36'
   fbid: Toothless7777
   badge: Baby Steps
@@ -2334,12 +2364,6 @@
   fbid: Chrispian_1979
   badge: Baby Steps
   name: Maiboliao
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-06 00:02:26'
-  fbid: Nickel1191
-  badge: Baby Steps
-  name: Dominic
   definition: ''
   Week: '3'
 - timestamp: '2020-11-06 00:03:52'
@@ -2474,12 +2498,6 @@
   name: Beyblade
   definition: ''
   Week: '3'
-- timestamp: '2020-11-08 13:13:01'
-  fbid: TAONG8070
-  badge: Baby Steps
-  name: Malcolm Taong
-  definition: ''
-  Week: '3'
 - timestamp: '2020-11-08 13:46:45'
   fbid: Worldwide1994
   badge: Baby Steps
@@ -2528,24 +2546,6 @@
   name: 'Eric '
   definition: ''
   Week: '3'
-- timestamp: '2020-10-25 23:59:58'
-  fbid: SMLD1234
-  badge: Baby Steps
-  name: Ja5on
-  definition: ''
-  Week: '1'
-- timestamp: '2020-11-01 23:59:58'
-  fbid: OUTLAW2111
-  badge: Baby Steps
-  name: Parthiban
-  definition: ''
-  Week: '2'
-- timestamp: '2020-11-01 23:59:58'
-  fbid: Desmondowx1992
-  badge: Baby Steps
-  name: Desmond Ong
-  definition: ''
-  Week: '2'
 - timestamp: '2020-11-08 23:59:58'
   fbid: plusone0711
   badge: Baby Steps
@@ -3968,6 +3968,60 @@
   name: TINY
   definition: ''
   Week: '1'
+- timestamp: '2020-10-25 23:59:58'
+  fbid: KianSeng0170
+  badge: Mount Everest
+  name: Kian Seng
+  definition: ''
+  Week: '1'
+- timestamp: '2020-10-25 23:59:58'
+  fbid: Logan0001
+  badge: Mount Everest
+  name: Logan
+  definition: ''
+  Week: '1'
+- timestamp: '2020-10-25 23:59:58'
+  fbid: TiGeR2876
+  badge: Mount Everest
+  name: 'TiGeR3 '
+  definition: ''
+  Week: '1'
+- timestamp: '2020-10-25 23:59:58'
+  fbid: tonyfoo0165
+  badge: Mount Everest
+  name: Tony Foo
+  definition: ''
+  Week: '1'
+- timestamp: '2020-10-25 23:59:58'
+  fbid: bokong2903
+  badge: Mount Everest
+  name: bok ong
+  definition: ''
+  Week: '1'
+- timestamp: '2020-10-25 23:59:58'
+  fbid: KM1695
+  badge: Mount Everest
+  name: Kush
+  definition: ''
+  Week: '1'
+- timestamp: '2020-10-25 23:59:58'
+  fbid: Guinness2512
+  badge: Mount Everest
+  name: Ganesan
+  definition: ''
+  Week: '1'
+- timestamp: '2020-10-25 23:59:58'
+  fbid: SquarePants5882
+  badge: Mount Everest
+  name: SquarePants
+  definition: ''
+  Week: '1'
+- timestamp: '2020-10-25 23:59:58'
+  fbid: ZeRo7113
+  badge: Mount Everest
+  name: Rocky
+  definition: ''
+  Week: '1'
 - timestamp: '2020-10-26 08:53:22'
   fbid: Slimer1234
   badge: Mount Everest
@@ -3986,12 +4040,6 @@
   name: Yew Choong
   definition: ''
   Week: '2'
-- timestamp: '2020-10-25 23:59:58'
-  fbid: KianSeng0170
-  badge: Mount Everest
-  name: Kian Seng
-  definition: ''
-  Week: '1'
 - timestamp: '2020-10-26 17:56:46'
   fbid: Spacebar5647
   badge: Mount Everest
@@ -4010,36 +4058,12 @@
   name: Lasher
   definition: ''
   Week: '2'
-- timestamp: '2020-10-25 23:59:58'
-  fbid: Logan0001
-  badge: Mount Everest
-  name: Logan
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-25 23:59:58'
-  fbid: TiGeR2876
-  badge: Mount Everest
-  name: 'TiGeR3 '
-  definition: ''
-  Week: '1'
 - timestamp: '2020-10-26 20:43:02'
   fbid: Chisel2305
   badge: Mount Everest
   name: Chisel
   definition: ''
   Week: '2'
-- timestamp: '2020-10-25 23:59:58'
-  fbid: tonyfoo0165
-  badge: Mount Everest
-  name: Tony Foo
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-25 23:59:58'
-  fbid: bokong2903
-  badge: Mount Everest
-  name: bok ong
-  definition: ''
-  Week: '1'
 - timestamp: '2020-10-26 20:59:31'
   fbid: lima5208
   badge: Mount Everest
@@ -4074,18 +4098,6 @@
   fbid: Halu1805
   badge: Mount Everest
   name: Halu
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-25 23:59:58'
-  fbid: KM1695
-  badge: Mount Everest
-  name: Kush
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-27 10:09:23'
-  fbid: Guinness2512
-  badge: Mount Everest
-  name: Ganesan
   definition: ''
   Week: '2'
 - timestamp: '2020-10-27 10:51:02'
@@ -4130,12 +4142,12 @@
   name: Edgar
   definition: ''
   Week: '2'
-- timestamp: '2020-10-25 23:59:58'
+- timestamp: '2020-10-27 22:01:28'
   fbid: Saw1818
   badge: Mount Everest
   name: Saw
   definition: ''
-  Week: '1'
+  Week: '2'
 - timestamp: '2020-10-27 22:02:49'
   fbid: Karma2790
   badge: Mount Everest
@@ -4154,12 +4166,6 @@
   name: 'Chiang Meng '
   definition: ''
   Week: '2'
-- timestamp: '2020-10-25 23:59:58'
-  fbid: SquarePants5882
-  badge: Mount Everest
-  name: SquarePants
-  definition: ''
-  Week: '1'
 - timestamp: '2020-10-28 07:56:31'
   fbid: Blackjack0007
   badge: Mount Everest
@@ -4556,6 +4562,42 @@
   name: Siew Boon Choy
   definition: ''
   Week: '2'
+- timestamp: '2020-11-01 23:59:58'
+  fbid: Fedrik6315
+  badge: Mount Everest
+  name: 'Kow Zi Jie '
+  definition: ''
+  Week: '2'
+- timestamp: '2020-11-01 23:59:58'
+  fbid: alpha0000
+  badge: Mount Everest
+  name: Caleb
+  definition: ''
+  Week: '2'
+- timestamp: '2020-11-01 23:59:58'
+  fbid: Nickel1191
+  badge: Mount Everest
+  name: Dominic
+  definition: ''
+  Week: '2'
+- timestamp: '2020-11-01 23:59:58'
+  fbid: TAONG8070
+  badge: Mount Everest
+  name: Malcolm Taong
+  definition: ''
+  Week: '2'
+- timestamp: '2020-11-01 23:59:58'
+  fbid: OUTLAW2111
+  badge: Mount Everest
+  name: Parthiban
+  definition: ''
+  Week: '2'
+- timestamp: '2020-11-01 23:59:58'
+  fbid: Desmondowx1992
+  badge: Mount Everest
+  name: Desmond Ong
+  definition: ''
+  Week: '2'
 - timestamp: '2020-11-02 06:02:01'
   fbid: Manfred1307
   badge: Mount Everest
@@ -4628,12 +4670,6 @@
   name: 3sg Russell Tan
   definition: ''
   Week: '3'
-- timestamp: '2020-10-25 23:59:58'
-  fbid: ZeRo7113
-  badge: Mount Everest
-  name: Rocky
-  definition: ''
-  Week: '1'
 - timestamp: '2020-11-03 06:56:56'
   fbid: AB30312
   badge: Mount Everest
@@ -4652,18 +4688,6 @@
   name: Yun Jie (Rhythm)
   definition: ''
   Week: '3'
-- timestamp: '2020-11-01 23:59:58'
-  fbid: Fedrik6315
-  badge: Mount Everest
-  name: 'Kow Zi Jie '
-  definition: ''
-  Week: '2'
-- timestamp: '2020-11-01 23:59:58'
-  fbid: alpha0000
-  badge: Mount Everest
-  name: Caleb
-  definition: ''
-  Week: '2'
 - timestamp: '2020-11-03 11:12:21'
   fbid: Jj2304
   badge: Mount Everest
@@ -4796,12 +4820,6 @@
   name: Chin Yong
   definition: ''
   Week: '3'
-- timestamp: '2020-11-06 00:02:26'
-  fbid: Nickel1191
-  badge: Mount Everest
-  name: Dominic
-  definition: ''
-  Week: '3'
 - timestamp: '2020-11-06 00:12:02'
   fbid: skng3215
   badge: Mount Everest
@@ -4880,12 +4898,6 @@
   name: Beyblade
   definition: ''
   Week: '3'
-- timestamp: '2020-11-08 13:12:25'
-  fbid: TAONG8070
-  badge: Mount Everest
-  name: Malcolm Taong
-  definition: ''
-  Week: '3'
 - timestamp: '2020-11-08 16:50:47'
   fbid: VolvoJeff1985
   badge: Mount Everest
@@ -4958,18 +4970,6 @@
   name: 'Eric '
   definition: ''
   Week: '3'
-- timestamp: '2020-11-01 23:59:58'
-  fbid: OUTLAW2111
-  badge: Mount Everest
-  name: Parthiban
-  definition: ''
-  Week: '2'
-- timestamp: '2020-11-01 23:59:58'
-  fbid: Desmondowx1992
-  badge: Mount Everest
-  name: Desmond Ong
-  definition: ''
-  Week: '2'
 - timestamp: '2020-11-08 23:59:58'
   fbid: Rainman0000
   badge: Mount Everest
@@ -5108,6 +5108,30 @@
   name: Coral
   definition: ''
   Week: '1'
+- timestamp: '2020-10-25 23:59:58'
+  fbid: ahmuns9861
+  badge: Marathon
+  name: aH-MuNs-Ge
+  definition: ''
+  Week: '1'
+- timestamp: '2020-10-25 23:59:58'
+  fbid: francis7373
+  badge: Marathon
+  name: francisyap
+  definition: ''
+  Week: '1'
+- timestamp: '2020-10-25 23:59:58'
+  fbid: tonyfoo0165
+  badge: Marathon
+  name: Tony Foo
+  definition: ''
+  Week: '1'
+- timestamp: '2020-10-25 23:59:58'
+  fbid: ZeRo7113
+  badge: Marathon
+  name: Rocky
+  definition: ''
+  Week: '1'
 - timestamp: '2020-10-26 09:00:13'
   fbid: Wh8295
   badge: Marathon
@@ -5120,24 +5144,12 @@
   name: Ektar
   definition: ''
   Week: '2'
-- timestamp: '2020-10-25 23:59:58'
-  fbid: ahmuns9861
-  badge: Marathon
-  name: aH-MuNs-Ge
-  definition: ''
-  Week: '1'
 - timestamp: '2020-10-26 13:46:37'
   fbid: PIXAR0001
   badge: Marathon
   name: PIXAR
   definition: ''
   Week: '2'
-- timestamp: '2020-10-25 23:59:58'
-  fbid: francis7373
-  badge: Marathon
-  name: francisyap
-  definition: ''
-  Week: '1'
 - timestamp: '2020-10-26 18:45:08'
   fbid: Kyxy2808
   badge: Marathon
@@ -5156,12 +5168,6 @@
   name: Lo Heng
   definition: ''
   Week: '2'
-- timestamp: '2020-10-25 23:59:58'
-  fbid: tonyfoo0165
-  badge: Marathon
-  name: Tony Foo
-  definition: ''
-  Week: '1'
 - timestamp: '2020-10-26 22:09:20'
   fbid: Yapoh0304
   badge: Marathon
@@ -5408,12 +5414,6 @@
   name: Weaver
   definition: ''
   Week: '3'
-- timestamp: '2020-10-25 23:59:58'
-  fbid: ZeRo7113
-  badge: Marathon
-  name: Rocky
-  definition: ''
-  Week: '1'
 - timestamp: '2020-11-03 09:00:03'
   fbid: Manu7894
   badge: Marathon
@@ -5540,12 +5540,12 @@
   name: Andre
   definition: ''
   Week: '3'
-- timestamp: '2020-11-01 23:59:58'
+- timestamp: '2020-11-05 23:56:45'
   fbid: Nickel1191
   badge: Marathon
   name: Dominic
   definition: ''
-  Week: '2'
+  Week: '3'
 - timestamp: '2020-11-06 01:27:30'
   fbid: Lost1908
   badge: Marathon
@@ -5666,12 +5666,12 @@
   name: AdolphusJJ
   definition: ''
   Week: '1'
-- timestamp: '2020-10-25 23:59:58'
+- timestamp: '2020-10-26 07:54:08'
   fbid: Legoz1000
   badge: Run For Your Life
   name: Maj Lim
   definition: ''
-  Week: '1'
+  Week: '2'
 - timestamp: '2020-10-29 17:51:33'
   fbid: Kyxy2808
   badge: Run For Your Life
@@ -6056,6 +6056,24 @@
   name: Yi Kuang
   definition: ''
   Week: '1'
+- timestamp: '2020-10-25 23:59:58'
+  fbid: hc1234
+  badge: Buns of Steel
+  name: HC
+  definition: ''
+  Week: '1'
+- timestamp: '2020-10-25 23:59:58'
+  fbid: Kenny9889
+  badge: Buns of Steel
+  name: Bgtan
+  definition: ''
+  Week: '1'
+- timestamp: '2020-10-25 23:59:58'
+  fbid: TAONG8070
+  badge: Buns of Steel
+  name: Malcolm Taong
+  definition: ''
+  Week: '1'
 - timestamp: '2020-10-26 07:41:05'
   fbid: Reload0203
   badge: Buns of Steel
@@ -6080,12 +6098,6 @@
   name: Andre
   definition: ''
   Week: '2'
-- timestamp: '2020-10-25 23:59:58'
-  fbid: hc1234
-  badge: Buns of Steel
-  name: HC
-  definition: ''
-  Week: '1'
 - timestamp: '2020-10-27 23:01:00'
   fbid: Relaxing1234
   badge: Buns of Steel
@@ -6168,6 +6180,12 @@
   fbid: Bronze1234
   badge: Buns of Steel
   name: Bronson
+  definition: ''
+  Week: '2'
+- timestamp: '2020-11-01 23:59:58'
+  fbid: Desmondowx1992
+  badge: Buns of Steel
+  name: Desmond Ong
   definition: ''
   Week: '2'
 - timestamp: '2020-11-02 12:48:14'
@@ -6272,12 +6290,6 @@
   name: leslie
   definition: ''
   Week: '3'
-- timestamp: '2020-11-05 07:45:40'
-  fbid: Kenny9889
-  badge: Buns of Steel
-  name: Bgtan
-  definition: ''
-  Week: '3'
 - timestamp: '2020-11-06 00:03:52'
   fbid: TEH0501
   badge: Buns of Steel
@@ -6326,12 +6338,6 @@
   name: jheng
   definition: ''
   Week: '3'
-- timestamp: '2020-10-25 23:59:58'
-  fbid: TAONG8070
-  badge: Buns of Steel
-  name: Malcolm Taong
-  definition: ''
-  Week: '1'
 - timestamp: '2020-11-08 18:44:13'
   fbid: Extreme8123
   badge: Buns of Steel
@@ -6344,12 +6350,6 @@
   name: SARATH
   definition: ''
   Week: '3'
-- timestamp: '2020-11-01 23:59:58'
-  fbid: Desmondowx1992
-  badge: Buns of Steel
-  name: Desmond Ong
-  definition: ''
-  Week: '2'
 - timestamp: '2020-11-08 23:59:58'
   fbid: plusone0711
   badge: Buns of Steel
@@ -6470,18 +6470,24 @@
   name: Keith low
   definition: ''
   Week: '1'
-- timestamp: '2020-10-26 07:41:05'
-  fbid: Reload0203
-  badge: Cycopath
-  name: Barter
-  definition: ''
-  Week: '2'
 - timestamp: '2020-10-25 23:59:58'
   fbid: hc1234
   badge: Cycopath
   name: HC
   definition: ''
   Week: '1'
+- timestamp: '2020-10-25 23:59:58'
+  fbid: TAONG8070
+  badge: Cycopath
+  name: Malcolm Taong
+  definition: ''
+  Week: '1'
+- timestamp: '2020-10-26 07:41:05'
+  fbid: Reload0203
+  badge: Cycopath
+  name: Barter
+  definition: ''
+  Week: '2'
 - timestamp: '2020-10-27 23:08:04'
   fbid: Warren9588
   badge: Cycopath
@@ -6530,6 +6536,12 @@
   name: Fu Hao Wei
   definition: ''
   Week: '2'
+- timestamp: '2020-11-01 23:59:58'
+  fbid: Kenny9889
+  badge: Cycopath
+  name: Bgtan
+  definition: ''
+  Week: '2'
 - timestamp: '2020-11-02 12:27:20'
   fbid: Bingo0507
   badge: Cycopath
@@ -6570,12 +6582,6 @@
   fbid: NgEM1858
   badge: Cycopath
   name: NG Eng Ming
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-05 07:45:40'
-  fbid: Kenny9889
-  badge: Cycopath
-  name: Bgtan
   definition: ''
   Week: '3'
 - timestamp: '2020-11-05 19:21:18'
@@ -6632,12 +6638,6 @@
   name: Tommy Wang
   definition: ''
   Week: '3'
-- timestamp: '2020-10-25 23:59:58'
-  fbid: TAONG8070
-  badge: Cycopath
-  name: Malcolm Taong
-  definition: ''
-  Week: '1'
 - timestamp: '2020-11-08 22:16:22'
   fbid: Bronze1234
   badge: Cycopath
@@ -6758,6 +6758,18 @@
   name: Weng
   definition: ''
   Week: '2'
+- timestamp: '2020-11-01 23:59:58'
+  fbid: TAONG8070
+  badge: Tour de Singapore
+  name: Malcolm Taong
+  definition: ''
+  Week: '2'
+- timestamp: '2020-11-05 07:45:40'
+  fbid: Kenny9889
+  badge: Tour de Singapore
+  name: Bgtan
+  definition: ''
+  Week: '3'
 - timestamp: '2020-11-05 09:19:41'
   fbid: IceCube3008
   badge: Tour de Singapore
@@ -6768,12 +6780,6 @@
   fbid: Iggy7900
   badge: Tour de Singapore
   name: Iggy
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-07 15:03:14'
-  fbid: Kenny9889
-  badge: Tour de Singapore
-  name: Bgtan
   definition: ''
   Week: '3'
 - timestamp: '2020-11-07 20:12:12'
@@ -6800,12 +6806,6 @@
   name: Andre
   definition: ''
   Week: '3'
-- timestamp: '2020-11-01 23:59:58'
-  fbid: TAONG8070
-  badge: Tour de Singapore
-  name: Malcolm Taong
-  definition: ''
-  Week: '2'
 - timestamp: '2020-11-08 20:10:53'
   fbid: Hasty55555
   badge: Tour de Singapore
