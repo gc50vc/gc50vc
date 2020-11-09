@@ -1473,6 +1473,12 @@
   definition: ''
   Week: '1'
 - timestamp: '2020-10-25 23:59:58'
+  fbid: Amar0165
+  badge: Baby Steps
+  name: Amar
+  definition: ''
+  Week: '1'
+- timestamp: '2020-10-25 23:59:58'
   fbid: Ihit0103
   badge: Baby Steps
   name: Ihit
@@ -1572,12 +1578,6 @@
   fbid: Cat0407
   badge: Baby Steps
   name: Kenneth
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-26 09:19:43'
-  fbid: Amar0165
-  badge: Baby Steps
-  name: 'Amarverest '
   definition: ''
   Week: '2'
 - timestamp: '2020-10-26 09:36:39'
@@ -3003,7 +3003,7 @@
   definition: ''
   Week: '1'
 - timestamp: '2020-10-21 13:00:43'
-  fbid: Amarverest0165
+  fbid: Amar0165
   badge: Mount Everest
   name: Amar
   definition: ''
@@ -3996,12 +3996,6 @@
   fbid: Slimer1234
   badge: Mount Everest
   name: Slimer
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-26 09:19:43'
-  fbid: Amar0165
-  badge: Mount Everest
-  name: 'Amarverest '
   definition: ''
   Week: '2'
 - timestamp: '2020-10-26 11:24:43'
@@ -5406,6 +5400,12 @@
   fbid: Lia1116
   badge: Marathon
   name: Lia
+  definition: ''
+  Week: '3'
+- timestamp: '2020-11-03 11:43:20'
+  fbid: Amar0165
+  badge: Marathon
+  name: Amar
   definition: ''
   Week: '3'
 - timestamp: '2020-11-03 13:22:41'
