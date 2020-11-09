@@ -1029,6 +1029,16 @@
   Swim: '1.50'
   Walk: '13.50'
 - Rank: '104'
+  Name: Jenny
+  Group: AFE
+  FBID: Jenny7373
+  Total_Mileage: '64.51'
+  Badges: '3'
+  Run: '64.51'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '67.39'
+- Rank: '105'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -1038,7 +1048,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '105'
+- Rank: '106'
   Name: Yeow Teck
   Group: AOSX/AOS
   FBID: Youtube6116
@@ -1048,7 +1058,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '106'
+- Rank: '107'
   Name: Gwyn
   Group: ADW
   FBID: Magma1201
@@ -1058,7 +1068,7 @@
   Cycle: '46.60'
   Swim: '0.00'
   Walk: '8.93'
-- Rank: '107'
+- Rank: '108'
   Name: Hector
   Group: ADW
   FBID: Hector0911
@@ -1068,7 +1078,7 @@
   Cycle: '0.00'
   Swim: '6.10'
   Walk: '4.26'
-- Rank: '108'
+- Rank: '109'
   Name: COVID
   Group: ADSS/ADWS/ADWO
   FBID: COVID9999
@@ -1078,7 +1088,7 @@
   Cycle: '74.61'
   Swim: '0.00'
   Walk: '21.50'
-- Rank: '109'
+- Rank: '110'
   Name: ARROW
   Group: ADW
   FBID: Tee1980
@@ -1088,7 +1098,7 @@
   Cycle: '38.71'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '110'
+- Rank: '111'
   Name: KevinKKW
   Group: ADSS/ADWS/ADWO
   FBID: Kkkw0165
@@ -1098,7 +1108,7 @@
   Cycle: '117.90'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '111'
+- Rank: '112'
   Name: 'Windy '
   Group: ABM
   FBID: Windy4444
@@ -1108,9 +1118,9 @@
   Cycle: '0.00'
   Swim: '9.60'
   Walk: '0.00'
-- Rank: '112'
-  Name: Glenn Lee
-  Group: ADSS/ADWS/ADWO
+- Rank: '113'
+  Name: 'https://drive.google.com/open?id=1frfOsf2olZGRF-bwzI0bKaEzMGLW-IuB'
+  Group: ADW
   FBID: Garfield3110
   Total_Mileage: '57.08'
   Badges: '3'
@@ -1118,7 +1128,7 @@
   Cycle: '10.00'
   Swim: '0.00'
   Walk: '13.84'
-- Rank: '113'
+- Rank: '114'
   Name: RainmanCYK
   Group: ADW
   FBID: Rainman0000
@@ -1128,7 +1138,7 @@
   Cycle: '0.00'
   Swim: '8.00'
   Walk: '0.00'
-- Rank: '114'
+- Rank: '115'
   Name: You Rong
   Group: ADW
   FBID: Audi1987
@@ -1138,7 +1148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '115'
+- Rank: '116'
   Name: Camper
   Group: ADW
   FBID: tanht1968
@@ -1148,7 +1158,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '116'
+- Rank: '117'
   Name: Wan Yuan
   Group: ADW
   FBID: Lost1908
@@ -1158,7 +1168,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '117'
+- Rank: '118'
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
@@ -1168,7 +1178,7 @@
   Cycle: '8.04'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '118'
+- Rank: '119'
   Name: BENteo
   Group: AFE
   FBID: BEN7452
@@ -1178,16 +1188,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '119'
-  Name: Jenny
-  Group: AFE
-  FBID: Jenny7373
-  Total_Mileage: '54.06'
-  Badges: '3'
-  Run: '54.06'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '67.39'
 - Rank: '120'
   Name: Alan
   Group: ADSS/ADWS/ADWO
