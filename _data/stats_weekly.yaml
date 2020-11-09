@@ -19,16 +19,6 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '3'
-  Name: Desmond Ong
-  Group: ADSS/ADWS/ADWO
-  FBID: Desmondowx1992
-  Total_Mileage: '31.00'
-  Badges: '2'
-  Run: '14.00'
-  Cycle: '68.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '4'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -38,7 +28,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '5'
+- Rank: '4'
   Name: Bgtan
   Group: ADSS/ADWS/ADWO
   FBID: Kenny9889
@@ -48,7 +38,7 @@
   Cycle: '81.05'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '6'
+- Rank: '5'
   Name: Coral
   Group: ABM
   FBID: Coral5050
@@ -56,6 +46,16 @@
   Badges: '0'
   Run: '18.34'
   Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '6'
+  Name: Desmond Ong
+  Group: ADSS/ADWS/ADWO
+  FBID: Desmondowx1992
+  Total_Mileage: '16.45'
+  Badges: '0'
+  Run: '0.00'
+  Cycle: '65.81'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '7'
