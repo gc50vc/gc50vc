@@ -2299,16 +2299,6 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '231'
-  Name: Jun Jia
-  Group: ADSS/ADWS/ADWO
-  FBID: JJTAN1507
-  Total_Mileage: '27.84'
-  Badges: '2'
-  Run: '25.84'
-  Cycle: '8.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '232'
   Name: aH Hui
   Group: ADSS/ADWS/ADWO
   FBID: Edgar0409
@@ -2318,7 +2308,7 @@
   Cycle: '45.33'
   Swim: '0.00'
   Walk: '6.71'
-- Rank: '233'
+- Rank: '232'
   Name: KW
   Group: ADW
   FBID: ccey9191
@@ -2328,7 +2318,7 @@
   Cycle: '80.76'
   Swim: '0.00'
   Walk: '1.78'
-- Rank: '234'
+- Rank: '233'
   Name: EG
   Group: ADSS/ADWS/ADWO
   FBID: EG3211
@@ -2338,7 +2328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '235'
+- Rank: '234'
   Name: Yuhang
   Group: AOSX/AOS
   FBID: YH1234
@@ -2348,7 +2338,7 @@
   Cycle: '90.11'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '236'
+- Rank: '235'
   Name: Psychic
   Group: ATC
   FBID: psychic2204
@@ -2358,7 +2348,7 @@
   Cycle: '14.29'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '237'
+- Rank: '236'
   Name: Kush
   Group: AFE
   FBID: KM1695
@@ -2369,6 +2359,16 @@
   Swim: '0.00'
   Walk: '90.95'
 - Rank: '238'
+  Name: Jun Jia
+  Group: ADSS/ADWS/ADWO
+  FBID: JJTAN1507
+  Total_Mileage: '26.84'
+  Badges: '2'
+  Run: '25.84'
+  Cycle: '4.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '237'
   Name: cheehao
   Group: ADSS/ADWS/ADWO
   FBID: 165sloth1999
