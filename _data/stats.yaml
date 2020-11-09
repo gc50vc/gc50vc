@@ -19,6 +19,16 @@
   Swim: '22.35'
   Walk: '5.05'
 - Rank: '3'
+  Name: Lee Wen Yang
+  Group: AFE
+  FBID: LWY3942
+  Total_Mileage: '619.62'
+  Badges: '6'
+  Run: '25.92'
+  Cycle: '2374.80'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '4'
   Name: Hasty
   Group: ADW
   FBID: Hasty55555
@@ -27,16 +37,6 @@
   Run: '327.98'
   Cycle: '193.88'
   Swim: '40.25'
-  Walk: '0.00'
-- Rank: '4'
-  Name: Lee Wen Yang
-  Group: AFE
-  FBID: LWY3942
-  Total_Mileage: '599.59'
-  Badges: '6'
-  Run: '25.92'
-  Cycle: '2294.69'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '5'
   Name: T-rex
