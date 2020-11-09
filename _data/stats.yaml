@@ -309,16 +309,6 @@
   Swim: '15.25'
   Walk: '0.00'
 - Rank: '32'
-  Name: Coral
-  Group: ABM
-  FBID: Coral5050
-  Total_Mileage: '160.58'
-  Badges: '4'
-  Run: '160.58'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '9.48'
-- Rank: '33'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
@@ -328,6 +318,16 @@
   Cycle: '32.50'
   Swim: '15.00'
   Walk: '7.27'
+- Rank: '33'
+  Name: Coral
+  Group: ABM
+  FBID: Coral5050
+  Total_Mileage: '150.25'
+  Badges: '4'
+  Run: '150.25'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '9.48'
 - Rank: '34'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
