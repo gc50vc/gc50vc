@@ -19,16 +19,6 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '3'
-  Name: Ja5on
-  Group: AFE
-  FBID: SMLD1234
-  Total_Mileage: '168.78'
-  Badges: '0'
-  Run: '0.00'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '4'
   Name: Ben
   Group: ADW
   FBID: BY8362
@@ -38,11 +28,21 @@
   Cycle: '18.03'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '5'
+- Rank: '4'
   Name: T-rex
   Group: ABM
   FBID: Trex1406
   Total_Mileage: '159.86'
+  Badges: '0'
+  Run: '0.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '5'
+  Name: Ja5on
+  Group: AFE
+  FBID: SMLD1234
+  Total_Mileage: '152.71'
   Badges: '0'
   Run: '0.00'
   Cycle: '0.00'
