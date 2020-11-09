@@ -2558,6 +2558,12 @@
   name: Jia Yi
   definition: ''
   Week: '3'
+- timestamp: '2020-11-09 15:46:28'
+  fbid: lunch1234
+  badge: Baby Steps
+  name: Tze Kit
+  definition: ''
+  Week: '4'
 - timestamp: '2020-10-22 18:39:38'
   fbid: BY8362
   badge: Half Ironman
@@ -4982,6 +4988,12 @@
   name: RainmanCYK
   definition: ''
   Week: '3'
+- timestamp: '2020-11-09 15:45:43'
+  fbid: lunch1234
+  badge: Mount Everest
+  name: Tze Kit
+  definition: ''
+  Week: '4'
 - timestamp: '2020-10-22 00:35:59'
   fbid: Extreme8123
   badge: Marathon
@@ -5989,13 +6001,13 @@
   badge: Buns of Steel
   name: Vincent Yap
   definition: ''
-  Week: '1'
+  Week: ''
 - timestamp: '2020-10-24 13:46:54'
   fbid: Iggy7900
   badge: Buns of Steel
   name: Iggy
   definition: ''
-  Week: '1'
+  Week: ''
 - timestamp: '2020-10-25 04:24:13'
   fbid: dragongate5270
   badge: Buns of Steel
@@ -7385,13 +7397,13 @@
 - timestamp: '2020-10-31 14:27:28'
   fbid: Geeky1989
   badge: Swordfish
-  name: Geeky
+  name: ''
   definition: ''
   Week: ''
 - timestamp: '2020-10-31 18:53:01'
   fbid: Corrupt2705
   badge: Swordfish
-  name: Daniel Tay
+  name: ''
   definition: ''
   Week: ''
 - timestamp: '2020-10-31 22:54:04'
