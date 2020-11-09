@@ -379,6 +379,16 @@
   Swim: '1.75'
   Walk: '0.00'
 - Rank: '39'
+  Name: Bgtan
+  Group: ADSS/ADWS/ADWO
+  FBID: Kenny9889
+  Total_Mileage: '136.21'
+  Badges: '4'
+  Run: '0.00'
+  Cycle: '544.83'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '40'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -388,7 +398,7 @@
   Cycle: '25.04'
   Swim: '2.25'
   Walk: '0.00'
-- Rank: '40'
+- Rank: '41'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -398,7 +408,7 @@
   Cycle: '267.18'
   Swim: '3.60'
   Walk: '0.00'
-- Rank: '41'
+- Rank: '42'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -408,7 +418,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.28'
-- Rank: '42'
+- Rank: '43'
   Name: Vapor
   Group: ADW
   FBID: Vapor6148
@@ -418,7 +428,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '43'
+- Rank: '44'
   Name: Xiaolow3344
   Group: ADSS/ADWS/ADWO
   FBID: Xiaolow3344
@@ -428,7 +438,7 @@
   Cycle: '0.00'
   Swim: '20.00'
   Walk: '71.88'
-- Rank: '44'
+- Rank: '45'
   Name: Cookie
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -438,7 +448,7 @@
   Cycle: '78.01'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '45'
+- Rank: '46'
   Name: Andrew
   Group: ADW
   FBID: Hammer1990
@@ -447,16 +457,6 @@
   Run: '46.64'
   Cycle: '225.06'
   Swim: '3.00'
-  Walk: '0.00'
-- Rank: '46'
-  Name: Bgtan
-  Group: ADSS/ADWS/ADWO
-  FBID: Kenny9889
-  Total_Mileage: '115.95'
-  Badges: '4'
-  Run: '0.00'
-  Cycle: '463.78'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '47'
   Name: Cosmo
