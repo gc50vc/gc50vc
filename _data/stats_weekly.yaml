@@ -59,6 +59,16 @@
   Swim: '4.00'
   Walk: '0.00'
 - Rank: '7'
+  Name: Ektar
+  Group: ABM
+  FBID: Ektar1971
+  Total_Mileage: '23.18'
+  Badges: '0'
+  Run: '0.00'
+  Cycle: '44.70'
+  Swim: '2.00'
+  Walk: '0.00'
+- Rank: '8'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -68,7 +78,7 @@
   Cycle: '64.01'
   Swim: '1.05'
   Walk: '0.00'
-- Rank: '8'
+- Rank: '9'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -78,7 +88,7 @@
   Cycle: '0.00'
   Swim: '3.54'
   Walk: '0.00'
-- Rank: '9'
+- Rank: '10'
   Name: Tan Chee Wee
   Group: ATC
   FBID: Tancw1974
@@ -88,7 +98,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '10'
+- Rank: '11'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -98,7 +108,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: LZX
   Group: ADSS/ADWS/ADWO
   FBID: leezx1337
@@ -108,7 +118,7 @@
   Cycle: '71.21'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: Coral
   Group: ABM
   FBID: Coral5050
@@ -118,7 +128,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: Shawn Chia
   Group: ADW
   FBID: SCWE9595
@@ -128,7 +138,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '15'
   Name: Kian Seng
   Group: ADW
   FBID: Kianseng0170
@@ -138,7 +148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '15'
+- Rank: '16'
   Name: Yun Jie (Rhythm)
   Group: ADW
   FBID: Jabez8686
@@ -148,7 +158,7 @@
   Cycle: '0.00'
   Swim: '1.54'
   Walk: '0.00'
-- Rank: '16'
+- Rank: '17'
   Name: Benson
   Group: ADW
   FBID: Benoi1234
@@ -158,7 +168,7 @@
   Cycle: '16.50'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '17'
+- Rank: '18'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -168,7 +178,7 @@
   Cycle: '32.52'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '18'
+- Rank: '19'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -178,7 +188,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '19'
+- Rank: '20'
   Name: Hector
   Group: ADW
   FBID: Hector0911
@@ -188,7 +198,7 @@
   Cycle: '0.00'
   Swim: '2.10'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '21'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -198,7 +208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: Prem
   Group: ADW
   FBID: Premium6687
@@ -208,7 +218,7 @@
   Cycle: '0.00'
   Swim: '2.05'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: yapoh
   Group: ADW
   FBID: Yapoh0304
@@ -218,17 +228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '22'
-  Name: Ektar
-  Group: ABM
-  FBID: Ektar1971
-  Total_Mileage: '12.00'
-  Badges: '0'
-  Run: '0.00'
-  Cycle: '0.00'
-  Swim: '2.00'
-  Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: Decoy
   Group: ADW
   FBID: Decoy2309
@@ -238,7 +238,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -899,6 +899,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '91'
+  Name: Pixel EQ
+  Group: AOSX/AOS
+  FBID: Pixel0323
+  Total_Mileage: '1.79'
+  Badges: '0'
+  Run: '0.00'
+  Cycle: '7.17'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '92'
   Name: Chin Yong
   Group: ADSS/ADWS/ADWO
   FBID: Relaxing1234
@@ -908,7 +918,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.09'
-- Rank: '91'
+- Rank: '92'
   Name: Patrick Pang
   Group: AFE
   FBID: Playpang0113
@@ -918,7 +928,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '8.25'
-- Rank: '91'
+- Rank: '92'
   Name: Bgtan
   Group: ADSS/ADWS/ADWO
   FBID: Kenny9889
@@ -928,7 +938,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '91'
+- Rank: '92'
   Name: Chrispian
   Group: AFE
   FBID: Chrispian1979
