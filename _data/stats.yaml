@@ -149,6 +149,16 @@
   Swim: '2.58'
   Walk: '1.00'
 - Rank: '16'
+  Name: Slimer
+  Group: ABM
+  FBID: Slimer1234
+  Total_Mileage: '200.86'
+  Badges: '9'
+  Run: '57.37'
+  Cycle: '161.17'
+  Swim: '17.20'
+  Walk: '10.01'
+- Rank: '17'
   Name: Nicholas Lian
   Group: ADW
   FBID: Horsepower2001
@@ -158,7 +168,7 @@
   Cycle: '30.26'
   Swim: '9.60'
   Walk: '0.00'
-- Rank: '17'
+- Rank: '18'
   Name: Tony Foo
   Group: ADW
   FBID: tonyfoo0165
@@ -168,16 +178,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '18'
-  Name: Slimer
-  Group: ABM
-  FBID: Slimer1234
-  Total_Mileage: '194.83'
-  Badges: '9'
-  Run: '51.34'
-  Cycle: '161.17'
-  Swim: '17.20'
-  Walk: '10.01'
 - Rank: '19'
   Name: aH-MuNs-Ge
   Group: AFE
