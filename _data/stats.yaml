@@ -529,6 +529,16 @@
   Swim: '0.00'
   Walk: '23.30'
 - Rank: '54'
+  Name: GN
+  Group: ADSS/ADWS/ADWO
+  FBID: GN8282
+  Total_Mileage: '103.97'
+  Badges: '4'
+  Run: '103.97'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '55'
   Name: Tan Chee Wee
   Group: ATC
   FBID: tancw1974
@@ -538,7 +548,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '55'
+- Rank: '56'
   Name: Rubiks
   Group: ABM
   FBID: Rubiks1234
@@ -548,7 +558,7 @@
   Cycle: '41.78'
   Swim: '4.10'
   Walk: '0.00'
-- Rank: '56'
+- Rank: '57'
   Name: Maj Lim
   Group: ABM
   FBID: Legoz1000
@@ -558,7 +568,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '16.48'
-- Rank: '57'
+- Rank: '58'
   Name: Wolf Mun
   Group: ADSS/ADWS/ADWO
   FBID: Mun7686
@@ -568,7 +578,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '58'
+- Rank: '59'
   Name: Benson
   Group: ADW
   FBID: benoi1234
@@ -578,7 +588,7 @@
   Cycle: '10.94'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '59'
+- Rank: '60'
   Name: PCK
   Group: ADW
   FBID: PCK2205
@@ -588,7 +598,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '60'
+- Rank: '61'
   Name: 'Tay Wen Hao '
   Group: ADW
   FBID: Wh8295
@@ -598,23 +608,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '61'
+- Rank: '62'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
   Total_Mileage: '98.36'
   Badges: '3'
   Run: '98.36'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '62'
-  Name: GN
-  Group: ADSS/ADWS/ADWO
-  FBID: GN8282
-  Total_Mileage: '98.21'
-  Badges: '3'
-  Run: '98.21'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
@@ -649,6 +649,16 @@
   Swim: '0.00'
   Walk: '13.86'
 - Rank: '66'
+  Name: TT
+  Group: ABM
+  FBID: jiawei1989
+  Total_Mileage: '94.01'
+  Badges: '3'
+  Run: '91.30'
+  Cycle: '10.83'
+  Swim: '0.00'
+  Walk: '1.89'
+- Rank: '67'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: Errick1991
@@ -658,7 +668,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '67'
+- Rank: '68'
   Name: Keith low
   Group: ADSS/ADWS/ADWO
   FBID: Keithlow1998
@@ -668,7 +678,7 @@
   Cycle: '337.73'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '68'
+- Rank: '69'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -678,7 +688,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '69'
+- Rank: '70'
   Name: Lia
   Group: ADSS/ADWS/ADWO
   FBID: Lia1116
@@ -688,7 +698,7 @@
   Cycle: '63.18'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '70'
+- Rank: '71'
   Name: Quainapz
   Group: ADSS/ADWS/ADWO
   FBID: Quainapz8585
@@ -698,7 +708,7 @@
   Cycle: '0.00'
   Swim: '3.10'
   Walk: '2.30'
-- Rank: '71'
+- Rank: '72'
   Name: Malcolm Taong
   Group: ADSS/ADWS/ADWO
   FBID: TAONG8070
@@ -708,7 +718,7 @@
   Cycle: '267.29'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '72'
+- Rank: '73'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
   FBID: Ahbye1234
@@ -718,16 +728,6 @@
   Cycle: '131.03'
   Swim: '2.50'
   Walk: '6.00'
-- Rank: '73'
-  Name: TT
-  Group: ABM
-  FBID: jiawei1989
-  Total_Mileage: '90.00'
-  Badges: '3'
-  Run: '87.29'
-  Cycle: '10.83'
-  Swim: '0.00'
-  Walk: '1.89'
 - Rank: '74'
   Name: Rocky
   Group: AOSX/AOS
