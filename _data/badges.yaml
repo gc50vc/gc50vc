@@ -2576,34 +2576,22 @@
   name: T-rex
   definition: ''
   Week: '1'
-- timestamp: '2020-10-26 21:35:06'
-  fbid: Vince2107
-  badge: Half Ironman
-  name: Vincent Yap
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-27 15:47:51'
-  fbid: Ektar1971
-  badge: Half Ironman
-  name: Ektar
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-27 21:50:38'
-  fbid: Yapoh0304
-  badge: Half Ironman
-  name: yapoh
-  definition: ''
-  Week: '2'
 - timestamp: '2020-10-28 08:17:39'
   fbid: Nn1974
   badge: Half Ironman
   name: Nicholas
   definition: ''
   Week: '2'
-- timestamp: '2020-10-30 05:14:21'
+- timestamp: '2020-10-30 18:58:31'
   fbid: Rycel2929
   badge: Half Ironman
   name: Rycel Wong
+  definition: ''
+  Week: '2'
+- timestamp: '2020-10-30 20:23:54'
+  fbid: Yapoh0304
+  badge: Half Ironman
+  name: yapoh
   definition: ''
   Week: '2'
 - timestamp: '2020-10-30 21:24:27'
@@ -2624,16 +2612,10 @@
   name: Andrew
   definition: ''
   Week: '2'
-- timestamp: '2020-11-01 21:45:39'
-  fbid: Ahbye1234
+- timestamp: '2020-11-02 13:13:19'
+  fbid: Ektar1971
   badge: Half Ironman
-  name: Ah Bye
-  definition: ''
-  Week: '2'
-- timestamp: '2020-11-02 12:27:20'
-  fbid: Bingo0507
-  badge: Half Ironman
-  name: Ah Bing
+  name: Ektar
   definition: ''
   Week: '3'
 - timestamp: '2020-11-02 17:57:05'
@@ -2648,7 +2630,13 @@
   name: Slimer
   definition: ''
   Week: '3'
-- timestamp: '2020-11-03 20:51:26'
+- timestamp: '2020-11-03 12:49:35'
+  fbid: Vince2107
+  badge: Half Ironman
+  name: Vincent Yap
+  definition: ''
+  Week: '3'
+- timestamp: '2020-11-05 16:19:53'
   fbid: Jonjuay8822
   badge: Half Ironman
   name: 'Jonjuay '
@@ -2666,16 +2654,16 @@
   name: Euj
   definition: ''
   Week: '3'
-- timestamp: '2020-11-06 15:01:18'
-  fbid: PIXAR0001
-  badge: Half Ironman
-  name: PIXAR
-  definition: ''
-  Week: '3'
 - timestamp: '2020-11-06 17:11:32'
   fbid: Tommy1976
   badge: Half Ironman
   name: Tommy Tham
+  definition: ''
+  Week: '3'
+- timestamp: '2020-11-08 13:29:20'
+  fbid: Ahbye1234
+  badge: Half Ironman
+  name: Ah Bye
   definition: ''
   Week: '3'
 - timestamp: '2020-11-08 22:16:22'
@@ -2696,58 +2684,34 @@
   name: Ben
   definition: ''
   Week: '1'
-- timestamp: '2020-10-25 09:57:16'
+- timestamp: '2020-10-27 08:33:24'
   fbid: Sloh0121
   badge: Ironman
   name: Sloh
   definition: ''
-  Week: '1'
-- timestamp: '2020-10-27 15:47:51'
+  Week: '2'
+- timestamp: '2020-11-04 16:54:19'
   fbid: Ektar1971
   badge: Ironman
   name: Ektar
   definition: ''
-  Week: '2'
-- timestamp: '2020-10-29 22:40:42'
-  fbid: Yapoh0304
-  badge: Ironman
-  name: yapoh
-  definition: ''
-  Week: '2'
+  Week: '3'
 - timestamp: '2020-11-05 05:41:59'
   fbid: Rycel2929
   badge: Ironman
   name: Rycel Wong
   definition: ''
   Week: '3'
-- timestamp: '2020-11-05 21:46:27'
-  fbid: Vince2107
+- timestamp: '2020-11-05 20:51:23'
+  fbid: Yapoh0304
   badge: Ironman
-  name: Vincent Yap
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-07 15:36:30'
-  fbid: PIXAR0001
-  badge: Ironman
-  name: PIXAR
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-08 09:46:34'
-  fbid: Hammer1990
-  badge: Ironman
-  name: Andrew
+  name: yapoh
   definition: ''
   Week: '3'
 - timestamp: '2020-11-08 20:10:53'
   fbid: Hasty55555
   badge: Ironman
   name: Hasty
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-08 22:27:22'
-  fbid: Jade9669
-  badge: Ironman
-  name: Jade
   definition: ''
   Week: '3'
 - timestamp: '2020-10-31 13:57:53'
@@ -4982,6 +4946,12 @@
   name: Tze Kit
   definition: ''
   Week: '3'
+- timestamp: '2020-11-09 18:28:54'
+  fbid: hc1234
+  badge: Mount Everest
+  name: HC
+  definition: ''
+  Week: '4'
 - timestamp: '2020-10-22 00:35:59'
   fbid: Extreme8123
   badge: Marathon
@@ -5646,6 +5616,12 @@
   fbid: Tommy1976
   badge: Marathon
   name: Tommy Tham
+  definition: ''
+  Week: '4'
+- timestamp: '2020-11-09 18:28:18'
+  fbid: Bronze1234
+  badge: Marathon
+  name: Bronson
   definition: ''
   Week: '4'
 - timestamp: '2020-10-24 01:24:37'
@@ -6818,819 +6794,177 @@
   name: PIXAR
   definition: ''
   Week: '4'
-- timestamp: '2020-10-20 20:07:13'
-  fbid: ram7267
-  badge: Frogman
-  name: Ram
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-20 21:20:07'
-  fbid: Nn1974
-  badge: Frogman
-  name: Nicholas
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-20 22:08:33'
-  fbid: Trex1406
-  badge: Frogman
-  name: T-rex
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-21 09:17:03'
-  fbid: Slimer1234
-  badge: Frogman
-  name: Slimer
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-21 12:36:58'
-  fbid: Geeky1989
-  badge: Frogman
-  name: Geeky
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-21 13:26:34'
-  fbid: jheng0000
-  badge: Frogman
-  name: jheng
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-21 18:17:04'
-  fbid: BY8362
-  badge: Frogman
-  name: Ben
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-21 18:34:48'
-  fbid: Vincentsee8888
-  badge: Frogman
-  name: Vincent See
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-21 19:59:41'
-  fbid: Sloh0121
-  badge: Frogman
-  name: Sloh
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-21 20:24:33'
-  fbid: Mtwk1998
-  badge: Frogman
-  name: Marcus
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-22 10:08:17'
-  fbid: spaceman1234
-  badge: Frogman
-  name: Spaceman
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-22 12:51:47'
-  fbid: Tommy1976
-  badge: Frogman
-  name: Tommy Tham
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-22 13:15:43'
+- timestamp: '2020-10-25 23:51:52'
   fbid: Extreme8123
   badge: Frogman
   name: Extreme
   definition: ''
   Week: '1'
-- timestamp: '2020-10-22 14:34:26'
-  fbid: SUWEIJIE8702
-  badge: Frogman
-  name: SU WEIJIE
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-22 19:19:19'
-  fbid: Reload0203
-  badge: Frogman
-  name: Barter
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-22 20:19:54'
-  fbid: Hammer1990
-  badge: Frogman
-  name: Andrew
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-22 23:10:21'
-  fbid: thumbs8599
-  badge: Frogman
-  name: Ying Tat
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-23 13:42:55'
-  fbid: Daphne1234
-  badge: Frogman
-  name: Cactus
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-23 13:55:16'
-  fbid: Vince2107
-  badge: Frogman
-  name: Vincent Yap
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-23 17:03:18'
-  fbid: Shadow0206
-  badge: Frogman
-  name: Wong Wei Ming
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-23 17:09:25'
-  fbid: Bronze1234
-  badge: Frogman
-  name: Bronson
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-24 11:18:46'
-  fbid: horsepower2001
-  badge: Frogman
-  name: Nicholas Lian
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-24 12:27:01'
-  fbid: Hasty55555
-  badge: Frogman
-  name: Hasty
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-24 14:25:51'
-  fbid: Xerox1739
-  badge: Frogman
-  name: Xerox
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-24 14:45:26'
-  fbid: Redeyesblackdragon1310
-  badge: Frogman
-  name: Ankle
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-24 14:48:33'
-  fbid: Bpeng1129
-  badge: Frogman
-  name: Boon Peng
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-24 15:17:11'
-  fbid: Jj2304
-  badge: Frogman
-  name: Jiajun
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-24 17:28:27'
-  fbid: Quainapz8585
-  badge: Frogman
-  name: Quainapz
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-24 20:05:25'
-  fbid: Jabez8686
-  badge: Frogman
-  name: Yun Jie (Rhythm)
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-24 22:54:15'
-  fbid: Charlie2539
-  badge: Frogman
-  name: 3sg Charlie
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-25 08:59:07'
-  fbid: Premium6687
-  badge: Frogman
-  name: Prem
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-25 11:33:17'
-  fbid: Conman7347
-  badge: Frogman
-  name: Pterlek
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-25 16:09:42'
-  fbid: dragongate5270
-  badge: Frogman
-  name: Liwei
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-26 14:06:55'
-  fbid: Xiaolow3344
-  badge: Frogman
-  name: Xiaolow3344
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-26 14:59:34'
-  fbid: Euj1871
-  badge: Frogman
-  name: Euj
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-27 10:45:16'
-  fbid: Spear0213
-  badge: Frogman
-  name: Spear
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-27 16:11:18'
-  fbid: Ektar1971
-  badge: Frogman
-  name: Ektar
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-27 18:37:32'
-  fbid: Rycel2929
-  badge: Frogman
-  name: Rycel Wong
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-27 19:53:39'
-  fbid: APHRMC0207
-  badge: Frogman
-  name: AP
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-27 20:08:33'
-  fbid: Slong1234
-  badge: Frogman
-  name: Slong
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-27 21:50:38'
-  fbid: Yapoh0304
-  badge: Frogman
-  name: yapoh
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-27 22:34:18'
-  fbid: Conman7361
-  badge: Frogman
-  name: Pterlek
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-27 22:55:03'
-  fbid: Hector0911
-  badge: Frogman
-  name: Hector
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-28 00:59:24'
-  fbid: Jade9669
-  badge: Frogman
-  name: Jade
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-28 13:30:50'
-  fbid: Pat1991
-  badge: Frogman
-  name: Pat160A
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-29 15:12:24'
-  fbid: Fungus7777
-  badge: Frogman
-  name: Fungus
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-29 17:14:29'
-  fbid: sxting1987
-  badge: Frogman
-  name: Tingle
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-29 17:37:27'
-  fbid: ccm1116
-  badge: Frogman
-  name: 'Chiang Meng '
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-29 20:24:10'
-  fbid: Windy4444
-  badge: Frogman
-  name: 'Windy '
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-30 20:34:58'
-  fbid: Rubiks1234
-  badge: Frogman
-  name: Rubiks
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-30 21:03:34'
-  fbid: Spacebar5647
-  badge: Frogman
-  name: Spacebar
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-31 15:33:46'
-  fbid: Alan2881
-  badge: Frogman
-  name: Alan
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-31 18:53:01'
-  fbid: Corrupt2705
-  badge: Frogman
-  name: Daniel Tay
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-31 21:53:00'
-  fbid: Cutthroat0403
-  badge: Frogman
-  name: Cutthroat
-  definition: ''
-  Week: '2'
-- timestamp: '2020-11-01 14:24:39'
-  fbid: Aku1234
-  badge: Frogman
-  name: Der Siang
-  definition: ''
-  Week: '2'
-- timestamp: '2020-11-01 17:14:32'
-  fbid: Angmo1984
-  badge: Frogman
-  name: AngmoATB
-  definition: ''
-  Week: '2'
-- timestamp: '2020-11-01 17:49:03'
-  fbid: Wang0165
-  badge: Frogman
-  name: Leonard ong
-  definition: ''
-  Week: '2'
-- timestamp: '2020-11-02 16:30:24'
-  fbid: JOLLY8178
-  badge: Frogman
-  name: JOLLY
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-03 06:00:58'
-  fbid: Akileis0163
-  badge: Frogman
-  name: Akileis
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-03 15:55:37'
-  fbid: Yeti1993
-  badge: Frogman
-  name: Yan Ting
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-03 16:08:13'
-  fbid: Rainman0000
-  badge: Frogman
-  name: RainmanCYK
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-03 18:05:48'
-  fbid: Bingo0507
-  badge: Frogman
-  name: Ah Bing
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-03 20:20:29'
-  fbid: Ahbye1234
-  badge: Frogman
-  name: Ah Bye
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-04 20:09:05'
-  fbid: Chris1166
-  badge: Frogman
-  name: Nana
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-05 16:19:53'
-  fbid: Jonjuay8822
-  badge: Frogman
-  name: 'Jonjuay '
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-05 19:16:13'
-  fbid: Volley1543
-  badge: Frogman
-  name: Volley
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-07 08:31:13'
-  fbid: YuenG1977
-  badge: Frogman
-  name: YuenG
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-07 09:09:55'
-  fbid: Lia1116
-  badge: Frogman
-  name: Lia
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-08 13:46:45'
-  fbid: Worldwide1994
-  badge: Frogman
-  name: 'JOASH THANABALAN '
-  definition: ''
-  Week: '3'
-- timestamp: '2020-10-21 18:34:48'
-  fbid: Vincentsee8888
-  badge: Swordfish
-  name: Vincent See
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-21 22:01:45'
-  fbid: Trex1406
-  badge: Swordfish
-  name: T-rex
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-22 10:08:17'
-  fbid: spaceman1234
-  badge: Swordfish
-  name: Spaceman
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-22 16:54:00'
+- timestamp: '2020-10-26 18:00:32'
   fbid: BY8362
-  badge: Swordfish
+  badge: Frogman
   name: Ben
   definition: ''
-  Week: '1'
-- timestamp: '2020-10-22 21:22:04'
-  fbid: Nn1974
-  badge: Swordfish
-  name: Nicholas
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-22 21:41:11'
-  fbid: Mtwk1998
-  badge: Swordfish
-  name: Marcus
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-23 18:18:07'
-  fbid: Extreme8123
-  badge: Swordfish
-  name: Extreme
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-24 12:27:01'
-  fbid: Hasty55555
-  badge: Swordfish
-  name: Hasty
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-24 16:03:43'
+  Week: '2'
+- timestamp: '2020-10-27 19:04:59'
   fbid: Bronze1234
-  badge: Swordfish
-  name: Bronson
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-25 10:15:46'
-  fbid: Tommy1976
-  badge: Swordfish
-  name: Tommy Tham
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-25 11:33:17'
-  fbid: Conman7347
-  badge: Swordfish
-  name: Pterlek
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-25 17:29:25'
-  fbid: horsepower2001
-  badge: Swordfish
-  name: Nicholas Lian
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-26 18:25:56'
-  fbid: Jabez8686
-  badge: Swordfish
-  name: Yun Jie (Rhythm)
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-26 21:35:47'
-  fbid: Premium6687
-  badge: Swordfish
-  name: Prem
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-27 08:33:24'
-  fbid: Sloh0121
-  badge: Swordfish
-  name: Sloh
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-27 12:18:32'
-  fbid: Daphne1234
-  badge: Swordfish
-  name: Cactus
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-27 13:12:57'
-  fbid: Slimer1234
-  badge: Swordfish
-  name: Slimer
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-27 17:10:32'
-  fbid: jheng0000
-  badge: Swordfish
-  name: jheng
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-27 19:11:00'
-  fbid: Xiaolow3344
-  badge: Swordfish
-  name: Xiaolow3344
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-27 21:54:12'
-  fbid: Euj1871
-  badge: Swordfish
-  name: Euj
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-29 13:07:33'
-  fbid: SUWEIJIE8702
-  badge: Swordfish
-  name: SU WEIJIE
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-30 11:43:09'
-  fbid: Windy4444
-  badge: Swordfish
-  name: 'Windy '
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-30 11:49:34'
-  fbid: Jj2304
-  badge: Swordfish
-  name: Jiajun
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-31 11:31:41'
-  fbid: Pat1991
-  badge: Swordfish
-  name: Pat160A
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-31 14:27:28'
-  fbid: Geeky1989
-  badge: Swordfish
-  name: Geeky
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-31 18:53:01'
-  fbid: Corrupt2705
-  badge: Swordfish
-  name: Daniel Tay
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-31 22:54:04'
-  fbid: Conman7361
-  badge: Swordfish
-  name: Pterlek
-  definition: ''
-  Week: '2'
-- timestamp: '2020-11-02 12:13:01'
-  fbid: Rycel2929
-  badge: Swordfish
-  name: Rycel Wong
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-02 20:57:43'
-  fbid: Cutthroat0403
-  badge: Swordfish
-  name: Cutthroat
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-03 13:34:19'
-  fbid: Rubiks1234
-  badge: Swordfish
-  name: Rubiks
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-03 16:08:13'
-  fbid: Rainman0000
-  badge: Swordfish
-  name: RainmanCYK
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-03 16:25:45'
-  fbid: Jade9669
-  badge: Swordfish
-  name: Jade
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-03 20:03:39'
-  fbid: Alan2881
-  badge: Swordfish
-  name: Alan
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-04 16:54:19'
-  fbid: Ektar1971
-  badge: Swordfish
-  name: Ektar
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-04 19:18:45'
-  fbid: Akileis0163
-  badge: Swordfish
-  name: Akileis
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-04 19:23:34'
-  fbid: dragongate5270
-  badge: Swordfish
-  name: Liwei
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-05 15:05:12'
-  fbid: Hector0911
-  badge: Swordfish
-  name: Hector
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-05 20:51:23'
-  fbid: Yapoh0304
-  badge: Swordfish
-  name: yapoh
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-06 21:53:05'
-  fbid: Ram7267
-  badge: Swordfish
-  name: Ram
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-07 16:19:51'
-  fbid: APHRMC0207
-  badge: Swordfish
-  name: AP
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-07 16:34:49'
-  fbid: Angmo1984
-  badge: Swordfish
-  name: AngmoATB
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-08 13:46:45'
-  fbid: Worldwide1994
-  badge: Swordfish
-  name: 'JOASH THANABALAN '
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-08 15:56:19'
-  fbid: Aku1234
-  badge: Swordfish
-  name: Der Siang
-  definition: ''
-  Week: '3'
-- timestamp: '2020-10-23 18:18:07'
-  fbid: Extreme8123
-  badge: Iron Lungs
-  name: Extreme
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-25 11:26:15'
-  fbid: BY8362
-  badge: Iron Lungs
-  name: Ben
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-25 16:46:04'
-  fbid: Trex1406
-  badge: Iron Lungs
-  name: T-rex
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-25 23:59:58'
-  fbid: Hasty55555
-  badge: Iron Lungs
-  name: Hasty
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-26 19:16:00'
-  fbid: Bronze1234
-  badge: Iron Lungs
+  badge: Frogman
   name: Bronson
   definition: ''
   Week: '2'
-- timestamp: '2020-10-27 16:29:21'
+- timestamp: '2020-10-29 13:36:09'
   fbid: Tommy1976
-  badge: Iron Lungs
+  badge: Frogman
   name: Tommy Tham
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-27 20:29:29'
-  fbid: Mtwk1998
-  badge: Iron Lungs
-  name: Marcus
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-28 08:21:10'
-  fbid: Nn1974
-  badge: Iron Lungs
-  name: Nicholas
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-28 21:41:40'
-  fbid: Premium6687
-  badge: Iron Lungs
-  name: Prem
   definition: ''
   Week: '2'
 - timestamp: '2020-10-29 19:54:26'
   fbid: Xiaolow3344
-  badge: Iron Lungs
+  badge: Frogman
   name: Xiaolow3344
   definition: ''
   Week: '2'
-- timestamp: '2020-10-30 08:37:35'
-  fbid: Slimer1234
-  badge: Iron Lungs
-  name: Slimer
+- timestamp: '2020-10-29 21:08:46'
+  fbid: Premium6687
+  badge: Frogman
+  name: Prem
   definition: ''
   Week: '2'
-- timestamp: '2020-10-30 21:39:51'
+- timestamp: '2020-10-29 21:47:46'
+  fbid: Mtwk1998
+  badge: Frogman
+  name: Marcus
+  definition: ''
+  Week: '2'
+- timestamp: '2020-10-31 08:52:26'
   fbid: Euj1871
-  badge: Iron Lungs
+  badge: Frogman
   name: Euj
   definition: ''
   Week: '2'
-- timestamp: '2020-10-31 18:53:01'
+- timestamp: '2020-10-31 09:12:52'
+  fbid: Trex1406
+  badge: Frogman
+  name: T-rex
+  definition: ''
+  Week: '2'
+- timestamp: '2020-10-31 13:15:50'
+  fbid: Slimer1234
+  badge: Frogman
+  name: Slimer
+  definition: ''
+  Week: '2'
+- timestamp: '2020-10-31 21:44:54'
   fbid: Corrupt2705
-  badge: Iron Lungs
+  badge: Frogman
   name: Daniel Tay
+  definition: ''
+  Week: '2'
+- timestamp: '2020-11-01 18:06:21'
+  fbid: Nn1974
+  badge: Frogman
+  name: Nicholas
   definition: ''
   Week: '2'
 - timestamp: '2020-11-01 19:10:57'
   fbid: Jabez8686
-  badge: Iron Lungs
+  badge: Frogman
   name: Yun Jie (Rhythm)
   definition: ''
   Week: '2'
-- timestamp: '2020-11-02 11:33:34'
-  fbid: horsepower2001
-  badge: Iron Lungs
-  name: Nicholas Lian
+- timestamp: '2020-11-02 21:24:58'
+  fbid: Hasty55555
+  badge: Frogman
+  name: Hasty
   definition: ''
   Week: '3'
-- timestamp: '2020-11-03 08:19:08'
+- timestamp: '2020-11-05 08:13:46'
   fbid: Sloh0121
-  badge: Iron Lungs
+  badge: Frogman
   name: Sloh
   definition: ''
   Week: '3'
-- timestamp: '2020-11-03 16:45:21'
+- timestamp: '2020-11-05 15:46:52'
   fbid: jheng0000
-  badge: Iron Lungs
+  badge: Frogman
   name: jheng
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-05 16:11:25'
-  fbid: Ektar1971
-  badge: Iron Lungs
-  name: Ektar
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-05 21:55:00'
-  fbid: Windy4444
-  badge: Iron Lungs
-  name: 'Windy '
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-06 23:15:23'
-  fbid: Yapoh0304
-  badge: Iron Lungs
-  name: yapoh
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-07 13:56:54'
-  fbid: Conman7361
-  badge: Iron Lungs
-  name: Pterlek
   definition: ''
   Week: '3'
 - timestamp: '2020-11-07 14:36:47'
   fbid: Rainman0000
-  badge: Iron Lungs
+  badge: Frogman
   name: RainmanCYK
   definition: ''
   Week: '3'
-- timestamp: '2020-11-08 13:46:45'
-  fbid: Worldwide1994
-  badge: Iron Lungs
-  name: 'JOASH THANABALAN '
+- timestamp: '2020-11-08 13:18:47'
+  fbid: Ektar1971
+  badge: Frogman
+  name: Ektar
+  definition: ''
+  Week: '3'
+- timestamp: '2020-11-08 18:45:28'
+  fbid: horsepower2001
+  badge: Frogman
+  name: Nicholas Lian
+  definition: ''
+  Week: '3'
+- timestamp: '2020-11-08 22:38:18'
+  fbid: Windy4444
+  badge: Frogman
+  name: 'Windy '
   definition: ''
   Week: '3'
 - timestamp: '2020-11-08 23:16:07'
   fbid: Akileis0163
-  badge: Iron Lungs
+  badge: Frogman
   name: Akileis
   definition: ''
   Week: '3'
+- timestamp: '2020-10-25 23:51:52'
+  fbid: Extreme8123
+  badge: Swordfish
+  name: Extreme
+  definition: ''
+  Week: '1'
+- timestamp: '2020-10-31 22:51:15'
+  fbid: BY8362
+  badge: Swordfish
+  name: Ben
+  definition: ''
+  Week: '2'
+- timestamp: '2020-11-03 20:35:16'
+  fbid: Premium6687
+  badge: Swordfish
+  name: Prem
+  definition: ''
+  Week: '3'
+- timestamp: '2020-11-06 17:13:20'
+  fbid: Tommy1976
+  badge: Swordfish
+  name: Tommy Tham
+  definition: ''
+  Week: '3'
+- timestamp: '2020-11-08 20:25:34'
+  fbid: Hasty55555
+  badge: Swordfish
+  name: Hasty
+  definition: ''
+  Week: '3'
+- timestamp: '2020-11-08 21:27:55'
+  fbid: Trex1406
+  badge: Swordfish
+  name: T-rex
+  definition: ''
+  Week: '3'
+- timestamp: '2020-11-09 13:47:26'
+  fbid: Euj1871
+  badge: Swordfish
+  name: Euj
+  definition: ''
+  Week: '4'
+- timestamp: '2020-10-30 22:07:35'
+  fbid: Extreme8123
+  badge: Iron Lungs
+  name: Extreme
+  definition: ''
+  Week: '2'
