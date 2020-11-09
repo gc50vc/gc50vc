@@ -169,6 +169,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '18'
+  Name: Slimer
+  Group: ABM
+  FBID: Slimer1234
+  Total_Mileage: '194.83'
+  Badges: '9'
+  Run: '51.34'
+  Cycle: '161.17'
+  Swim: '17.20'
+  Walk: '10.01'
+- Rank: '19'
   Name: aH-MuNs-Ge
   Group: AFE
   FBID: ahmuns9861
@@ -178,7 +188,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '79.15'
-- Rank: '19'
+- Rank: '20'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -188,7 +198,7 @@
   Cycle: '499.00'
   Swim: '3.10'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '21'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -198,16 +208,6 @@
   Cycle: '16.60'
   Swim: '6.45'
   Walk: '0.00'
-- Rank: '21'
-  Name: Slimer
-  Group: ABM
-  FBID: Slimer1234
-  Total_Mileage: '182.83'
-  Badges: '9'
-  Run: '51.34'
-  Cycle: '161.17'
-  Swim: '15.20'
-  Walk: '10.01'
 - Rank: '22'
   Name: HC
   Group: ADSS/ADWS/ADWO
@@ -829,6 +829,16 @@
   Swim: '0.00'
   Walk: '6.00'
 - Rank: '84'
+  Name: loanshark
+  Group: ATC
+  FBID: loanshark9356
+  Total_Mileage: '76.56'
+  Badges: '3'
+  Run: '76.56'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '85'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -838,7 +848,7 @@
   Cycle: '91.76'
   Swim: '4.00'
   Walk: '0.00'
-- Rank: '85'
+- Rank: '86'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -848,7 +858,7 @@
   Cycle: '45.78'
   Swim: '2.50'
   Walk: '1.63'
-- Rank: '86'
+- Rank: '87'
   Name: OLAF
   Group: ADW
   FBID: OLAF2156
@@ -858,7 +868,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '87'
+- Rank: '88'
   Name: JonChen
   Group: ADW
   FBID: JonChen0000
@@ -868,7 +878,7 @@
   Cycle: '270.53'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '88'
+- Rank: '89'
   Name: Sen Kiat
   Group: ATC
   FBID: HSK7777
@@ -878,7 +888,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '89'
+- Rank: '90'
   Name: Gabriel Low
   Group: ADSS/ADWS/ADWO
   FBID: gabrieltried1234
@@ -888,7 +898,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '90'
+- Rank: '91'
   Name: Steroid
   Group: ATC
   FBID: Steroid1007
@@ -898,7 +908,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '91'
+- Rank: '92'
   Name: Iggy
   Group: ADSS/ADWS/ADWO
   FBID: Iggy7900
@@ -908,7 +918,7 @@
   Cycle: '199.76'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '92'
+- Rank: '93'
   Name: Sean Chua
   Group: ADSS/ADWS/ADWO
   FBID: Stop0001
@@ -918,7 +928,7 @@
   Cycle: '58.61'
   Swim: '0.00'
   Walk: '1.04'
-- Rank: '93'
+- Rank: '94'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -928,7 +938,7 @@
   Cycle: '194.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '94'
+- Rank: '95'
   Name: Dominic
   Group: ATC
   FBID: Nickel1191
@@ -938,7 +948,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '95'
+- Rank: '96'
   Name: Geeky
   Group: ADW
   FBID: Geeky1989
@@ -948,7 +958,7 @@
   Cycle: '0.00'
   Swim: '4.80'
   Walk: '28.68'
-- Rank: '96'
+- Rank: '97'
   Name: Akileis
   Group: ADW
   FBID: Akileis0163
@@ -958,7 +968,7 @@
   Cycle: '0.00'
   Swim: '11.00'
   Walk: '6.29'
-- Rank: '97'
+- Rank: '98'
   Name: Jeremy Tan
   Group: ATC
   FBID: Scavenge1601
@@ -967,16 +977,6 @@
   Run: '63.48'
   Cycle: '0.00'
   Swim: '0.80'
-  Walk: '0.00'
-- Rank: '98'
-  Name: loanshark
-  Group: ATC
-  FBID: loanshark9356
-  Total_Mileage: '67.64'
-  Badges: '3'
-  Run: '67.64'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '99'
   Name: Yun Jie (Rhythm)
