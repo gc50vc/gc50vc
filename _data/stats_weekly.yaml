@@ -9,6 +9,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '2'
+  Name: Sloh
+  Group: ADW
+  FBID: Sloh0121
+  Total_Mileage: '21.43'
+  Badges: '0'
+  Run: '0.00'
+  Cycle: '42.50'
+  Swim: '1.80'
+  Walk: '0.00'
+- Rank: '3'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -18,7 +28,7 @@
   Cycle: '0.00'
   Swim: '3.54'
   Walk: '0.00'
-- Rank: '3'
+- Rank: '4'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -28,7 +38,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '4'
+- Rank: '5'
   Name: LZX
   Group: ADSS/ADWS/ADWO
   FBID: leezx1337
@@ -38,7 +48,7 @@
   Cycle: '71.21'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '5'
+- Rank: '6'
   Name: Hector
   Group: ADW
   FBID: Hector0911
@@ -48,7 +58,7 @@
   Cycle: '0.00'
   Swim: '2.10'
   Walk: '0.00'
-- Rank: '6'
+- Rank: '7'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -58,7 +68,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '7'
+- Rank: '8'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: Errick1991
@@ -66,16 +76,6 @@
   Badges: '0'
   Run: '11.00'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '8'
-  Name: Sloh
-  Group: ADW
-  FBID: Sloh0121
-  Total_Mileage: '10.63'
-  Badges: '0'
-  Run: '0.00'
-  Cycle: '42.50'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '9'
@@ -269,6 +269,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '28'
+  Name: Sunray
+  Group: ABM
+  FBID: Sunray0909
+  Total_Mileage: '2.50'
+  Badges: '0'
+  Run: '2.50'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '29'
   Name: Devin Tan
   Group: ADSS/ADWS/ADWO
   FBID: alpha0117
@@ -278,7 +288,17 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
+  Name: Weide
+  Group: ADW
+  FBID: Astro1504
+  Total_Mileage: '2.44'
+  Badges: '0'
+  Run: '2.44'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '31'
   Name: Tze Kit
   Group: ADSS/ADWS/ADWO
   FBID: lunch1234
@@ -288,7 +308,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '32'
   Name: Shopan
   Group: ATC
   FBID: Shopan2000
@@ -298,7 +318,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '33'
   Name: Choy SC
   Group: ADSS/ADWS/ADWO
   FBID: Choy8082
@@ -308,7 +328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '34'
   Name: Bgtan
   Group: ADSS/ADWS/ADWO
   FBID: Kenny9889
