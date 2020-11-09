@@ -139,26 +139,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '15'
-  Name: Tze Kit
-  Group: ADSS/ADWS/ADWO
-  FBID: lunch1234
-  Total_Mileage: '7.16'
-  Badges: '2'
-  Run: '7.16'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '16'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
   Total_Mileage: '6.00'
-  Badges: '0'
+  Badges: '1'
   Run: '0.00'
   Cycle: '24.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '17'
+- Rank: '16'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -168,7 +158,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '18'
+- Rank: '17'
   Name: Liwei
   Group: ADW
   FBID: Dragongate5270
@@ -178,7 +168,7 @@
   Cycle: '20.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '19'
+- Rank: '18'
   Name: Zhi Hao
   Group: ADSS/ADWS/ADWO
   FBID: ZhiHao_R0160
@@ -188,7 +178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '19'
   Name: USwiftO
   Group: ADW
   FBID: Swift1010
@@ -198,7 +188,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '20'
   Name: Blizzard
   Group: ATC
   FBID: blizzard1979
@@ -208,13 +198,23 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '21'
   Name: Parthiban
   Group: ADSS/ADWS/ADWO
   FBID: OUTLAW2111
   Total_Mileage: '3.01'
   Badges: '0'
   Run: '3.01'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '22'
+  Name: Pravin
+  Group: ADSS/ADWS/ADWO
+  FBID: Pravin8938
+  Total_Mileage: '3.00'
+  Badges: '0'
+  Run: '3.00'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
@@ -229,6 +229,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '24'
+  Name: Tze Kit
+  Group: ADSS/ADWS/ADWO
+  FBID: lunch1234
+  Total_Mileage: '2.38'
+  Badges: '1'
+  Run: '2.38'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '25'
   Name: Shopan
   Group: ATC
   FBID: Shopan2000
@@ -238,7 +248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: Choy SC
   Group: ADSS/ADWS/ADWO
   FBID: Choy8082
@@ -248,7 +258,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: Bgtan
   Group: ADSS/ADWS/ADWO
   FBID: Kenny9889
