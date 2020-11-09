@@ -279,6 +279,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '29'
+  Name: Coral
+  Group: ABM
+  FBID: Coral5050
+  Total_Mileage: '167.51'
+  Badges: '4'
+  Run: '167.51'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '9.48'
+- Rank: '30'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -288,7 +298,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '31'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -298,7 +308,7 @@
   Cycle: '280.50'
   Swim: '6.40'
   Walk: '14.39'
-- Rank: '31'
+- Rank: '32'
   Name: AdolphusJJ
   Group: AOSX/AOS
   FBID: Bamboo1234
@@ -308,7 +318,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '33'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -318,7 +328,7 @@
   Cycle: '210.00'
   Swim: '1.26'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '34'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -328,7 +338,7 @@
   Cycle: '331.19'
   Swim: '4.65'
   Walk: '0.00'
-- Rank: '34'
+- Rank: '35'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
@@ -338,16 +348,6 @@
   Cycle: '32.50'
   Swim: '15.00'
   Walk: '7.27'
-- Rank: '35'
-  Name: Coral
-  Group: ABM
-  FBID: Coral5050
-  Total_Mileage: '150.25'
-  Badges: '4'
-  Run: '150.25'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '9.48'
 - Rank: '36'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
