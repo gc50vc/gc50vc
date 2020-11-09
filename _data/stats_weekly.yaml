@@ -9,6 +9,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '2'
+  Name: Euj
+  Group: ATC
+  FBID: Euj1871
+  Total_Mileage: '21.24'
+  Badges: '0'
+  Run: '0.00'
+  Cycle: '0.00'
+  Swim: '3.54'
+  Walk: '0.00'
+- Rank: '3'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -18,7 +28,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '3'
+- Rank: '4'
   Name: LZX
   Group: ADSS/ADWS/ADWO
   FBID: leezx1337
@@ -28,7 +38,7 @@
   Cycle: '71.21'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '4'
+- Rank: '5'
   Name: Hector
   Group: ADW
   FBID: Hector0911
@@ -38,7 +48,7 @@
   Cycle: '0.00'
   Swim: '2.10'
   Walk: '0.00'
-- Rank: '5'
+- Rank: '6'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -48,7 +58,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '6'
+- Rank: '7'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: Errick1991
@@ -58,7 +68,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '7'
+- Rank: '8'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -67,16 +77,6 @@
   Run: '0.00'
   Cycle: '42.50'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '8'
-  Name: Euj
-  Group: ATC
-  FBID: Euj1871
-  Total_Mileage: '10.62'
-  Badges: '0'
-  Run: '0.00'
-  Cycle: '0.00'
-  Swim: '1.77'
   Walk: '0.00'
 - Rank: '9'
   Name: Jenny
