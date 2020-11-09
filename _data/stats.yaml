@@ -979,6 +979,16 @@
   Swim: '4.80'
   Walk: '28.68'
 - Rank: '99'
+  Name: Andre
+  Group: ADW
+  FBID: Andre7429
+  Total_Mileage: '71.11'
+  Badges: '4'
+  Run: '4.22'
+  Cycle: '247.14'
+  Swim: '0.85'
+  Walk: '0.00'
+- Rank: '100'
   Name: Akileis
   Group: ADW
   FBID: Akileis0163
@@ -988,7 +998,7 @@
   Cycle: '0.00'
   Swim: '11.00'
   Walk: '6.29'
-- Rank: '100'
+- Rank: '101'
   Name: Lava
   Group: ATC
   FBID: Lava1717
@@ -998,7 +1008,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '101'
+- Rank: '102'
   Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
   FBID: LeonYeo2590
@@ -1007,16 +1017,6 @@
   Run: '65.00'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '102'
-  Name: Andre
-  Group: ADW
-  FBID: Andre7429
-  Total_Mileage: '64.86'
-  Badges: '4'
-  Run: '4.22'
-  Cycle: '222.16'
-  Swim: '0.85'
   Walk: '0.00'
 - Rank: '103'
   Name: Barter
