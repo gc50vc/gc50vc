@@ -1910,8 +1910,8 @@
   name: JT
   definition: ''
   Week: '2'
-- timestamp: '2020-10-30 11:53:19'
-  fbid: SquarePants3000
+- timestamp: '2020-10-30 11:51:46'
+  fbid: SQUAREPANTS5882
   badge: Baby Steps
   name: SquarePants
   definition: ''
@@ -2151,7 +2151,7 @@
   definition: ''
   Week: '3'
 - timestamp: '2020-11-02 13:14:58'
-  fbid: RelacRun0011
+  fbid: RelacRunner0011
   badge: Baby Steps
   name: Eric
   definition: ''
@@ -2250,12 +2250,6 @@
   fbid: bison2609
   badge: Baby Steps
   name: Shawn Lim
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-03 18:00:52'
-  fbid: SQUAREPANTS5882
-  badge: Baby Steps
-  name: SquarePants
   definition: ''
   Week: '3'
 - timestamp: '2020-11-03 18:15:05'
@@ -2504,6 +2498,12 @@
   name: Allen Ong
   definition: ''
   Week: '3'
+- timestamp: '2020-11-08 19:09:39'
+  fbid: Siyi1993
+  badge: Baby Steps
+  name: 'Siyi '
+  definition: ''
+  Week: '3'
 - timestamp: '2020-11-08 19:37:11'
   fbid: Tonic1630
   badge: Baby Steps
@@ -2522,16 +2522,10 @@
   name: Wolf Mun
   definition: ''
   Week: '3'
-- timestamp: '2020-11-08 20:26:52'
+- timestamp: '2020-11-08 20:25:28'
   fbid: NUMBER1111
   badge: Baby Steps
   name: TAN
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-08 21:48:58'
-  fbid: RelacRunner0011
-  badge: Baby Steps
-  name: 'Eric '
   definition: ''
   Week: '3'
 - timestamp: '2020-11-08 23:59:58'
@@ -3980,6 +3974,12 @@
   name: Rocky
   definition: ''
   Week: '1'
+- timestamp: '2020-10-25 23:59:58'
+  fbid: plusone0711
+  badge: Mount Everest
+  name: Jia Yi
+  definition: ''
+  Week: '1'
 - timestamp: '2020-10-26 08:53:22'
   fbid: Slimer1234
   badge: Mount Everest
@@ -4280,6 +4280,12 @@
   name: Der Siang
   definition: ''
   Week: '2'
+- timestamp: '2020-10-29 20:33:56'
+  fbid: Siyi1993
+  badge: Mount Everest
+  name: 'Siyi '
+  definition: ''
+  Week: '2'
 - timestamp: '2020-10-29 20:47:04'
   fbid: Jade9669
   badge: Mount Everest
@@ -4326,12 +4332,6 @@
   fbid: TC1657
   badge: Mount Everest
   name: JT
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-30 11:51:46'
-  fbid: SquarePants3000
-  badge: Mount Everest
-  name: SquarePants
   definition: ''
   Week: '2'
 - timestamp: '2020-10-30 16:11:00'
@@ -4593,7 +4593,7 @@
   definition: ''
   Week: '3'
 - timestamp: '2020-11-02 13:14:58'
-  fbid: RelacRun0011
+  fbid: RelacRunner0011
   badge: Mount Everest
   name: Eric
   definition: ''
@@ -4868,12 +4868,6 @@
   name: Cheese Chan
   definition: ''
   Week: '3'
-- timestamp: '2020-11-08 19:09:39'
-  fbid: Siyi1993
-  badge: Mount Everest
-  name: Siyi
-  definition: ''
-  Week: '3'
 - timestamp: '2020-11-08 19:37:11'
   fbid: Tonic1630
   badge: Mount Everest
@@ -4892,7 +4886,7 @@
   name: SARATH
   definition: ''
   Week: '3'
-- timestamp: '2020-11-08 20:26:52'
+- timestamp: '2020-11-08 20:25:28'
   fbid: NUMBER1111
   badge: Mount Everest
   name: TAN
@@ -4908,12 +4902,6 @@
   fbid: Reil1111
   badge: Mount Everest
   name: charl
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-08 21:48:58'
-  fbid: RelacRunner0011
-  badge: Mount Everest
-  name: 'Eric '
   definition: ''
   Week: '3'
 - timestamp: '2020-11-08 23:59:58'
@@ -5592,6 +5580,12 @@
   fbid: Mun7686
   badge: Marathon
   name: Wolf Mun
+  definition: ''
+  Week: '3'
+- timestamp: '2020-11-08 21:48:58'
+  fbid: RelacRunner0011
+  badge: Marathon
+  name: Eric
   definition: ''
   Week: '3'
 - timestamp: '2020-11-08 22:27:22'
