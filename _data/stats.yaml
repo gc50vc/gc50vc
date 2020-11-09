@@ -819,6 +819,16 @@
   Swim: '2.50'
   Walk: '1.63'
 - Rank: '83'
+  Name: Sen Kiat
+  Group: ATC
+  FBID: HSK7777
+  Total_Mileage: '79.21'
+  Badges: '3'
+  Run: '79.21'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '84'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -828,7 +838,7 @@
   Cycle: '18.27'
   Swim: '0.00'
   Walk: '3.42'
-- Rank: '84'
+- Rank: '85'
   Name: Legend
   Group: ADW
   FBID: Legend2512
@@ -838,7 +848,7 @@
   Cycle: '191.27'
   Swim: '0.00'
   Walk: '13.11'
-- Rank: '85'
+- Rank: '86'
   Name: Rock
   Group: ADW
   FBID: Rock0165
@@ -848,7 +858,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '6.00'
-- Rank: '86'
+- Rank: '87'
   Name: Yun Jie (Rhythm)
   Group: ADW
   FBID: Jabez8686
@@ -858,7 +868,7 @@
   Cycle: '0.00'
   Swim: '9.99'
   Walk: '4.80'
-- Rank: '87'
+- Rank: '88'
   Name: loanshark
   Group: ATC
   FBID: loanshark9356
@@ -868,7 +878,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '88'
+- Rank: '89'
   Name: OLAF
   Group: ADW
   FBID: OLAF2156
@@ -878,7 +888,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '89'
+- Rank: '90'
   Name: JonChen
   Group: ADW
   FBID: JonChen0000
@@ -886,16 +896,6 @@
   Badges: '4'
   Run: '6.60'
   Cycle: '270.53'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '90'
-  Name: Sen Kiat
-  Group: ATC
-  FBID: HSK7777
-  Total_Mileage: '74.10'
-  Badges: '3'
-  Run: '74.10'
-  Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '91'
