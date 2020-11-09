@@ -1065,7 +1065,7 @@
   definition: ''
   Week: '1'
 - timestamp: '2020-10-24 11:56:26'
-  fbid: LyAw_5546
+  fbid: LyAw5546
   badge: Baby Steps
   name: LyAw
   definition: ''
@@ -1274,7 +1274,7 @@
   name: EG
   definition: ''
   Week: '1'
-- timestamp: '2020-10-25 10:11:52'
+- timestamp: '2020-10-25 10:11:02'
   fbid: Keithlow1998
   badge: Baby Steps
   name: Keith low
@@ -1706,6 +1706,12 @@
   name: Saw
   definition: ''
   Week: '2'
+- timestamp: '2020-10-27 22:02:49'
+  fbid: Karma2790
+  badge: Baby Steps
+  name: Karma
+  definition: ''
+  Week: '2'
 - timestamp: '2020-10-27 22:13:54'
   fbid: timkan1991
   badge: Baby Steps
@@ -1844,6 +1850,12 @@
   name: Der Siang
   definition: ''
   Week: '2'
+- timestamp: '2020-10-29 01:32:07'
+  fbid: Meliodas4545
+  badge: Baby Steps
+  name: Evan
+  definition: ''
+  Week: '2'
 - timestamp: '2020-10-29 09:10:31'
   fbid: JIN1999
   badge: Baby Steps
@@ -1854,12 +1866,6 @@
   fbid: Phantom1997
   badge: Baby Steps
   name: Fam
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-29 09:25:07'
-  fbid: Hybird6416
-  badge: Baby Steps
-  name: Hybrid
   definition: ''
   Week: '2'
 - timestamp: '2020-10-29 14:43:57'
@@ -1878,12 +1884,6 @@
   fbid: Winson1999
   badge: Baby Steps
   name: Winson
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-29 18:45:51'
-  fbid: Karma2790
-  badge: Baby Steps
-  name: Karma
   definition: ''
   Week: '2'
 - timestamp: '2020-10-29 20:05:05'
@@ -1974,12 +1974,6 @@
   fbid: Yapohabm1234
   badge: Baby Steps
   name: Yapohabm
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-31 07:14:20'
-  fbid: LyAw5546
-  badge: Baby Steps
-  name: LyAw
   definition: ''
   Week: '2'
 - timestamp: '2020-10-31 11:49:35'
@@ -2138,6 +2132,12 @@
   name: Desmond Ong
   definition: ''
   Week: '2'
+- timestamp: '2020-11-02 06:02:01'
+  fbid: Manfred1307
+  badge: Baby Steps
+  name: Manfred1307
+  definition: ''
+  Week: '3'
 - timestamp: '2020-11-02 09:47:26'
   fbid: Weihow1503
   badge: Baby Steps
@@ -2418,12 +2418,6 @@
   fbid: Paulo0110
   badge: Baby Steps
   name: Paul
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-06 14:26:47'
-  fbid: Manfred1307
-  badge: Baby Steps
-  name: Manfred
   definition: ''
   Week: '3'
 - timestamp: '2020-11-06 16:48:16'
@@ -4094,6 +4088,12 @@
   name: Lia
   definition: ''
   Week: '2'
+- timestamp: '2020-10-27 21:01:54'
+  fbid: Karma2790
+  badge: Mount Everest
+  name: Karma
+  definition: ''
+  Week: '2'
 - timestamp: '2020-10-27 21:24:22'
   fbid: Edgar1234
   badge: Mount Everest
@@ -4104,12 +4104,6 @@
   fbid: Saw1818
   badge: Mount Everest
   name: Saw
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-27 22:02:49'
-  fbid: Karma2790
-  badge: Mount Everest
-  name: Karma
   definition: ''
   Week: '2'
 - timestamp: '2020-10-27 22:13:54'
@@ -4208,6 +4202,12 @@
   name: Jinson
   definition: ''
   Week: '2'
+- timestamp: '2020-10-29 01:32:07'
+  fbid: Meliodas4545
+  badge: Mount Everest
+  name: Evan
+  definition: ''
+  Week: '2'
 - timestamp: '2020-10-29 06:48:36'
   fbid: Aaron0721
   badge: Mount Everest
@@ -4224,12 +4224,6 @@
   fbid: Phantom1997
   badge: Mount Everest
   name: Fam
-  definition: ''
-  Week: '2'
-- timestamp: '2020-10-29 09:25:07'
-  fbid: Hybird6416
-  badge: Mount Everest
-  name: Hybrid
   definition: ''
   Week: '2'
 - timestamp: '2020-10-29 10:18:04'
@@ -4559,7 +4553,7 @@
 - timestamp: '2020-11-02 06:02:01'
   fbid: Manfred1307
   badge: Mount Everest
-  name: Manfred
+  name: Manfred1307
   definition: ''
   Week: '3'
 - timestamp: '2020-11-02 07:27:50'
@@ -4914,12 +4908,6 @@
   fbid: Reil1111
   badge: Mount Everest
   name: charl
-  definition: ''
-  Week: '3'
-- timestamp: '2020-11-08 21:24:15'
-  fbid: Meliodas4545
-  badge: Mount Everest
-  name: Evan
   definition: ''
   Week: '3'
 - timestamp: '2020-11-08 21:48:58'
@@ -6014,7 +6002,7 @@
   name: Andrew Leong
   definition: ''
   Week: '1'
-- timestamp: '2020-10-25 10:11:52'
+- timestamp: '2020-10-25 10:11:02'
   fbid: Keithlow1998
   badge: Buns of Steel
   name: Keith low
@@ -6458,6 +6446,12 @@
   name: Weng
   definition: ''
   Week: '1'
+- timestamp: '2020-10-25 10:13:43'
+  fbid: Keithlow1998
+  badge: Cycopath
+  name: Keith low
+  definition: ''
+  Week: '1'
 - timestamp: '2020-10-25 12:27:19'
   fbid: Ektar1971
   badge: Cycopath
@@ -6468,12 +6462,6 @@
   fbid: Jonjuay8822
   badge: Cycopath
   name: 'Jonjuay '
-  definition: ''
-  Week: '1'
-- timestamp: '2020-10-25 20:01:32'
-  fbid: Keithlow1998
-  badge: Cycopath
-  name: Keith low
   definition: ''
   Week: '1'
 - timestamp: '2020-10-25 23:59:58'
