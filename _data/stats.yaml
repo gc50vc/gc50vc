@@ -1929,16 +1929,6 @@
   Swim: '0.00'
   Walk: '2.85'
 - Rank: '194'
-  Name: Desmond Ong
-  Group: ADSS/ADWS/ADWO
-  FBID: Desmondowx1992
-  Total_Mileage: '34.79'
-  Badges: '3'
-  Run: '17.79'
-  Cycle: '68.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '195'
   Name: Saturn
   Group: ADW
   FBID: Saturn1501
@@ -1948,7 +1938,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '196'
+- Rank: '195'
   Name: Kelvis
   Group: ADSS/ADWS/ADWO
   FBID: Kelvis2000
@@ -1956,6 +1946,16 @@
   Badges: '2'
   Run: '24.14'
   Cycle: '40.73'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '196'
+  Name: Desmond Ong
+  Group: ADSS/ADWS/ADWO
+  FBID: Desmondowx1992
+  Total_Mileage: '34.24'
+  Badges: '3'
+  Run: '17.79'
+  Cycle: '65.81'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '197'
