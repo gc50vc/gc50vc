@@ -72,10 +72,10 @@
   Name: Ektar
   Group: ABM
   FBID: ektar1971
-  Total_Mileage: '294.86'
+  Total_Mileage: '306.04'
   Badges: '11'
   Run: '92.47'
-  Cycle: '547.97'
+  Cycle: '592.67'
   Swim: '10.90'
   Walk: '0.00'
 - Rank: '9'
@@ -1389,6 +1389,16 @@
   Swim: '1.00'
   Walk: '0.00'
 - Rank: '140'
+  Name: Pixel EQ
+  Group: AOSX/AOS
+  FBID: Pixel0323
+  Total_Mileage: '48.66'
+  Badges: '3'
+  Run: '46.87'
+  Cycle: '7.17'
+  Swim: '0.00'
+  Walk: '5.77'
+- Rank: '141'
   Name: Jing Wee
   Group: ADSS/ADWS/ADWO
   FBID: Pork2070
@@ -1398,7 +1408,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '141'
+- Rank: '142'
   Name: Fu Hao Wei
   Group: ADW
   FBID: fuhaowei8435
@@ -1408,7 +1418,7 @@
   Cycle: '163.06'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '142'
+- Rank: '143'
   Name: Amar
   Group: ADSS/ADWS/ADWO
   FBID: Amar0165
@@ -1418,16 +1428,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '143'
-  Name: Pixel EQ
-  Group: AOSX/AOS
-  FBID: Pixel0323
-  Total_Mileage: '46.87'
-  Badges: '3'
-  Run: '46.87'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '5.77'
 - Rank: '144'
   Name: Wes
   Group: ADW
