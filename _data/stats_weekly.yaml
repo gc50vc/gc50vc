@@ -9,16 +9,6 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '2'
-  Name: Bgtan
-  Group: ADSS/ADWS/ADWO
-  FBID: Kenny9889
-  Total_Mileage: '20.26'
-  Badges: '0'
-  Run: '0.00'
-  Cycle: '81.05'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '3'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -28,7 +18,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '4'
+- Rank: '3'
   Name: LZX
   Group: ADSS/ADWS/ADWO
   FBID: leezx1337
@@ -38,7 +28,7 @@
   Cycle: '71.21'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '5'
+- Rank: '4'
   Name: Hector
   Group: ADW
   FBID: Hector0911
@@ -48,7 +38,7 @@
   Cycle: '0.00'
   Swim: '2.10'
   Walk: '0.00'
-- Rank: '6'
+- Rank: '5'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -58,7 +48,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '7'
+- Rank: '6'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: Errick1991
@@ -68,7 +58,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '8'
+- Rank: '7'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -78,7 +68,7 @@
   Cycle: '42.50'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '9'
+- Rank: '8'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -87,6 +77,16 @@
   Run: '0.00'
   Cycle: '0.00'
   Swim: '1.77'
+  Walk: '0.00'
+- Rank: '9'
+  Name: Jenny
+  Group: AFE
+  FBID: Jenny7373
+  Total_Mileage: '10.45'
+  Badges: '0'
+  Run: '10.45'
+  Cycle: '0.00'
+  Swim: '0.00'
   Walk: '0.00'
 - Rank: '10'
   Name: 'Jonjuay '
@@ -159,16 +159,6 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '17'
-  Name: Jia Yi
-  Group: ADW
-  FBID: plusone2210
-  Total_Mileage: '5.00'
-  Badges: '0'
-  Run: '5.00'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '17'
   Name: Liwei
   Group: ADW
   FBID: Dragongate5270
@@ -178,7 +168,7 @@
   Cycle: '20.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '19'
+- Rank: '18'
   Name: Zhi Hao
   Group: ADSS/ADWS/ADWO
   FBID: ZhiHao_R0160
@@ -188,7 +178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '19'
   Name: USwiftO
   Group: ADW
   FBID: Swift1010
@@ -198,7 +188,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '20'
   Name: Blizzard
   Group: ATC
   FBID: blizzard1979
@@ -208,7 +198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '21'
   Name: Parthiban
   Group: ADSS/ADWS/ADWO
   FBID: OUTLAW2111
@@ -218,7 +208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '22'
   Name: Shopan
   Group: ATC
   FBID: Shopan2000
@@ -228,13 +218,23 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '23'
   Name: Choy SC
   Group: ADSS/ADWS/ADWO
   FBID: Choy8082
   Total_Mileage: '1.80'
   Badges: '0'
   Run: '1.80'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '24'
+  Name: Bgtan
+  Group: ADSS/ADWS/ADWO
+  FBID: Kenny9889
+  Total_Mileage: '0.00'
+  Badges: '0'
+  Run: '0.00'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
