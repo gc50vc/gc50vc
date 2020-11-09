@@ -9,36 +9,6 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '2'
-  Name: Desmond Ong
-  Group: ADSS/ADWS/ADWO
-  FBID: Desmondowx1992
-  Total_Mileage: '16.45'
-  Badges: '0'
-  Run: '0.00'
-  Cycle: '65.81'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '3'
-  Name: Joel Tan
-  Group: ADW
-  FBID: mojojojo2000
-  Total_Mileage: '13.40'
-  Badges: '0'
-  Run: '13.40'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '4'
-  Name: Glenn Lee
-  Group: ADSS/ADWS/ADWO
-  FBID: Garfield3110
-  Total_Mileage: '12.70'
-  Badges: '1'
-  Run: '12.70'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '13.84'
-- Rank: '5'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -48,7 +18,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '5'
+- Rank: '2'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -58,7 +28,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '7'
+- Rank: '4'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -68,7 +38,7 @@
   Cycle: '42.50'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '8'
+- Rank: '5'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -78,17 +48,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '9'
-  Name: ARROW
-  Group: ADW
-  FBID: Tee1980
-  Total_Mileage: '9.68'
-  Badges: '0'
-  Run: '0.00'
-  Cycle: '38.71'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '10'
+- Rank: '6'
   Name: Rajaan
   Group: ADSS/ADWS/ADWO
   FBID: Rajaanleon0021
@@ -98,7 +58,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '7'
   Name: loanshark
   Group: ATC
   FBID: loanshark9356
@@ -108,7 +68,17 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '8'
+  Name: ARROW
+  Group: ADW
+  FBID: Tee1980
+  Total_Mileage: '8.09'
+  Badges: '0'
+  Run: '0.00'
+  Cycle: '32.37'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '9'
   Name: Ben
   Group: ADW
   FBID: BY8362
@@ -118,7 +88,7 @@
   Cycle: '18.03'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '10'
   Name: Liwei
   Group: ADW
   FBID: Dragongate5270
@@ -128,7 +98,7 @@
   Cycle: '20.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '11'
   Name: Zhi Hao
   Group: ADSS/ADWS/ADWO
   FBID: ZhiHao_R0160
@@ -138,7 +108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '15'
+- Rank: '12'
   Name: USwiftO
   Group: ADW
   FBID: Swift1010
@@ -148,7 +118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '16'
+- Rank: '13'
   Name: Parthiban
   Group: ADSS/ADWS/ADWO
   FBID: OUTLAW2111
@@ -158,7 +128,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '17'
+- Rank: '14'
   Name: Shopan
   Group: ATC
   FBID: Shopan2000
