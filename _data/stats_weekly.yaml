@@ -1,4 +1,14 @@
 - Rank: '1'
+  Name: Extreme
+  Group: ATC
+  FBID: Extreme8123
+  Total_Mileage: '90.60'
+  Badges: '0'
+  Run: '0.00'
+  Cycle: '0.00'
+  Swim: '15.10'
+  Walk: '0.00'
+- Rank: '2'
   Name: Lee Wen Yang
   Group: AFE
   FBID: LWY3942
@@ -7,16 +17,6 @@
   Run: '5.00'
   Cycle: '288.19'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '2'
-  Name: Extreme
-  Group: ATC
-  FBID: Extreme8123
-  Total_Mileage: '60.30'
-  Badges: '0'
-  Run: '0.00'
-  Cycle: '0.00'
-  Swim: '10.05'
   Walk: '0.00'
 - Rank: '3'
   Name: jAmEs h.
