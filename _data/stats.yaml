@@ -259,6 +259,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '27'
+  Name: Coral
+  Group: ABM
+  FBID: Coral5050
+  Total_Mileage: '176.75'
+  Badges: '4'
+  Run: '176.75'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '9.48'
+- Rank: '28'
   Name: Daniel Tay
   Group: AOSX/AOS
   FBID: Corrupt2705
@@ -268,7 +278,7 @@
   Cycle: '0.00'
   Swim: '17.40'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -278,7 +288,7 @@
   Cycle: '250.00'
   Swim: '1.26'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: 'TiGeR3 '
   Group: ADSS/ADWS/ADWO
   FBID: TiGeR2876
@@ -288,16 +298,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '30'
-  Name: Coral
-  Group: ABM
-  FBID: Coral5050
-  Total_Mileage: '167.51'
-  Badges: '4'
-  Run: '167.51'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '9.48'
 - Rank: '31'
   Name: Dan
   Group: ADSS/ADWS/ADWO
