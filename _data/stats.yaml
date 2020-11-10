@@ -509,6 +509,16 @@
   Swim: '4.60'
   Walk: '3.15'
 - Rank: '52'
+  Name: GN
+  Group: ADSS/ADWS/ADWO
+  FBID: GN8282
+  Total_Mileage: '112.04'
+  Badges: '4'
+  Run: '112.04'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '53'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -518,7 +528,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '53'
+- Rank: '54'
   Name: Silver
   Group: ABM
   FBID: Silver5117
@@ -528,7 +538,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.10'
-- Rank: '54'
+- Rank: '55'
   Name: Btee
   Group: AFE
   FBID: Brian0307
@@ -538,7 +548,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '55'
+- Rank: '56'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
@@ -548,7 +558,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '56'
+- Rank: '57'
   Name: Weng
   Group: ADSS/ADWS/ADWO
   FBID: Weng8238
@@ -558,16 +568,6 @@
   Cycle: '231.54'
   Swim: '0.00'
   Walk: '13.86'
-- Rank: '57'
-  Name: GN
-  Group: ADSS/ADWS/ADWO
-  FBID: GN8282
-  Total_Mileage: '103.97'
-  Badges: '4'
-  Run: '103.97'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '58'
   Name: Tan Chee Wee
   Group: ATC
@@ -799,6 +799,16 @@
   Swim: '3.22'
   Walk: '0.00'
 - Rank: '81'
+  Name: Sen Kiat
+  Group: ATC
+  FBID: HSK7777
+  Total_Mileage: '84.37'
+  Badges: '3'
+  Run: '84.37'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '82'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -808,7 +818,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '82'
+- Rank: '83'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -818,7 +828,7 @@
   Cycle: '45.78'
   Swim: '2.50'
   Walk: '1.63'
-- Rank: '83'
+- Rank: '84'
   Name: Warren Chua
   Group: ADSS/ADWS/ADWO
   FBID: Warren9588
@@ -828,7 +838,7 @@
   Cycle: '290.46'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '84'
+- Rank: '85'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -838,23 +848,13 @@
   Cycle: '194.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '85'
+- Rank: '86'
   Name: QUENCHER
   Group: ABM
   FBID: quencher2020
   Total_Mileage: '81.90'
   Badges: '3'
   Run: '81.90'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '86'
-  Name: Sen Kiat
-  Group: ATC
-  FBID: HSK7777
-  Total_Mileage: '79.21'
-  Badges: '3'
-  Run: '79.21'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
