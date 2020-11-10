@@ -199,6 +199,16 @@
   Swim: '0.00'
   Walk: '79.15'
 - Rank: '21'
+  Name: Cutthroat
+  Group: ATC
+  FBID: Cutthroat0403
+  Total_Mileage: '189.94'
+  Badges: '6'
+  Run: '141.08'
+  Cycle: '40.64'
+  Swim: '6.45'
+  Walk: '0.00'
+- Rank: '22'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -208,7 +218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.68'
-- Rank: '22'
+- Rank: '23'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -217,16 +227,6 @@
   Run: '43.90'
   Cycle: '479.54'
   Swim: '4.00'
-  Walk: '0.00'
-- Rank: '23'
-  Name: Cutthroat
-  Group: ATC
-  FBID: Cutthroat0403
-  Total_Mileage: '183.93'
-  Badges: '6'
-  Run: '141.08'
-  Cycle: '16.60'
-  Swim: '6.45'
   Walk: '0.00'
 - Rank: '24'
   Name: Bronson
