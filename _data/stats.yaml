@@ -52,9 +52,9 @@
   Name: LZX
   Group: ADSS/ADWS/ADWO
   FBID: leezx1337
-  Total_Mileage: '432.03'
+  Total_Mileage: '447.05'
   Badges: '7'
-  Run: '127.72'
+  Run: '142.74'
   Cycle: '1217.23'
   Swim: '0.00'
   Walk: '2.18'
@@ -87,7 +87,7 @@
   Run: '83.99'
   Cycle: '133.89'
   Swim: '27.74'
-  Walk: '93.22'
+  Walk: '98.90'
 - Rank: '10'
   Name: Nicholas
   Group: ADSS/ADWS/ADWO
@@ -1329,6 +1329,16 @@
   Swim: '2.45'
   Walk: '0.00'
 - Rank: '134'
+  Name: Starbucks
+  Group: ABM
+  FBID: Starbucks3756
+  Total_Mileage: '52.16'
+  Badges: '3'
+  Run: '49.85'
+  Cycle: '9.23'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '135'
   Name: jAmEs h.
   Group: ADSS/ADWS/ADWO
   FBID: jAmEsh0007
@@ -1338,7 +1348,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '135'
+- Rank: '136'
   Name: Rambo
   Group: AOSX/AOS
   FBID: Rambo0113
@@ -1348,7 +1358,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '136'
+- Rank: '137'
   Name: francisyap
   Group: AFE
   FBID: francis7373
@@ -1358,7 +1368,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '137'
+- Rank: '138'
   Name: Pixel EQ
   Group: AOSX/AOS
   FBID: Pixel0323
@@ -1368,7 +1378,7 @@
   Cycle: '7.17'
   Swim: '0.00'
   Walk: '5.77'
-- Rank: '138'
+- Rank: '139'
   Name: Chan Howe
   Group: AOSX/AOS
   FBID: IceCube3008
@@ -1378,7 +1388,7 @@
   Cycle: '202.04'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '139'
+- Rank: '140'
   Name: l0ng live the beard
   Group: ADSS/ADWS/ADWO
   FBID: Rovin0787
@@ -1388,7 +1398,7 @@
   Cycle: '141.04'
   Swim: '0.00'
   Walk: '5.07'
-- Rank: '140'
+- Rank: '141'
   Name: Waffles
   Group: ATC
   FBID: Waffles3567
@@ -1398,16 +1408,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.57'
-- Rank: '141'
-  Name: Starbucks
-  Group: ABM
-  FBID: Starbucks3756
-  Total_Mileage: '49.85'
-  Badges: '3'
-  Run: '49.85'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '142'
   Name: Jing Wee
   Group: ADSS/ADWS/ADWO
@@ -5387,4 +5387,4 @@
   Run: '0.00'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '81.27'
+  Walk: '137.34'
