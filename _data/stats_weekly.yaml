@@ -39,6 +39,16 @@
   Swim: '4.50'
   Walk: '0.00'
 - Rank: '5'
+  Name: Slimer
+  Group: ABM
+  FBID: Slimer1234
+  Total_Mileage: '36.10'
+  Badges: '1'
+  Run: '6.03'
+  Cycle: '24.29'
+  Swim: '4.00'
+  Walk: '0.00'
+- Rank: '6'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -48,7 +58,7 @@
   Cycle: '86.30'
   Swim: '1.80'
   Walk: '0.00'
-- Rank: '6'
+- Rank: '7'
   Name: Ben
   Group: ADW
   FBID: BY8362
@@ -57,16 +67,6 @@
   Run: '15.12'
   Cycle: '40.03'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '7'
-  Name: Slimer
-  Group: ABM
-  FBID: Slimer1234
-  Total_Mileage: '24.10'
-  Badges: '1'
-  Run: '6.03'
-  Cycle: '24.29'
-  Swim: '2.00'
   Walk: '0.00'
 - Rank: '8'
   Name: Jiajun
