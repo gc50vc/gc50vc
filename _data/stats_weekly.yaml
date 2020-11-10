@@ -179,6 +179,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '19'
+  Name: Prem
+  Group: ADW
+  FBID: Premium6687
+  Total_Mileage: '19.50'
+  Badges: '0'
+  Run: '0.00'
+  Cycle: '0.00'
+  Swim: '3.25'
+  Walk: '0.00'
+- Rank: '20'
   Name: Hector
   Group: ADW
   FBID: Hector0911
@@ -188,7 +198,7 @@
   Cycle: '0.00'
   Swim: '2.10'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '21'
   Name: LZX
   Group: ADSS/ADWS/ADWO
   FBID: leezx1337
@@ -198,7 +208,7 @@
   Cycle: '71.21'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: Coral
   Group: ABM
   FBID: Coral5050
@@ -208,7 +218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: JOVAN
   Group: ADW
   FBID: NIGHTOWL1303
@@ -218,7 +228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: Boon Peng
   Group: ADSS/ADWS/ADWO
   FBID: Bpeng1129
@@ -228,7 +238,7 @@
   Cycle: '2.10'
   Swim: '2.00'
   Walk: '2.45'
-- Rank: '24'
+- Rank: '25'
   Name: Shawn Chia
   Group: ADW
   FBID: SCWE9595
@@ -238,7 +248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -248,7 +258,7 @@
   Cycle: '64.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: Nicholas Lian
   Group: ADW
   FBID: horsepower2001
@@ -258,7 +268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -268,7 +278,7 @@
   Cycle: '26.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
@@ -278,7 +288,7 @@
   Cycle: '0.00'
   Swim: '1.10'
   Walk: '3.97'
-- Rank: '29'
+- Rank: '30'
   Name: Benson
   Group: ADW
   FBID: Benoi1234
@@ -288,7 +298,7 @@
   Cycle: '16.50'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '31'
   Name: GN
   Group: ADSS/ADWS/ADWO
   FBID: GN8282
@@ -298,7 +308,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '32'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -308,7 +318,7 @@
   Cycle: '32.52'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '33'
   Name: Sean Chua
   Group: ADSS/ADWS/ADWO
   FBID: Stop0001
@@ -318,7 +328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '34'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -328,7 +338,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '34'
+- Rank: '35'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -338,7 +348,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -347,16 +357,6 @@
   Run: '12.30'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '36'
-  Name: Prem
-  Group: ADW
-  FBID: Premium6687
-  Total_Mileage: '12.30'
-  Badges: '0'
-  Run: '0.00'
-  Cycle: '0.00'
-  Swim: '2.05'
   Walk: '0.00'
 - Rank: '37'
   Name: yapoh
