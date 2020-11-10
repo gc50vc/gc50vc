@@ -29,6 +29,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '4'
+  Name: Euj
+  Group: ATC
+  FBID: Euj1871
+  Total_Mileage: '43.64'
+  Badges: '0'
+  Run: '2.00'
+  Cycle: '4.55'
+  Swim: '6.75'
+  Walk: '0.00'
+- Rank: '5'
   Name: Daniel Tay
   Group: AOSX/AOS
   FBID: Corrupt2705
@@ -38,7 +48,7 @@
   Cycle: '0.00'
   Swim: '4.50'
   Walk: '0.00'
-- Rank: '5'
+- Rank: '6'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -48,7 +58,7 @@
   Cycle: '44.70'
   Swim: '4.25'
   Walk: '0.00'
-- Rank: '6'
+- Rank: '7'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -57,16 +67,6 @@
   Run: '6.03'
   Cycle: '24.29'
   Swim: '4.00'
-  Walk: '0.00'
-- Rank: '7'
-  Name: Euj
-  Group: ATC
-  FBID: Euj1871
-  Total_Mileage: '33.38'
-  Badges: '0'
-  Run: '2.00'
-  Cycle: '4.55'
-  Swim: '5.04'
   Walk: '0.00'
 - Rank: '8'
   Name: Sloh
@@ -1038,7 +1038,17 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '105'
+- Rank: '104'
+  Name: bsim
+  Group: ADSS/ADWS/ADWO
+  FBID: bsim8420
+  Total_Mileage: '2.40'
+  Badges: '0'
+  Run: '2.40'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '106'
   Name: Yiheng
   Group: AOSX/AOS
   FBID: aosx4411
@@ -1048,7 +1058,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '106'
+- Rank: '107'
   Name: Tze Kit
   Group: ADSS/ADWS/ADWO
   FBID: lunch1234
@@ -1058,7 +1068,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '107'
+- Rank: '108'
   Name: Shopan
   Group: ATC
   FBID: Shopan2000
@@ -1068,7 +1078,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '107'
+- Rank: '108'
   Name: Ankle
   Group: ADSS/ADWS/ADWO
   FBID: Redeyesblackdragon1310
@@ -1078,7 +1088,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '109'
+- Rank: '110'
   Name: Choy SC
   Group: ADSS/ADWS/ADWO
   FBID: Choy8082
@@ -1088,7 +1098,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '110'
+- Rank: '111'
   Name: Pixel EQ
   Group: AOSX/AOS
   FBID: Pixel0323
@@ -1098,7 +1108,7 @@
   Cycle: '7.17'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '111'
+- Rank: '112'
   Name: Chin Yong
   Group: ADSS/ADWS/ADWO
   FBID: Relaxing1234
@@ -1108,7 +1118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.09'
-- Rank: '111'
+- Rank: '112'
   Name: Patrick Pang
   Group: AFE
   FBID: Playpang0113
@@ -1118,7 +1128,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '8.25'
-- Rank: '111'
+- Rank: '112'
   Name: Kush
   Group: AFE
   FBID: KM1695
@@ -1128,7 +1138,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '8.56'
-- Rank: '111'
+- Rank: '112'
   Name: Nicholas Lian
   Group: ADW
   FBID: horsepowe2001
@@ -1138,7 +1148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '2.91'
-- Rank: '111'
+- Rank: '112'
   Name: Chrispian
   Group: AFE
   FBID: Chrispian1979
