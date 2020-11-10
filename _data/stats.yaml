@@ -1109,6 +1109,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '112'
+  Name: Sunray
+  Group: ABM
+  FBID: Sunray0909
+  Total_Mileage: '58.23'
+  Badges: '4'
+  Run: '17.60'
+  Cycle: '162.50'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '113'
   Name: 'Windy '
   Group: ABM
   FBID: Windy4444
@@ -1118,7 +1128,7 @@
   Cycle: '0.00'
   Swim: '9.60'
   Walk: '0.00'
-- Rank: '113'
+- Rank: '114'
   Name: Jiajun
   Group: ADSS/ADWS/ADWO
   FBID: Jj2304
@@ -1128,7 +1138,7 @@
   Cycle: '0.00'
   Swim: '8.00'
   Walk: '11.06'
-- Rank: '114'
+- Rank: '115'
   Name: Glenn
   Group: ADW
   FBID: Garfield3110
@@ -1138,7 +1148,7 @@
   Cycle: '10.00'
   Swim: '0.00'
   Walk: '13.84'
-- Rank: '115'
+- Rank: '116'
   Name: RainmanCYK
   Group: ADW
   FBID: Rainman0000
@@ -1148,7 +1158,7 @@
   Cycle: '0.00'
   Swim: '8.00'
   Walk: '0.00'
-- Rank: '116'
+- Rank: '117'
   Name: You Rong
   Group: ADW
   FBID: Audi1987
@@ -1158,7 +1168,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '117'
+- Rank: '118'
   Name: Camper
   Group: ADW
   FBID: tanht1968
@@ -1168,7 +1178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '118'
+- Rank: '119'
   Name: JOLLY
   Group: ADW
   FBID: Jolly8178
@@ -1178,7 +1188,7 @@
   Cycle: '42.68'
   Swim: '2.50'
   Walk: '0.00'
-- Rank: '119'
+- Rank: '120'
   Name: Zinc
   Group: ADW
   FBID: zinc1997
@@ -1188,7 +1198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '5.65'
-- Rank: '120'
+- Rank: '121'
   Name: Wan Yuan
   Group: ADW
   FBID: Lost1908
@@ -1198,7 +1208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '121'
+- Rank: '122'
   Name: Manu
   Group: ABM
   FBID: Manu7894
@@ -1206,16 +1216,6 @@
   Badges: '3'
   Run: '55.72'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '122'
-  Name: Sunray
-  Group: ABM
-  FBID: Sunray0909
-  Total_Mileage: '55.22'
-  Badges: '4'
-  Run: '17.60'
-  Cycle: '150.49'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '123'
