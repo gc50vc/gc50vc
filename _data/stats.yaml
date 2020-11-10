@@ -1899,6 +1899,16 @@
   Swim: '6.20'
   Walk: '0.00'
 - Rank: '191'
+  Name: Ham
+  Group: ADSS/ADWS/ADWO
+  FBID: Ham1234
+  Total_Mileage: '37.07'
+  Badges: '2'
+  Run: '37.07'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '192'
   Name: Wong Wei Ming
   Group: ATC
   FBID: Shadow0206
@@ -1908,7 +1918,7 @@
   Cycle: '0.00'
   Swim: '2.14'
   Walk: '0.00'
-- Rank: '192'
+- Rank: '193'
   Name: Alloy
   Group: ABM
   FBID: alloy8585
@@ -1918,7 +1928,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '193'
+- Rank: '194'
   Name: Yan Ting
   Group: ADSS/ADWS/ADWO
   FBID: Yeti1993
@@ -1928,7 +1938,7 @@
   Cycle: '0.00'
   Swim: '3.20'
   Walk: '0.00'
-- Rank: '194'
+- Rank: '195'
   Name: Soh Thiam Hing
   Group: ADSS/ADWS/ADWO
   FBID: daffodilistic1337
@@ -1938,7 +1948,7 @@
   Cycle: '9.74'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '195'
+- Rank: '196'
   Name: Guang
   Group: ADSS/ADWS/ADWO
   FBID: Guang1309
@@ -1948,7 +1958,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '196'
+- Rank: '197'
   Name: Parthiban
   Group: ADSS/ADWS/ADWO
   FBID: OUTLAW2111
@@ -1958,7 +1968,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '197'
+- Rank: '198'
   Name: Rajaan
   Group: ADSS/ADWS/ADWO
   FBID: Rajaanleon0021
@@ -1968,7 +1978,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '198'
+- Rank: '199'
   Name: 'Beatbox '
   Group: ABM
   FBID: Beatbox0202
@@ -1978,7 +1988,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '7.54'
-- Rank: '199'
+- Rank: '200'
   Name: CSM
   Group: ADSS/ADWS/ADWO
   FBID: CSM8189
@@ -1988,7 +1998,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '12.30'
-- Rank: '200'
+- Rank: '201'
   Name: Button
   Group: ATC
   FBID: Button9029
@@ -1998,7 +2008,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '2.85'
-- Rank: '201'
+- Rank: '202'
   Name: Saturn
   Group: ADW
   FBID: Saturn1501
@@ -2008,7 +2018,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '202'
+- Rank: '203'
   Name: Kelvis
   Group: ADSS/ADWS/ADWO
   FBID: Kelvis2000
@@ -2018,7 +2028,7 @@
   Cycle: '40.73'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '203'
+- Rank: '204'
   Name: Desmond Ong
   Group: ADSS/ADWS/ADWO
   FBID: Desmondowx1992
@@ -2026,16 +2036,6 @@
   Badges: '3'
   Run: '17.79'
   Cycle: '65.81'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '204'
-  Name: Ham
-  Group: ADSS/ADWS/ADWO
-  FBID: Ham1234
-  Total_Mileage: '34.07'
-  Badges: '2'
-  Run: '34.07'
-  Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '205'
