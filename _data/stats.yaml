@@ -469,6 +469,16 @@
   Swim: '3.00'
   Walk: '0.00'
 - Rank: '48'
+  Name: Liwei
+  Group: ADW
+  FBID: dragongate5270
+  Total_Mileage: '118.20'
+  Badges: '8'
+  Run: '49.36'
+  Cycle: '164.95'
+  Swim: '4.60'
+  Walk: '3.15'
+- Rank: '49'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -478,7 +488,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '23.30'
-- Rank: '49'
+- Rank: '50'
   Name: Yun Jie (Rhythm)
   Group: ADW
   FBID: Jabez8686
@@ -488,7 +498,7 @@
   Cycle: '0.00'
   Swim: '15.73'
   Walk: '4.80'
-- Rank: '50'
+- Rank: '51'
   Name: Cosmo
   Group: ABM
   FBID: Cosmo6306
@@ -498,7 +508,7 @@
   Cycle: '0.00'
   Swim: '0.50'
   Walk: '10.51'
-- Rank: '51'
+- Rank: '52'
   Name: Benson
   Group: ADW
   FBID: benoi1234
@@ -508,16 +518,6 @@
   Cycle: '27.44'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '52'
-  Name: Liwei
-  Group: ADW
-  FBID: dragongate5270
-  Total_Mileage: '113.20'
-  Badges: '8'
-  Run: '49.36'
-  Cycle: '144.95'
-  Swim: '4.60'
-  Walk: '3.15'
 - Rank: '53'
   Name: GN
   Group: ADSS/ADWS/ADWO
@@ -859,6 +859,16 @@
   Swim: '0.00'
   Walk: '6.00'
 - Rank: '87'
+  Name: loanshark
+  Group: ATC
+  FBID: loanshark9356
+  Total_Mileage: '82.57'
+  Badges: '3'
+  Run: '82.57'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '88'
   Name: QUENCHER
   Group: ABM
   FBID: quencher2020
@@ -868,7 +878,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '88'
+- Rank: '89'
   Name: Legend
   Group: ADW
   FBID: Legend2512
@@ -878,16 +888,6 @@
   Cycle: '191.27'
   Swim: '0.00'
   Walk: '13.11'
-- Rank: '89'
-  Name: loanshark
-  Group: ATC
-  FBID: loanshark9356
-  Total_Mileage: '76.56'
-  Badges: '3'
-  Run: '76.56'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '90'
   Name: OLAF
   Group: ADW
@@ -989,6 +989,16 @@
   Swim: '11.60'
   Walk: '0.00'
 - Rank: '100'
+  Name: Weaver
+  Group: ADW
+  FBID: Weaver5275
+  Total_Mileage: '69.46'
+  Badges: '3'
+  Run: '69.46'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '101'
   Name: ARROW
   Group: ADW
   FBID: Tee1980
@@ -998,7 +1008,7 @@
   Cycle: '77.42'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '101'
+- Rank: '102'
   Name: Akileis
   Group: ADW
   FBID: Akileis0163
@@ -1008,7 +1018,7 @@
   Cycle: '0.00'
   Swim: '11.00'
   Walk: '6.29'
-- Rank: '102'
+- Rank: '103'
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
@@ -1018,7 +1028,7 @@
   Cycle: '8.04'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '103'
+- Rank: '104'
   Name: Lava
   Group: ATC
   FBID: Lava1717
@@ -1028,7 +1038,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '104'
+- Rank: '105'
   Name: Hector
   Group: ADW
   FBID: Hector0911
@@ -1038,7 +1048,7 @@
   Cycle: '0.00'
   Swim: '6.10'
   Walk: '4.26'
-- Rank: '105'
+- Rank: '106'
   Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
   FBID: LeonYeo2590
@@ -1048,7 +1058,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '106'
+- Rank: '107'
   Name: Barter
   Group: ATC
   FBID: Reload0203
@@ -1058,7 +1068,7 @@
   Cycle: '203.00'
   Swim: '1.50'
   Walk: '13.50'
-- Rank: '107'
+- Rank: '108'
   Name: Jenny
   Group: AFE
   FBID: Jenny7373
@@ -1068,16 +1078,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '67.39'
-- Rank: '108'
-  Name: Weaver
-  Group: ADW
-  FBID: Weaver5275
-  Total_Mileage: '64.44'
-  Badges: '3'
-  Run: '64.44'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '109'
   Name: Yeow Teck
   Group: AOSX/AOS
@@ -2937,7 +2937,7 @@
   Run: '14.22'
   Cycle: '25.68'
   Swim: '0.00'
-  Walk: '184.45'
+  Walk: '194.44'
 - Rank: '295'
   Name: Darren Sum
   Group: ADW
