@@ -639,6 +639,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '65'
+  Name: Ah Bye
+  Group: ADSS/ADWS/ADWO
+  FBID: Ahbye1234
+  Total_Mileage: '95.76'
+  Badges: '7'
+  Run: '48.00'
+  Cycle: '131.03'
+  Swim: '2.50'
+  Walk: '6.00'
+- Rank: '66'
   Name: Quainapz
   Group: ADSS/ADWS/ADWO
   FBID: Quainapz8585
@@ -648,7 +658,7 @@
   Cycle: '0.00'
   Swim: '3.10'
   Walk: '2.30'
-- Rank: '66'
+- Rank: '67'
   Name: Poon
   Group: ADSS/ADWS/ADWO
   FBID: Poon3636
@@ -658,7 +668,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '67'
+- Rank: '68'
   Name: TT
   Group: ABM
   FBID: jiawei1989
@@ -668,7 +678,7 @@
   Cycle: '10.83'
   Swim: '0.00'
   Walk: '1.89'
-- Rank: '68'
+- Rank: '69'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: Errick1991
@@ -678,7 +688,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '69'
+- Rank: '70'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -688,7 +698,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '70'
+- Rank: '71'
   Name: Lia
   Group: ADSS/ADWS/ADWO
   FBID: Lia1116
@@ -698,7 +708,7 @@
   Cycle: '63.18'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '71'
+- Rank: '72'
   Name: Yun Jie (Rhythm)
   Group: ADW
   FBID: Jabez8686
@@ -708,7 +718,7 @@
   Cycle: '0.00'
   Swim: '11.53'
   Walk: '4.80'
-- Rank: '72'
+- Rank: '73'
   Name: Malcolm Taong
   Group: ADSS/ADWS/ADWO
   FBID: TAONG8070
@@ -718,16 +728,6 @@
   Cycle: '267.29'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '73'
-  Name: Ah Bye
-  Group: ADSS/ADWS/ADWO
-  FBID: Ahbye1234
-  Total_Mileage: '90.21'
-  Badges: '7'
-  Run: '42.45'
-  Cycle: '131.03'
-  Swim: '2.50'
-  Walk: '6.00'
 - Rank: '74'
   Name: Rocky
   Group: AOSX/AOS
