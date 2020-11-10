@@ -42,11 +42,11 @@
   Name: T-rex
   Group: ABM
   FBID: Trex1406
-  Total_Mileage: '469.10'
+  Total_Mileage: '475.10'
   Badges: '12'
   Run: '142.84'
   Cycle: '784.23'
-  Swim: '21.70'
+  Swim: '22.70'
   Walk: '0.00'
 - Rank: '6'
   Name: LZX
@@ -209,6 +209,16 @@
   Swim: '6.45'
   Walk: '0.00'
 - Rank: '22'
+  Name: Bronson
+  Group: ADW
+  FBID: Bronze1234
+  Total_Mileage: '183.06'
+  Badges: '9'
+  Run: '42.30'
+  Cycle: '123.22'
+  Swim: '18.33'
+  Walk: '0.00'
+- Rank: '23'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -218,7 +228,7 @@
   Cycle: '681.03'
   Swim: '0.00'
   Walk: '2.19'
-- Rank: '23'
+- Rank: '24'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -228,7 +238,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.68'
-- Rank: '24'
+- Rank: '25'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -238,7 +248,7 @@
   Cycle: '479.54'
   Swim: '3.00'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: Daniel Tay
   Group: AOSX/AOS
   FBID: Corrupt2705
@@ -247,16 +257,6 @@
   Run: '71.18'
   Cycle: '0.00'
   Swim: '17.40'
-  Walk: '0.00'
-- Rank: '26'
-  Name: Bronson
-  Group: ADW
-  FBID: Bronze1234
-  Total_Mileage: '170.76'
-  Badges: '9'
-  Run: '42.30'
-  Cycle: '123.22'
-  Swim: '16.28'
   Walk: '0.00'
 - Rank: '27'
   Name: 'TiGeR3 '
