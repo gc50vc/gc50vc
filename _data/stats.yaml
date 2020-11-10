@@ -599,6 +599,16 @@
   Swim: '4.10'
   Walk: '0.00'
 - Rank: '61'
+  Name: Ah Bye
+  Group: ADSS/ADWS/ADWO
+  FBID: Ahbye1234
+  Total_Mileage: '101.76'
+  Badges: '8'
+  Run: '48.00'
+  Cycle: '131.03'
+  Swim: '3.50'
+  Walk: '6.00'
+- Rank: '62'
   Name: Maj Lim
   Group: ABM
   FBID: Legoz1000
@@ -608,7 +618,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '16.48'
-- Rank: '62'
+- Rank: '63'
   Name: PCK
   Group: ADW
   FBID: PCK2205
@@ -618,7 +628,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '63'
+- Rank: '64'
   Name: 'Tay Wen Hao '
   Group: ADW
   FBID: Wh8295
@@ -628,7 +638,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '64'
+- Rank: '65'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -638,7 +648,7 @@
   Cycle: '221.29'
   Swim: '4.10'
   Walk: '0.00'
-- Rank: '65'
+- Rank: '66'
   Name: Keith low
   Group: ADSS/ADWS/ADWO
   FBID: Keithlow1998
@@ -648,16 +658,6 @@
   Cycle: '350.15'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '66'
-  Name: Ah Bye
-  Group: ADSS/ADWS/ADWO
-  FBID: Ahbye1234
-  Total_Mileage: '95.76'
-  Badges: '7'
-  Run: '48.00'
-  Cycle: '131.03'
-  Swim: '2.50'
-  Walk: '6.00'
 - Rank: '67'
   Name: Quainapz
   Group: ADSS/ADWS/ADWO
@@ -999,6 +999,16 @@
   Swim: '11.00'
   Walk: '6.29'
 - Rank: '101'
+  Name: LJ Lee
+  Group: ADSS/ADWS/ADWO
+  FBID: VIRUS1509
+  Total_Mileage: '66.10'
+  Badges: '3'
+  Run: '64.09'
+  Cycle: '8.04'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '102'
   Name: Lava
   Group: ATC
   FBID: Lava1717
@@ -1008,7 +1018,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '102'
+- Rank: '103'
   Name: Hector
   Group: ADW
   FBID: Hector0911
@@ -1018,7 +1028,7 @@
   Cycle: '0.00'
   Swim: '6.10'
   Walk: '4.26'
-- Rank: '103'
+- Rank: '104'
   Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
   FBID: LeonYeo2590
@@ -1028,7 +1038,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '104'
+- Rank: '105'
   Name: Barter
   Group: ATC
   FBID: Reload0203
@@ -1038,7 +1048,7 @@
   Cycle: '203.00'
   Swim: '1.50'
   Walk: '13.50'
-- Rank: '105'
+- Rank: '106'
   Name: Jenny
   Group: AFE
   FBID: Jenny7373
@@ -1048,7 +1058,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '67.39'
-- Rank: '106'
+- Rank: '107'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -1058,7 +1068,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '107'
+- Rank: '108'
   Name: Yeow Teck
   Group: AOSX/AOS
   FBID: Youtube6116
@@ -1068,7 +1078,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '108'
+- Rank: '109'
   Name: Gwyn
   Group: ADW
   FBID: Magma1201
@@ -1078,16 +1088,6 @@
   Cycle: '46.60'
   Swim: '0.00'
   Walk: '8.93'
-- Rank: '109'
-  Name: LJ Lee
-  Group: ADSS/ADWS/ADWO
-  FBID: VIRUS1509
-  Total_Mileage: '62.55'
-  Badges: '3'
-  Run: '60.54'
-  Cycle: '8.04'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '110'
   Name: COVID
   Group: ADSS/ADWS/ADWO
