@@ -99,6 +99,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '11'
+  Name: LZX
+  Group: ADSS/ADWS/ADWO
+  FBID: leezx1337
+  Total_Mileage: '32.82'
+  Badges: '0'
+  Run: '15.02'
+  Cycle: '71.21'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '12'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -108,7 +118,7 @@
   Cycle: '86.30'
   Swim: '1.80'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: Yun Jie (Rhythm)
   Group: ADW
   FBID: Jabez8686
@@ -118,7 +128,7 @@
   Cycle: '0.00'
   Swim: '4.20'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: Jiajun
   Group: ADSS/ADWS/ADWO
   FBID: Jj2304
@@ -128,7 +138,7 @@
   Cycle: '0.00'
   Swim: '4.00'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '15'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -138,7 +148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '15'
+- Rank: '16'
   Name: Bronson
   Group: ADW
   FBID: Bronze1234
@@ -148,7 +158,7 @@
   Cycle: '0.00'
   Swim: '3.08'
   Walk: '0.00'
-- Rank: '16'
+- Rank: '17'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -158,7 +168,7 @@
   Cycle: '64.01'
   Swim: '1.05'
   Walk: '0.00'
-- Rank: '17'
+- Rank: '18'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -168,7 +178,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '18'
+- Rank: '19'
   Name: loanshark
   Group: ATC
   FBID: loanshark9356
@@ -178,7 +188,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '19'
+- Rank: '20'
   Name: Tan Chee Wee
   Group: ATC
   FBID: Tancw1974
@@ -188,7 +198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '21'
   Name: Bgtan
   Group: ADSS/ADWS/ADWO
   FBID: Kenny9889
@@ -198,7 +208,7 @@
   Cycle: '78.91'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: Prem
   Group: ADW
   FBID: Premium6687
@@ -208,7 +218,7 @@
   Cycle: '0.00'
   Swim: '3.25'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: Hector
   Group: ADW
   FBID: Hector0911
@@ -217,16 +227,6 @@
   Run: '6.28'
   Cycle: '0.00'
   Swim: '2.10'
-  Walk: '0.00'
-- Rank: '23'
-  Name: LZX
-  Group: ADSS/ADWS/ADWO
-  FBID: leezx1337
-  Total_Mileage: '17.80'
-  Badges: '0'
-  Run: '0.00'
-  Cycle: '71.21'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '24'
   Name: Coral
@@ -1339,6 +1339,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '135'
+  Name: Starbucks
+  Group: ABM
+  FBID: Starbucks3756
+  Total_Mileage: '2.31'
+  Badges: '0'
+  Run: '0.00'
+  Cycle: '9.23'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '136'
   Name: Shopan
   Group: ATC
   FBID: Shopan2000
@@ -1348,7 +1358,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '135'
+- Rank: '136'
   Name: Ankle
   Group: ADSS/ADWS/ADWO
   FBID: Redeyesblackdragon1310
@@ -1358,7 +1368,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '137'
+- Rank: '138'
   Name: Wei Hong
   Group: ADW
   FBID: ulo2020
@@ -1368,7 +1378,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '137'
+- Rank: '138'
   Name: Choy SC
   Group: ADSS/ADWS/ADWO
   FBID: Choy8082
@@ -1378,7 +1388,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '139'
+- Rank: '140'
   Name: Chin Yong
   Group: ADSS/ADWS/ADWO
   FBID: Relaxing1234
@@ -1388,7 +1398,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.09'
-- Rank: '139'
+- Rank: '140'
   Name: Patrick Pang
   Group: AFE
   FBID: Playpang0113
@@ -1398,7 +1408,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '18.24'
-- Rank: '139'
+- Rank: '140'
   Name: NG Eng Ming
   Group: ADSS/ADWS/ADWO
   FBID: NgEM1858
@@ -1408,7 +1418,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '7.68'
-- Rank: '139'
+- Rank: '140'
   Name: Kush
   Group: AFE
   FBID: KM1695
@@ -1418,7 +1428,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '8.56'
-- Rank: '139'
+- Rank: '140'
   Name: Nicholas Lian
   Group: ADW
   FBID: horsepowe2001
@@ -1428,7 +1438,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '2.91'
-- Rank: '139'
+- Rank: '140'
   Name: Chrispian
   Group: AFE
   FBID: Chrispian1979
@@ -1438,3 +1448,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '13.52'
+- Rank: '140'
+  Name: Brandon
+  Group: AOSX/AOS
+  FBID: acex1337
+  Total_Mileage: '0.00'
+  Badges: '0'
+  Run: '0.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '56.07'
