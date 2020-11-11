@@ -199,6 +199,16 @@
   Swim: '3.10'
   Walk: '0.00'
 - Rank: '21'
+  Name: 'Tan Swee Kiat '
+  Group: ADW
+  FBID: Eskay0077
+  Total_Mileage: '200.09'
+  Badges: '4'
+  Run: '200.09'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '11.68'
+- Rank: '22'
   Name: Bronson
   Group: ADW
   FBID: Bronze1234
@@ -208,7 +218,7 @@
   Cycle: '123.22'
   Swim: '19.35'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -218,7 +228,7 @@
   Cycle: '729.03'
   Swim: '0.00'
   Walk: '2.19'
-- Rank: '23'
+- Rank: '24'
   Name: aH-MuNs-Ge
   Group: AFE
   FBID: ahmuns9861
@@ -228,16 +238,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '79.15'
-- Rank: '24'
-  Name: 'Tan Swee Kiat '
-  Group: ADW
-  FBID: Eskay0077
-  Total_Mileage: '189.89'
-  Badges: '4'
-  Run: '189.89'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '11.68'
 - Rank: '25'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
@@ -2967,7 +2967,7 @@
   Run: '14.22'
   Cycle: '25.68'
   Swim: '0.00'
-  Walk: '194.44'
+  Walk: '204.56'
 - Rank: '298'
   Name: Darren Sum
   Group: ADW
