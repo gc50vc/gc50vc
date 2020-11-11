@@ -689,6 +689,16 @@
   Swim: '3.22'
   Walk: '0.00'
 - Rank: '70'
+  Name: Viking
+  Group: ADW
+  FBID: Viking1987
+  Total_Mileage: '95.00'
+  Badges: '5'
+  Run: '33.75'
+  Cycle: '245.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '71'
   Name: Poon
   Group: ADSS/ADWS/ADWO
   FBID: Poon3636
@@ -698,7 +708,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '71'
+- Rank: '72'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -708,7 +718,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '72'
+- Rank: '73'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: Errick1991
@@ -718,7 +728,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '73'
+- Rank: '74'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -728,7 +738,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '74'
+- Rank: '75'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -738,7 +748,7 @@
   Cycle: '18.27'
   Swim: '0.00'
   Walk: '3.42'
-- Rank: '75'
+- Rank: '76'
   Name: Lia
   Group: ADSS/ADWS/ADWO
   FBID: Lia1116
@@ -748,7 +758,7 @@
   Cycle: '63.18'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '76'
+- Rank: '77'
   Name: Malcolm Taong
   Group: ADSS/ADWS/ADWO
   FBID: TAONG8070
@@ -758,7 +768,7 @@
   Cycle: '267.29'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '77'
+- Rank: '78'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -768,16 +778,6 @@
   Cycle: '45.78'
   Swim: '3.50'
   Walk: '1.63'
-- Rank: '78'
-  Name: Viking
-  Group: ADW
-  FBID: Viking1987
-  Total_Mileage: '88.75'
-  Badges: '5'
-  Run: '33.75'
-  Cycle: '220.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '79'
   Name: loanshark
   Group: ATC
@@ -5387,7 +5387,7 @@
   Run: '0.00'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '379.20'
+  Walk: '475.40'
 - Rank: '512'
   Name: Aura Eric
   Group: AOSX/AOS
