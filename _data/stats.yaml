@@ -369,6 +369,16 @@
   Swim: '4.65'
   Walk: '0.00'
 - Rank: '38'
+  Name: Vapor
+  Group: ADW
+  FBID: Vapor6148
+  Total_Mileage: '152.26'
+  Badges: '4'
+  Run: '152.26'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '39'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -378,7 +388,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '39'
+- Rank: '40'
   Name: Ah Bing
   Group: ADW
   FBID: Bingo0507
@@ -388,7 +398,7 @@
   Cycle: '160.01'
   Swim: '1.75'
   Walk: '0.00'
-- Rank: '40'
+- Rank: '41'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -397,16 +407,6 @@
   Run: '127.98'
   Cycle: '25.04'
   Swim: '2.25'
-  Walk: '0.00'
-- Rank: '41'
-  Name: Vapor
-  Group: ADW
-  FBID: Vapor6148
-  Total_Mileage: '146.30'
-  Badges: '4'
-  Run: '146.30'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '42'
   Name: Bgtan
