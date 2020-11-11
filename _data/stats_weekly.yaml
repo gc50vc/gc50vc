@@ -209,6 +209,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '22'
+  Name: 'Jonjuay '
+  Group: ADSS/ADWS/ADWO
+  FBID: Jonjuay8822
+  Total_Mileage: '29.94'
+  Badges: '3'
+  Run: '17.94'
+  Cycle: '0.00'
+  Swim: '2.00'
+  Walk: '0.00'
+- Rank: '23'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -218,7 +228,7 @@
   Cycle: '91.21'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -228,7 +238,7 @@
   Cycle: '32.52'
   Swim: '2.50'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: Tan Chee Wee
   Group: ATC
   FBID: Tancw1974
@@ -238,7 +248,7 @@
   Cycle: '29.50'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: Tony Foo
   Group: ADW
   FBID: tonyfoo0165
@@ -248,7 +258,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -258,7 +268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: Vapor
   Group: ADW
   FBID: Vapor6148
@@ -268,7 +278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: Wang0165
@@ -278,7 +288,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -288,7 +298,7 @@
   Cycle: '24.04'
   Swim: '3.00'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '31'
   Name: 'Windy '
   Group: ABM
   FBID: Windy4444
@@ -298,7 +308,7 @@
   Cycle: '0.00'
   Swim: '4.00'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '31'
   Name: Jiajun
   Group: ADSS/ADWS/ADWO
   FBID: Jj2304
@@ -307,16 +317,6 @@
   Run: '0.00'
   Cycle: '0.00'
   Swim: '4.00'
-  Walk: '0.00'
-- Rank: '32'
-  Name: 'Jonjuay '
-  Group: ADSS/ADWS/ADWO
-  FBID: Jonjuay8822
-  Total_Mileage: '21.79'
-  Badges: '3'
-  Run: '9.79'
-  Cycle: '0.00'
-  Swim: '2.00'
   Walk: '0.00'
 - Rank: '33'
   Name: Viking
