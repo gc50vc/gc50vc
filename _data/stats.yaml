@@ -999,6 +999,16 @@
   Swim: '0.85'
   Walk: '0.00'
 - Rank: '101'
+  Name: Leon Yeo
+  Group: ADSS/ADWS/ADWO
+  FBID: LeonYeo2590
+  Total_Mileage: '70.00'
+  Badges: '3'
+  Run: '70.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '102'
   Name: 'Windy '
   Group: ABM
   FBID: Windy4444
@@ -1008,7 +1018,7 @@
   Cycle: '0.00'
   Swim: '11.60'
   Walk: '0.00'
-- Rank: '102'
+- Rank: '103'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -1018,7 +1028,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '103'
+- Rank: '104'
   Name: Akileis
   Group: ADW
   FBID: Akileis0163
@@ -1028,7 +1038,7 @@
   Cycle: '0.00'
   Swim: '11.00'
   Walk: '6.29'
-- Rank: '104'
+- Rank: '105'
   Name: 'Sengie '
   Group: ADW
   FBID: ARIAL0160
@@ -1038,7 +1048,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '12.62'
-- Rank: '105'
+- Rank: '106'
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
@@ -1048,7 +1058,7 @@
   Cycle: '8.04'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '106'
+- Rank: '107'
   Name: Lava
   Group: ATC
   FBID: Lava1717
@@ -1058,7 +1068,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '107'
+- Rank: '108'
   Name: Hector
   Group: ADW
   FBID: Hector0911
@@ -1068,16 +1078,6 @@
   Cycle: '0.00'
   Swim: '6.10'
   Walk: '4.26'
-- Rank: '108'
-  Name: Leon Yeo
-  Group: ADSS/ADWS/ADWO
-  FBID: LeonYeo2590
-  Total_Mileage: '65.00'
-  Badges: '3'
-  Run: '65.00'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '109'
   Name: Barter
   Group: ATC
