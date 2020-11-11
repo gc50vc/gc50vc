@@ -909,6 +909,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '92'
+  Name: Andre
+  Group: ADW
+  FBID: Andre7429
+  Total_Mileage: '78.48'
+  Badges: '4'
+  Run: '4.22'
+  Cycle: '276.62'
+  Swim: '0.85'
+  Walk: '0.00'
+- Rank: '93'
   Name: Legend
   Group: ADW
   FBID: Legend2512
@@ -918,7 +928,7 @@
   Cycle: '191.27'
   Swim: '0.00'
   Walk: '13.11'
-- Rank: '93'
+- Rank: '94'
   Name: Jenny
   Group: AFE
   FBID: Jenny7373
@@ -928,7 +938,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '67.39'
-- Rank: '94'
+- Rank: '95'
   Name: OLAF
   Group: ADW
   FBID: OLAF2156
@@ -938,7 +948,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '95'
+- Rank: '96'
   Name: JonChen
   Group: ADW
   FBID: JonChen0000
@@ -948,7 +958,7 @@
   Cycle: '270.53'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '96'
+- Rank: '97'
   Name: Gabriel Low
   Group: ADSS/ADWS/ADWO
   FBID: gabrieltried1234
@@ -958,7 +968,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '97'
+- Rank: '98'
   Name: Steroid
   Group: ATC
   FBID: Steroid1007
@@ -967,16 +977,6 @@
   Run: '73.91'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '98'
-  Name: Andre
-  Group: ADW
-  FBID: Andre7429
-  Total_Mileage: '73.56'
-  Badges: '4'
-  Run: '4.22'
-  Cycle: '256.97'
-  Swim: '0.85'
   Walk: '0.00'
 - Rank: '99'
   Name: Jeremy Tan
