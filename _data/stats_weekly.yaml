@@ -29,6 +29,16 @@
   Swim: '6.25'
   Walk: '0.00'
 - Rank: '4'
+  Name: Euj
+  Group: ATC
+  FBID: Euj1871
+  Total_Mileage: '53.54'
+  Badges: '0'
+  Run: '2.00'
+  Cycle: '4.55'
+  Swim: '8.40'
+  Walk: '5.68'
+- Rank: '5'
   Name: jAmEs h.
   Group: ADSS/ADWS/ADWO
   FBID: jAmEsh0007
@@ -38,7 +48,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '5'
+- Rank: '6'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -48,7 +58,7 @@
   Cycle: '24.29'
   Swim: '5.50'
   Walk: '0.00'
-- Rank: '6'
+- Rank: '7'
   Name: Ben
   Group: ADW
   FBID: BY8362
@@ -58,16 +68,6 @@
   Cycle: '76.03'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '7'
-  Name: Euj
-  Group: ATC
-  FBID: Euj1871
-  Total_Mileage: '43.64'
-  Badges: '0'
-  Run: '2.00'
-  Cycle: '4.55'
-  Swim: '6.75'
-  Walk: '5.68'
 - Rank: '8'
   Name: Yun Jie (Rhythm)
   Group: ADW
