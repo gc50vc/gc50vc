@@ -249,6 +249,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '26'
+  Name: Vapor
+  Group: ADW
+  FBID: Vapor6148
+  Total_Mileage: '24.72'
+  Badges: '0'
+  Run: '24.72'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '27'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: Wang0165
@@ -258,7 +268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -268,7 +278,7 @@
   Cycle: '24.04'
   Swim: '3.00'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: 'Windy '
   Group: ABM
   FBID: Windy4444
@@ -278,7 +288,7 @@
   Cycle: '0.00'
   Swim: '4.00'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: Jiajun
   Group: ADSS/ADWS/ADWO
   FBID: Jj2304
@@ -287,16 +297,6 @@
   Run: '0.00'
   Cycle: '0.00'
   Swim: '4.00'
-  Walk: '0.00'
-- Rank: '30'
-  Name: Vapor
-  Group: ADW
-  FBID: Vapor6148
-  Total_Mileage: '22.67'
-  Badges: '0'
-  Run: '22.67'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '31'
   Name: Jade
