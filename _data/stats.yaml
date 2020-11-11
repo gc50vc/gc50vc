@@ -139,6 +139,16 @@
   Swim: '11.10'
   Walk: '2.98'
 - Rank: '15'
+  Name: Tommy Tham
+  Group: ADSS/ADWS/ADWO
+  FBID: Tommy1976
+  Total_Mileage: '246.26'
+  Badges: '9'
+  Run: '42.21'
+  Cycle: '148.04'
+  Swim: '27.84'
+  Walk: '0.00'
+- Rank: '16'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: WANG0165
@@ -148,7 +158,7 @@
   Cycle: '24.00'
   Swim: '2.58'
   Walk: '1.00'
-- Rank: '16'
+- Rank: '17'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -158,16 +168,6 @@
   Cycle: '185.46'
   Swim: '20.70'
   Walk: '10.01'
-- Rank: '17'
-  Name: Tommy Tham
-  Group: ADSS/ADWS/ADWO
-  FBID: Tommy1976
-  Total_Mileage: '231.26'
-  Badges: '9'
-  Run: '42.21'
-  Cycle: '148.04'
-  Swim: '25.34'
-  Walk: '0.00'
 - Rank: '18'
   Name: Cutthroat
   Group: ATC
