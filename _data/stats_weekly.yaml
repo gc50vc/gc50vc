@@ -319,6 +319,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '33'
+  Name: HC
+  Group: ADSS/ADWS/ADWO
+  FBID: hc1234
+  Total_Mileage: '17.48'
+  Badges: '1'
+  Run: '5.48'
+  Cycle: '48.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '34'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: Wang0165
@@ -328,7 +338,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '34'
+- Rank: '35'
   Name: JOVAN
   Group: ADW
   FBID: NIGHTOWL1303
@@ -338,7 +348,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: Boon Peng
   Group: ADSS/ADWS/ADWO
   FBID: Bpeng1129
@@ -348,7 +358,7 @@
   Cycle: '2.10'
   Swim: '2.00'
   Walk: '2.45'
-- Rank: '36'
+- Rank: '37'
   Name: Shawn Chia
   Group: ADW
   FBID: SCWE9595
@@ -358,7 +368,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '37'
+- Rank: '38'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -368,7 +378,7 @@
   Cycle: '64.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '38'
+- Rank: '39'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -378,7 +388,7 @@
   Cycle: '26.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '39'
+- Rank: '40'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -388,7 +398,7 @@
   Cycle: '60.61'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '40'
+- Rank: '41'
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
@@ -398,16 +408,6 @@
   Cycle: '0.00'
   Swim: '1.10'
   Walk: '3.97'
-- Rank: '41'
-  Name: HC
-  Group: ADSS/ADWS/ADWO
-  FBID: hc1234
-  Total_Mileage: '14.40'
-  Badges: '1'
-  Run: '2.40'
-  Cycle: '48.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '42'
   Name: Benson
   Group: ADW
