@@ -79,6 +79,16 @@
   Swim: '5.90'
   Walk: '0.00'
 - Rank: '9'
+  Name: Coral
+  Group: ABM
+  FBID: Coral5050
+  Total_Mileage: '46.52'
+  Badges: '0'
+  Run: '46.52'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '10'
   Name: Yun Jie (Rhythm)
   Group: ADW
   FBID: Jabez8686
@@ -88,7 +98,7 @@
   Cycle: '0.00'
   Swim: '6.30'
   Walk: '0.00'
-- Rank: '10'
+- Rank: '11'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -98,7 +108,7 @@
   Cycle: '95.95'
   Swim: '1.80'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: Nicholas Lian
   Group: ADW
   FBID: horsepower2001
@@ -108,7 +118,7 @@
   Cycle: '0.00'
   Swim: '1.50'
   Walk: '2.98'
-- Rank: '12'
+- Rank: '13'
   Name: yapoh
   Group: ADW
   FBID: Yapoh0304
@@ -118,7 +128,7 @@
   Cycle: '60.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: T-rex
   Group: ABM
   FBID: Trex1406
@@ -128,23 +138,13 @@
   Cycle: '132.55'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '15'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
   Total_Mileage: '36.65'
   Badges: '0'
   Run: '36.65'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '15'
-  Name: Coral
-  Group: ABM
-  FBID: Coral5050
-  Total_Mileage: '36.51'
-  Badges: '0'
-  Run: '36.51'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
