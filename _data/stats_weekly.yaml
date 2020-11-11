@@ -19,6 +19,16 @@
   Swim: '15.10'
   Walk: '0.00'
 - Rank: '3'
+  Name: Ben
+  Group: ADW
+  FBID: BY8362
+  Total_Mileage: '75.45'
+  Badges: '0'
+  Run: '47.94'
+  Cycle: '110.03'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '4'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -28,7 +38,7 @@
   Cycle: '134.85'
   Swim: '6.25'
   Walk: '0.00'
-- Rank: '4'
+- Rank: '5'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -38,7 +48,7 @@
   Cycle: '4.55'
   Swim: '8.40'
   Walk: '5.68'
-- Rank: '5'
+- Rank: '6'
   Name: jAmEs h.
   Group: ADSS/ADWS/ADWO
   FBID: jAmEsh0007
@@ -48,7 +58,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '6'
+- Rank: '7'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -57,16 +67,6 @@
   Run: '12.04'
   Cycle: '24.29'
   Swim: '5.50'
-  Walk: '0.00'
-- Rank: '7'
-  Name: Ben
-  Group: ADW
-  FBID: BY8362
-  Total_Mileage: '50.44'
-  Badges: '0'
-  Run: '31.43'
-  Cycle: '76.03'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '8'
   Name: Yun Jie (Rhythm)
