@@ -102,9 +102,9 @@
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
-  Total_Mileage: '273.34'
+  Total_Mileage: '280.17'
   Badges: '4'
-  Run: '273.34'
+  Run: '280.17'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
@@ -199,6 +199,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '21'
+  Name: Bronson
+  Group: ADW
+  FBID: Bronze1234
+  Total_Mileage: '194.64'
+  Badges: '9'
+  Run: '47.73'
+  Cycle: '123.22'
+  Swim: '19.35'
+  Walk: '0.00'
+- Rank: '22'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -208,7 +218,7 @@
   Cycle: '729.03'
   Swim: '0.00'
   Walk: '2.19'
-- Rank: '22'
+- Rank: '23'
   Name: aH-MuNs-Ge
   Group: AFE
   FBID: ahmuns9861
@@ -218,7 +228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '79.15'
-- Rank: '23'
+- Rank: '24'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -228,7 +238,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.68'
-- Rank: '24'
+- Rank: '25'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -237,16 +247,6 @@
   Run: '43.90'
   Cycle: '479.54'
   Swim: '4.00'
-  Walk: '0.00'
-- Rank: '25'
-  Name: Bronson
-  Group: ADW
-  FBID: Bronze1234
-  Total_Mileage: '183.06'
-  Badges: '9'
-  Run: '42.30'
-  Cycle: '123.22'
-  Swim: '18.33'
   Walk: '0.00'
 - Rank: '26'
   Name: David Xu
