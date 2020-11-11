@@ -219,6 +219,16 @@
   Swim: '0.00'
   Walk: '11.68'
 - Rank: '23'
+  Name: Coral
+  Group: ABM
+  FBID: Coral5050
+  Total_Mileage: '196.77'
+  Badges: '4'
+  Run: '196.77'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '9.48'
+- Rank: '24'
   Name: Bronson
   Group: ADW
   FBID: Bronze1234
@@ -228,7 +238,7 @@
   Cycle: '123.22'
   Swim: '19.35'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: aH-MuNs-Ge
   Group: AFE
   FBID: ahmuns9861
@@ -238,7 +248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '79.15'
-- Rank: '25'
+- Rank: '26'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -248,7 +258,7 @@
   Cycle: '479.54'
   Swim: '4.00'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: Daniel Tay
   Group: AOSX/AOS
   FBID: Corrupt2705
@@ -258,7 +268,7 @@
   Cycle: '0.00'
   Swim: '18.80'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -268,16 +278,6 @@
   Cycle: '699.67'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '28'
-  Name: Coral
-  Group: ABM
-  FBID: Coral5050
-  Total_Mileage: '176.75'
-  Badges: '4'
-  Run: '176.75'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '9.48'
 - Rank: '29'
   Name: PIXAR
   Group: ABM
