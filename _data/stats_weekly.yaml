@@ -19,6 +19,16 @@
   Swim: '15.10'
   Walk: '0.00'
 - Rank: '3'
+  Name: Ektar
+  Group: ABM
+  FBID: Ektar1971
+  Total_Mileage: '84.21'
+  Badges: '0'
+  Run: '0.00'
+  Cycle: '186.85'
+  Swim: '6.25'
+  Walk: '0.00'
+- Rank: '4'
   Name: Ben
   Group: ADW
   FBID: BY8362
@@ -27,16 +37,6 @@
   Run: '47.94'
   Cycle: '110.03'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '4'
-  Name: Ektar
-  Group: ABM
-  FBID: Ektar1971
-  Total_Mileage: '71.21'
-  Badges: '0'
-  Run: '0.00'
-  Cycle: '134.85'
-  Swim: '6.25'
   Walk: '0.00'
 - Rank: '5'
   Name: Euj
