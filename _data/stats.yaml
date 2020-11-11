@@ -379,6 +379,16 @@
   Swim: '2.25'
   Walk: '0.00'
 - Rank: '39'
+  Name: Vapor
+  Group: ADW
+  FBID: Vapor6148
+  Total_Mileage: '154.31'
+  Badges: '4'
+  Run: '154.31'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '40'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -387,16 +397,6 @@
   Run: '42.50'
   Cycle: '331.19'
   Swim: '4.65'
-  Walk: '0.00'
-- Rank: '40'
-  Name: Vapor
-  Group: ADW
-  FBID: Vapor6148
-  Total_Mileage: '152.26'
-  Badges: '4'
-  Run: '152.26'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '41'
   Name: Ah Bing
