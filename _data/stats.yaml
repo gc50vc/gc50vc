@@ -1079,6 +1079,16 @@
   Swim: '1.50'
   Walk: '13.50'
 - Rank: '109'
+  Name: COVID
+  Group: ADSS/ADWS/ADWO
+  FBID: COVID9999
+  Total_Mileage: '63.96'
+  Badges: '4'
+  Run: '45.31'
+  Cycle: '74.61'
+  Swim: '0.00'
+  Walk: '21.50'
+- Rank: '110'
   Name: Yeow Teck
   Group: AOSX/AOS
   FBID: Youtube6116
@@ -1088,7 +1098,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '110'
+- Rank: '111'
   Name: 'Sengie '
   Group: ADW
   FBID: ARIAL0160
@@ -1098,7 +1108,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '11.32'
-- Rank: '111'
+- Rank: '112'
   Name: Gwyn
   Group: ADW
   FBID: Magma1201
@@ -1108,7 +1118,7 @@
   Cycle: '46.60'
   Swim: '0.00'
   Walk: '8.93'
-- Rank: '112'
+- Rank: '113'
   Name: KevinKKW
   Group: ADSS/ADWS/ADWO
   FBID: Kkkw0165
@@ -1118,7 +1128,7 @@
   Cycle: '117.90'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '113'
+- Rank: '114'
   Name: Waffles
   Group: ATC
   FBID: Waffles3567
@@ -1128,16 +1138,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.57'
-- Rank: '114'
-  Name: COVID
-  Group: ADSS/ADWS/ADWO
-  FBID: COVID9999
-  Total_Mileage: '58.96'
-  Badges: '3'
-  Run: '40.31'
-  Cycle: '74.61'
-  Swim: '0.00'
-  Walk: '21.50'
 - Rank: '115'
   Name: Sunray
   Group: ABM
