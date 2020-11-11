@@ -669,6 +669,16 @@
   Swim: '0.00'
   Walk: '1.89'
 - Rank: '68'
+  Name: Rats
+  Group: ABM
+  FBID: Rats1500
+  Total_Mileage: '98.02'
+  Badges: '3'
+  Run: '98.02'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '69'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -678,7 +688,7 @@
   Cycle: '221.29'
   Swim: '4.10'
   Walk: '0.00'
-- Rank: '69'
+- Rank: '70'
   Name: Slong
   Group: ADW
   FBID: Slong1234
@@ -688,7 +698,7 @@
   Cycle: '0.00'
   Swim: '3.22'
   Walk: '0.00'
-- Rank: '70'
+- Rank: '71'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -698,7 +708,7 @@
   Cycle: '245.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '71'
+- Rank: '72'
   Name: Poon
   Group: ADSS/ADWS/ADWO
   FBID: Poon3636
@@ -708,7 +718,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '72'
+- Rank: '73'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -718,7 +728,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '73'
+- Rank: '74'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: Errick1991
@@ -728,7 +738,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '74'
+- Rank: '75'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -738,7 +748,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '75'
+- Rank: '76'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -748,7 +758,7 @@
   Cycle: '18.27'
   Swim: '0.00'
   Walk: '3.42'
-- Rank: '76'
+- Rank: '77'
   Name: Lia
   Group: ADSS/ADWS/ADWO
   FBID: Lia1116
@@ -758,7 +768,7 @@
   Cycle: '63.18'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '77'
+- Rank: '78'
   Name: Malcolm Taong
   Group: ADSS/ADWS/ADWO
   FBID: TAONG8070
@@ -768,7 +778,7 @@
   Cycle: '267.29'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '78'
+- Rank: '79'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -778,7 +788,7 @@
   Cycle: '45.78'
   Swim: '3.50'
   Walk: '1.63'
-- Rank: '79'
+- Rank: '80'
   Name: loanshark
   Group: ATC
   FBID: loanshark9356
@@ -788,7 +798,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '80'
+- Rank: '81'
   Name: Rocky
   Group: AOSX/AOS
   FBID: ZeRo7113
@@ -798,7 +808,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '57.30'
-- Rank: '81'
+- Rank: '82'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -807,16 +817,6 @@
   Run: '29.27'
   Cycle: '91.76'
   Swim: '6.00'
-  Walk: '0.00'
-- Rank: '82'
-  Name: Rats
-  Group: ABM
-  FBID: Rats1500
-  Total_Mileage: '87.99'
-  Badges: '3'
-  Run: '87.99'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '83'
   Name: Sean Chua
