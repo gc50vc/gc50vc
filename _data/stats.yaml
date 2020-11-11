@@ -109,6 +109,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '12'
+  Name: yapoh
+  Group: ADW
+  FBID: yapoh0304
+  Total_Mileage: '279.60'
+  Badges: '12'
+  Run: '104.00'
+  Cycle: '532.00'
+  Swim: '7.10'
+  Walk: '0.00'
+- Rank: '13'
   Name: Prem
   Group: ADW
   FBID: Premium6687
@@ -118,16 +128,6 @@
   Cycle: '42.58'
   Swim: '33.35'
   Walk: '1.32'
-- Rank: '13'
-  Name: yapoh
-  Group: ADW
-  FBID: yapoh0304
-  Total_Mileage: '264.60'
-  Badges: '12'
-  Run: '104.00'
-  Cycle: '472.00'
-  Swim: '7.10'
-  Walk: '0.00'
 - Rank: '14'
   Name: Nicholas Lian
   Group: ADW
@@ -249,6 +249,16 @@
   Swim: '4.00'
   Walk: '0.00'
 - Rank: '26'
+  Name: Daniel Tay
+  Group: AOSX/AOS
+  FBID: Corrupt2705
+  Total_Mileage: '183.98'
+  Badges: '6'
+  Run: '71.18'
+  Cycle: '0.00'
+  Swim: '18.80'
+  Walk: '0.00'
+- Rank: '27'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -258,7 +268,7 @@
   Cycle: '699.67'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: Coral
   Group: ABM
   FBID: Coral5050
@@ -268,7 +278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '9.48'
-- Rank: '28'
+- Rank: '29'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -277,16 +287,6 @@
   Run: '100.92'
   Cycle: '270.00'
   Swim: '1.26'
-  Walk: '0.00'
-- Rank: '29'
-  Name: Daniel Tay
-  Group: AOSX/AOS
-  FBID: Corrupt2705
-  Total_Mileage: '175.58'
-  Badges: '6'
-  Run: '71.18'
-  Cycle: '0.00'
-  Swim: '17.40'
   Walk: '0.00'
 - Rank: '30'
   Name: 'TiGeR3 '
@@ -559,6 +559,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '57'
+  Name: Weng
+  Group: ADSS/ADWS/ADWO
+  FBID: Weng8238
+  Total_Mileage: '111.20'
+  Badges: '6'
+  Run: '46.91'
+  Cycle: '257.17'
+  Swim: '0.00'
+  Walk: '13.86'
+- Rank: '58'
   Name: Tan Chee Wee
   Group: ATC
   FBID: tancw1974
@@ -568,7 +578,7 @@
   Cycle: '29.50'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '58'
+- Rank: '59'
   Name: Silver
   Group: ABM
   FBID: Silver5117
@@ -578,7 +588,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.10'
-- Rank: '59'
+- Rank: '60'
   Name: Btee
   Group: AFE
   FBID: Brian0307
@@ -588,16 +598,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '60'
-  Name: Weng
-  Group: ADSS/ADWS/ADWO
-  FBID: Weng8238
-  Total_Mileage: '104.80'
-  Badges: '6'
-  Run: '46.91'
-  Cycle: '231.54'
-  Swim: '0.00'
-  Walk: '13.86'
 - Rank: '61'
   Name: PCK
   Group: ADW
