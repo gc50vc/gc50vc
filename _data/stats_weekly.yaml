@@ -79,6 +79,16 @@
   Swim: '2.70'
   Walk: '2.98'
 - Rank: '9'
+  Name: Coral
+  Group: ABM
+  FBID: Coral5050
+  Total_Mileage: '55.63'
+  Badges: '0'
+  Run: '55.63'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '10'
   Name: jAmEs h.
   Group: ADSS/ADWS/ADWO
   FBID: jAmEsh0007
@@ -88,7 +98,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '10'
+- Rank: '11'
   Name: LZX
   Group: ADSS/ADWS/ADWO
   FBID: leezx1337
@@ -98,7 +108,7 @@
   Cycle: '71.21'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: yapoh
   Group: ADW
   FBID: Yapoh0304
@@ -108,7 +118,7 @@
   Cycle: '100.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: Daniel Tay
   Group: AOSX/AOS
   FBID: Corrupt2705
@@ -117,16 +127,6 @@
   Run: '11.35'
   Cycle: '0.00'
   Swim: '5.90'
-  Walk: '0.00'
-- Rank: '13'
-  Name: Coral
-  Group: ABM
-  FBID: Coral5050
-  Total_Mileage: '46.52'
-  Badges: '0'
-  Run: '46.52'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '14'
   Name: 'Tan Swee Kiat '
