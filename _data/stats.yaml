@@ -209,6 +209,16 @@
   Swim: '3.10'
   Walk: '0.00'
 - Rank: '22'
+  Name: Coral
+  Group: ABM
+  FBID: Coral5050
+  Total_Mileage: '205.88'
+  Badges: '4'
+  Run: '205.88'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '9.48'
+- Rank: '23'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -218,16 +228,6 @@
   Cycle: '774.54'
   Swim: '0.00'
   Walk: '2.19'
-- Rank: '23'
-  Name: Coral
-  Group: ABM
-  FBID: Coral5050
-  Total_Mileage: '196.77'
-  Badges: '4'
-  Run: '196.77'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '9.48'
 - Rank: '24'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
