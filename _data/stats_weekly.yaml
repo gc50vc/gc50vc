@@ -39,6 +39,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '5'
+  Name: Slimer
+  Group: ABM
+  FBID: Slimer1234
+  Total_Mileage: '78.25'
+  Badges: '1'
+  Run: '24.18'
+  Cycle: '24.29'
+  Swim: '8.00'
+  Walk: '1.03'
+- Rank: '6'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -48,16 +58,6 @@
   Cycle: '4.55'
   Swim: '12.18'
   Walk: '12.19'
-- Rank: '6'
-  Name: Slimer
-  Group: ABM
-  FBID: Slimer1234
-  Total_Mileage: '74.17'
-  Badges: '1'
-  Run: '20.10'
-  Cycle: '24.29'
-  Swim: '8.00'
-  Walk: '1.03'
 - Rank: '7'
   Name: Sloh
   Group: ADW
