@@ -49,6 +49,16 @@
   Swim: '22.70'
   Walk: '0.00'
 - Rank: '6'
+  Name: LZX
+  Group: ADSS/ADWS/ADWO
+  FBID: leezx1337
+  Total_Mileage: '465.77'
+  Badges: '7'
+  Run: '161.46'
+  Cycle: '1217.23'
+  Swim: '0.00'
+  Walk: '2.18'
+- Rank: '7'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -58,16 +68,6 @@
   Cycle: '913.19'
   Swim: '12.10'
   Walk: '0.00'
-- Rank: '7'
-  Name: LZX
-  Group: ADSS/ADWS/ADWO
-  FBID: leezx1337
-  Total_Mileage: '447.05'
-  Badges: '7'
-  Run: '142.74'
-  Cycle: '1217.23'
-  Swim: '0.00'
-  Walk: '2.18'
 - Rank: '8'
   Name: Ektar
   Group: ABM
@@ -549,6 +549,16 @@
   Swim: '0.50'
   Walk: '10.51'
 - Rank: '56'
+  Name: Ah Bye
+  Group: ADSS/ADWS/ADWO
+  FBID: Ahbye1234
+  Total_Mileage: '115.51'
+  Badges: '8'
+  Run: '55.75'
+  Cycle: '131.03'
+  Swim: '4.50'
+  Walk: '6.00'
+- Rank: '57'
   Name: Keith low
   Group: ADSS/ADWS/ADWO
   FBID: Keithlow1998
@@ -558,7 +568,7 @@
   Cycle: '422.17'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '57'
+- Rank: '58'
   Name: Weng
   Group: ADSS/ADWS/ADWO
   FBID: Weng8238
@@ -568,7 +578,7 @@
   Cycle: '257.17'
   Swim: '0.00'
   Walk: '13.86'
-- Rank: '58'
+- Rank: '59'
   Name: Tan Chee Wee
   Group: ATC
   FBID: tancw1974
@@ -578,7 +588,7 @@
   Cycle: '29.50'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '59'
+- Rank: '60'
   Name: Silver
   Group: ABM
   FBID: Silver5117
@@ -588,16 +598,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.10'
-- Rank: '60'
-  Name: Ah Bye
-  Group: ADSS/ADWS/ADWO
-  FBID: Ahbye1234
-  Total_Mileage: '109.51'
-  Badges: '8'
-  Run: '55.75'
-  Cycle: '131.03'
-  Swim: '3.50'
-  Walk: '6.00'
 - Rank: '61'
   Name: Btee
   Group: AFE
@@ -739,6 +739,16 @@
   Swim: '3.22'
   Walk: '0.00'
 - Rank: '75'
+  Name: Sen Kiat
+  Group: ATC
+  FBID: HSK7777
+  Total_Mileage: '94.81'
+  Badges: '3'
+  Run: '94.81'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '76'
   Name: Poon
   Group: ADSS/ADWS/ADWO
   FBID: Poon3636
@@ -748,7 +758,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '76'
+- Rank: '77'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -758,7 +768,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '77'
+- Rank: '78'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: Errick1991
@@ -768,7 +778,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '78'
+- Rank: '79'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -778,7 +788,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '79'
+- Rank: '80'
   Name: Lightyear
   Group: ADW
   FBID: Lightyear2020
@@ -788,7 +798,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '80'
+- Rank: '81'
   Name: Lia
   Group: ADSS/ADWS/ADWO
   FBID: Lia1116
@@ -798,7 +808,7 @@
   Cycle: '63.18'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '81'
+- Rank: '82'
   Name: Malcolm Taong
   Group: ADSS/ADWS/ADWO
   FBID: TAONG8070
@@ -808,7 +818,7 @@
   Cycle: '267.29'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '82'
+- Rank: '83'
   Name: loanshark
   Group: ATC
   FBID: loanshark9356
@@ -818,7 +828,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '83'
+- Rank: '84'
   Name: Rocky
   Group: AOSX/AOS
   FBID: ZeRo7113
@@ -828,7 +838,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '57.30'
-- Rank: '84'
+- Rank: '85'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -838,7 +848,7 @@
   Cycle: '91.76'
   Swim: '6.00'
   Walk: '0.00'
-- Rank: '85'
+- Rank: '86'
   Name: RainmanCYK
   Group: ADW
   FBID: Rainman0000
@@ -847,16 +857,6 @@
   Run: '9.00'
   Cycle: '0.00'
   Swim: '13.00'
-  Walk: '0.00'
-- Rank: '86'
-  Name: Sen Kiat
-  Group: ATC
-  FBID: HSK7777
-  Total_Mileage: '84.37'
-  Badges: '3'
-  Run: '84.37'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '87'
   Name: Geeky
