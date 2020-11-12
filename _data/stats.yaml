@@ -529,6 +529,16 @@
   Swim: '20.00'
   Walk: '71.88'
 - Rank: '54'
+  Name: Cosmo
+  Group: ABM
+  FBID: Cosmo6306
+  Total_Mileage: '119.94'
+  Badges: '4'
+  Run: '116.94'
+  Cycle: '0.00'
+  Swim: '0.50'
+  Walk: '10.51'
+- Rank: '55'
   Name: GN
   Group: ADSS/ADWS/ADWO
   FBID: GN8282
@@ -538,16 +548,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '55'
-  Name: Cosmo
-  Group: ABM
-  FBID: Cosmo6306
-  Total_Mileage: '115.92'
-  Badges: '4'
-  Run: '112.92'
-  Cycle: '0.00'
-  Swim: '0.50'
-  Walk: '10.51'
 - Rank: '56'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
