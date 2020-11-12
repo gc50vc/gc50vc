@@ -12,10 +12,10 @@
   Name: Ben
   Group: ADW
   FBID: BY8362
-  Total_Mileage: '732.75'
+  Total_Mileage: '752.76'
   Badges: '13'
-  Run: '201.80'
-  Cycle: '1587.41'
+  Run: '209.81'
+  Cycle: '1635.41'
   Swim: '22.35'
   Walk: '5.05'
 - Rank: '3'
@@ -129,6 +129,16 @@
   Swim: '33.35'
   Walk: '1.32'
 - Rank: '14'
+  Name: Nicholas Lian
+  Group: ADW
+  FBID: Horsepower2001
+  Total_Mileage: '264.19'
+  Badges: '7'
+  Run: '182.82'
+  Cycle: '30.26'
+  Swim: '12.30'
+  Walk: '2.98'
+- Rank: '15'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -138,16 +148,6 @@
   Cycle: '185.46'
   Swim: '23.20'
   Walk: '11.04'
-- Rank: '15'
-  Name: Nicholas Lian
-  Group: ADW
-  FBID: Horsepower2001
-  Total_Mileage: '254.36'
-  Badges: '7'
-  Run: '172.99'
-  Cycle: '30.26'
-  Swim: '12.30'
-  Walk: '2.98'
 - Rank: '16'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
