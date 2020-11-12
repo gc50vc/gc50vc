@@ -2349,6 +2349,16 @@
   Swim: '0.00'
   Walk: '7.31'
 - Rank: '236'
+  Name: Tim Kan
+  Group: ADW
+  FBID: timkan1991
+  Total_Mileage: '31.17'
+  Badges: '2'
+  Run: '31.17'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '237'
   Name: Logan
   Group: ABM
   FBID: Logan0001
@@ -2358,7 +2368,7 @@
   Cycle: '43.24'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '237'
+- Rank: '238'
   Name: Wu Hao
   Group: AOSX/AOS
   FBID: Lima5208
@@ -2368,7 +2378,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '238'
+- Rank: '239'
   Name: Ganesan
   Group: AFE
   FBID: Guinness2512
@@ -2378,7 +2388,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '239'
+- Rank: '240'
   Name: Joey Lee Jian Wei
   Group: AFE
   FBID: Joey3811
@@ -2388,7 +2398,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '358.60'
-- Rank: '240'
+- Rank: '241'
   Name: 'Chiang Meng '
   Group: AOSX/AOS
   FBID: ccm1116
@@ -2398,7 +2408,7 @@
   Cycle: '8.84'
   Swim: '1.80'
   Walk: '0.00'
-- Rank: '241'
+- Rank: '242'
   Name: NG Eng Ming
   Group: ADSS/ADWS/ADWO
   FBID: NgEM1858
@@ -2408,7 +2418,7 @@
   Cycle: '121.60'
   Swim: '0.00'
   Walk: '40.13'
-- Rank: '241'
+- Rank: '242'
   Name: Hoa Chong Xian
   Group: ADSS/ADWS/ADWO
   FBID: ADWS2415
@@ -2418,7 +2428,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '243'
+- Rank: '244'
   Name: Songbird
   Group: ABM
   FBID: Songbird1904
@@ -2428,7 +2438,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '244'
+- Rank: '245'
   Name: Duster
   Group: ABM
   FBID: Yeogpg5892
@@ -2438,7 +2448,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '245'
+- Rank: '246'
   Name: Andrew Ng
   Group: ADW
   FBID: Maxcap2103
@@ -2448,7 +2458,7 @@
   Cycle: '33.59'
   Swim: '0.00'
   Walk: '0.98'
-- Rank: '246'
+- Rank: '247'
   Name: Fam
   Group: ADSS/ADWS/ADWO
   FBID: Phantom1997
@@ -2458,7 +2468,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '247'
+- Rank: '248'
   Name: Guojie
   Group: ADSS/ADWS/ADWO
   FBID: Thug2107
@@ -2468,7 +2478,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '248'
+- Rank: '249'
   Name: Spear
   Group: ATC
   FBID: Spear0213
@@ -2478,7 +2488,7 @@
   Cycle: '0.00'
   Swim: '2.50'
   Walk: '0.00'
-- Rank: '249'
+- Rank: '250'
   Name: JB Ong
   Group: AOSX/AOS
   FBID: tango8456
@@ -2486,16 +2496,6 @@
   Badges: '2'
   Run: '22.67'
   Cycle: '25.14'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '250'
-  Name: Tim Kan
-  Group: ADW
-  FBID: timkan1991
-  Total_Mileage: '28.23'
-  Badges: '2'
-  Run: '28.23'
-  Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '251'
