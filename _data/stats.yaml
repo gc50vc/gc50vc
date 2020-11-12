@@ -739,6 +739,16 @@
   Swim: '0.00'
   Walk: '1.04'
 - Rank: '75'
+  Name: Lia
+  Group: ADSS/ADWS/ADWO
+  FBID: Lia1116
+  Total_Mileage: '96.34'
+  Badges: '5'
+  Run: '68.54'
+  Cycle: '63.18'
+  Swim: '2.00'
+  Walk: '0.00'
+- Rank: '76'
   Name: Slong
   Group: ADW
   FBID: Slong1234
@@ -748,7 +758,7 @@
   Cycle: '0.00'
   Swim: '3.22'
   Walk: '0.00'
-- Rank: '76'
+- Rank: '77'
   Name: Sen Kiat
   Group: ATC
   FBID: HSK7777
@@ -758,7 +768,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '77'
+- Rank: '78'
   Name: Poon
   Group: ADSS/ADWS/ADWO
   FBID: Poon3636
@@ -768,7 +778,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '78'
+- Rank: '79'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: Errick1991
@@ -778,7 +788,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '79'
+- Rank: '80'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -788,7 +798,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '80'
+- Rank: '81'
   Name: Lightyear
   Group: ADW
   FBID: Lightyear2020
@@ -797,16 +807,6 @@
   Run: '91.91'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '81'
-  Name: Lia
-  Group: ADSS/ADWS/ADWO
-  FBID: Lia1116
-  Total_Mileage: '91.33'
-  Badges: '5'
-  Run: '63.53'
-  Cycle: '63.18'
-  Swim: '2.00'
   Walk: '0.00'
 - Rank: '82'
   Name: Malcolm Taong
