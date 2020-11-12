@@ -89,6 +89,16 @@
   Swim: '33.17'
   Walk: '105.41'
 - Rank: '10'
+  Name: yapoh
+  Group: ADW
+  FBID: yapoh0304
+  Total_Mileage: '289.60'
+  Badges: '12'
+  Run: '104.00'
+  Cycle: '572.00'
+  Swim: '7.10'
+  Walk: '0.00'
+- Rank: '11'
   Name: Prem
   Group: ADW
   FBID: Premium6687
@@ -98,7 +108,7 @@
   Cycle: '42.58'
   Swim: '35.85'
   Walk: '1.32'
-- Rank: '11'
+- Rank: '12'
   Name: Nicholas
   Group: ADSS/ADWS/ADWO
   FBID: NN1974
@@ -108,7 +118,7 @@
   Cycle: '736.09'
   Swim: '9.50'
   Walk: '3.02'
-- Rank: '12'
+- Rank: '13'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -117,16 +127,6 @@
   Run: '280.17'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '13'
-  Name: yapoh
-  Group: ADW
-  FBID: yapoh0304
-  Total_Mileage: '279.60'
-  Badges: '12'
-  Run: '104.00'
-  Cycle: '532.00'
-  Swim: '7.10'
   Walk: '0.00'
 - Rank: '14'
   Name: Nicholas Lian
@@ -319,6 +319,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '33'
+  Name: jheng
+  Group: ADSS/ADWS/ADWO
+  FBID: jheng0000
+  Total_Mileage: '168.23'
+  Badges: '9'
+  Run: '52.20'
+  Cycle: '107.25'
+  Swim: '14.87'
+  Walk: '0.00'
+- Rank: '34'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -328,7 +338,7 @@
   Cycle: '331.19'
   Swim: '6.65'
   Walk: '0.00'
-- Rank: '34'
+- Rank: '35'
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
@@ -338,7 +348,7 @@
   Cycle: '0.00'
   Swim: '10.46'
   Walk: '7.97'
-- Rank: '35'
+- Rank: '36'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
@@ -348,7 +358,7 @@
   Cycle: '32.50'
   Swim: '15.00'
   Walk: '11.07'
-- Rank: '36'
+- Rank: '37'
   Name: AdolphusJJ
   Group: AOSX/AOS
   FBID: Bamboo1234
@@ -358,7 +368,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '37'
+- Rank: '38'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -368,16 +378,6 @@
   Cycle: '134.59'
   Swim: '0.00'
   Walk: '1.57'
-- Rank: '38'
-  Name: jheng
-  Group: ADSS/ADWS/ADWO
-  FBID: jheng0000
-  Total_Mileage: '160.74'
-  Badges: '7'
-  Run: '52.20'
-  Cycle: '77.27'
-  Swim: '14.87'
-  Walk: '0.00'
 - Rank: '39'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
