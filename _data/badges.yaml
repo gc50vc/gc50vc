@@ -2600,6 +2600,12 @@
   name: EQ
   definition: ''
   Week: '4'
+- timestamp: '2020-11-12 13:02:08'
+  fbid: SHE9642
+  badge: Baby Steps
+  name: Alex
+  definition: ''
+  Week: '4'
 - timestamp: '2020-10-22 18:39:38'
   fbid: BY8362
   badge: Half Ironman
@@ -2718,6 +2724,12 @@
   fbid: Extreme8123
   badge: Half Ironman
   name: Extreme
+  definition: ''
+  Week: '4'
+- timestamp: '2020-11-12 14:05:51'
+  fbid: PIXAR0001
+  badge: Half Ironman
+  name: PIXAR
   definition: ''
   Week: '4'
 - timestamp: '2020-10-24 05:41:33'
@@ -5774,6 +5786,12 @@
   name: JTZH
   definition: ''
   Week: '4'
+- timestamp: '2020-11-12 12:09:27'
+  fbid: Dennis0495
+  badge: Marathon
+  name: Dennis
+  definition: ''
+  Week: '4'
 - timestamp: '2020-10-24 01:24:37'
   fbid: Extreme8123
   badge: Run For Your Life
@@ -7476,6 +7494,12 @@
   fbid: Cyan0220
   badge: Frogman
   name: Chris y
+  definition: ''
+  Week: '4'
+- timestamp: '2020-11-12 14:05:51'
+  fbid: PIXAR0001
+  badge: Frogman
+  name: PIXAR
   definition: ''
   Week: '4'
 - timestamp: '2020-10-21 18:34:48'
