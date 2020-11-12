@@ -49,6 +49,16 @@
   Swim: '10.32'
   Walk: '12.19'
 - Rank: '6'
+  Name: Slimer
+  Group: ABM
+  FBID: Slimer1234
+  Total_Mileage: '60.11'
+  Badges: '1'
+  Run: '12.04'
+  Cycle: '24.29'
+  Swim: '7.00'
+  Walk: '1.03'
+- Rank: '7'
   Name: jAmEs h.
   Group: ADSS/ADWS/ADWO
   FBID: jAmEsh0007
@@ -57,16 +67,6 @@
   Run: '52.00'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '7'
-  Name: Slimer
-  Group: ABM
-  FBID: Slimer1234
-  Total_Mileage: '51.11'
-  Badges: '1'
-  Run: '12.04'
-  Cycle: '24.29'
-  Swim: '5.50'
   Walk: '0.00'
 - Rank: '8'
   Name: Daniel Tay
@@ -717,7 +717,7 @@
   Run: '9.15'
   Cycle: '7.60'
   Swim: '0.00'
-  Walk: '1.50'
+  Walk: '2.87'
 - Rank: '73'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
@@ -1237,7 +1237,7 @@
   Run: '5.30'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
+  Walk: '1.25'
 - Rank: '125'
   Name: Alex
   Group: AOSX/AOS
