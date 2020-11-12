@@ -7184,6 +7184,12 @@
   name: Hasty
   definition: ''
   Week: '1'
+- timestamp: '2020-10-24 14:20:11'
+  fbid: Angmo1984
+  badge: Frogman
+  name: AngmoATB
+  definition: ''
+  Week: '1'
 - timestamp: '2020-10-24 14:25:51'
   fbid: Xerox1739
   badge: Frogman
@@ -7374,12 +7380,6 @@
   fbid: Aku1234
   badge: Frogman
   name: Der Siang
-  definition: ''
-  Week: '2'
-- timestamp: '2020-11-01 17:14:32'
-  fbid: Angmo1984
-  badge: Frogman
-  name: AngmoATB
   definition: ''
   Week: '2'
 - timestamp: '2020-11-01 17:49:03'
@@ -7914,6 +7914,12 @@
   fbid: Jj2304
   badge: Iron Lungs
   name: Jiajun
+  definition: ''
+  Week: '4'
+- timestamp: '2020-11-09 19:27:47'
+  fbid: Angmo1984
+  badge: Iron Lungs
+  name: AngmoATB
   definition: ''
   Week: '4'
 - timestamp: '2020-11-11 12:52:37'
