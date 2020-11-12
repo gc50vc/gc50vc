@@ -29,6 +29,16 @@
   Swim: '6.25'
   Walk: '0.00'
 - Rank: '4'
+  Name: Ben
+  Group: ADW
+  FBID: BY8362
+  Total_Mileage: '95.46'
+  Badges: '0'
+  Run: '55.95'
+  Cycle: '158.03'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '5'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -38,16 +48,6 @@
   Cycle: '4.55'
   Swim: '12.18'
   Walk: '12.19'
-- Rank: '5'
-  Name: Ben
-  Group: ADW
-  FBID: BY8362
-  Total_Mileage: '75.45'
-  Badges: '0'
-  Run: '47.94'
-  Cycle: '110.03'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '6'
   Name: Slimer
   Group: ABM
@@ -69,6 +69,16 @@
   Swim: '1.80'
   Walk: '0.00'
 - Rank: '8'
+  Name: Nicholas Lian
+  Group: ADW
+  FBID: horsepower2001
+  Total_Mileage: '58.79'
+  Badges: '0'
+  Run: '42.59'
+  Cycle: '0.00'
+  Swim: '2.70'
+  Walk: '2.98'
+- Rank: '9'
   Name: jAmEs h.
   Group: ADSS/ADWS/ADWO
   FBID: jAmEsh0007
@@ -78,16 +88,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '9'
-  Name: Nicholas Lian
-  Group: ADW
-  FBID: horsepower2001
-  Total_Mileage: '48.96'
-  Badges: '0'
-  Run: '32.76'
-  Cycle: '0.00'
-  Swim: '2.70'
-  Walk: '2.98'
 - Rank: '10'
   Name: Daniel Tay
   Group: AOSX/AOS
