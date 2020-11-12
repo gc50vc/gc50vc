@@ -296,7 +296,7 @@
   Badges: '7'
   Run: '100.92'
   Cycle: '270.00'
-  Swim: '3.26'
+  Swim: '2.26'
   Walk: '0.00'
 - Rank: '31'
   Name: Rycel Wong
@@ -429,6 +429,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '44'
+  Name: AngmoATB
+  Group: ADW
+  FBID: Angmo1984
+  Total_Mileage: '134.85'
+  Badges: '6'
+  Run: '101.70'
+  Cycle: '0.00'
+  Swim: '5.53'
+  Walk: '7.97'
+- Rank: '45'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -438,7 +448,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '45'
+- Rank: '46'
   Name: Cookie
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -448,7 +458,7 @@
   Cycle: '78.01'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '46'
+- Rank: '47'
   Name: Benson
   Group: ADW
   FBID: benoi1234
@@ -458,16 +468,6 @@
   Cycle: '95.28'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '47'
-  Name: AngmoATB
-  Group: ADW
-  FBID: Angmo1984
-  Total_Mileage: '129.90'
-  Badges: '6'
-  Run: '101.70'
-  Cycle: '0.00'
-  Swim: '4.70'
-  Walk: '7.97'
 - Rank: '48'
   Name: Yun Jie (Rhythm)
   Group: ADW
