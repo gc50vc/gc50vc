@@ -432,9 +432,9 @@
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
-  Total_Mileage: '136.54'
+  Total_Mileage: '141.67'
   Badges: '4'
-  Run: '136.54'
+  Run: '141.67'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '4.73'
@@ -1679,6 +1679,16 @@
   Swim: '1.00'
   Walk: '15.28'
 - Rank: '169'
+  Name: 'Beatbox '
+  Group: ABM
+  FBID: Beatbox0202
+  Total_Mileage: '42.54'
+  Badges: '3'
+  Run: '42.54'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '7.54'
+- Rank: '170'
   Name: Shawn Chia
   Group: ADW
   FBID: SCWE9595
@@ -1688,7 +1698,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '170'
+- Rank: '171'
   Name: TRIPS
   Group: ATC
   FBID: TRIPS_0000
@@ -1698,7 +1708,7 @@
   Cycle: '106.09'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '171'
+- Rank: '172'
   Name: 'Crystal '
   Group: ABM
   FBID: Crystal1101
@@ -1708,7 +1718,7 @@
   Cycle: '9.48'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '172'
+- Rank: '173'
   Name: Jefferson
   Group: AFE
   FBID: VolvoJeff1985
@@ -1718,7 +1728,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '173'
+- Rank: '174'
   Name: Lin Weili
   Group: AOSX/AOS
   FBID: Michelin5052
@@ -1728,7 +1738,7 @@
   Cycle: '22.35'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '174'
+- Rank: '175'
   Name: SARATH
   Group: ADW
   FBID: SARATH2311
@@ -1738,7 +1748,7 @@
   Cycle: '66.37'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '175'
+- Rank: '176'
   Name: Kian Seng
   Group: ADW
   FBID: KianSeng0170
@@ -1748,7 +1758,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '176'
+- Rank: '177'
   Name: Vincent See
   Group: AOSX/AOS
   FBID: Vincentsee8888
@@ -1758,7 +1768,7 @@
   Cycle: '79.00'
   Swim: '3.50'
   Walk: '0.00'
-- Rank: '177'
+- Rank: '178'
   Name: Chan Wei Siang
   Group: AFE
   FBID: ws1234
@@ -1768,7 +1778,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '178'
+- Rank: '179'
   Name: Pat160A
   Group: ADSS/ADWS/ADWO
   FBID: Pat1991
@@ -1778,7 +1788,7 @@
   Cycle: '0.00'
   Swim: '3.68'
   Walk: '0.00'
-- Rank: '179'
+- Rank: '180'
   Name: Saturn
   Group: ADW
   FBID: Saturn1501
@@ -1788,7 +1798,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '180'
+- Rank: '181'
   Name: Groot
   Group: ADW
   FBID: Groot0163
@@ -1798,7 +1808,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '181'
+- Rank: '182'
   Name: Junan
   Group: ADW
   FBID: Junan1111
@@ -1808,7 +1818,7 @@
   Cycle: '37.19'
   Swim: '0.00'
   Walk: '19.16'
-- Rank: '182'
+- Rank: '183'
   Name: Vernon Lim
   Group: AFE
   FBID: Vernon7070
@@ -1818,7 +1828,7 @@
   Cycle: '160.13'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '183'
+- Rank: '184'
   Name: Pravin
   Group: ADSS/ADWS/ADWO
   FBID: Pravin8938
@@ -1828,7 +1838,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '184'
+- Rank: '185'
   Name: Hayden
   Group: ADSS/ADWS/ADWO
   FBID: Hayden0165
@@ -1838,16 +1848,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '185'
-  Name: 'Beatbox '
-  Group: ABM
-  FBID: Beatbox0202
-  Total_Mileage: '39.49'
-  Badges: '2'
-  Run: '39.49'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '7.54'
 - Rank: '186'
   Name: Alloy
   Group: ABM
