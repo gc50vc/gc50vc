@@ -489,6 +489,16 @@
   Swim: '17.83'
   Walk: '4.80'
 - Rank: '50'
+  Name: 'Jack eng '
+  Group: AOSX/AOS
+  FBID: Jackpot6967
+  Total_Mileage: '124.58'
+  Badges: '4'
+  Run: '124.58'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '51'
   Name: Xiaolow3344
   Group: ADSS/ADWS/ADWO
   FBID: Xiaolow3344
@@ -498,7 +508,7 @@
   Cycle: '0.00'
   Swim: '20.00'
   Walk: '71.88'
-- Rank: '51'
+- Rank: '52'
   Name: Andrew
   Group: ADW
   FBID: Hammer1990
@@ -507,16 +517,6 @@
   Run: '46.64'
   Cycle: '225.06'
   Swim: '3.00'
-  Walk: '0.00'
-- Rank: '52'
-  Name: 'Jack eng '
-  Group: AOSX/AOS
-  FBID: Jackpot6967
-  Total_Mileage: '119.35'
-  Badges: '4'
-  Run: '119.35'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '53'
   Name: Homeboy
@@ -1139,6 +1139,16 @@
   Swim: '1.00'
   Walk: '0.00'
 - Rank: '115'
+  Name: Kent Zeng
+  Group: ADSS/ADWS/ADWO
+  FBID: Stonks69420
+  Total_Mileage: '62.25'
+  Badges: '3'
+  Run: '37.50'
+  Cycle: '75.00'
+  Swim: '1.00'
+  Walk: '0.00'
+- Rank: '116'
   Name: Darius Ng
   Group: ADSS/ADWS/ADWO
   FBID: bobo1234
@@ -1148,7 +1158,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '116'
+- Rank: '117'
   Name: Sze Tein
   Group: ATC
   FBID: Topaz1327
@@ -1158,7 +1168,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '117'
+- Rank: '118'
   Name: Fu Hao Wei
   Group: ADW
   FBID: fuhaowei8435
@@ -1168,7 +1178,7 @@
   Cycle: '212.22'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '118'
+- Rank: '119'
   Name: Sunray
   Group: ABM
   FBID: Sunray0909
@@ -1178,7 +1188,7 @@
   Cycle: '162.50'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '119'
+- Rank: '120'
   Name: Zinc
   Group: ADW
   FBID: zinc1997
@@ -1188,7 +1198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '5.65'
-- Rank: '120'
+- Rank: '121'
   Name: Waffles
   Group: ATC
   FBID: Waffles3567
@@ -1198,16 +1208,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.57'
-- Rank: '121'
-  Name: Kent Zeng
-  Group: ADSS/ADWS/ADWO
-  FBID: Stonks69420
-  Total_Mileage: '58.74'
-  Badges: '3'
-  Run: '37.50'
-  Cycle: '60.97'
-  Swim: '1.00'
-  Walk: '0.00'
 - Rank: '122'
   Name: Jiajun
   Group: ADSS/ADWS/ADWO
