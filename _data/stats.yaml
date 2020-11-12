@@ -1019,6 +1019,16 @@
   Swim: '4.80'
   Walk: '28.68'
 - Rank: '103'
+  Name: LJ Lee
+  Group: ADSS/ADWS/ADWO
+  FBID: VIRUS1509
+  Total_Mileage: '70.13'
+  Badges: '3'
+  Run: '64.09'
+  Cycle: '24.16'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '104'
   Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
   FBID: LeonYeo2590
@@ -1028,7 +1038,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '104'
+- Rank: '105'
   Name: Akileis
   Group: ADW
   FBID: Akileis0163
@@ -1038,7 +1048,7 @@
   Cycle: '0.00'
   Swim: '11.00'
   Walk: '6.29'
-- Rank: '105'
+- Rank: '106'
   Name: 'Sengie '
   Group: ADW
   FBID: ARIAL0160
@@ -1048,7 +1058,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '12.62'
-- Rank: '106'
+- Rank: '107'
   Name: Gwyn
   Group: ADW
   FBID: Magma1201
@@ -1058,16 +1068,6 @@
   Cycle: '46.60'
   Swim: '0.00'
   Walk: '8.93'
-- Rank: '107'
-  Name: LJ Lee
-  Group: ADSS/ADWS/ADWO
-  FBID: VIRUS1509
-  Total_Mileage: '66.10'
-  Badges: '3'
-  Run: '64.09'
-  Cycle: '8.04'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '108'
   Name: Lava
   Group: ATC
