@@ -419,6 +419,16 @@
   Swim: '7.15'
   Walk: '7.97'
 - Rank: '43'
+  Name: Cookie
+  Group: ATC
+  FBID: Cookie3rdWSO1975
+  Total_Mileage: '141.85'
+  Badges: '5'
+  Run: '122.35'
+  Cycle: '78.01'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '44'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -428,7 +438,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '4.73'
-- Rank: '44'
+- Rank: '45'
   Name: Bgtan
   Group: ADSS/ADWS/ADWO
   FBID: Kenny9889
@@ -438,7 +448,7 @@
   Cycle: '542.69'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '45'
+- Rank: '46'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -448,7 +458,7 @@
   Cycle: '164.95'
   Swim: '6.60'
   Walk: '3.15'
-- Rank: '46'
+- Rank: '47'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -456,16 +466,6 @@
   Badges: '4'
   Run: '132.12'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '47'
-  Name: Cookie
-  Group: ATC
-  FBID: Cookie3rdWSO1975
-  Total_Mileage: '131.21'
-  Badges: '5'
-  Run: '111.71'
-  Cycle: '78.01'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '48'
