@@ -269,6 +269,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '28'
+  Name: Viking
+  Group: ADW
+  FBID: Viking1987
+  Total_Mileage: '27.75'
+  Badges: '0'
+  Run: '15.00'
+  Cycle: '51.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '29'
   Name: Tan Chee Wee
   Group: ATC
   FBID: Tancw1974
@@ -278,7 +288,7 @@
   Cycle: '29.50'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: Tony Foo
   Group: ADW
   FBID: tonyfoo0165
@@ -288,7 +298,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -298,7 +308,7 @@
   Cycle: '84.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '32'
   Name: Vapor
   Group: ADW
   FBID: Vapor6148
@@ -308,7 +318,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '33'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
@@ -318,7 +328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '34'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -328,7 +338,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '34'
+- Rank: '35'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: Wang0165
@@ -338,7 +348,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -348,7 +358,7 @@
   Cycle: '24.04'
   Swim: '3.00'
   Walk: '0.00'
-- Rank: '36'
+- Rank: '37'
   Name: 'Windy '
   Group: ABM
   FBID: Windy4444
@@ -358,7 +368,7 @@
   Cycle: '0.00'
   Swim: '4.00'
   Walk: '0.00'
-- Rank: '36'
+- Rank: '37'
   Name: Jiajun
   Group: ADSS/ADWS/ADWO
   FBID: Jj2304
@@ -368,7 +378,7 @@
   Cycle: '0.00'
   Swim: '4.00'
   Walk: '0.00'
-- Rank: '38'
+- Rank: '39'
   Name: Sean Chua
   Group: ADSS/ADWS/ADWO
   FBID: Stop0001
@@ -378,7 +388,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '39'
+- Rank: '40'
   Name: JOVAN
   Group: ADW
   FBID: NIGHTOWL1303
@@ -388,7 +398,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '40'
+- Rank: '41'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -397,16 +407,6 @@
   Run: '15.76'
   Cycle: '0.00'
   Swim: '1.00'
-  Walk: '0.00'
-- Rank: '41'
-  Name: Viking
-  Group: ADW
-  FBID: Viking1987
-  Total_Mileage: '21.75'
-  Badges: '0'
-  Run: '9.00'
-  Cycle: '51.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '42'
   Name: AngmoATB
