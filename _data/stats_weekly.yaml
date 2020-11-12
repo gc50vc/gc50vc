@@ -46,7 +46,7 @@
   Badges: '0'
   Run: '2.00'
   Cycle: '4.55'
-  Swim: '10.32'
+  Swim: '12.18'
   Walk: '12.19'
 - Rank: '6'
   Name: Sloh
@@ -64,7 +64,7 @@
   FBID: Slimer1234
   Total_Mileage: '60.11'
   Badges: '1'
-  Run: '12.04'
+  Run: '20.10'
   Cycle: '24.29'
   Swim: '7.00'
   Walk: '1.03'
@@ -245,7 +245,7 @@
   Total_Mileage: '28.28'
   Badges: '1'
   Run: '5.48'
-  Cycle: '91.21'
+  Cycle: '93.51'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '26'
@@ -393,10 +393,10 @@
   Group: ABM
   FBID: PIXAR0001
   Total_Mileage: '21.00'
-  Badges: '1'
+  Badges: '3'
   Run: '0.00'
   Cycle: '84.00'
-  Swim: '0.00'
+  Swim: '1.00'
   Walk: '0.00'
 - Rank: '40'
   Name: Hanyong
@@ -496,7 +496,7 @@
   Badges: '0'
   Run: '8.02'
   Cycle: '40.00'
-  Swim: '0.00'
+  Swim: '2.00'
   Walk: '0.70'
 - Rank: '51'
   Name: Keith low
@@ -1294,7 +1294,7 @@
   FBID: Sunray0909
   Total_Mileage: '5.50'
   Badges: '0'
-  Run: '2.50'
+  Run: '5.00'
   Cycle: '12.01'
   Swim: '0.00'
   Walk: '0.00'
@@ -1343,9 +1343,9 @@
   Group: AOSX/AOS
   FBID: SHE9642
   Total_Mileage: '5.25'
-  Badges: '0'
+  Badges: '1'
   Run: '0.00'
-  Cycle: '21.00'
+  Cycle: '41.95'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '136'
@@ -1387,7 +1387,7 @@
   Run: '5.09'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
+  Walk: '4.02'
 - Rank: '140'
   Name: JOLLY
   Group: ADW
