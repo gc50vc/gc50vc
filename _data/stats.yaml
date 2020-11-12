@@ -779,6 +779,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '79'
+  Name: Lightyear
+  Group: ADW
+  FBID: Lightyear2020
+  Total_Mileage: '91.91'
+  Badges: '3'
+  Run: '91.91'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '80'
   Name: Lia
   Group: ADSS/ADWS/ADWO
   FBID: Lia1116
@@ -788,7 +798,7 @@
   Cycle: '63.18'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '80'
+- Rank: '81'
   Name: Malcolm Taong
   Group: ADSS/ADWS/ADWO
   FBID: TAONG8070
@@ -798,7 +808,7 @@
   Cycle: '267.29'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '81'
+- Rank: '82'
   Name: loanshark
   Group: ATC
   FBID: loanshark9356
@@ -808,7 +818,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '82'
+- Rank: '83'
   Name: Rocky
   Group: AOSX/AOS
   FBID: ZeRo7113
@@ -818,7 +828,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '57.30'
-- Rank: '83'
+- Rank: '84'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -828,7 +838,7 @@
   Cycle: '91.76'
   Swim: '6.00'
   Walk: '0.00'
-- Rank: '84'
+- Rank: '85'
   Name: RainmanCYK
   Group: ADW
   FBID: Rainman0000
@@ -837,16 +847,6 @@
   Run: '9.00'
   Cycle: '0.00'
   Swim: '13.00'
-  Walk: '0.00'
-- Rank: '85'
-  Name: Lightyear
-  Group: ADW
-  FBID: Lightyear2020
-  Total_Mileage: '86.31'
-  Badges: '3'
-  Run: '86.31'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '86'
   Name: Sen Kiat
