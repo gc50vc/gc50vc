@@ -179,6 +179,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '19'
+  Name: 'Tan Swee Kiat '
+  Group: ADW
+  FBID: Eskay0077
+  Total_Mileage: '210.39'
+  Badges: '4'
+  Run: '210.39'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '11.68'
+- Rank: '20'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -188,7 +198,7 @@
   Cycle: '40.64'
   Swim: '9.45'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '21'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -198,7 +208,7 @@
   Cycle: '537.00'
   Swim: '3.10'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -208,16 +218,6 @@
   Cycle: '774.54'
   Swim: '0.00'
   Walk: '2.19'
-- Rank: '22'
-  Name: 'Tan Swee Kiat '
-  Group: ADW
-  FBID: Eskay0077
-  Total_Mileage: '200.09'
-  Badges: '4'
-  Run: '200.09'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '11.68'
 - Rank: '23'
   Name: Coral
   Group: ABM
