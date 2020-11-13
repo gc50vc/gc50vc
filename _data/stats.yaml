@@ -309,6 +309,16 @@
   Swim: '6.40'
   Walk: '14.39'
 - Rank: '32'
+  Name: YuenG
+  Group: ADSS/ADWS/ADWO
+  FBID: YuenG1977
+  Total_Mileage: '179.10'
+  Badges: '5'
+  Run: '159.34'
+  Cycle: '25.04'
+  Swim: '2.25'
+  Walk: '0.00'
+- Rank: '33'
   Name: jheng
   Group: ADSS/ADWS/ADWO
   FBID: jheng0000
@@ -318,7 +328,7 @@
   Cycle: '107.25'
   Swim: '16.37'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '34'
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
@@ -328,7 +338,7 @@
   Cycle: '0.00'
   Swim: '11.49'
   Walk: '7.97'
-- Rank: '34'
+- Rank: '35'
   Name: 'TiGeR3 '
   Group: ADSS/ADWS/ADWO
   FBID: TiGeR2876
@@ -337,16 +347,6 @@
   Run: '169.66'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '35'
-  Name: YuenG
-  Group: ADSS/ADWS/ADWO
-  FBID: YuenG1977
-  Total_Mileage: '168.70'
-  Badges: '5'
-  Run: '148.94'
-  Cycle: '25.04'
-  Swim: '2.25'
   Walk: '0.00'
 - Rank: '36'
   Name: Jade
@@ -649,6 +649,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '66'
+  Name: Lia
+  Group: ADSS/ADWS/ADWO
+  FBID: Lia1116
+  Total_Mileage: '104.34'
+  Badges: '5'
+  Run: '76.54'
+  Cycle: '63.18'
+  Swim: '2.00'
+  Walk: '0.00'
+- Rank: '67'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -658,7 +668,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '67'
+- Rank: '68'
   Name: Rubiks
   Group: ABM
   FBID: Rubiks1234
@@ -668,7 +678,7 @@
   Cycle: '41.78'
   Swim: '4.10'
   Walk: '0.00'
-- Rank: '68'
+- Rank: '69'
   Name: Quainapz
   Group: ADSS/ADWS/ADWO
   FBID: Quainapz8585
@@ -678,7 +688,7 @@
   Cycle: '0.00'
   Swim: '3.10'
   Walk: '2.30'
-- Rank: '69'
+- Rank: '70'
   Name: ''
   Group: ABM
   FBID: Zena2107
@@ -688,7 +698,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '69'
+- Rank: '70'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -698,7 +708,7 @@
   Cycle: '245.00'
   Swim: '0.00'
   Walk: '2.00'
-- Rank: '71'
+- Rank: '72'
   Name: Maj Lim
   Group: ABM
   FBID: Legoz1000
@@ -708,7 +718,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '16.48'
-- Rank: '72'
+- Rank: '73'
   Name: Rats
   Group: ABM
   FBID: Rats1500
@@ -718,7 +728,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '73'
+- Rank: '74'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -728,7 +738,7 @@
   Cycle: '18.27'
   Swim: '0.00'
   Walk: '3.42'
-- Rank: '74'
+- Rank: '75'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -738,7 +748,7 @@
   Cycle: '45.78'
   Swim: '3.50'
   Walk: '1.63'
-- Rank: '75'
+- Rank: '76'
   Name: Sean Chua
   Group: ADSS/ADWS/ADWO
   FBID: Stop0001
@@ -748,7 +758,7 @@
   Cycle: '58.61'
   Swim: '0.00'
   Walk: '1.04'
-- Rank: '76'
+- Rank: '77'
   Name: Lightyear
   Group: ADW
   FBID: Lightyear2020
@@ -757,16 +767,6 @@
   Run: '96.35'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '77'
-  Name: Lia
-  Group: ADSS/ADWS/ADWO
-  FBID: Lia1116
-  Total_Mileage: '96.34'
-  Badges: '5'
-  Run: '68.54'
-  Cycle: '63.18'
-  Swim: '2.00'
   Walk: '0.00'
 - Rank: '78'
   Name: Slong
