@@ -29,6 +29,16 @@
   Swim: '8.80'
   Walk: '0.00'
 - Rank: '4'
+  Name: Ben
+  Group: ADW
+  FBID: BY8362
+  Total_Mileage: '115.48'
+  Badges: '0'
+  Run: '63.97'
+  Cycle: '206.03'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '5'
   Name: ''
   Group: ABM
   FBID: Zena2107
@@ -38,7 +48,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '5'
+- Rank: '6'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -48,16 +58,6 @@
   Cycle: '4.55'
   Swim: '14.88'
   Walk: '12.19'
-- Rank: '6'
-  Name: Ben
-  Group: ADW
-  FBID: BY8362
-  Total_Mileage: '95.46'
-  Badges: '0'
-  Run: '55.95'
-  Cycle: '158.03'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '7'
   Name: Slimer
   Group: ABM
