@@ -2458,7 +2458,17 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '247'
+- Rank: '246'
+  Name: Blizzard
+  Group: ATC
+  FBID: blizzard1979
+  Total_Mileage: '30.17'
+  Badges: '2'
+  Run: '30.17'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '248'
   Name: Andrew Ng
   Group: ADW
   FBID: Maxcap2103
@@ -2468,7 +2478,7 @@
   Cycle: '33.59'
   Swim: '0.00'
   Walk: '0.98'
-- Rank: '248'
+- Rank: '249'
   Name: Fam
   Group: ADSS/ADWS/ADWO
   FBID: Phantom1997
@@ -2478,7 +2488,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '249'
+- Rank: '250'
   Name: Guojie
   Group: ADSS/ADWS/ADWO
   FBID: Thug2107
@@ -2488,7 +2498,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '250'
+- Rank: '251'
   Name: Spear
   Group: ATC
   FBID: Spear0213
@@ -2498,7 +2508,7 @@
   Cycle: '0.00'
   Swim: '2.50'
   Walk: '0.00'
-- Rank: '251'
+- Rank: '252'
   Name: JB Ong
   Group: AOSX/AOS
   FBID: tango8456
@@ -2508,7 +2518,7 @@
   Cycle: '25.14'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '252'
+- Rank: '253'
   Name: Zhi Hao
   Group: ADSS/ADWS/ADWO
   FBID: ZhiHao_R0160
@@ -2518,7 +2528,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '253'
+- Rank: '254'
   Name: Yi Kuang
   Group: ADW
   FBID: rocket1999
@@ -2528,7 +2538,7 @@
   Cycle: '48.82'
   Swim: '0.00'
   Walk: '1.03'
-- Rank: '254'
+- Rank: '255'
   Name: Chris y
   Group: ATC
   FBID: Cyan0220
@@ -2538,7 +2548,7 @@
   Cycle: '0.00'
   Swim: '2.30'
   Walk: '0.00'
-- Rank: '255'
+- Rank: '256'
   Name: Yew Ming
   Group: ADW
   FBID: Weefie8869
@@ -2548,7 +2558,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '256'
+- Rank: '257'
   Name: Leeg
   Group: ADW
   FBID: Leeg9475
@@ -2558,7 +2568,7 @@
   Cycle: '79.90'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '257'
+- Rank: '258'
   Name: Gabriel Tay Kai Xian
   Group: ADW
   FBID: Blueeyeswhitedragon2901
@@ -2568,7 +2578,7 @@
   Cycle: '45.48'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '258'
+- Rank: '259'
   Name: EG
   Group: ADSS/ADWS/ADWO
   FBID: EG3211
@@ -2578,7 +2588,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '259'
+- Rank: '260'
   Name: Psychic
   Group: ATC
   FBID: psychic2204
@@ -2586,16 +2596,6 @@
   Badges: '2'
   Run: '23.61'
   Cycle: '14.29'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '260'
-  Name: Blizzard
-  Group: ATC
-  FBID: blizzard1979
-  Total_Mileage: '27.15'
-  Badges: '2'
-  Run: '27.15'
-  Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '261'
