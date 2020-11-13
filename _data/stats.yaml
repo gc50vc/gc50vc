@@ -269,6 +269,16 @@
   Swim: '0.00'
   Walk: '79.15'
 - Rank: '28'
+  Name: Dan
+  Group: ADSS/ADWS/ADWO
+  FBID: Dan1234
+  Total_Mileage: '184.85'
+  Badges: '4'
+  Run: '184.85'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '29'
   Name: Daniel Tay
   Group: AOSX/AOS
   FBID: Corrupt2705
@@ -278,7 +288,7 @@
   Cycle: '0.00'
   Swim: '18.80'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -288,7 +298,7 @@
   Cycle: '699.67'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '31'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -298,16 +308,6 @@
   Cycle: '327.50'
   Swim: '6.40'
   Walk: '14.39'
-- Rank: '31'
-  Name: Dan
-  Group: ADSS/ADWS/ADWO
-  FBID: Dan1234
-  Total_Mileage: '178.57'
-  Badges: '4'
-  Run: '178.57'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '32'
   Name: jheng
   Group: ADSS/ADWS/ADWO
