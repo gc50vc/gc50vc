@@ -69,6 +69,16 @@
   Swim: '10.00'
   Walk: '1.03'
 - Rank: '8'
+  Name: T-rex
+  Group: ABM
+  FBID: Trex1406
+  Total_Mileage: '87.73'
+  Badges: '1'
+  Run: '0.00'
+  Cycle: '206.93'
+  Swim: '6.00'
+  Walk: '0.00'
+- Rank: '9'
   Name: Nicholas
   Group: ADSS/ADWS/ADWO
   FBID: Nn1974
@@ -78,7 +88,7 @@
   Cycle: '243.61'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '9'
+- Rank: '10'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -88,7 +98,7 @@
   Cycle: '172.87'
   Swim: '3.40'
   Walk: '0.00'
-- Rank: '10'
+- Rank: '11'
   Name: Nicholas Lian
   Group: ADW
   FBID: horsepower2001
@@ -98,7 +108,7 @@
   Cycle: '0.00'
   Swim: '4.20'
   Walk: '2.98'
-- Rank: '11'
+- Rank: '12'
   Name: yapoh
   Group: ADW
   FBID: Yapoh0304
@@ -108,7 +118,7 @@
   Cycle: '100.00'
   Swim: '2.30'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: Prem
   Group: ADW
   FBID: Premium6687
@@ -117,16 +127,6 @@
   Run: '0.00'
   Cycle: '0.00'
   Swim: '10.55'
-  Walk: '0.00'
-- Rank: '13'
-  Name: T-rex
-  Group: ABM
-  FBID: Trex1406
-  Total_Mileage: '57.73'
-  Badges: '1'
-  Run: '0.00'
-  Cycle: '206.93'
-  Swim: '1.00'
   Walk: '0.00'
 - Rank: '14'
   Name: Coral
