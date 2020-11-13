@@ -1169,6 +1169,16 @@
   Swim: '1.50'
   Walk: '13.50'
 - Rank: '118'
+  Name: Wan Yuan
+  Group: ADW
+  FBID: Lost1908
+  Total_Mileage: '63.98'
+  Badges: '3'
+  Run: '63.98'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '119'
   Name: COVID
   Group: ADSS/ADWS/ADWO
   FBID: COVID9999
@@ -1178,7 +1188,7 @@
   Cycle: '74.61'
   Swim: '0.00'
   Walk: '21.50'
-- Rank: '119'
+- Rank: '120'
   Name: Kent Zeng
   Group: ADSS/ADWS/ADWO
   FBID: Stonks69420
@@ -1188,7 +1198,7 @@
   Cycle: '75.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '120'
+- Rank: '121'
   Name: Starbucks
   Group: ABM
   FBID: Starbucks3756
@@ -1198,7 +1208,7 @@
   Cycle: '9.23'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '121'
+- Rank: '122'
   Name: Darius Ng
   Group: ADSS/ADWS/ADWO
   FBID: bobo1234
@@ -1208,7 +1218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '122'
+- Rank: '123'
   Name: Sze Tein
   Group: ATC
   FBID: Topaz1327
@@ -1218,7 +1228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '123'
+- Rank: '124'
   Name: Fu Hao Wei
   Group: ADW
   FBID: fuhaowei8435
@@ -1228,7 +1238,7 @@
   Cycle: '212.22'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '124'
+- Rank: '125'
   Name: Sunray
   Group: ABM
   FBID: Sunray0909
@@ -1238,7 +1248,7 @@
   Cycle: '162.50'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '125'
+- Rank: '126'
   Name: Chin Yong
   Group: ADSS/ADWS/ADWO
   FBID: Relaxing1234
@@ -1248,7 +1258,7 @@
   Cycle: '55.45'
   Swim: '0.00'
   Walk: '36.21'
-- Rank: '126'
+- Rank: '127'
   Name: Waffles
   Group: ATC
   FBID: Waffles3567
@@ -1258,7 +1268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.57'
-- Rank: '127'
+- Rank: '128'
   Name: TRIPS
   Group: ATC
   FBID: TRIPS_0000
@@ -1268,7 +1278,7 @@
   Cycle: '161.87'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '128'
+- Rank: '129'
   Name: Jiajun
   Group: ADSS/ADWS/ADWO
   FBID: Jj2304
@@ -1278,7 +1288,7 @@
   Cycle: '0.00'
   Swim: '8.00'
   Walk: '11.06'
-- Rank: '129'
+- Rank: '130'
   Name: Alan
   Group: ADSS/ADWS/ADWO
   FBID: Alan2881
@@ -1288,7 +1298,7 @@
   Cycle: '0.00'
   Swim: '4.05'
   Walk: '32.00'
-- Rank: '130'
+- Rank: '131'
   Name: Glenn
   Group: ADW
   FBID: Garfield3110
@@ -1298,7 +1308,7 @@
   Cycle: '10.00'
   Swim: '0.00'
   Walk: '13.84'
-- Rank: '131'
+- Rank: '132'
   Name: You Rong
   Group: ADW
   FBID: Audi1987
@@ -1308,7 +1318,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '132'
+- Rank: '133'
   Name: Camper
   Group: ADW
   FBID: tanht1968
@@ -1318,7 +1328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '133'
+- Rank: '134'
   Name: JOLLY
   Group: ADW
   FBID: Jolly8178
@@ -1327,16 +1337,6 @@
   Run: '30.18'
   Cycle: '42.68'
   Swim: '2.50'
-  Walk: '0.00'
-- Rank: '134'
-  Name: Wan Yuan
-  Group: ADW
-  FBID: Lost1908
-  Total_Mileage: '55.84'
-  Badges: '3'
-  Run: '55.84'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '135'
   Name: BENteo
