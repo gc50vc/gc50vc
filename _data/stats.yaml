@@ -619,6 +619,16 @@
   Swim: '5.10'
   Walk: '0.00'
 - Rank: '63'
+  Name: TT
+  Group: ABM
+  FBID: jiawei1989
+  Total_Mileage: '105.05'
+  Badges: '4'
+  Run: '102.34'
+  Cycle: '10.83'
+  Swim: '0.00'
+  Walk: '1.89'
+- Rank: '64'
   Name: PCK
   Group: ADW
   FBID: PCK2205
@@ -628,7 +638,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '64'
+- Rank: '65'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -638,7 +648,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '65'
+- Rank: '66'
   Name: Rubiks
   Group: ABM
   FBID: Rubiks1234
@@ -648,7 +658,7 @@
   Cycle: '41.78'
   Swim: '4.10'
   Walk: '0.00'
-- Rank: '66'
+- Rank: '67'
   Name: Quainapz
   Group: ADSS/ADWS/ADWO
   FBID: Quainapz8585
@@ -658,7 +668,7 @@
   Cycle: '0.00'
   Swim: '3.10'
   Walk: '2.30'
-- Rank: '67'
+- Rank: '68'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -668,7 +678,7 @@
   Cycle: '245.00'
   Swim: '0.00'
   Walk: '2.00'
-- Rank: '68'
+- Rank: '69'
   Name: Maj Lim
   Group: ABM
   FBID: Legoz1000
@@ -678,7 +688,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '16.48'
-- Rank: '69'
+- Rank: '70'
   Name: 'Tay Wen Hao '
   Group: ADW
   FBID: Wh8295
@@ -688,16 +698,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '70'
-  Name: TT
-  Group: ABM
-  FBID: jiawei1989
-  Total_Mileage: '98.04'
-  Badges: '3'
-  Run: '95.33'
-  Cycle: '10.83'
-  Swim: '0.00'
-  Walk: '1.89'
 - Rank: '71'
   Name: Rats
   Group: ABM
