@@ -1669,6 +1669,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '168'
+  Name: Shopan
+  Group: ATC
+  FBID: Shopan2000
+  Total_Mileage: '7.00'
+  Badges: '2'
+  Run: '7.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '169'
   Name: Minion
   Group: ABM
   FBID: Minion3004
@@ -1678,7 +1688,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '169'
+- Rank: '170'
   Name: Eugene lee
   Group: AOSX/AOS
   FBID: Eug8626
@@ -1688,7 +1698,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '170'
+- Rank: '171'
   Name: cheehao
   Group: ADSS/ADWS/ADWO
   FBID: 165sloth1999
@@ -1698,7 +1708,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '171'
+- Rank: '172'
   Name: Chris y
   Group: ATC
   FBID: Cyan0220
@@ -1708,7 +1718,7 @@
   Cycle: '0.00'
   Swim: '1.10'
   Walk: '0.00'
-- Rank: '172'
+- Rank: '173'
   Name: Chin Yong
   Group: ADSS/ADWS/ADWO
   FBID: Relaxing1234
@@ -1718,7 +1728,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '10.87'
-- Rank: '173'
+- Rank: '174'
   Name: Kelvin
   Group: ADSS/ADWS/ADWO
   FBID: Kelvin1111
@@ -1728,7 +1738,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '174'
+- Rank: '175'
   Name: Jing Wee
   Group: ADSS/ADWS/ADWO
   FBID: Pork2070
@@ -1738,7 +1748,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '175'
+- Rank: '176'
   Name: spirit
   Group: ATC
   FBID: spirit5555
@@ -1748,7 +1758,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '176'
+- Rank: '177'
   Name: Diva
   Group: ADW
   FBID: Delia1234
@@ -1758,17 +1768,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '177'
-  Name: Shopan
-  Group: ATC
-  FBID: Shopan2000
-  Total_Mileage: '6.00'
-  Badges: '2'
-  Run: '6.00'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '177'
+- Rank: '178'
   Name: Lim Chee Hao
   Group: AFE
   FBID: Masterchee2277
@@ -1778,7 +1778,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '177'
+- Rank: '178'
   Name: 'Kow Zi Jie '
   Group: ADSS/ADWS/ADWO
   FBID: Fedrik6315
