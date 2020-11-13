@@ -789,6 +789,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '80'
+  Name: loanshark
+  Group: ATC
+  FBID: loanshark9356
+  Total_Mileage: '94.58'
+  Badges: '3'
+  Run: '94.58'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '81'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -798,7 +808,7 @@
   Cycle: '91.76'
   Swim: '7.00'
   Walk: '0.00'
-- Rank: '81'
+- Rank: '82'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: Errick1991
@@ -808,7 +818,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '82'
+- Rank: '83'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -818,7 +828,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '83'
+- Rank: '84'
   Name: Lightyear
   Group: ADW
   FBID: Lightyear2020
@@ -828,7 +838,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '84'
+- Rank: '85'
   Name: Geeky
   Group: ADW
   FBID: Geeky1989
@@ -838,7 +848,7 @@
   Cycle: '0.00'
   Swim: '6.10'
   Walk: '32.34'
-- Rank: '85'
+- Rank: '86'
   Name: Malcolm Taong
   Group: ADSS/ADWS/ADWO
   FBID: TAONG8070
@@ -848,7 +858,7 @@
   Cycle: '267.29'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '86'
+- Rank: '87'
   Name: ARROW
   Group: ADW
   FBID: Tee1980
@@ -856,16 +866,6 @@
   Badges: '4'
   Run: '69.36'
   Cycle: '77.42'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '87'
-  Name: loanshark
-  Group: ATC
-  FBID: loanshark9356
-  Total_Mileage: '88.58'
-  Badges: '3'
-  Run: '88.58'
-  Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '88'
