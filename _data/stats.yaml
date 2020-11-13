@@ -1189,6 +1189,16 @@
   Swim: '0.00'
   Walk: '21.50'
 - Rank: '120'
+  Name: Camper
+  Group: ADW
+  FBID: tanht1968
+  Total_Mileage: '63.74'
+  Badges: '3'
+  Run: '63.74'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '121'
   Name: Kent Zeng
   Group: ADSS/ADWS/ADWO
   FBID: Stonks69420
@@ -1198,7 +1208,7 @@
   Cycle: '75.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '121'
+- Rank: '122'
   Name: Starbucks
   Group: ABM
   FBID: Starbucks3756
@@ -1208,7 +1218,7 @@
   Cycle: '9.23'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '122'
+- Rank: '123'
   Name: Darius Ng
   Group: ADSS/ADWS/ADWO
   FBID: bobo1234
@@ -1218,7 +1228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '123'
+- Rank: '124'
   Name: Sze Tein
   Group: ATC
   FBID: Topaz1327
@@ -1228,7 +1238,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '124'
+- Rank: '125'
   Name: Fu Hao Wei
   Group: ADW
   FBID: fuhaowei8435
@@ -1238,7 +1248,7 @@
   Cycle: '212.22'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '125'
+- Rank: '126'
   Name: Sunray
   Group: ABM
   FBID: Sunray0909
@@ -1248,7 +1258,7 @@
   Cycle: '162.50'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '126'
+- Rank: '127'
   Name: Chin Yong
   Group: ADSS/ADWS/ADWO
   FBID: Relaxing1234
@@ -1258,7 +1268,7 @@
   Cycle: '55.45'
   Swim: '0.00'
   Walk: '36.21'
-- Rank: '127'
+- Rank: '128'
   Name: Waffles
   Group: ATC
   FBID: Waffles3567
@@ -1268,7 +1278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.57'
-- Rank: '128'
+- Rank: '129'
   Name: TRIPS
   Group: ATC
   FBID: TRIPS_0000
@@ -1278,7 +1288,7 @@
   Cycle: '161.87'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '129'
+- Rank: '130'
   Name: Jiajun
   Group: ADSS/ADWS/ADWO
   FBID: Jj2304
@@ -1288,7 +1298,7 @@
   Cycle: '0.00'
   Swim: '8.00'
   Walk: '11.06'
-- Rank: '130'
+- Rank: '131'
   Name: Alan
   Group: ADSS/ADWS/ADWO
   FBID: Alan2881
@@ -1298,7 +1308,7 @@
   Cycle: '0.00'
   Swim: '4.05'
   Walk: '32.00'
-- Rank: '131'
+- Rank: '132'
   Name: Glenn
   Group: ADW
   FBID: Garfield3110
@@ -1308,23 +1318,13 @@
   Cycle: '10.00'
   Swim: '0.00'
   Walk: '13.84'
-- Rank: '132'
+- Rank: '133'
   Name: You Rong
   Group: ADW
   FBID: Audi1987
   Total_Mileage: '56.46'
   Badges: '3'
   Run: '56.46'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '133'
-  Name: Camper
-  Group: ADW
-  FBID: tanht1968
-  Total_Mileage: '55.97'
-  Badges: '3'
-  Run: '55.97'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
@@ -2109,6 +2109,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '212'
+  Name: LC
+  Group: AFE
+  FBID: LC0809
+  Total_Mileage: '35.76'
+  Badges: '3'
+  Run: '16.50'
+  Cycle: '77.05'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '213'
   Name: Wong Wei Ming
   Group: ATC
   FBID: Shadow0206
@@ -2118,7 +2128,7 @@
   Cycle: '0.00'
   Swim: '2.14'
   Walk: '0.00'
-- Rank: '213'
+- Rank: '214'
   Name: Yan Ting
   Group: ADSS/ADWS/ADWO
   FBID: Yeti1993
@@ -2128,7 +2138,7 @@
   Cycle: '0.00'
   Swim: '3.20'
   Walk: '0.00'
-- Rank: '214'
+- Rank: '215'
   Name: Soh Thiam Hing
   Group: ADSS/ADWS/ADWO
   FBID: daffodilistic1337
@@ -2138,7 +2148,7 @@
   Cycle: '9.74'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '215'
+- Rank: '216'
   Name: Guang
   Group: ADSS/ADWS/ADWO
   FBID: Guang1309
@@ -2148,7 +2158,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '216'
+- Rank: '217'
   Name: Parthiban
   Group: ADSS/ADWS/ADWO
   FBID: OUTLAW2111
@@ -2158,7 +2168,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '217'
+- Rank: '218'
   Name: Rajaan
   Group: ADSS/ADWS/ADWO
   FBID: Rajaanleon0021
@@ -2168,7 +2178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '218'
+- Rank: '219'
   Name: Philip Tan
   Group: ATC
   FBID: Philip6688
@@ -2178,7 +2188,7 @@
   Cycle: '140.36'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '219'
+- Rank: '220'
   Name: CSM
   Group: ADSS/ADWS/ADWO
   FBID: CSM8189
@@ -2188,16 +2198,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '12.30'
-- Rank: '220'
-  Name: LC
-  Group: AFE
-  FBID: LC0809
-  Total_Mileage: '34.50'
-  Badges: '3'
-  Run: '16.50'
-  Cycle: '71.99'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '221'
   Name: Essay
   Group: ADW
