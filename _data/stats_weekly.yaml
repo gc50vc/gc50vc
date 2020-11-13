@@ -169,6 +169,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '18'
+  Name: Bronson
+  Group: ADW
+  FBID: Bronze1234
+  Total_Mileage: '43.20'
+  Badges: '1'
+  Run: '9.45'
+  Cycle: '0.00'
+  Swim: '5.63'
+  Walk: '0.00'
+- Rank: '19'
   Name: Yun Jie (Rhythm)
   Group: ADW
   FBID: Jabez8686
@@ -178,7 +188,7 @@
   Cycle: '0.00'
   Swim: '6.30'
   Walk: '0.00'
-- Rank: '19'
+- Rank: '20'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -188,7 +198,7 @@
   Cycle: '24.04'
   Swim: '5.00'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '21'
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
@@ -198,7 +208,7 @@
   Cycle: '0.00'
   Swim: '5.51'
   Walk: '3.97'
-- Rank: '21'
+- Rank: '22'
   Name: T-rex
   Group: ABM
   FBID: Trex1406
@@ -208,7 +218,7 @@
   Cycle: '132.55'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: Philip Tan
   Group: ATC
   FBID: Philip6688
@@ -218,7 +228,7 @@
   Cycle: '140.36'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: Chan Howe
   Group: AOSX/AOS
   FBID: IceCube3008
@@ -228,7 +238,7 @@
   Cycle: '139.70'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: Prem
   Group: ADW
   FBID: Premium6687
@@ -238,7 +248,7 @@
   Cycle: '0.00'
   Swim: '5.75'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -247,16 +257,6 @@
   Run: '0.00'
   Cycle: '64.01'
   Swim: '3.05'
-  Walk: '0.00'
-- Rank: '26'
-  Name: Bronson
-  Group: ADW
-  FBID: Bronze1234
-  Total_Mileage: '34.05'
-  Badges: '1'
-  Run: '9.45'
-  Cycle: '0.00'
-  Swim: '4.10'
   Walk: '0.00'
 - Rank: '27'
   Name: YuenG
