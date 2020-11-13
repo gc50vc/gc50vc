@@ -109,6 +109,16 @@
   Swim: '4.20'
   Walk: '2.98'
 - Rank: '12'
+  Name: Prem
+  Group: ADW
+  FBID: Premium6687
+  Total_Mileage: '74.30'
+  Badges: '0'
+  Run: '11.00'
+  Cycle: '0.00'
+  Swim: '10.55'
+  Walk: '0.00'
+- Rank: '13'
   Name: yapoh
   Group: ADW
   FBID: Yapoh0304
@@ -117,16 +127,6 @@
   Run: '25.00'
   Cycle: '100.00'
   Swim: '2.30'
-  Walk: '0.00'
-- Rank: '13'
-  Name: Prem
-  Group: ADW
-  FBID: Premium6687
-  Total_Mileage: '63.30'
-  Badges: '0'
-  Run: '0.00'
-  Cycle: '0.00'
-  Swim: '10.55'
   Walk: '0.00'
 - Rank: '14'
   Name: Coral
@@ -257,7 +257,7 @@
   Run: '41.76'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '168.30'
+  Walk: '223.30'
 - Rank: '27'
   Name: AngmoATB
   Group: ADW
