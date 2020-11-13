@@ -249,6 +249,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '26'
+  Name: EQ
+  Group: ADSS/ADWS/ADWO
+  FBID: eequan1234
+  Total_Mileage: '41.76'
+  Badges: '2'
+  Run: '41.76'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '168.30'
+- Rank: '27'
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
@@ -258,7 +268,7 @@
   Cycle: '0.00'
   Swim: '5.51'
   Walk: '3.97'
-- Rank: '27'
+- Rank: '28'
   Name: Btee
   Group: AFE
   FBID: brian0307
@@ -268,7 +278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: Philip Tan
   Group: ATC
   FBID: Philip6688
@@ -278,7 +288,7 @@
   Cycle: '140.36'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: Chan Howe
   Group: AOSX/AOS
   FBID: IceCube3008
@@ -288,7 +298,7 @@
   Cycle: '139.70'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '31'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -298,7 +308,7 @@
   Cycle: '64.01'
   Swim: '3.05'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '32'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -308,16 +318,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '32'
-  Name: EQ
-  Group: ADSS/ADWS/ADWO
-  FBID: eequan1234
-  Total_Mileage: '31.76'
-  Badges: '2'
-  Run: '31.76'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '168.30'
 - Rank: '33'
   Name: jheng
   Group: ADSS/ADWS/ADWO
