@@ -1049,6 +1049,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '106'
+  Name: Gwyn
+  Group: ADW
+  FBID: Magma1201
+  Total_Mileage: '72.80'
+  Badges: '4'
+  Run: '61.15'
+  Cycle: '46.60'
+  Swim: '0.00'
+  Walk: '8.93'
+- Rank: '107'
   Name: Yeow Teck
   Group: AOSX/AOS
   FBID: Youtube6116
@@ -1058,7 +1068,7 @@
   Cycle: '0.00'
   Swim: '2.20'
   Walk: '0.00'
-- Rank: '107'
+- Rank: '108'
   Name: Hector
   Group: ADW
   FBID: Hector0911
@@ -1068,7 +1078,7 @@
   Cycle: '0.00'
   Swim: '6.90'
   Walk: '4.26'
-- Rank: '108'
+- Rank: '109'
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
@@ -1078,7 +1088,7 @@
   Cycle: '24.16'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '109'
+- Rank: '110'
   Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
   FBID: LeonYeo2590
@@ -1088,7 +1098,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '110'
+- Rank: '111'
   Name: KevinKKW
   Group: ADSS/ADWS/ADWO
   FBID: Kkkw0165
@@ -1098,7 +1108,7 @@
   Cycle: '117.90'
   Swim: '0.00'
   Walk: '7.10'
-- Rank: '111'
+- Rank: '112'
   Name: Akileis
   Group: ADW
   FBID: Akileis0163
@@ -1108,7 +1118,7 @@
   Cycle: '0.00'
   Swim: '11.00'
   Walk: '6.29'
-- Rank: '112'
+- Rank: '113'
   Name: 'Sengie '
   Group: ADW
   FBID: ARIAL0160
@@ -1118,16 +1128,6 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '21.08'
-- Rank: '113'
-  Name: Gwyn
-  Group: ADW
-  FBID: Magma1201
-  Total_Mileage: '67.76'
-  Badges: '4'
-  Run: '56.11'
-  Cycle: '46.60'
-  Swim: '0.00'
-  Walk: '8.93'
 - Rank: '114'
   Name: Manu
   Group: ABM
