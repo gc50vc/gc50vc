@@ -569,6 +569,16 @@
   Swim: '4.50'
   Walk: '6.00'
 - Rank: '58'
+  Name: 'Tay Wen Hao '
+  Group: ADW
+  FBID: Wh8295
+  Total_Mileage: '115.45'
+  Badges: '4'
+  Run: '105.97'
+  Cycle: '37.93'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '59'
   Name: Keith low
   Group: ADSS/ADWS/ADWO
   FBID: Keithlow1998
@@ -578,7 +588,7 @@
   Cycle: '422.17'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '59'
+- Rank: '60'
   Name: Weng
   Group: ADSS/ADWS/ADWO
   FBID: Weng8238
@@ -588,7 +598,7 @@
   Cycle: '257.17'
   Swim: '0.00'
   Walk: '13.86'
-- Rank: '60'
+- Rank: '61'
   Name: Tan Chee Wee
   Group: ATC
   FBID: tancw1974
@@ -598,7 +608,7 @@
   Cycle: '29.50'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '61'
+- Rank: '62'
   Name: Silver
   Group: ABM
   FBID: Silver5117
@@ -608,7 +618,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.10'
-- Rank: '62'
+- Rank: '63'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -618,7 +628,7 @@
   Cycle: '221.29'
   Swim: '5.10'
   Walk: '0.00'
-- Rank: '63'
+- Rank: '64'
   Name: TT
   Group: ABM
   FBID: jiawei1989
@@ -628,7 +638,7 @@
   Cycle: '10.83'
   Swim: '0.00'
   Walk: '1.89'
-- Rank: '64'
+- Rank: '65'
   Name: PCK
   Group: ADW
   FBID: PCK2205
@@ -638,7 +648,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '65'
+- Rank: '66'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -648,7 +658,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '66'
+- Rank: '67'
   Name: Rubiks
   Group: ABM
   FBID: Rubiks1234
@@ -658,7 +668,7 @@
   Cycle: '41.78'
   Swim: '4.10'
   Walk: '0.00'
-- Rank: '67'
+- Rank: '68'
   Name: Quainapz
   Group: ADSS/ADWS/ADWO
   FBID: Quainapz8585
@@ -668,7 +678,7 @@
   Cycle: '0.00'
   Swim: '3.10'
   Walk: '2.30'
-- Rank: '68'
+- Rank: '69'
   Name: ''
   Group: ABM
   FBID: Zena2107
@@ -678,7 +688,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '68'
+- Rank: '69'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -688,7 +698,7 @@
   Cycle: '245.00'
   Swim: '0.00'
   Walk: '2.00'
-- Rank: '70'
+- Rank: '71'
   Name: Maj Lim
   Group: ABM
   FBID: Legoz1000
@@ -698,16 +708,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '16.48'
-- Rank: '71'
-  Name: 'Tay Wen Hao '
-  Group: ADW
-  FBID: Wh8295
-  Total_Mileage: '98.97'
-  Badges: '3'
-  Run: '98.97'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '72'
   Name: Rats
   Group: ABM
