@@ -219,6 +219,16 @@
   Swim: '1.00'
   Walk: '0.00'
 - Rank: '23'
+  Name: Tommy Tham
+  Group: ADSS/ADWS/ADWO
+  FBID: Tommy1976
+  Total_Mileage: '38.96'
+  Badges: '1'
+  Run: '9.83'
+  Cycle: '32.52'
+  Swim: '3.50'
+  Walk: '0.00'
+- Rank: '24'
   Name: Philip Tan
   Group: ATC
   FBID: Philip6688
@@ -228,7 +238,7 @@
   Cycle: '140.36'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: Chan Howe
   Group: AOSX/AOS
   FBID: IceCube3008
@@ -238,7 +248,7 @@
   Cycle: '139.70'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: Prem
   Group: ADW
   FBID: Premium6687
@@ -248,7 +258,7 @@
   Cycle: '0.00'
   Swim: '5.75'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -258,7 +268,7 @@
   Cycle: '64.01'
   Swim: '3.05'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -267,16 +277,6 @@
   Run: '33.26'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '28'
-  Name: Tommy Tham
-  Group: ADSS/ADWS/ADWO
-  FBID: Tommy1976
-  Total_Mileage: '32.96'
-  Badges: '1'
-  Run: '9.83'
-  Cycle: '32.52'
-  Swim: '2.50'
   Walk: '0.00'
 - Rank: '29'
   Name: EQ
