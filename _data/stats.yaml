@@ -1059,6 +1059,16 @@
   Swim: '2.20'
   Walk: '0.00'
 - Rank: '107'
+  Name: Hector
+  Group: ADW
+  FBID: Hector0911
+  Total_Mileage: '70.44'
+  Badges: '4'
+  Run: '29.04'
+  Cycle: '0.00'
+  Swim: '6.90'
+  Walk: '4.26'
+- Rank: '108'
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
@@ -1068,7 +1078,7 @@
   Cycle: '24.16'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '108'
+- Rank: '109'
   Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
   FBID: LeonYeo2590
@@ -1078,7 +1088,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '109'
+- Rank: '110'
   Name: Akileis
   Group: ADW
   FBID: Akileis0163
@@ -1088,7 +1098,7 @@
   Cycle: '0.00'
   Swim: '11.00'
   Walk: '6.29'
-- Rank: '110'
+- Rank: '111'
   Name: 'Sengie '
   Group: ADW
   FBID: ARIAL0160
@@ -1098,7 +1108,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '21.08'
-- Rank: '111'
+- Rank: '112'
   Name: Gwyn
   Group: ADW
   FBID: Magma1201
@@ -1108,7 +1118,7 @@
   Cycle: '46.60'
   Swim: '0.00'
   Walk: '8.93'
-- Rank: '112'
+- Rank: '113'
   Name: Manu
   Group: ABM
   FBID: Manu7894
@@ -1118,7 +1128,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '113'
+- Rank: '114'
   Name: KevinKKW
   Group: ADSS/ADWS/ADWO
   FBID: Kkkw0165
@@ -1128,7 +1138,7 @@
   Cycle: '117.90'
   Swim: '0.00'
   Walk: '3.21'
-- Rank: '114'
+- Rank: '115'
   Name: Lava
   Group: ATC
   FBID: Lava1717
@@ -1138,7 +1148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '115'
+- Rank: '116'
   Name: Zinc
   Group: ADW
   FBID: zinc1997
@@ -1148,16 +1158,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '5.65'
-- Rank: '116'
-  Name: Hector
-  Group: ADW
-  FBID: Hector0911
-  Total_Mileage: '65.64'
-  Badges: '4'
-  Run: '29.04'
-  Cycle: '0.00'
-  Swim: '6.10'
-  Walk: '4.26'
 - Rank: '117'
   Name: Barter
   Group: ATC
