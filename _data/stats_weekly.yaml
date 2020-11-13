@@ -29,6 +29,16 @@
   Swim: '6.25'
   Walk: '0.00'
 - Rank: '4'
+  Name: Euj
+  Group: ATC
+  FBID: Euj1871
+  Total_Mileage: '96.32'
+  Badges: '0'
+  Run: '5.90'
+  Cycle: '4.55'
+  Swim: '14.88'
+  Walk: '12.19'
+- Rank: '5'
   Name: Ben
   Group: ADW
   FBID: BY8362
@@ -38,7 +48,7 @@
   Cycle: '158.03'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '5'
+- Rank: '6'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -48,16 +58,6 @@
   Cycle: '24.29'
   Swim: '10.00'
   Walk: '1.03'
-- Rank: '6'
-  Name: Euj
-  Group: ATC
-  FBID: Euj1871
-  Total_Mileage: '76.22'
-  Badges: '0'
-  Run: '2.00'
-  Cycle: '4.55'
-  Swim: '12.18'
-  Walk: '12.19'
 - Rank: '7'
   Name: Sloh
   Group: ADW
