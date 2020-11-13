@@ -9,6 +9,16 @@
   Swim: '99.75'
   Walk: '3.10'
 - Rank: '2'
+  Name: Lee Wen Yang
+  Group: AFE
+  FBID: LWY3942
+  Total_Mileage: '754.00'
+  Badges: '7'
+  Run: '47.51'
+  Cycle: '2825.94'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '3'
   Name: Ben
   Group: ADW
   FBID: BY8362
@@ -18,16 +28,6 @@
   Cycle: '1635.41'
   Swim: '22.35'
   Walk: '5.05'
-- Rank: '3'
-  Name: Lee Wen Yang
-  Group: AFE
-  FBID: LWY3942
-  Total_Mileage: '742.00'
-  Badges: '7'
-  Run: '47.51'
-  Cycle: '2777.94'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '4'
   Name: Hasty
   Group: ADW
@@ -89,6 +89,16 @@
   Swim: '33.17'
   Walk: '105.41'
 - Rank: '10'
+  Name: K Y Leong
+  Group: ADSS/ADWS/ADWO
+  FBID: Kyxy2808
+  Total_Mileage: '299.12'
+  Badges: '4'
+  Run: '299.12'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '11'
   Name: yapoh
   Group: ADW
   FBID: yapoh0304
@@ -98,7 +108,7 @@
   Cycle: '572.00'
   Swim: '7.10'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: Prem
   Group: ADW
   FBID: Premium6687
@@ -108,7 +118,7 @@
   Cycle: '42.58'
   Swim: '35.85'
   Walk: '1.32'
-- Rank: '12'
+- Rank: '13'
   Name: Nicholas
   Group: ADSS/ADWS/ADWO
   FBID: NN1974
@@ -118,16 +128,6 @@
   Cycle: '736.09'
   Swim: '9.50'
   Walk: '3.02'
-- Rank: '13'
-  Name: K Y Leong
-  Group: ADSS/ADWS/ADWO
-  FBID: Kyxy2808
-  Total_Mileage: '280.17'
-  Badges: '4'
-  Run: '280.17'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '14'
   Name: Nicholas Lian
   Group: ADW
