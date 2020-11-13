@@ -489,6 +489,16 @@
   Swim: '4.00'
   Walk: '0.00'
 - Rank: '50'
+  Name: Hector
+  Group: ADW
+  FBID: Hector0911
+  Total_Mileage: '23.68'
+  Badges: '0'
+  Run: '6.28'
+  Cycle: '0.00'
+  Swim: '2.90'
+  Walk: '0.00'
+- Rank: '51'
   Name: Sean Chua
   Group: ADSS/ADWS/ADWO
   FBID: Stop0001
@@ -498,7 +508,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '51'
+- Rank: '52'
   Name: JOVAN
   Group: ADW
   FBID: NIGHTOWL1303
@@ -508,7 +518,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '52'
+- Rank: '53'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -518,7 +528,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '53'
+- Rank: '54'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -528,7 +538,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '54'
+- Rank: '55'
   Name: loanshark
   Group: ATC
   FBID: loanshark9356
@@ -538,7 +548,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '55'
+- Rank: '56'
   Name: Cookie
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -548,7 +558,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '56'
+- Rank: '57'
   Name: Sen Kiat
   Group: ATC
   FBID: HSK7777
@@ -558,7 +568,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '57'
+- Rank: '58'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -568,7 +578,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '58'
+- Rank: '59'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -578,7 +588,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '59'
+- Rank: '60'
   Name: Bgtan
   Group: ADSS/ADWS/ADWO
   FBID: Kenny9889
@@ -587,16 +597,6 @@
   Run: '0.00'
   Cycle: '78.91'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '60'
-  Name: Hector
-  Group: ADW
-  FBID: Hector0911
-  Total_Mileage: '18.88'
-  Badges: '0'
-  Run: '6.28'
-  Cycle: '0.00'
-  Swim: '2.10'
   Walk: '0.00'
 - Rank: '61'
   Name: Kent Zeng
