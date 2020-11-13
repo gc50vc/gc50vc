@@ -129,6 +129,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '14'
+  Name: Slimer
+  Group: ABM
+  FBID: Slimer1234
+  Total_Mileage: '273.09'
+  Badges: '10'
+  Run: '75.52'
+  Cycle: '185.46'
+  Swim: '25.20'
+  Walk: '11.04'
+- Rank: '15'
   Name: Nicholas Lian
   Group: ADW
   FBID: Horsepower2001
@@ -138,16 +148,6 @@
   Cycle: '30.26'
   Swim: '12.30'
   Walk: '2.98'
-- Rank: '15'
-  Name: Slimer
-  Group: ABM
-  FBID: Slimer1234
-  Total_Mileage: '261.09'
-  Badges: '10'
-  Run: '75.52'
-  Cycle: '185.46'
-  Swim: '23.20'
-  Walk: '11.04'
 - Rank: '16'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
