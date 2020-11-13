@@ -49,6 +49,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '6'
+  Name: Nicholas
+  Group: ADSS/ADWS/ADWO
+  FBID: Nn1974
+  Total_Mileage: '97.50'
+  Badges: '2'
+  Run: '30.60'
+  Cycle: '243.61'
+  Swim: '1.00'
+  Walk: '0.00'
+- Rank: '7'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -58,7 +68,7 @@
   Cycle: '4.55'
   Swim: '14.88'
   Walk: '12.19'
-- Rank: '7'
+- Rank: '8'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -68,7 +78,7 @@
   Cycle: '24.29'
   Swim: '10.00'
   Walk: '1.03'
-- Rank: '8'
+- Rank: '9'
   Name: T-rex
   Group: ABM
   FBID: Trex1406
@@ -77,16 +87,6 @@
   Run: '0.00'
   Cycle: '206.93'
   Swim: '6.00'
-  Walk: '0.00'
-- Rank: '9'
-  Name: Nicholas
-  Group: ADSS/ADWS/ADWO
-  FBID: Nn1974
-  Total_Mileage: '87.00'
-  Badges: '2'
-  Run: '20.10'
-  Cycle: '243.61'
-  Swim: '1.00'
   Walk: '0.00'
 - Rank: '10'
   Name: Sloh
