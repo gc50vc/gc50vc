@@ -89,6 +89,16 @@
   Swim: '14.88'
   Walk: '16.72'
 - Rank: '10'
+  Name: Prem
+  Group: ADW
+  FBID: Premium6687
+  Total_Mileage: '95.60'
+  Badges: '0'
+  Run: '11.00'
+  Cycle: '0.00'
+  Swim: '14.10'
+  Walk: '0.00'
+- Rank: '11'
   Name: Nicholas Lian
   Group: ADW
   FBID: horsepower2001
@@ -98,7 +108,7 @@
   Cycle: '0.00'
   Swim: '4.20'
   Walk: '2.98'
-- Rank: '11'
+- Rank: '12'
   Name: T-rex
   Group: ABM
   FBID: Trex1406
@@ -108,7 +118,7 @@
   Cycle: '206.93'
   Swim: '6.00'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: LZX
   Group: ADSS/ADWS/ADWO
   FBID: leezx1337
@@ -117,16 +127,6 @@
   Run: '33.74'
   Cycle: '203.61'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '13'
-  Name: Prem
-  Group: ADW
-  FBID: Premium6687
-  Total_Mileage: '74.30'
-  Badges: '0'
-  Run: '11.00'
-  Cycle: '0.00'
-  Swim: '10.55'
   Walk: '0.00'
 - Rank: '14'
   Name: yapoh
