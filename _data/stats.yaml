@@ -1139,6 +1139,16 @@
   Swim: '1.00'
   Walk: '21.08'
 - Rank: '115'
+  Name: Sze Tein
+  Group: ATC
+  FBID: Topaz1327
+  Total_Mileage: '67.76'
+  Badges: '3'
+  Run: '67.76'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '116'
   Name: Nana
   Group: AFE
   FBID: Chris1166
@@ -1148,7 +1158,7 @@
   Cycle: '114.11'
   Swim: '2.00'
   Walk: '70.00'
-- Rank: '116'
+- Rank: '117'
   Name: Manu
   Group: ABM
   FBID: Manu7894
@@ -1158,7 +1168,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '117'
+- Rank: '118'
   Name: Lava
   Group: ATC
   FBID: Lava1717
@@ -1168,7 +1178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '118'
+- Rank: '119'
   Name: Zinc
   Group: ADW
   FBID: zinc1997
@@ -1178,7 +1188,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '5.65'
-- Rank: '119'
+- Rank: '120'
   Name: Barter
   Group: ATC
   FBID: Reload0203
@@ -1188,7 +1198,7 @@
   Cycle: '203.00'
   Swim: '1.50'
   Walk: '13.50'
-- Rank: '120'
+- Rank: '121'
   Name: Der Siang
   Group: ATC
   FBID: Aku1234
@@ -1198,7 +1208,7 @@
   Cycle: '72.93'
   Swim: '3.50'
   Walk: '0.00'
-- Rank: '121'
+- Rank: '122'
   Name: Wan Yuan
   Group: ADW
   FBID: Lost1908
@@ -1208,7 +1218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '122'
+- Rank: '123'
   Name: COVID
   Group: ADSS/ADWS/ADWO
   FBID: COVID9999
@@ -1218,7 +1228,7 @@
   Cycle: '74.61'
   Swim: '0.00'
   Walk: '21.50'
-- Rank: '123'
+- Rank: '124'
   Name: Camper
   Group: ADW
   FBID: tanht1968
@@ -1228,7 +1238,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '124'
+- Rank: '125'
   Name: Kent Zeng
   Group: ADSS/ADWS/ADWO
   FBID: Stonks69420
@@ -1238,7 +1248,7 @@
   Cycle: '75.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '125'
+- Rank: '126'
   Name: Starbucks
   Group: ABM
   FBID: Starbucks3756
@@ -1248,23 +1258,13 @@
   Cycle: '9.23'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '126'
+- Rank: '127'
   Name: Darius Ng
   Group: ADSS/ADWS/ADWO
   FBID: bobo1234
   Total_Mileage: '61.45'
   Badges: '3'
   Run: '61.45'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '127'
-  Name: Sze Tein
-  Group: ATC
-  FBID: Topaz1327
-  Total_Mileage: '61.26'
-  Badges: '3'
-  Run: '61.26'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
