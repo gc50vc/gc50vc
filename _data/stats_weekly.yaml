@@ -139,6 +139,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '15'
+  Name: Coral
+  Group: ABM
+  FBID: Coral5050
+  Total_Mileage: '72.63'
+  Badges: '0'
+  Run: '72.63'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '16'
   Name: yapoh
   Group: ADW
   FBID: Yapoh0304
@@ -147,16 +157,6 @@
   Run: '25.00'
   Cycle: '100.00'
   Swim: '2.30'
-  Walk: '0.00'
-- Rank: '16'
-  Name: Coral
-  Group: ABM
-  FBID: Coral5050
-  Total_Mileage: '61.06'
-  Badges: '0'
-  Run: '61.06'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '17'
   Name: 'Tan Swee Kiat '
