@@ -229,6 +229,16 @@
   Swim: '1.00'
   Walk: '0.00'
 - Rank: '24'
+  Name: Benson
+  Group: ADW
+  FBID: Benoi1234
+  Total_Mileage: '46.09'
+  Badges: '2'
+  Run: '25.00'
+  Cycle: '84.34'
+  Swim: '0.00'
+  Walk: '1.80'
+- Rank: '25'
   Name: Bronson
   Group: ADW
   FBID: Bronze1234
@@ -238,7 +248,7 @@
   Cycle: '0.00'
   Swim: '5.63'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -248,7 +258,7 @@
   Cycle: '24.04'
   Swim: '5.00'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: Wang0165
@@ -258,7 +268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: EQ
   Group: ADSS/ADWS/ADWO
   FBID: eequan1234
@@ -268,7 +278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '223.30'
-- Rank: '28'
+- Rank: '29'
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
@@ -278,7 +288,7 @@
   Cycle: '0.00'
   Swim: '5.51'
   Walk: '3.97'
-- Rank: '29'
+- Rank: '30'
   Name: Btee
   Group: AFE
   FBID: brian0307
@@ -288,7 +298,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '31'
   Name: Philip Tan
   Group: ATC
   FBID: Philip6688
@@ -298,7 +308,7 @@
   Cycle: '140.36'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '32'
   Name: Chan Howe
   Group: AOSX/AOS
   FBID: IceCube3008
@@ -308,7 +318,7 @@
   Cycle: '139.70'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '33'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -318,7 +328,7 @@
   Cycle: '64.01'
   Swim: '3.05'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '34'
   Name: Nana
   Group: AFE
   FBID: Chris1166
@@ -328,7 +338,7 @@
   Cycle: '114.11'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '34'
+- Rank: '35'
   Name: jheng
   Group: ADSS/ADWS/ADWO
   FBID: jheng0000
@@ -338,7 +348,7 @@
   Cycle: '29.98'
   Swim: '3.10'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -348,7 +358,7 @@
   Cycle: '100.20'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '36'
+- Rank: '37'
   Name: Sen Kiat
   Group: ATC
   FBID: HSK7777
@@ -358,7 +368,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '38'
+- Rank: '39'
   Name: ''
   Group: ADSS/ADWS/ADWO
   FBID: ZhengXiR0160
@@ -368,7 +378,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '37'
+- Rank: '38'
   Name: ''
   Group: ADSS/ADWS/ADWO
   FBID: IamslowturtlefromR0160
@@ -378,16 +388,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '39'
-  Name: Benson
-  Group: ADW
-  FBID: Benoi1234
-  Total_Mileage: '31.09'
-  Badges: '2'
-  Run: '10.00'
-  Cycle: '84.34'
-  Swim: '0.00'
-  Walk: '1.80'
 - Rank: '40'
   Name: Liwei
   Group: ADW
