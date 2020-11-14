@@ -97,7 +97,7 @@
   Run: '87.89'
   Cycle: '133.89'
   Swim: '35.87'
-  Walk: '105.41'
+  Walk: '109.94'
 - Rank: '11'
   Name: Prem
   Group: ADW
@@ -1429,6 +1429,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '144'
+  Name: Pixel EQ
+  Group: AOSX/AOS
+  FBID: Pixel0323
+  Total_Mileage: '54.22'
+  Badges: '3'
+  Run: '52.43'
+  Cycle: '7.17'
+  Swim: '0.00'
+  Walk: '5.77'
+- Rank: '145'
   Name: Eric
   Group: AOSX/AOS
   FBID: RelacRunner0011
@@ -1438,7 +1448,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '145'
+- Rank: '146'
   Name: 3sg Charlie
   Group: ADSS/ADWS/ADWO
   FBID: Charlie2539
@@ -1448,7 +1458,7 @@
   Cycle: '0.00'
   Swim: '2.45'
   Walk: '0.00'
-- Rank: '146'
+- Rank: '147'
   Name: jAmEs h.
   Group: ADSS/ADWS/ADWO
   FBID: jAmEsh0007
@@ -1458,7 +1468,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '147'
+- Rank: '148'
   Name: Jing Wee
   Group: ADSS/ADWS/ADWO
   FBID: Pork2070
@@ -1468,7 +1478,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '148'
+- Rank: '149'
   Name: Rambo
   Group: AOSX/AOS
   FBID: Rambo0113
@@ -1478,7 +1488,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '149'
+- Rank: '150'
   Name: Ram
   Group: ADW
   FBID: ram7267
@@ -1488,7 +1498,7 @@
   Cycle: '0.00'
   Swim: '4.30'
   Walk: '0.00'
-- Rank: '150'
+- Rank: '151'
   Name: francisyap
   Group: AFE
   FBID: francis7373
@@ -1498,7 +1508,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '151'
+- Rank: '152'
   Name: Kelvis
   Group: ADSS/ADWS/ADWO
   FBID: Kelvis2000
@@ -1508,7 +1518,7 @@
   Cycle: '40.73'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '152'
+- Rank: '153'
   Name: Diva
   Group: ADW
   FBID: Delia1234
@@ -1518,16 +1528,6 @@
   Cycle: '84.21'
   Swim: '0.00'
   Walk: '28.59'
-- Rank: '153'
-  Name: Pixel EQ
-  Group: AOSX/AOS
-  FBID: Pixel0323
-  Total_Mileage: '50.87'
-  Badges: '3'
-  Run: '49.08'
-  Cycle: '7.17'
-  Swim: '0.00'
-  Walk: '5.77'
 - Rank: '154'
   Name: Matrix
   Group: ABM
