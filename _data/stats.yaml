@@ -1069,6 +1069,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '108'
+  Name: Zinc
+  Group: ADW
+  FBID: zinc1997
+  Total_Mileage: '70.81'
+  Badges: '3'
+  Run: '70.81'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '5.65'
+- Rank: '109'
   Name: Yeow Teck
   Group: AOSX/AOS
   FBID: Youtube6116
@@ -1078,7 +1088,7 @@
   Cycle: '0.00'
   Swim: '2.20'
   Walk: '0.00'
-- Rank: '109'
+- Rank: '110'
   Name: Hector
   Group: ADW
   FBID: Hector0911
@@ -1088,7 +1098,7 @@
   Cycle: '0.00'
   Swim: '6.90'
   Walk: '4.26'
-- Rank: '110'
+- Rank: '111'
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
@@ -1098,7 +1108,7 @@
   Cycle: '24.16'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '111'
+- Rank: '112'
   Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
   FBID: LeonYeo2590
@@ -1108,7 +1118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '112'
+- Rank: '113'
   Name: KevinKKW
   Group: ADSS/ADWS/ADWO
   FBID: Kkkw0165
@@ -1118,7 +1128,7 @@
   Cycle: '117.90'
   Swim: '0.00'
   Walk: '7.10'
-- Rank: '113'
+- Rank: '114'
   Name: Akileis
   Group: ADW
   FBID: Akileis0163
@@ -1128,7 +1138,7 @@
   Cycle: '0.00'
   Swim: '11.00'
   Walk: '6.29'
-- Rank: '114'
+- Rank: '115'
   Name: 'Sengie '
   Group: ADW
   FBID: ARIAL0160
@@ -1138,7 +1148,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '21.08'
-- Rank: '115'
+- Rank: '116'
   Name: Sze Tein
   Group: ATC
   FBID: Topaz1327
@@ -1148,7 +1158,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '116'
+- Rank: '117'
   Name: Nana
   Group: AFE
   FBID: Chris1166
@@ -1158,7 +1168,7 @@
   Cycle: '114.11'
   Swim: '2.00'
   Walk: '70.00'
-- Rank: '117'
+- Rank: '118'
   Name: Manu
   Group: ABM
   FBID: Manu7894
@@ -1168,7 +1178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '118'
+- Rank: '119'
   Name: Lava
   Group: ATC
   FBID: Lava1717
@@ -1178,16 +1188,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '119'
-  Name: Zinc
-  Group: ADW
-  FBID: zinc1997
-  Total_Mileage: '65.79'
-  Badges: '3'
-  Run: '65.79'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '5.65'
 - Rank: '120'
   Name: Barter
   Group: ATC
