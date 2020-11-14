@@ -1209,6 +1209,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '122'
+  Name: Sunray
+  Group: ABM
+  FBID: Sunray0909
+  Total_Mileage: '65.06'
+  Badges: '4'
+  Run: '20.10'
+  Cycle: '179.85'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '123'
   Name: Barter
   Group: ATC
   FBID: Reload0203
@@ -1218,7 +1228,7 @@
   Cycle: '203.00'
   Swim: '1.50'
   Walk: '13.50'
-- Rank: '123'
+- Rank: '124'
   Name: Der Siang
   Group: ATC
   FBID: Aku1234
@@ -1228,7 +1238,7 @@
   Cycle: '72.93'
   Swim: '3.50'
   Walk: '0.00'
-- Rank: '124'
+- Rank: '125'
   Name: Wan Yuan
   Group: ADW
   FBID: Lost1908
@@ -1238,7 +1248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '125'
+- Rank: '126'
   Name: COVID
   Group: ADSS/ADWS/ADWO
   FBID: COVID9999
@@ -1248,7 +1258,7 @@
   Cycle: '74.61'
   Swim: '0.00'
   Walk: '21.50'
-- Rank: '126'
+- Rank: '127'
   Name: Camper
   Group: ADW
   FBID: tanht1968
@@ -1258,7 +1268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '127'
+- Rank: '128'
   Name: Kent Zeng
   Group: ADSS/ADWS/ADWO
   FBID: Stonks69420
@@ -1268,7 +1278,7 @@
   Cycle: '75.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '128'
+- Rank: '129'
   Name: Darius Ng
   Group: ADSS/ADWS/ADWO
   FBID: bobo1234
@@ -1278,7 +1288,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '129'
+- Rank: '130'
   Name: Fu Hao Wei
   Group: ADW
   FBID: fuhaowei8435
@@ -1286,16 +1296,6 @@
   Badges: '4'
   Run: '7.76'
   Cycle: '212.22'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '130'
-  Name: Sunray
-  Group: ABM
-  FBID: Sunray0909
-  Total_Mileage: '60.73'
-  Badges: '4'
-  Run: '20.10'
-  Cycle: '162.50'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '131'
