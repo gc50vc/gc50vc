@@ -19,6 +19,16 @@
   Swim: '27.25'
   Walk: '0.00'
 - Rank: '3'
+  Name: Ben
+  Group: ADW
+  FBID: BY8362
+  Total_Mileage: '140.49'
+  Badges: '0'
+  Run: '79.98'
+  Cycle: '242.03'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '4'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -27,16 +37,6 @@
   Run: '20.00'
   Cycle: '262.18'
   Swim: '8.80'
-  Walk: '0.00'
-- Rank: '4'
-  Name: Ben
-  Group: ADW
-  FBID: BY8362
-  Total_Mileage: '115.48'
-  Badges: '0'
-  Run: '63.97'
-  Cycle: '206.03'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '5'
   Name: Sloh
