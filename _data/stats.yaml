@@ -269,6 +269,16 @@
   Swim: '4.00'
   Walk: '12.33'
 - Rank: '28'
+  Name: Daniel Tay
+  Group: AOSX/AOS
+  FBID: Corrupt2705
+  Total_Mileage: '191.20'
+  Badges: '6'
+  Run: '78.40'
+  Cycle: '0.00'
+  Swim: '18.80'
+  Walk: '0.00'
+- Rank: '29'
   Name: aH-MuNs-Ge
   Group: AFE
   FBID: ahmuns9861
@@ -278,7 +288,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '79.15'
-- Rank: '29'
+- Rank: '30'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -288,7 +298,7 @@
   Cycle: '357.20'
   Swim: '6.40'
   Walk: '14.39'
-- Rank: '30'
+- Rank: '31'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -297,16 +307,6 @@
   Run: '159.34'
   Cycle: '25.04'
   Swim: '3.85'
-  Walk: '0.00'
-- Rank: '31'
-  Name: Daniel Tay
-  Group: AOSX/AOS
-  FBID: Corrupt2705
-  Total_Mileage: '183.98'
-  Badges: '6'
-  Run: '71.18'
-  Cycle: '0.00'
-  Swim: '18.80'
   Walk: '0.00'
 - Rank: '32'
   Name: David Xu
@@ -639,6 +639,16 @@
   Swim: '0.00'
   Walk: '11.10'
 - Rank: '65'
+  Name: TT
+  Group: ABM
+  FBID: jiawei1989
+  Total_Mileage: '110.85'
+  Badges: '4'
+  Run: '108.14'
+  Cycle: '10.83'
+  Swim: '0.00'
+  Walk: '1.89'
+- Rank: '66'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -648,7 +658,7 @@
   Cycle: '221.29'
   Swim: '5.10'
   Walk: '0.00'
-- Rank: '66'
+- Rank: '67'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -658,7 +668,7 @@
   Cycle: '18.27'
   Swim: '0.00'
   Walk: '3.42'
-- Rank: '67'
+- Rank: '68'
   Name: ''
   Group: ABM
   FBID: Zena2107
@@ -668,7 +678,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '68'
+- Rank: '69'
   Name: Sen Kiat
   Group: ATC
   FBID: HSK7777
@@ -678,16 +688,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '69'
-  Name: TT
-  Group: ABM
-  FBID: jiawei1989
-  Total_Mileage: '105.05'
-  Badges: '4'
-  Run: '102.34'
-  Cycle: '10.83'
-  Swim: '0.00'
-  Walk: '1.89'
 - Rank: '70'
   Name: AP
   Group: ADW
