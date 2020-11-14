@@ -319,6 +319,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '33'
+  Name: Jade
+  Group: ABM
+  FBID: Jade9669
+  Total_Mileage: '178.57'
+  Badges: '10'
+  Run: '42.50'
+  Cycle: '384.66'
+  Swim: '6.65'
+  Walk: '0.00'
+- Rank: '34'
   Name: jheng
   Group: ADSS/ADWS/ADWO
   FBID: jheng0000
@@ -328,7 +338,7 @@
   Cycle: '107.25'
   Swim: '16.37'
   Walk: '0.00'
-- Rank: '34'
+- Rank: '35'
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
@@ -338,7 +348,7 @@
   Cycle: '0.00'
   Swim: '11.49'
   Walk: '7.97'
-- Rank: '35'
+- Rank: '36'
   Name: 'TiGeR3 '
   Group: ADSS/ADWS/ADWO
   FBID: TiGeR2876
@@ -347,16 +357,6 @@
   Run: '169.66'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '36'
-  Name: Jade
-  Group: ABM
-  FBID: Jade9669
-  Total_Mileage: '165.20'
-  Badges: '10'
-  Run: '42.50'
-  Cycle: '331.19'
-  Swim: '6.65'
   Walk: '0.00'
 - Rank: '37'
   Name: Ah Bing
