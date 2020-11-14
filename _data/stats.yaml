@@ -649,6 +649,16 @@
   Swim: '5.10'
   Walk: '0.00'
 - Rank: '66'
+  Name: Steyr
+  Group: ABM
+  FBID: Steyr9693
+  Total_Mileage: '107.16'
+  Badges: '4'
+  Run: '102.59'
+  Cycle: '18.27'
+  Swim: '0.00'
+  Walk: '3.42'
+- Rank: '67'
   Name: Sen Kiat
   Group: ATC
   FBID: HSK7777
@@ -658,7 +668,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '67'
+- Rank: '68'
   Name: TT
   Group: ABM
   FBID: jiawei1989
@@ -668,7 +678,7 @@
   Cycle: '10.83'
   Swim: '0.00'
   Walk: '1.89'
-- Rank: '68'
+- Rank: '69'
   Name: PCK
   Group: ADW
   FBID: PCK2205
@@ -678,7 +688,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '69'
+- Rank: '70'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -688,7 +698,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '70'
+- Rank: '71'
   Name: Rubiks
   Group: ABM
   FBID: Rubiks1234
@@ -698,7 +708,7 @@
   Cycle: '41.78'
   Swim: '4.10'
   Walk: '0.00'
-- Rank: '71'
+- Rank: '72'
   Name: Quainapz
   Group: ADSS/ADWS/ADWO
   FBID: Quainapz8585
@@ -708,7 +718,7 @@
   Cycle: '0.00'
   Swim: '3.10'
   Walk: '2.30'
-- Rank: '72'
+- Rank: '73'
   Name: ''
   Group: ABM
   FBID: Zena2107
@@ -718,7 +728,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '72'
+- Rank: '73'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -728,7 +738,7 @@
   Cycle: '245.00'
   Swim: '0.00'
   Walk: '2.00'
-- Rank: '74'
+- Rank: '75'
   Name: Maj Lim
   Group: ABM
   FBID: Legoz1000
@@ -738,7 +748,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '16.48'
-- Rank: '75'
+- Rank: '76'
   Name: Steroid
   Group: ATC
   FBID: Steroid1007
@@ -748,7 +758,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '76'
+- Rank: '77'
   Name: Rats
   Group: ABM
   FBID: Rats1500
@@ -758,16 +768,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '77'
-  Name: Steyr
-  Group: ABM
-  FBID: Steyr9693
-  Total_Mileage: '98.00'
-  Badges: '3'
-  Run: '93.43'
-  Cycle: '18.27'
-  Swim: '0.00'
-  Walk: '3.42'
 - Rank: '78'
   Name: Ying Tat
   Group: ADW
