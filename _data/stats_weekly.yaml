@@ -279,6 +279,16 @@
   Swim: '0.00'
   Walk: '1.80'
 - Rank: '29'
+  Name: AngmoATB
+  Group: ADW
+  FBID: Angmo1984
+  Total_Mileage: '44.85'
+  Badges: '2'
+  Run: '11.79'
+  Cycle: '0.00'
+  Swim: '5.51'
+  Walk: '3.97'
+- Rank: '30'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -288,7 +298,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.45'
-- Rank: '30'
+- Rank: '31'
   Name: Bronson
   Group: ADW
   FBID: Bronze1234
@@ -298,7 +308,7 @@
   Cycle: '0.00'
   Swim: '5.63'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '32'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: Wang0165
@@ -308,7 +318,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '33'
   Name: EQ
   Group: ADSS/ADWS/ADWO
   FBID: eequan1234
@@ -318,16 +328,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '223.30'
-- Rank: '33'
-  Name: AngmoATB
-  Group: ADW
-  FBID: Angmo1984
-  Total_Mileage: '40.99'
-  Badges: '2'
-  Run: '7.93'
-  Cycle: '0.00'
-  Swim: '5.51'
-  Walk: '3.97'
 - Rank: '34'
   Name: Btee
   Group: AFE
@@ -939,6 +939,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '95'
+  Name: Kelvis
+  Group: ADSS/ADWS/ADWO
+  FBID: Kelvis2000
+  Total_Mileage: '16.59'
+  Badges: '0'
+  Run: '16.59'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '96'
   Name: Boon Peng
   Group: ADSS/ADWS/ADWO
   FBID: Bpeng1129
@@ -948,7 +958,7 @@
   Cycle: '2.10'
   Swim: '2.00'
   Walk: '2.45'
-- Rank: '96'
+- Rank: '97'
   Name: 'Tay Wen Hao '
   Group: ADW
   FBID: Wh8295
@@ -958,7 +968,7 @@
   Cycle: '37.93'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '97'
+- Rank: '98'
   Name: Yuhang
   Group: AOSX/AOS
   FBID: YH1234
@@ -968,7 +978,7 @@
   Cycle: '65.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '98'
+- Rank: '99'
   Name: Shawn Chia
   Group: ADW
   FBID: SCWE9595
@@ -978,7 +988,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '99'
+- Rank: '100'
   Name: Lightyear
   Group: ADW
   FBID: Lightyear2020
@@ -988,7 +998,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '100'
+- Rank: '101'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -998,7 +1008,7 @@
   Cycle: '60.61'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '101'
+- Rank: '102'
   Name: TT
   Group: ABM
   FBID: jiawei1989
@@ -1008,7 +1018,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '102'
+- Rank: '103'
   Name: Zhi Hao
   Group: ADSS/ADWS/ADWO
   FBID: ZhiHao_R0160
@@ -1018,7 +1028,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '103'
+- Rank: '104'
   Name: J L
   Group: ADSS/ADWS/ADWO
   FBID: syke8890
@@ -1028,7 +1038,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '104'
+- Rank: '105'
   Name: Der Siang
   Group: ATC
   FBID: Aku1234
@@ -1038,7 +1048,7 @@
   Cycle: '30.93'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '105'
+- Rank: '106'
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
@@ -1048,7 +1058,7 @@
   Cycle: '16.12'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '106'
+- Rank: '107'
   Name: bray
   Group: ADSS/ADWS/ADWO
   FBID: BRAY0000
@@ -1058,7 +1068,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '107'
+- Rank: '108'
   Name: junhui
   Group: ADW
   FBID: junhui2301
@@ -1068,7 +1078,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '108'
+- Rank: '109'
   Name: Joe Ng
   Group: AOSX/AOS
   FBID: Wiki5279
@@ -1078,7 +1088,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '109'
+- Rank: '110'
   Name: Poh Liong Wui
   Group: AFE
   FBID: Pohlw7878
@@ -1088,7 +1098,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '22.80'
-- Rank: '110'
+- Rank: '111'
   Name: KW
   Group: ADW
   FBID: ccey9191
@@ -1098,7 +1108,7 @@
   Cycle: '55.54'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '111'
+- Rank: '112'
   Name: Chan Wei Siang
   Group: AFE
   FBID: ws1234
@@ -1108,7 +1118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '112'
+- Rank: '113'
   Name: 'Russh '
   Group: ADSS/ADWS/ADWO
   FBID: Rhor1234
@@ -1116,16 +1126,6 @@
   Badges: '2'
   Run: '5.51'
   Cycle: '31.66'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '113'
-  Name: Kelvis
-  Group: ADSS/ADWS/ADWO
-  FBID: Kelvis2000
-  Total_Mileage: '13.08'
-  Badges: '0'
-  Run: '13.08'
-  Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '114'
