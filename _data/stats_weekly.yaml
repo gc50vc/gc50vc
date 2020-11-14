@@ -49,6 +49,16 @@
   Swim: '3.40'
   Walk: '0.00'
 - Rank: '6'
+  Name: Nicholas
+  Group: ADSS/ADWS/ADWO
+  FBID: Nn1974
+  Total_Mileage: '109.50'
+  Badges: '2'
+  Run: '30.60'
+  Cycle: '243.61'
+  Swim: '3.00'
+  Walk: '0.00'
+- Rank: '7'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -58,7 +68,7 @@
   Cycle: '48.33'
   Swim: '11.50'
   Walk: '1.03'
-- Rank: '7'
+- Rank: '8'
   Name: ''
   Group: ABM
   FBID: Zena2107
@@ -67,16 +77,6 @@
   Run: '101.00'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '8'
-  Name: Nicholas
-  Group: ADSS/ADWS/ADWO
-  FBID: Nn1974
-  Total_Mileage: '97.50'
-  Badges: '2'
-  Run: '30.60'
-  Cycle: '243.61'
-  Swim: '1.00'
   Walk: '0.00'
 - Rank: '9'
   Name: Euj
@@ -467,7 +467,7 @@
   Run: '17.94'
   Cycle: '0.00'
   Swim: '2.00'
-  Walk: '0.00'
+  Walk: '12.33'
 - Rank: '48'
   Name: Slong
   Group: ADW
