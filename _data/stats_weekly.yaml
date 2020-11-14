@@ -689,6 +689,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '70'
+  Name: AP
+  Group: ADW
+  FBID: APHRMC0207
+  Total_Mileage: '22.20'
+  Badges: '1'
+  Run: '0.00'
+  Cycle: '0.00'
+  Swim: '3.70'
+  Walk: '0.00'
+- Rank: '71'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -698,7 +708,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '71'
+- Rank: '72'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -708,7 +718,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '72'
+- Rank: '73'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -718,7 +728,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '73'
+- Rank: '74'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -728,7 +738,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '74'
+- Rank: '75'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2104
@@ -738,7 +748,7 @@
   Cycle: '37.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '75'
+- Rank: '76'
   Name: Bgtan
   Group: ADSS/ADWS/ADWO
   FBID: Kenny9889
@@ -748,7 +758,7 @@
   Cycle: '78.91'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '76'
+- Rank: '77'
   Name: Geeky
   Group: ADW
   FBID: Geeky1989
@@ -758,7 +768,7 @@
   Cycle: '0.00'
   Swim: '1.30'
   Walk: '3.66'
-- Rank: '77'
+- Rank: '78'
   Name: Kent Zeng
   Group: ADSS/ADWS/ADWO
   FBID: Stonks69420
@@ -768,7 +778,7 @@
   Cycle: '75.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '78'
+- Rank: '79'
   Name: GN
   Group: ADSS/ADWS/ADWO
   FBID: GN8282
@@ -778,7 +788,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '79'
+- Rank: '80'
   Name: Sze Tein
   Group: ATC
   FBID: Topaz1327
@@ -788,7 +798,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '80'
+- Rank: '81'
   Name: Lim Kian Hock
   Group: AFE
   FBID: Jon3445
@@ -798,7 +808,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '81'
+- Rank: '82'
   Name: Keith low
   Group: ADSS/ADWS/ADWO
   FBID: Keithlow1998
@@ -807,16 +817,6 @@
   Run: '0.00'
   Cycle: '72.02'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '82'
-  Name: AP
-  Group: ADW
-  FBID: APHRMC0207
-  Total_Mileage: '18.00'
-  Badges: '1'
-  Run: '0.00'
-  Cycle: '0.00'
-  Swim: '3.00'
   Walk: '0.00'
 - Rank: '83'
   Name: Jeremy Tan
