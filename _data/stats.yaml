@@ -249,6 +249,16 @@
   Swim: '2.26'
   Walk: '0.00'
 - Rank: '26'
+  Name: Marcus
+  Group: ADSS/ADWS/ADWO
+  FBID: Mtwk1998
+  Total_Mileage: '197.60'
+  Badges: '9'
+  Run: '65.00'
+  Cycle: '170.38'
+  Swim: '15.00'
+  Walk: '11.07'
+- Rank: '27'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -258,7 +268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -268,7 +278,7 @@
   Cycle: '479.54'
   Swim: '4.00'
   Walk: '12.33'
-- Rank: '28'
+- Rank: '29'
   Name: Daniel Tay
   Group: AOSX/AOS
   FBID: Corrupt2705
@@ -278,7 +288,7 @@
   Cycle: '0.00'
   Swim: '18.80'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: aH-MuNs-Ge
   Group: AFE
   FBID: ahmuns9861
@@ -288,7 +298,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '79.15'
-- Rank: '30'
+- Rank: '31'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -298,7 +308,7 @@
   Cycle: '357.20'
   Swim: '6.40'
   Walk: '14.39'
-- Rank: '31'
+- Rank: '32'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -308,7 +318,7 @@
   Cycle: '25.04'
   Swim: '3.85'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '33'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -318,7 +328,7 @@
   Cycle: '699.67'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '34'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -328,16 +338,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '34'
-  Name: Marcus
-  Group: ADSS/ADWS/ADWO
-  FBID: Mtwk1998
-  Total_Mileage: '179.26'
-  Badges: '8'
-  Run: '65.00'
-  Cycle: '97.04'
-  Swim: '15.00'
-  Walk: '11.07'
 - Rank: '35'
   Name: Jade
   Group: ABM
