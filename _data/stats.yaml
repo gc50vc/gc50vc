@@ -429,6 +429,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '44'
+  Name: Cookie
+  Group: ATC
+  FBID: Cookie3rdWSO1975
+  Total_Mileage: '152.95'
+  Badges: '5'
+  Run: '133.45'
+  Cycle: '78.01'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '45'
   Name: Btee
   Group: AFE
   FBID: Brian0307
@@ -438,7 +448,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '45'
+- Rank: '46'
   Name: Benson
   Group: ADW
   FBID: benoi1234
@@ -448,16 +458,6 @@
   Cycle: '95.28'
   Swim: '0.00'
   Walk: '1.80'
-- Rank: '46'
-  Name: Cookie
-  Group: ATC
-  FBID: Cookie3rdWSO1975
-  Total_Mileage: '141.85'
-  Badges: '5'
-  Run: '122.35'
-  Cycle: '78.01'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '47'
   Name: Hanyong
   Group: ADW
