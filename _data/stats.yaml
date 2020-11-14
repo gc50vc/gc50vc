@@ -49,6 +49,16 @@
   Swim: '27.70'
   Walk: '0.00'
 - Rank: '6'
+  Name: LZX
+  Group: ADSS/ADWS/ADWO
+  FBID: leezx1337
+  Total_Mileage: '498.87'
+  Badges: '8'
+  Run: '161.46'
+  Cycle: '1349.63'
+  Swim: '0.00'
+  Walk: '2.18'
+- Rank: '7'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -58,16 +68,6 @@
   Cycle: '1015.86'
   Swim: '12.10'
   Walk: '0.00'
-- Rank: '7'
-  Name: LZX
-  Group: ADSS/ADWS/ADWO
-  FBID: leezx1337
-  Total_Mileage: '465.77'
-  Badges: '7'
-  Run: '161.46'
-  Cycle: '1217.23'
-  Swim: '0.00'
-  Walk: '2.18'
 - Rank: '8'
   Name: Ektar
   Group: ABM
@@ -939,6 +939,16 @@
   Swim: '0.80'
   Walk: '4.02'
 - Rank: '95'
+  Name: Weaver
+  Group: ADW
+  FBID: Weaver5275
+  Total_Mileage: '85.87'
+  Badges: '3'
+  Run: '85.87'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '96'
   Name: Chan Howe
   Group: AOSX/AOS
   FBID: IceCube3008
@@ -948,7 +958,7 @@
   Cycle: '341.74'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '96'
+- Rank: '97'
   Name: Legend
   Group: ADW
   FBID: Legend2512
@@ -958,7 +968,7 @@
   Cycle: '191.27'
   Swim: '0.00'
   Walk: '13.11'
-- Rank: '97'
+- Rank: '98'
   Name: Iggy
   Group: ADSS/ADWS/ADWO
   FBID: Iggy7900
@@ -968,7 +978,7 @@
   Cycle: '199.76'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '98'
+- Rank: '99'
   Name: Warren Chua
   Group: ADSS/ADWS/ADWO
   FBID: Warren9588
@@ -978,7 +988,7 @@
   Cycle: '290.46'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '99'
+- Rank: '100'
   Name: 'Windy '
   Group: ABM
   FBID: Windy4444
@@ -988,7 +998,7 @@
   Cycle: '0.00'
   Swim: '13.60'
   Walk: '0.00'
-- Rank: '100'
+- Rank: '101'
   Name: Jenny
   Group: AFE
   FBID: Jenny7373
@@ -998,16 +1008,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '74.27'
-- Rank: '101'
-  Name: Weaver
-  Group: ADW
-  FBID: Weaver5275
-  Total_Mileage: '81.12'
-  Badges: '3'
-  Run: '81.12'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '102'
   Name: OLAF
   Group: ADW
