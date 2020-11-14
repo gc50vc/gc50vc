@@ -169,6 +169,16 @@
   Swim: '2.58'
   Walk: '1.00'
 - Rank: '18'
+  Name: HC
+  Group: ADSS/ADWS/ADWO
+  FBID: hc1234
+  Total_Mileage: '230.50'
+  Badges: '5'
+  Run: '11.73'
+  Cycle: '875.07'
+  Swim: '0.00'
+  Walk: '2.19'
+- Rank: '19'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -178,7 +188,7 @@
   Cycle: '40.64'
   Swim: '11.45'
   Walk: '0.00'
-- Rank: '19'
+- Rank: '20'
   Name: Tony Foo
   Group: ADW
   FBID: tonyfoo0165
@@ -188,7 +198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '21'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -198,7 +208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.68'
-- Rank: '21'
+- Rank: '22'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -208,7 +218,7 @@
   Cycle: '537.00'
   Swim: '3.10'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: Coral
   Group: ABM
   FBID: Coral5050
@@ -218,16 +228,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '9.48'
-- Rank: '23'
-  Name: HC
-  Group: ADSS/ADWS/ADWO
-  FBID: hc1234
-  Total_Mileage: '205.37'
-  Badges: '5'
-  Run: '11.73'
-  Cycle: '774.54'
-  Swim: '0.00'
-  Walk: '2.19'
 - Rank: '24'
   Name: Bronson
   Group: ADW
