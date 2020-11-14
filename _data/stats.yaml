@@ -89,6 +89,16 @@
   Swim: '12.50'
   Walk: '3.02'
 - Rank: '10'
+  Name: Prem
+  Group: ADW
+  FBID: Premium6687
+  Total_Mileage: '348.26'
+  Badges: '7'
+  Run: '72.41'
+  Cycle: '42.58'
+  Swim: '44.20'
+  Walk: '1.32'
+- Rank: '11'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -98,16 +108,6 @@
   Cycle: '143.89'
   Swim: '35.87'
   Walk: '109.94'
-- Rank: '11'
-  Name: Prem
-  Group: ADW
-  FBID: Premium6687
-  Total_Mileage: '326.96'
-  Badges: '7'
-  Run: '72.41'
-  Cycle: '42.58'
-  Swim: '40.65'
-  Walk: '1.32'
 - Rank: '12'
   Name: yapoh
   Group: ADW
