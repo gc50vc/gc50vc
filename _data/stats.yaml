@@ -142,10 +142,10 @@
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
-  Total_Mileage: '273.09'
-  Badges: '10'
+  Total_Mileage: '279.10'
+  Badges: '11'
   Run: '75.52'
-  Cycle: '185.46'
+  Cycle: '209.50'
   Swim: '25.20'
   Walk: '11.04'
 - Rank: '16'
@@ -799,6 +799,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '81'
+  Name: RainmanCYK
+  Group: ADW
+  FBID: Rainman0000
+  Total_Mileage: '96.00'
+  Badges: '5'
+  Run: '9.00'
+  Cycle: '0.00'
+  Swim: '14.50'
+  Walk: '0.00'
+- Rank: '82'
   Name: Poon
   Group: ADSS/ADWS/ADWO
   FBID: Poon3636
@@ -808,7 +818,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '82'
+- Rank: '83'
   Name: loanshark
   Group: ATC
   FBID: loanshark9356
@@ -818,7 +828,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '83'
+- Rank: '84'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -828,7 +838,7 @@
   Cycle: '91.76'
   Swim: '7.00'
   Walk: '0.00'
-- Rank: '84'
+- Rank: '85'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: Errick1991
@@ -838,7 +848,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '85'
+- Rank: '86'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -848,7 +858,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '86'
+- Rank: '87'
   Name: QUENCHER
   Group: ABM
   FBID: quencher2020
@@ -858,7 +868,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '87'
+- Rank: '88'
   Name: Geeky
   Group: ADW
   FBID: Geeky1989
@@ -868,7 +878,7 @@
   Cycle: '0.00'
   Swim: '6.10'
   Walk: '32.34'
-- Rank: '88'
+- Rank: '89'
   Name: Malcolm Taong
   Group: ADSS/ADWS/ADWO
   FBID: TAONG8070
@@ -878,7 +888,7 @@
   Cycle: '267.29'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '89'
+- Rank: '90'
   Name: ARROW
   Group: ADW
   FBID: Tee1980
@@ -888,7 +898,7 @@
   Cycle: '77.42'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '90'
+- Rank: '91'
   Name: Rocky
   Group: AOSX/AOS
   FBID: ZeRo7113
@@ -898,16 +908,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '57.30'
-- Rank: '91'
-  Name: RainmanCYK
-  Group: ADW
-  FBID: Rainman0000
-  Total_Mileage: '87.00'
-  Badges: '5'
-  Run: '9.00'
-  Cycle: '0.00'
-  Swim: '13.00'
-  Walk: '0.00'
 - Rank: '92'
   Name: Jeremy Tan
   Group: ATC
