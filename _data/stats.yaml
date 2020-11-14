@@ -679,6 +679,16 @@
   Swim: '0.00'
   Walk: '1.89'
 - Rank: '69'
+  Name: AP
+  Group: ADW
+  FBID: APHRMC0207
+  Total_Mileage: '104.49'
+  Badges: '7'
+  Run: '35.35'
+  Cycle: '91.76'
+  Swim: '7.70'
+  Walk: '0.00'
+- Rank: '70'
   Name: PCK
   Group: ADW
   FBID: PCK2205
@@ -688,7 +698,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '70'
+- Rank: '71'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -698,7 +708,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '71'
+- Rank: '72'
   Name: Rubiks
   Group: ABM
   FBID: Rubiks1234
@@ -708,7 +718,7 @@
   Cycle: '41.78'
   Swim: '4.10'
   Walk: '0.00'
-- Rank: '72'
+- Rank: '73'
   Name: Quainapz
   Group: ADSS/ADWS/ADWO
   FBID: Quainapz8585
@@ -718,7 +728,7 @@
   Cycle: '0.00'
   Swim: '3.10'
   Walk: '2.30'
-- Rank: '73'
+- Rank: '74'
   Name: ''
   Group: ABM
   FBID: Zena2107
@@ -728,7 +738,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '73'
+- Rank: '74'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -738,7 +748,7 @@
   Cycle: '245.00'
   Swim: '0.00'
   Walk: '2.00'
-- Rank: '75'
+- Rank: '76'
   Name: Maj Lim
   Group: ABM
   FBID: Legoz1000
@@ -748,7 +758,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '16.48'
-- Rank: '76'
+- Rank: '77'
   Name: Steroid
   Group: ATC
   FBID: Steroid1007
@@ -758,7 +768,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '77'
+- Rank: '78'
   Name: Rats
   Group: ABM
   FBID: Rats1500
@@ -768,7 +778,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '78'
+- Rank: '79'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -778,7 +788,7 @@
   Cycle: '45.78'
   Swim: '3.50'
   Walk: '1.63'
-- Rank: '79'
+- Rank: '80'
   Name: Sean Chua
   Group: ADSS/ADWS/ADWO
   FBID: Stop0001
@@ -788,7 +798,7 @@
   Cycle: '58.61'
   Swim: '0.00'
   Walk: '1.04'
-- Rank: '80'
+- Rank: '81'
   Name: Lightyear
   Group: ADW
   FBID: Lightyear2020
@@ -798,7 +808,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '81'
+- Rank: '82'
   Name: RainmanCYK
   Group: ADW
   FBID: Rainman0000
@@ -808,7 +818,7 @@
   Cycle: '0.00'
   Swim: '14.50'
   Walk: '0.00'
-- Rank: '82'
+- Rank: '83'
   Name: Poon
   Group: ADSS/ADWS/ADWO
   FBID: Poon3636
@@ -818,7 +828,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '83'
+- Rank: '84'
   Name: loanshark
   Group: ATC
   FBID: loanshark9356
@@ -827,16 +837,6 @@
   Run: '94.58'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '84'
-  Name: AP
-  Group: ADW
-  FBID: APHRMC0207
-  Total_Mileage: '94.21'
-  Badges: '7'
-  Run: '29.27'
-  Cycle: '91.76'
-  Swim: '7.00'
   Walk: '0.00'
 - Rank: '85'
   Name: Chickenflyfly
