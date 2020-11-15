@@ -1399,6 +1399,16 @@
   Swim: '0.00'
   Walk: '13.84'
 - Rank: '141'
+  Name: spirit
+  Group: ATC
+  FBID: spirit5555
+  Total_Mileage: '56.80'
+  Badges: '3'
+  Run: '56.80'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '3.37'
+- Rank: '142'
   Name: Owyong
   Group: ATC
   FBID: Owyong251088
@@ -1408,7 +1418,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '142'
+- Rank: '143'
   Name: You Rong
   Group: ADW
   FBID: Audi1987
@@ -1418,7 +1428,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '143'
+- Rank: '144'
   Name: 'Crystal '
   Group: ABM
   FBID: Crystal1101
@@ -1428,7 +1438,7 @@
   Cycle: '9.48'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '144'
+- Rank: '145'
   Name: JOLLY
   Group: ADW
   FBID: Jolly8178
@@ -1438,7 +1448,7 @@
   Cycle: '42.68'
   Swim: '2.50'
   Walk: '0.00'
-- Rank: '145'
+- Rank: '146'
   Name: BENteo
   Group: AFE
   FBID: BEN7452
@@ -1448,7 +1458,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '146'
+- Rank: '147'
   Name: Pterlek
   Group: ATC
   FBID: Conman7361
@@ -1458,7 +1468,7 @@
   Cycle: '0.00'
   Swim: '8.00'
   Walk: '14.22'
-- Rank: '147'
+- Rank: '148'
   Name: Chan Wei Siang
   Group: AFE
   FBID: ws1234
@@ -1468,7 +1478,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '148'
+- Rank: '149'
   Name: Pixel EQ
   Group: AOSX/AOS
   FBID: Pixel0323
@@ -1478,7 +1488,7 @@
   Cycle: '7.17'
   Swim: '0.00'
   Walk: '9.82'
-- Rank: '149'
+- Rank: '150'
   Name: Eric
   Group: AOSX/AOS
   FBID: RelacRunner0011
@@ -1488,16 +1498,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '150'
-  Name: spirit
-  Group: ATC
-  FBID: spirit5555
-  Total_Mileage: '53.46'
-  Badges: '3'
-  Run: '53.46'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '3.37'
 - Rank: '151'
   Name: BY
   Group: ADSS/ADWS/ADWO
