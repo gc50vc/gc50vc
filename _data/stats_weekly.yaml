@@ -159,6 +159,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '17'
+  Name: Jade
+  Group: ABM
+  FBID: Jade9669
+  Total_Mileage: '70.26'
+  Badges: '1'
+  Run: '0.00'
+  Cycle: '207.84'
+  Swim: '3.05'
+  Walk: '0.00'
+- Rank: '18'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -168,7 +178,7 @@
   Cycle: '0.00'
   Swim: '1.60'
   Walk: '0.00'
-- Rank: '18'
+- Rank: '19'
   Name: yapoh
   Group: ADW
   FBID: Yapoh0304
@@ -178,7 +188,7 @@
   Cycle: '100.00'
   Swim: '2.30'
   Walk: '0.00'
-- Rank: '19'
+- Rank: '20'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -188,7 +198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '21'
   Name: Daniel Tay
   Group: AOSX/AOS
   FBID: Corrupt2705
@@ -198,7 +208,7 @@
   Cycle: '0.00'
   Swim: '5.90'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: Wang0165
@@ -208,7 +218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -218,7 +228,7 @@
   Cycle: '24.04'
   Swim: '7.15'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -228,7 +238,7 @@
   Cycle: '200.61'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -238,7 +248,7 @@
   Cycle: '166.50'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: 'Tay Wen Hao '
   Group: ADW
   FBID: Wh8295
@@ -248,7 +258,7 @@
   Cycle: '37.93'
   Swim: '0.00'
   Walk: '4.94'
-- Rank: '26'
+- Rank: '27'
   Name: jAmEs h.
   Group: ADSS/ADWS/ADWO
   FBID: jAmEsh0007
@@ -258,7 +268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: Andre
   Group: ADW
   FBID: Andre7429
@@ -268,7 +278,7 @@
   Cycle: '204.98'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -278,7 +288,7 @@
   Cycle: '65.17'
   Swim: '3.50'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: Bronson
   Group: ADW
   FBID: Bronze1234
@@ -288,7 +298,7 @@
   Cycle: '26.67'
   Swim: '5.63'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '31'
   Name: Yun Jie (Rhythm)
   Group: ADW
   FBID: Jabez8686
@@ -297,16 +307,6 @@
   Run: '11.25'
   Cycle: '0.00'
   Swim: '6.30'
-  Walk: '0.00'
-- Rank: '31'
-  Name: Jade
-  Group: ABM
-  FBID: Jade9669
-  Total_Mileage: '47.67'
-  Badges: '1'
-  Run: '0.00'
-  Cycle: '117.48'
-  Swim: '3.05'
   Walk: '0.00'
 - Rank: '32'
   Name: Marcus
