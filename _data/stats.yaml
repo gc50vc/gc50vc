@@ -559,6 +559,16 @@
   Swim: '4.00'
   Walk: '0.00'
 - Rank: '57'
+  Name: GN
+  Group: ADSS/ADWS/ADWO
+  FBID: GN8282
+  Total_Mileage: '128.27'
+  Badges: '4'
+  Run: '128.27'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '58'
   Name: Slong
   Group: ADW
   FBID: Slong1234
@@ -567,16 +577,6 @@
   Run: '87.87'
   Cycle: '0.00'
   Swim: '6.27'
-  Walk: '0.00'
-- Rank: '58'
-  Name: GN
-  Group: ADSS/ADWS/ADWO
-  FBID: GN8282
-  Total_Mileage: '122.50'
-  Badges: '4'
-  Run: '122.50'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '59'
   Name: Xiaolow3344
