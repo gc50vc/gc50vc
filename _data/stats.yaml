@@ -339,6 +339,16 @@
   Swim: '6.40'
   Walk: '14.39'
 - Rank: '35'
+  Name: AngmoATB
+  Group: ADW
+  FBID: Angmo1984
+  Total_Mileage: '189.47'
+  Badges: '7'
+  Run: '105.56'
+  Cycle: '0.00'
+  Swim: '13.99'
+  Walk: '7.97'
+- Rank: '36'
   Name: jheng
   Group: ADSS/ADWS/ADWO
   FBID: jheng0000
@@ -348,7 +358,7 @@
   Cycle: '132.79'
   Swim: '16.37'
   Walk: '0.00'
-- Rank: '36'
+- Rank: '37'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -358,7 +368,7 @@
   Cycle: '699.67'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '37'
+- Rank: '38'
   Name: ''
   Group: ADSS/ADWS/ADWO
   FBID: bok2903
@@ -368,7 +378,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '38'
+- Rank: '39'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -378,7 +388,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '39'
+- Rank: '40'
   Name: Ah Bing
   Group: ADW
   FBID: Bingo0507
@@ -388,16 +398,6 @@
   Cycle: '191.84'
   Swim: '3.20'
   Walk: '0.00'
-- Rank: '40'
-  Name: AngmoATB
-  Group: ADW
-  FBID: Angmo1984
-  Total_Mileage: '174.47'
-  Badges: '7'
-  Run: '105.56'
-  Cycle: '0.00'
-  Swim: '11.49'
-  Walk: '7.97'
 - Rank: '41'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
