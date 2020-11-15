@@ -49,6 +49,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '6'
+  Name: Nicholas
+  Group: ADSS/ADWS/ADWO
+  FBID: Nn1974
+  Total_Mileage: '140.71'
+  Badges: '2'
+  Run: '30.60'
+  Cycle: '344.44'
+  Swim: '4.00'
+  Walk: '0.00'
+- Rank: '7'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -58,7 +68,7 @@
   Cycle: '262.18'
   Swim: '8.80'
   Walk: '0.00'
-- Rank: '7'
+- Rank: '8'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -67,16 +77,6 @@
   Run: '25.44'
   Cycle: '362.58'
   Swim: '3.40'
-  Walk: '0.00'
-- Rank: '8'
-  Name: Nicholas
-  Group: ADSS/ADWS/ADWO
-  FBID: Nn1974
-  Total_Mileage: '134.71'
-  Badges: '2'
-  Run: '30.60'
-  Cycle: '344.44'
-  Swim: '3.00'
   Walk: '0.00'
 - Rank: '9'
   Name: Slimer
@@ -199,6 +199,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '21'
+  Name: HC
+  Group: ADSS/ADWS/ADWO
+  FBID: hc1234
+  Total_Mileage: '58.32'
+  Badges: '1'
+  Run: '8.17'
+  Cycle: '200.61'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '22'
   Name: Daniel Tay
   Group: AOSX/AOS
   FBID: Corrupt2705
@@ -208,7 +218,7 @@
   Cycle: '0.00'
   Swim: '5.90'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: Wang0165
@@ -218,7 +228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -227,16 +237,6 @@
   Run: '6.87'
   Cycle: '24.04'
   Swim: '7.15'
-  Walk: '0.00'
-- Rank: '24'
-  Name: HC
-  Group: ADSS/ADWS/ADWO
-  FBID: hc1234
-  Total_Mileage: '55.63'
-  Badges: '1'
-  Run: '5.48'
-  Cycle: '200.61'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '25'
   Name: Vincent Yap
