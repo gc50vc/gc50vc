@@ -649,6 +649,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '66'
+  Name: Steyr
+  Group: ABM
+  FBID: Steyr9693
+  Total_Mileage: '111.88'
+  Badges: '4'
+  Run: '107.31'
+  Cycle: '18.27'
+  Swim: '0.00'
+  Walk: '3.42'
+- Rank: '67'
   Name: Weng
   Group: ADSS/ADWS/ADWO
   FBID: Weng8238
@@ -658,7 +668,7 @@
   Cycle: '257.17'
   Swim: '0.00'
   Walk: '13.86'
-- Rank: '67'
+- Rank: '68'
   Name: Tan Chee Wee
   Group: ATC
   FBID: tancw1974
@@ -668,7 +678,7 @@
   Cycle: '29.50'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '68'
+- Rank: '69'
   Name: Silver
   Group: ABM
   FBID: Silver5117
@@ -678,7 +688,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.10'
-- Rank: '69'
+- Rank: '70'
   Name: TT
   Group: ABM
   FBID: jiawei1989
@@ -688,7 +698,7 @@
   Cycle: '10.83'
   Swim: '0.00'
   Walk: '1.89'
-- Rank: '70'
+- Rank: '71'
   Name: Warren Chua
   Group: ADSS/ADWS/ADWO
   FBID: Warren9588
@@ -698,7 +708,7 @@
   Cycle: '391.17'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '71'
+- Rank: '72'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -708,16 +718,6 @@
   Cycle: '221.29'
   Swim: '5.10'
   Walk: '0.00'
-- Rank: '72'
-  Name: Steyr
-  Group: ABM
-  FBID: Steyr9693
-  Total_Mileage: '107.16'
-  Badges: '4'
-  Run: '102.59'
-  Cycle: '18.27'
-  Swim: '0.00'
-  Walk: '3.42'
 - Rank: '73'
   Name: ''
   Group: ABM
