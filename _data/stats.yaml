@@ -989,6 +989,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '100'
+  Name: Jenny
+  Group: AFE
+  FBID: Jenny7373
+  Total_Mileage: '84.38'
+  Badges: '3'
+  Run: '81.46'
+  Cycle: '11.67'
+  Swim: '0.00'
+  Walk: '74.27'
+- Rank: '101'
   Name: Legend
   Group: ADW
   FBID: Legend2512
@@ -998,7 +1008,7 @@
   Cycle: '191.27'
   Swim: '0.00'
   Walk: '13.11'
-- Rank: '101'
+- Rank: '102'
   Name: 'Windy '
   Group: ABM
   FBID: Windy4444
@@ -1008,16 +1018,6 @@
   Cycle: '0.00'
   Swim: '13.60'
   Walk: '0.00'
-- Rank: '102'
-  Name: Jenny
-  Group: AFE
-  FBID: Jenny7373
-  Total_Mileage: '81.46'
-  Badges: '3'
-  Run: '81.46'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '74.27'
 - Rank: '103'
   Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
