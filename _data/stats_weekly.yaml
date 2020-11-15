@@ -369,6 +369,16 @@
   Swim: '0.00'
   Walk: '1.80'
 - Rank: '38'
+  Name: EQ
+  Group: ADSS/ADWS/ADWO
+  FBID: eequan1234
+  Total_Mileage: '44.76'
+  Badges: '3'
+  Run: '44.76'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '223.30'
+- Rank: '39'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -378,7 +388,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.45'
-- Rank: '39'
+- Rank: '40'
   Name: Lia
   Group: ADSS/ADWS/ADWO
   FBID: Lia1116
@@ -388,16 +398,6 @@
   Cycle: '0.00'
   Swim: '1.55'
   Walk: '0.00'
-- Rank: '40'
-  Name: EQ
-  Group: ADSS/ADWS/ADWO
-  FBID: eequan1234
-  Total_Mileage: '41.76'
-  Badges: '2'
-  Run: '41.76'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '223.30'
 - Rank: '41'
   Name: Philip Tan
   Group: ATC
