@@ -129,6 +129,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '14'
+  Name: Tommy Tham
+  Group: ADSS/ADWS/ADWO
+  FBID: Tommy1976
+  Total_Mileage: '299.52'
+  Badges: '10'
+  Run: '50.11'
+  Cycle: '180.69'
+  Swim: '34.04'
+  Walk: '0.00'
+- Rank: '15'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -138,7 +148,7 @@
   Cycle: '209.50'
   Swim: '26.70'
   Walk: '11.04'
-- Rank: '15'
+- Rank: '16'
   Name: Nicholas Lian
   Group: ADW
   FBID: Horsepower2001
@@ -148,16 +158,6 @@
   Cycle: '30.26'
   Swim: '13.80'
   Walk: '2.98'
-- Rank: '16'
-  Name: Tommy Tham
-  Group: ADSS/ADWS/ADWO
-  FBID: Tommy1976
-  Total_Mileage: '281.52'
-  Badges: '10'
-  Run: '50.11'
-  Cycle: '180.69'
-  Swim: '31.04'
-  Walk: '0.00'
 - Rank: '17'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
@@ -419,6 +419,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '43'
+  Name: Vapor
+  Group: ADW
+  FBID: Vapor6148
+  Total_Mileage: '161.34'
+  Badges: '4'
+  Run: '161.34'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '44'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -428,16 +438,6 @@
   Cycle: '134.59'
   Swim: '0.00'
   Walk: '1.57'
-- Rank: '44'
-  Name: Vapor
-  Group: ADW
-  FBID: Vapor6148
-  Total_Mileage: '156.32'
-  Badges: '4'
-  Run: '156.32'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '45'
   Name: Cookie
   Group: ATC
@@ -2387,7 +2387,7 @@
   Run: '26.22'
   Cycle: '25.68'
   Swim: '0.00'
-  Walk: '228.22'
+  Walk: '239.83'
 - Rank: '240'
   Name: Duster
   Group: ABM
@@ -2897,7 +2897,7 @@
   Run: '24.52'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '91.20'
+  Walk: '93.35'
 - Rank: '291'
   Name: Wei Hong
   Group: ADW
