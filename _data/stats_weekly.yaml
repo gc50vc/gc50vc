@@ -419,6 +419,16 @@
   Swim: '6.50'
   Walk: '0.00'
 - Rank: '43'
+  Name: Ah Bing
+  Group: ADW
+  FBID: Bingo0507
+  Total_Mileage: '37.36'
+  Badges: '2'
+  Run: '20.79'
+  Cycle: '43.46'
+  Swim: '0.95'
+  Walk: '0.00'
+- Rank: '44'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
@@ -428,7 +438,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '44'
+- Rank: '45'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -438,7 +448,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '45'
+- Rank: '46'
   Name: Jiajun
   Group: ADSS/ADWS/ADWO
   FBID: Jj2304
@@ -448,7 +458,7 @@
   Cycle: '0.00'
   Swim: '6.00'
   Walk: '0.00'
-- Rank: '46'
+- Rank: '47'
   Name: Chan Howe
   Group: AOSX/AOS
   FBID: IceCube3008
@@ -458,7 +468,7 @@
   Cycle: '139.70'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '47'
+- Rank: '48'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -468,7 +478,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '48'
+- Rank: '49'
   Name: Nana
   Group: AFE
   FBID: Chris1166
@@ -477,16 +487,6 @@
   Run: '5.38'
   Cycle: '114.11'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '49'
-  Name: Ah Bing
-  Group: ADW
-  FBID: Bingo0507
-  Total_Mileage: '32.26'
-  Badges: '2'
-  Run: '15.69'
-  Cycle: '43.46'
-  Swim: '0.95'
   Walk: '0.00'
 - Rank: '50'
   Name: Cookie
