@@ -309,6 +309,16 @@
   Swim: '4.00'
   Walk: '12.33'
 - Rank: '32'
+  Name: AngmoATB
+  Group: ADW
+  FBID: Angmo1984
+  Total_Mileage: '195.85'
+  Badges: '7'
+  Run: '111.94'
+  Cycle: '0.00'
+  Swim: '13.99'
+  Walk: '7.97'
+- Rank: '33'
   Name: Daniel Tay
   Group: AOSX/AOS
   FBID: Corrupt2705
@@ -318,7 +328,7 @@
   Cycle: '0.00'
   Swim: '18.80'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '34'
   Name: aH-MuNs-Ge
   Group: AFE
   FBID: ahmuns9861
@@ -328,7 +338,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '79.15'
-- Rank: '34'
+- Rank: '35'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -338,16 +348,6 @@
   Cycle: '357.20'
   Swim: '6.40'
   Walk: '14.39'
-- Rank: '35'
-  Name: AngmoATB
-  Group: ADW
-  FBID: Angmo1984
-  Total_Mileage: '189.47'
-  Badges: '7'
-  Run: '105.56'
-  Cycle: '0.00'
-  Swim: '13.99'
-  Walk: '7.97'
 - Rank: '36'
   Name: jheng
   Group: ADSS/ADWS/ADWO
