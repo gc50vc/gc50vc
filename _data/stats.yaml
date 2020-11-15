@@ -529,6 +529,16 @@
   Swim: '0.00'
   Walk: '23.30'
 - Rank: '54'
+  Name: Lia
+  Group: ADSS/ADWS/ADWO
+  FBID: Lia1116
+  Total_Mileage: '133.64'
+  Badges: '6'
+  Run: '96.54'
+  Cycle: '63.18'
+  Swim: '3.55'
+  Walk: '0.00'
+- Rank: '55'
   Name: Andrew
   Group: ADW
   FBID: Hammer1990
@@ -538,7 +548,7 @@
   Cycle: '225.06'
   Swim: '4.00'
   Walk: '0.00'
-- Rank: '55'
+- Rank: '56'
   Name: Slong
   Group: ADW
   FBID: Slong1234
@@ -547,16 +557,6 @@
   Run: '87.87'
   Cycle: '0.00'
   Swim: '6.27'
-  Walk: '0.00'
-- Rank: '56'
-  Name: Lia
-  Group: ADSS/ADWS/ADWO
-  FBID: Lia1116
-  Total_Mileage: '123.64'
-  Badges: '6'
-  Run: '86.54'
-  Cycle: '63.18'
-  Swim: '3.55'
   Walk: '0.00'
 - Rank: '57'
   Name: GN
@@ -599,6 +599,16 @@
   Swim: '0.50'
   Walk: '10.51'
 - Rank: '61'
+  Name: Andre
+  Group: ADW
+  FBID: Andre7429
+  Total_Mileage: '116.11'
+  Badges: '4'
+  Run: '4.22'
+  Cycle: '427.14'
+  Swim: '0.85'
+  Walk: '0.00'
+- Rank: '62'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
   FBID: Ahbye1234
@@ -608,7 +618,7 @@
   Cycle: '131.03'
   Swim: '4.50'
   Walk: '6.00'
-- Rank: '62'
+- Rank: '63'
   Name: Keith low
   Group: ADSS/ADWS/ADWO
   FBID: Keithlow1998
@@ -618,7 +628,7 @@
   Cycle: '422.17'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '63'
+- Rank: '64'
   Name: Weng
   Group: ADSS/ADWS/ADWO
   FBID: Weng8238
@@ -628,7 +638,7 @@
   Cycle: '257.17'
   Swim: '0.00'
   Walk: '13.86'
-- Rank: '64'
+- Rank: '65'
   Name: Tan Chee Wee
   Group: ATC
   FBID: tancw1974
@@ -638,7 +648,7 @@
   Cycle: '29.50'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '65'
+- Rank: '66'
   Name: Silver
   Group: ABM
   FBID: Silver5117
@@ -648,7 +658,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.10'
-- Rank: '66'
+- Rank: '67'
   Name: TT
   Group: ABM
   FBID: jiawei1989
@@ -658,7 +668,7 @@
   Cycle: '10.83'
   Swim: '0.00'
   Walk: '1.89'
-- Rank: '67'
+- Rank: '68'
   Name: Warren Chua
   Group: ADSS/ADWS/ADWO
   FBID: Warren9588
@@ -668,7 +678,7 @@
   Cycle: '391.17'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '68'
+- Rank: '69'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -678,7 +688,7 @@
   Cycle: '221.29'
   Swim: '5.10'
   Walk: '0.00'
-- Rank: '69'
+- Rank: '70'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -688,7 +698,7 @@
   Cycle: '18.27'
   Swim: '0.00'
   Walk: '3.42'
-- Rank: '70'
+- Rank: '71'
   Name: ''
   Group: ABM
   FBID: Zena2107
@@ -698,7 +708,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '71'
+- Rank: '72'
   Name: Sen Kiat
   Group: ATC
   FBID: HSK7777
@@ -708,7 +718,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '72'
+- Rank: '73'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -718,7 +728,7 @@
   Cycle: '91.76'
   Swim: '7.70'
   Walk: '0.00'
-- Rank: '73'
+- Rank: '74'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -728,7 +738,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '74'
+- Rank: '75'
   Name: Rubiks
   Group: ABM
   FBID: Rubiks1234
@@ -738,7 +748,17 @@
   Cycle: '41.78'
   Swim: '4.10'
   Walk: '0.00'
-- Rank: '75'
+- Rank: '76'
+  Name: Ying Tat
+  Group: ADW
+  FBID: thumbs8599
+  Total_Mileage: '101.75'
+  Badges: '6'
+  Run: '69.30'
+  Cycle: '45.78'
+  Swim: '3.50'
+  Walk: '1.63'
+- Rank: '77'
   Name: Quainapz
   Group: ADSS/ADWS/ADWO
   FBID: Quainapz8585
@@ -748,7 +768,7 @@
   Cycle: '0.00'
   Swim: '3.10'
   Walk: '2.30'
-- Rank: '76'
+- Rank: '78'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -758,7 +778,7 @@
   Cycle: '245.00'
   Swim: '0.00'
   Walk: '2.00'
-- Rank: '77'
+- Rank: '79'
   Name: Maj Lim
   Group: ABM
   FBID: Legoz1000
@@ -768,7 +788,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '16.48'
-- Rank: '78'
+- Rank: '80'
   Name: Steroid
   Group: ATC
   FBID: Steroid1007
@@ -778,7 +798,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '79'
+- Rank: '81'
   Name: Rats
   Group: ABM
   FBID: Rats1500
@@ -788,26 +808,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '80'
-  Name: Andre
-  Group: ADW
-  FBID: Andre7429
-  Total_Mileage: '98.00'
-  Badges: '4'
-  Run: '4.22'
-  Cycle: '354.72'
-  Swim: '0.85'
-  Walk: '0.00'
-- Rank: '81'
-  Name: Ying Tat
-  Group: ADW
-  FBID: thumbs8599
-  Total_Mileage: '97.74'
-  Badges: '6'
-  Run: '65.29'
-  Cycle: '45.78'
-  Swim: '3.50'
-  Walk: '1.63'
 - Rank: '82'
   Name: Sean Chua
   Group: ADSS/ADWS/ADWO
