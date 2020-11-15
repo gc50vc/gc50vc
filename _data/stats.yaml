@@ -469,6 +469,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '48'
+  Name: Andrew
+  Group: ADW
+  FBID: Hammer1990
+  Total_Mileage: '149.44'
+  Badges: '10'
+  Run: '51.66'
+  Cycle: '295.12'
+  Swim: '4.00'
+  Walk: '0.00'
+- Rank: '49'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -478,7 +488,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '49'
+- Rank: '50'
   Name: Benson
   Group: ADW
   FBID: benoi1234
@@ -488,7 +498,7 @@
   Cycle: '95.28'
   Swim: '0.00'
   Walk: '1.80'
-- Rank: '50'
+- Rank: '51'
   Name: Bgtan
   Group: ADSS/ADWS/ADWO
   FBID: Kenny9889
@@ -498,7 +508,7 @@
   Cycle: '542.69'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '51'
+- Rank: '52'
   Name: Yun Jie (Rhythm)
   Group: ADW
   FBID: Jabez8686
@@ -508,7 +518,7 @@
   Cycle: '0.00'
   Swim: '17.83'
   Walk: '4.80'
-- Rank: '52'
+- Rank: '53'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
@@ -518,7 +528,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '53'
+- Rank: '54'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -528,7 +538,7 @@
   Cycle: '164.95'
   Swim: '6.60'
   Walk: '3.15'
-- Rank: '54'
+- Rank: '55'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -538,7 +548,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '23.30'
-- Rank: '55'
+- Rank: '56'
   Name: Lia
   Group: ADSS/ADWS/ADWO
   FBID: Lia1116
@@ -547,16 +557,6 @@
   Run: '96.54'
   Cycle: '63.18'
   Swim: '3.55'
-  Walk: '0.00'
-- Rank: '56'
-  Name: Andrew
-  Group: ADW
-  FBID: Hammer1990
-  Total_Mileage: '131.93'
-  Badges: '10'
-  Run: '51.66'
-  Cycle: '225.06'
-  Swim: '4.00'
   Walk: '0.00'
 - Rank: '57'
   Name: GN
