@@ -79,6 +79,16 @@
   Swim: '3.40'
   Walk: '0.00'
 - Rank: '9'
+  Name: ''
+  Group: ABM
+  FBID: Zena2107
+  Total_Mileage: '117.92'
+  Badges: '4'
+  Run: '117.92'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '10'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -88,7 +98,7 @@
   Cycle: '48.33'
   Swim: '11.50'
   Walk: '1.03'
-- Rank: '10'
+- Rank: '11'
   Name: LZX
   Group: ADSS/ADWS/ADWO
   FBID: leezx1337
@@ -96,16 +106,6 @@
   Badges: '1'
   Run: '37.27'
   Cycle: '290.01'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '11'
-  Name: ''
-  Group: ABM
-  FBID: Zena2107
-  Total_Mileage: '106.62'
-  Badges: '4'
-  Run: '106.62'
-  Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '12'
