@@ -69,6 +69,16 @@
   Swim: '3.40'
   Walk: '0.00'
 - Rank: '8'
+  Name: Nicholas
+  Group: ADSS/ADWS/ADWO
+  FBID: Nn1974
+  Total_Mileage: '134.71'
+  Badges: '2'
+  Run: '30.60'
+  Cycle: '344.44'
+  Swim: '3.00'
+  Walk: '0.00'
+- Rank: '9'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -78,16 +88,6 @@
   Cycle: '48.33'
   Swim: '11.50'
   Walk: '1.03'
-- Rank: '9'
-  Name: Nicholas
-  Group: ADSS/ADWS/ADWO
-  FBID: Nn1974
-  Total_Mileage: '109.50'
-  Badges: '2'
-  Run: '30.60'
-  Cycle: '243.61'
-  Swim: '3.00'
-  Walk: '0.00'
 - Rank: '10'
   Name: ''
   Group: ABM
