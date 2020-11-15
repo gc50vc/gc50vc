@@ -69,6 +69,16 @@
   Swim: '0.00'
   Walk: '2.18'
 - Rank: '8'
+  Name: Nicholas
+  Group: ADSS/ADWS/ADWO
+  FBID: NN1974
+  Total_Mileage: '421.50'
+  Badges: '11'
+  Run: '70.37'
+  Cycle: '1080.53'
+  Swim: '13.50'
+  Walk: '3.02'
+- Rank: '9'
   Name: Ektar
   Group: ABM
   FBID: ektar1971
@@ -78,16 +88,6 @@
   Cycle: '810.15'
   Swim: '17.70'
   Walk: '0.00'
-- Rank: '9'
-  Name: Nicholas
-  Group: ADSS/ADWS/ADWO
-  FBID: NN1974
-  Total_Mileage: '415.50'
-  Badges: '11'
-  Run: '70.37'
-  Cycle: '1080.53'
-  Swim: '12.50'
-  Walk: '3.02'
 - Rank: '10'
   Name: Prem
   Group: ADW
@@ -192,9 +192,9 @@
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
-  Total_Mileage: '232.14'
+  Total_Mileage: '234.83'
   Badges: '5'
-  Run: '11.73'
+  Run: '14.42'
   Cycle: '881.64'
   Swim: '0.00'
   Walk: '2.19'
