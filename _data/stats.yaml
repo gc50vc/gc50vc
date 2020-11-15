@@ -229,6 +229,16 @@
   Swim: '0.00'
   Walk: '9.48'
 - Rank: '24'
+  Name: 'TiGeR3 '
+  Group: ADSS/ADWS/ADWO
+  FBID: TiGeR2876
+  Total_Mileage: '219.98'
+  Badges: '4'
+  Run: '219.98'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '25'
   Name: Bronson
   Group: ADW
   FBID: Bronze1234
@@ -238,7 +248,7 @@
   Cycle: '149.89'
   Swim: '20.88'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -248,7 +258,7 @@
   Cycle: '25.04'
   Swim: '3.85'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -258,7 +268,7 @@
   Cycle: '314.00'
   Swim: '2.26'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -268,7 +278,7 @@
   Cycle: '475.02'
   Swim: '6.65'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
@@ -278,7 +288,7 @@
   Cycle: '170.38'
   Swim: '15.00'
   Walk: '11.07'
-- Rank: '29'
+- Rank: '30'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -288,7 +298,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '31'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -298,7 +308,7 @@
   Cycle: '479.54'
   Swim: '4.00'
   Walk: '12.33'
-- Rank: '31'
+- Rank: '32'
   Name: Daniel Tay
   Group: AOSX/AOS
   FBID: Corrupt2705
@@ -308,7 +318,7 @@
   Cycle: '0.00'
   Swim: '18.80'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '33'
   Name: aH-MuNs-Ge
   Group: AFE
   FBID: ahmuns9861
@@ -318,7 +328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '79.15'
-- Rank: '33'
+- Rank: '34'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -328,7 +338,7 @@
   Cycle: '357.20'
   Swim: '6.40'
   Walk: '14.39'
-- Rank: '34'
+- Rank: '35'
   Name: jheng
   Group: ADSS/ADWS/ADWO
   FBID: jheng0000
@@ -338,7 +348,7 @@
   Cycle: '132.79'
   Swim: '16.37'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -348,7 +358,7 @@
   Cycle: '699.67'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '36'
+- Rank: '37'
   Name: ''
   Group: ADSS/ADWS/ADWO
   FBID: bok2903
@@ -358,7 +368,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '37'
+- Rank: '38'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -368,17 +378,17 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '38'
+- Rank: '39'
   Name: Ah Bing
   Group: ADW
   FBID: Bingo0507
-  Total_Mileage: '174.56'
+  Total_Mileage: '177.56'
   Badges: '8'
   Run: '110.40'
   Cycle: '191.84'
-  Swim: '2.70'
+  Swim: '3.20'
   Walk: '0.00'
-- Rank: '39'
+- Rank: '40'
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
@@ -388,7 +398,7 @@
   Cycle: '0.00'
   Swim: '11.49'
   Walk: '7.97'
-- Rank: '40'
+- Rank: '41'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -398,16 +408,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '4.73'
-- Rank: '41'
-  Name: 'TiGeR3 '
-  Group: ADSS/ADWS/ADWO
-  FBID: TiGeR2876
-  Total_Mileage: '169.66'
-  Badges: '4'
-  Run: '169.66'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '42'
   Name: AdolphusJJ
   Group: AOSX/AOS
@@ -4247,7 +4247,7 @@
   Run: '8.67'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '20.00'
+  Walk: '31.00'
 - Rank: '426'
   Name: Christian
   Group: ADSS/ADWS/ADWO
