@@ -49,6 +49,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '6'
+  Name: Tommy Tham
+  Group: ADSS/ADWS/ADWO
+  FBID: Tommy1976
+  Total_Mileage: '152.54'
+  Badges: '2'
+  Run: '17.75'
+  Cycle: '65.17'
+  Swim: '19.75'
+  Walk: '0.00'
+- Rank: '7'
   Name: Nicholas
   Group: ADSS/ADWS/ADWO
   FBID: Nn1974
@@ -58,7 +68,7 @@
   Cycle: '344.44'
   Swim: '4.00'
   Walk: '0.00'
-- Rank: '7'
+- Rank: '8'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -68,7 +78,7 @@
   Cycle: '262.18'
   Swim: '8.80'
   Walk: '0.00'
-- Rank: '8'
+- Rank: '9'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -78,7 +88,7 @@
   Cycle: '362.58'
   Swim: '3.40'
   Walk: '0.00'
-- Rank: '9'
+- Rank: '10'
   Name: ''
   Group: ABM
   FBID: Zena2107
@@ -88,7 +98,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '10'
+- Rank: '11'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -98,7 +108,7 @@
   Cycle: '48.33'
   Swim: '11.50'
   Walk: '1.03'
-- Rank: '11'
+- Rank: '12'
   Name: LZX
   Group: ADSS/ADWS/ADWO
   FBID: leezx1337
@@ -107,16 +117,6 @@
   Run: '37.27'
   Cycle: '290.01'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '12'
-  Name: Tommy Tham
-  Group: ADSS/ADWS/ADWO
-  FBID: Tommy1976
-  Total_Mileage: '104.24'
-  Badges: '2'
-  Run: '17.75'
-  Cycle: '65.17'
-  Swim: '11.70'
   Walk: '0.00'
 - Rank: '13'
   Name: Euj
@@ -539,6 +539,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '55'
+  Name: Alloy
+  Group: ABM
+  FBID: alloy8585
+  Total_Mileage: '33.60'
+  Badges: '2'
+  Run: '13.20'
+  Cycle: '0.00'
+  Swim: '3.40'
+  Walk: '0.00'
+- Rank: '56'
   Name: Cookie
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -548,7 +558,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '56'
+- Rank: '57'
   Name: Vapor
   Group: ADW
   FBID: Vapor6148
@@ -558,7 +568,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '57'
+- Rank: '58'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -568,7 +578,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '58'
+- Rank: '59'
   Name: Jefferson
   Group: AFE
   FBID: VolvoJeff1985
@@ -578,7 +588,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '59'
+- Rank: '60'
   Name: Sen Kiat
   Group: ATC
   FBID: HSK7777
@@ -588,7 +598,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '61'
+- Rank: '62'
   Name: ''
   Group: ADSS/ADWS/ADWO
   FBID: ZhengXiR0160
@@ -598,7 +608,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '60'
+- Rank: '61'
   Name: ''
   Group: ADSS/ADWS/ADWO
   FBID: IamslowturtlefromR0160
@@ -608,7 +618,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '62'
+- Rank: '63'
   Name: Jenny
   Group: AFE
   FBID: Jenny7373
@@ -618,7 +628,7 @@
   Cycle: '11.67'
   Swim: '0.00'
   Walk: '6.88'
-- Rank: '63'
+- Rank: '64'
   Name: GN
   Group: ADSS/ADWS/ADWO
   FBID: GN8282
@@ -628,7 +638,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '64'
+- Rank: '65'
   Name: Liwei
   Group: ADW
   FBID: Dragongate5270
@@ -638,7 +648,7 @@
   Cycle: '40.00'
   Swim: '2.00'
   Walk: '0.70'
-- Rank: '65'
+- Rank: '66'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -648,7 +658,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '12.33'
-- Rank: '66'
+- Rank: '67'
   Name: Joey Lee Jian Wei
   Group: AFE
   FBID: Joey3811
@@ -658,7 +668,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '59.00'
-- Rank: '67'
+- Rank: '68'
   Name: Andrew
   Group: ADW
   FBID: Hammer1990
@@ -668,7 +678,7 @@
   Cycle: '70.06'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '68'
+- Rank: '69'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -678,7 +688,7 @@
   Cycle: '0.00'
   Swim: '3.70'
   Walk: '0.00'
-- Rank: '69'
+- Rank: '70'
   Name: ARROW
   Group: ADW
   FBID: Tee1980
@@ -688,7 +698,7 @@
   Cycle: '32.37'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '70'
+- Rank: '71'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -698,7 +708,7 @@
   Cycle: '51.00'
   Swim: '0.00'
   Walk: '2.00'
-- Rank: '71'
+- Rank: '72'
   Name: Tan Chee Wee
   Group: ATC
   FBID: Tancw1974
@@ -708,7 +718,7 @@
   Cycle: '29.50'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '72'
+- Rank: '73'
   Name: Fu Hao Wei
   Group: ADW
   FBID: fuhaowei8435
@@ -718,7 +728,7 @@
   Cycle: '109.94'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '73'
+- Rank: '74'
   Name: Tony Foo
   Group: ADW
   FBID: tonyfoo0165
@@ -728,7 +738,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '74'
+- Rank: '75'
   Name: loanshark
   Group: ATC
   FBID: loanshark9356
@@ -738,7 +748,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '75'
+- Rank: '76'
   Name: Cupid
   Group: AOSX/AOS
   FBID: cupid2711
@@ -748,7 +758,7 @@
   Cycle: '106.60'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '76'
+- Rank: '77'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -758,7 +768,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '7.70'
-- Rank: '77'
+- Rank: '78'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -768,7 +778,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '78'
+- Rank: '79'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -778,7 +788,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '79'
+- Rank: '80'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -788,7 +798,7 @@
   Cycle: '76.70'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '80'
+- Rank: '81'
   Name: Steroid
   Group: ATC
   FBID: Steroid1007
@@ -798,7 +808,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '81'
+- Rank: '82'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
   FBID: Ahbye1234
@@ -808,7 +818,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '82'
+- Rank: '83'
   Name: Warren Chua
   Group: ADSS/ADWS/ADWO
   FBID: Warren9588
@@ -818,7 +828,7 @@
   Cycle: '100.71'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '83'
+- Rank: '84'
   Name: 'Windy '
   Group: ABM
   FBID: Windy4444
@@ -828,7 +838,7 @@
   Cycle: '0.00'
   Swim: '4.00'
   Walk: '0.00'
-- Rank: '84'
+- Rank: '85'
   Name: Hector
   Group: ADW
   FBID: Hector0911
@@ -838,7 +848,7 @@
   Cycle: '0.00'
   Swim: '2.90'
   Walk: '0.00'
-- Rank: '85'
+- Rank: '86'
   Name: Yew Choong
   Group: ADSS/ADWS/ADWO
   FBID: GGXC0160
@@ -848,7 +858,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '86'
+- Rank: '87'
   Name: JOVAN
   Group: ADW
   FBID: NIGHTOWL1303
@@ -857,16 +867,6 @@
   Run: '22.28'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '87'
-  Name: Alloy
-  Group: ABM
-  FBID: alloy8585
-  Total_Mileage: '22.20'
-  Badges: '2'
-  Run: '13.20'
-  Cycle: '0.00'
-  Swim: '1.50'
   Walk: '0.00'
 - Rank: '88'
   Name: Weaver
