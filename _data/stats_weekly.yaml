@@ -1289,6 +1289,16 @@
   Swim: '0.00'
   Walk: '22.80'
 - Rank: '130'
+  Name: Sunray
+  Group: ABM
+  FBID: Sunray0909
+  Total_Mileage: '13.90'
+  Badges: '0'
+  Run: '5.00'
+  Cycle: '29.36'
+  Swim: '0.26'
+  Walk: '0.00'
+- Rank: '131'
   Name: KW
   Group: ADW
   FBID: ccey9191
@@ -1298,7 +1308,7 @@
   Cycle: '55.54'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '131'
+- Rank: '132'
   Name: Chan Wei Siang
   Group: AFE
   FBID: ws1234
@@ -1308,7 +1318,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '132'
+- Rank: '133'
   Name: 'Russh '
   Group: ADSS/ADWS/ADWO
   FBID: Rhor1234
@@ -1318,7 +1328,7 @@
   Cycle: '31.66'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '133'
+- Rank: '134'
   Name: Pterlek
   Group: ATC
   FBID: Conman7361
@@ -1328,7 +1338,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '2.24'
-- Rank: '134'
+- Rank: '135'
   Name: spirit
   Group: ATC
   FBID: spirit5555
@@ -1338,7 +1348,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '135'
+- Rank: '136'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -1346,16 +1356,6 @@
   Badges: '0'
   Run: '11.31'
   Cycle: '4.21'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '136'
-  Name: Sunray
-  Group: ABM
-  FBID: Sunray0909
-  Total_Mileage: '12.34'
-  Badges: '0'
-  Run: '5.00'
-  Cycle: '29.36'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '137'
@@ -2738,6 +2738,16 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
+- Rank: '275'
+  Name: Speedy
+  Group: AOSX/AOS
+  FBID: Speedy2020
+  Total_Mileage: '0.00'
+  Badges: ''
+  Run: '0.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '66.20'
 - Rank: '275'
   Name: BC Chen
   Group: ATC
