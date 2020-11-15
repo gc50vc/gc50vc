@@ -42,10 +42,10 @@
   Name: Ben
   Group: ADW
   FBID: BY8362
-  Total_Mileage: '148.51'
+  Total_Mileage: '160.00'
   Badges: '0'
   Run: '88.00'
-  Cycle: '242.03'
+  Cycle: '287.99'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '6'
@@ -89,6 +89,16 @@
   Swim: '11.50'
   Walk: '1.03'
 - Rank: '10'
+  Name: LZX
+  Group: ADSS/ADWS/ADWO
+  FBID: leezx1337
+  Total_Mileage: '109.77'
+  Badges: '1'
+  Run: '37.27'
+  Cycle: '290.01'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '11'
   Name: ''
   Group: ABM
   FBID: Zena2107
@@ -98,7 +108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -108,7 +118,7 @@
   Cycle: '25.68'
   Swim: '14.88'
   Walk: '16.72'
-- Rank: '12'
+- Rank: '13'
   Name: Prem
   Group: ADW
   FBID: Premium6687
@@ -118,7 +128,7 @@
   Cycle: '0.00'
   Swim: '14.10'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: Nicholas Lian
   Group: ADW
   FBID: horsepower2001
@@ -128,16 +138,6 @@
   Cycle: '0.00'
   Swim: '4.20'
   Walk: '2.98'
-- Rank: '14'
-  Name: LZX
-  Group: ADSS/ADWS/ADWO
-  FBID: leezx1337
-  Total_Mileage: '88.17'
-  Badges: '1'
-  Run: '37.27'
-  Cycle: '203.61'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '15'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
