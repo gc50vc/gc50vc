@@ -419,6 +419,16 @@
   Swim: '3.05'
   Walk: '0.00'
 - Rank: '43'
+  Name: Ah Bing
+  Group: ADW
+  FBID: Bingo0507
+  Total_Mileage: '40.36'
+  Badges: '2'
+  Run: '20.79'
+  Cycle: '43.46'
+  Swim: '1.45'
+  Walk: '0.00'
+- Rank: '44'
   Name: RainmanCYK
   Group: ADW
   FBID: Rainman0000
@@ -428,7 +438,7 @@
   Cycle: '0.00'
   Swim: '6.50'
   Walk: '0.00'
-- Rank: '44'
+- Rank: '45'
   Name: jheng
   Group: ADSS/ADWS/ADWO
   FBID: jheng0000
@@ -437,16 +447,6 @@
   Run: '5.27'
   Cycle: '55.52'
   Swim: '3.10'
-  Walk: '0.00'
-- Rank: '45'
-  Name: Ah Bing
-  Group: ADW
-  FBID: Bingo0507
-  Total_Mileage: '37.36'
-  Badges: '2'
-  Run: '20.79'
-  Cycle: '43.46'
-  Swim: '0.95'
   Walk: '0.00'
 - Rank: '46'
   Name: Sean Chua
@@ -2767,7 +2767,7 @@
   Run: '0.00'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '20.00'
+  Walk: '31.00'
 - Rank: '274'
   Name: Kush
   Group: AFE
