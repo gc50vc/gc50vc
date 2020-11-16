@@ -519,16 +519,6 @@
   Swim: '3.55'
   Walk: '0.00'
 - Rank: '53'
-  Name: Bgtan
-  Group: ADSS/ADWS/ADWO
-  FBID: Kenny9889
-  Total_Mileage: '135.67'
-  Badges: '4'
-  Run: '0.00'
-  Cycle: '542.69'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '54'
   Name: Yun Jie (Rhythm)
   Group: ADW
   FBID: Jabez8686
@@ -538,7 +528,7 @@
   Cycle: '0.00'
   Swim: '17.83'
   Walk: '4.80'
-- Rank: '55'
+- Rank: '54'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
@@ -548,7 +538,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '56'
+- Rank: '55'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -558,7 +548,7 @@
   Cycle: '164.95'
   Swim: '6.60'
   Walk: '3.15'
-- Rank: '57'
+- Rank: '56'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -568,7 +558,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '31.00'
-- Rank: '58'
+- Rank: '57'
   Name: GN
   Group: ADSS/ADWS/ADWO
   FBID: GN8282
@@ -578,7 +568,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '59'
+- Rank: '58'
   Name: Slong
   Group: ADW
   FBID: Slong1234
@@ -588,7 +578,7 @@
   Cycle: '0.00'
   Swim: '6.27'
   Walk: '0.00'
-- Rank: '60'
+- Rank: '59'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
   FBID: Ahbye1234
@@ -598,6 +588,16 @@
   Cycle: '163.00'
   Swim: '4.50'
   Walk: '6.00'
+- Rank: '60'
+  Name: Bgtan
+  Group: ADSS/ADWS/ADWO
+  FBID: Kenny9889
+  Total_Mileage: '123.16'
+  Badges: '4'
+  Run: '0.00'
+  Cycle: '492.62'
+  Swim: '0.00'
+  Walk: '0.00'
 - Rank: '61'
   Name: Xiaolow3344
   Group: ADSS/ADWS/ADWO
