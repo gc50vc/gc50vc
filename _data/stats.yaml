@@ -2,11 +2,11 @@
   Name: Extreme
   Group: ATC
   FBID: Extreme8123
-  Total_Mileage: '1084.11'
+  Total_Mileage: '1096.41'
   Badges: '11'
   Run: '363.36'
   Cycle: '162.60'
-  Swim: '113.35'
+  Swim: '115.40'
   Walk: '3.10'
 - Rank: '2'
   Name: Ben
@@ -629,6 +629,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '64'
+  Name: Zanna
+  Group: ABM
+  FBID: Zena2107
+  Total_Mileage: '113.23'
+  Badges: '4'
+  Run: '113.23'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '65'
   Name: Yun Jie (Rhythm)
   Group: ADW
   FBID: Jabez8686
@@ -638,16 +648,6 @@
   Cycle: '0.00'
   Swim: '14.19'
   Walk: '4.80'
-- Rank: '65'
-  Name: Zanna
-  Group: ABM
-  FBID: Zena2107
-  Total_Mileage: '112.27'
-  Badges: '4'
-  Run: '112.27'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '66'
   Name: Steyr
   Group: ABM
