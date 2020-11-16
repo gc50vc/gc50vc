@@ -152,9 +152,9 @@
   Name: Nicholas Lian
   Group: ADW
   FBID: Horsepower2001
-  Total_Mileage: '298.01'
+  Total_Mileage: '310.86'
   Badges: '7'
-  Run: '202.24'
+  Run: '215.09'
   Cycle: '30.26'
   Swim: '14.70'
   Walk: '2.98'
@@ -1379,6 +1379,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '139'
+  Name: 'Crystal '
+  Group: ABM
+  FBID: Crystal1101
+  Total_Mileage: '60.06'
+  Badges: '3'
+  Run: '57.69'
+  Cycle: '9.48'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '140'
   Name: Waffles
   Group: ATC
   FBID: Waffles3567
@@ -1388,7 +1398,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.57'
-- Rank: '140'
+- Rank: '141'
   Name: Jamie Chen
   Group: ADSS/ADWS/ADWO
   FBID: FLASH2911
@@ -1398,7 +1408,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '141'
+- Rank: '142'
   Name: Alan
   Group: ADSS/ADWS/ADWO
   FBID: Alan2881
@@ -1408,7 +1418,7 @@
   Cycle: '0.00'
   Swim: '4.05'
   Walk: '32.00'
-- Rank: '142'
+- Rank: '143'
   Name: spirit
   Group: ATC
   FBID: spirit5555
@@ -1418,7 +1428,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.37'
-- Rank: '143'
+- Rank: '144'
   Name: Owyong
   Group: ATC
   FBID: Owyong251088
@@ -1428,7 +1438,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '144'
+- Rank: '145'
   Name: You Rong
   Group: ADW
   FBID: Audi1987
@@ -1436,16 +1446,6 @@
   Badges: '3'
   Run: '56.46'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '145'
-  Name: 'Crystal '
-  Group: ABM
-  FBID: Crystal1101
-  Total_Mileage: '56.10'
-  Badges: '3'
-  Run: '53.73'
-  Cycle: '9.48'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '146'
