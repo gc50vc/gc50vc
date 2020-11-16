@@ -1199,6 +1199,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '121'
+  Name: Sunray
+  Group: ABM
+  FBID: Sunray0909
+  Total_Mileage: '69.02'
+  Badges: '4'
+  Run: '20.10'
+  Cycle: '179.85'
+  Swim: '0.66'
+  Walk: '0.00'
+- Rank: '122'
   Name: Alloy
   Group: ABM
   FBID: alloy8585
@@ -1208,7 +1218,7 @@
   Cycle: '0.00'
   Swim: '3.40'
   Walk: '0.00'
-- Rank: '122'
+- Rank: '123'
   Name: KevinKKW
   Group: ADSS/ADWS/ADWO
   FBID: Kkkw0165
@@ -1218,7 +1228,7 @@
   Cycle: '117.90'
   Swim: '0.00'
   Walk: '7.10'
-- Rank: '123'
+- Rank: '124'
   Name: Akileis
   Group: ADW
   FBID: Akileis0163
@@ -1228,7 +1238,7 @@
   Cycle: '0.00'
   Swim: '11.00'
   Walk: '6.29'
-- Rank: '124'
+- Rank: '125'
   Name: 'Sengie '
   Group: ADW
   FBID: ARIAL0160
@@ -1238,7 +1248,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '21.08'
-- Rank: '125'
+- Rank: '126'
   Name: Sze Tein
   Group: ATC
   FBID: Topaz1327
@@ -1248,7 +1258,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '126'
+- Rank: '127'
   Name: COVID
   Group: ADSS/ADWS/ADWO
   FBID: COVID9999
@@ -1258,7 +1268,7 @@
   Cycle: '74.61'
   Swim: '0.00'
   Walk: '21.50'
-- Rank: '127'
+- Rank: '128'
   Name: Manu
   Group: ABM
   FBID: Manu7894
@@ -1267,16 +1277,6 @@
   Run: '66.82'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '128'
-  Name: Sunray
-  Group: ABM
-  FBID: Sunray0909
-  Total_Mileage: '66.62'
-  Badges: '4'
-  Run: '20.10'
-  Cycle: '179.85'
-  Swim: '0.26'
   Walk: '0.00'
 - Rank: '129'
   Name: Yew Choong
