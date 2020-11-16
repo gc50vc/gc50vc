@@ -639,6 +639,16 @@
   Swim: '0.50'
   Walk: '10.51'
 - Rank: '65'
+  Name: Steyr
+  Group: ABM
+  FBID: Steyr9693
+  Total_Mileage: '119.29'
+  Badges: '4'
+  Run: '114.72'
+  Cycle: '18.27'
+  Swim: '0.00'
+  Walk: '3.42'
+- Rank: '66'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: Errick1991
@@ -648,7 +658,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '66'
+- Rank: '67'
   Name: Zanna
   Group: ABM
   FBID: Zena2107
@@ -658,7 +668,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '67'
+- Rank: '68'
   Name: Yun Jie (Rhythm)
   Group: ADW
   FBID: Jabez8686
@@ -668,16 +678,6 @@
   Cycle: '0.00'
   Swim: '14.19'
   Walk: '4.80'
-- Rank: '68'
-  Name: Steyr
-  Group: ABM
-  FBID: Steyr9693
-  Total_Mileage: '111.88'
-  Badges: '4'
-  Run: '107.31'
-  Cycle: '18.27'
-  Swim: '0.00'
-  Walk: '3.42'
 - Rank: '69'
   Name: Keith low
   Group: ADSS/ADWS/ADWO
@@ -2987,7 +2987,7 @@
   Run: '23.46'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '8.13'
+  Walk: '12.73'
 - Rank: '300'
   Name: TEH
   Group: ADW
