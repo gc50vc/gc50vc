@@ -899,16 +899,6 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '91'
-  Name: loanshark
-  Group: ATC
-  FBID: loanshark9356
-  Total_Mileage: '94.58'
-  Badges: '3'
-  Run: '94.58'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '92'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -918,7 +908,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '93'
+- Rank: '92'
   Name: QUENCHER
   Group: ABM
   FBID: quencher2020
@@ -928,7 +918,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '94'
+- Rank: '93'
   Name: Geeky
   Group: ADW
   FBID: Geeky1989
@@ -938,7 +928,7 @@
   Cycle: '0.00'
   Swim: '6.10'
   Walk: '32.34'
-- Rank: '95'
+- Rank: '94'
   Name: Malcolm Taong
   Group: ADSS/ADWS/ADWO
   FBID: TAONG8070
@@ -948,7 +938,7 @@
   Cycle: '267.29'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '96'
+- Rank: '95'
   Name: ARROW
   Group: ADW
   FBID: Tee1980
@@ -956,6 +946,16 @@
   Badges: '4'
   Run: '69.36'
   Cycle: '77.42'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '96'
+  Name: loanshark
+  Group: ATC
+  FBID: loanshark9356
+  Total_Mileage: '88.57'
+  Badges: '3'
+  Run: '88.57'
+  Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '97'
