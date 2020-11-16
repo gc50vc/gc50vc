@@ -799,6 +799,16 @@
   Swim: '3.10'
   Walk: '2.30'
 - Rank: '81'
+  Name: Lightyear
+  Group: ADW
+  FBID: Lightyear2020
+  Total_Mileage: '101.35'
+  Badges: '4'
+  Run: '101.35'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '82'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -808,7 +818,7 @@
   Cycle: '245.00'
   Swim: '0.00'
   Walk: '2.00'
-- Rank: '82'
+- Rank: '83'
   Name: Maj Lim
   Group: ABM
   FBID: Legoz1000
@@ -818,7 +828,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '16.48'
-- Rank: '83'
+- Rank: '84'
   Name: Steroid
   Group: ATC
   FBID: Steroid1007
@@ -828,7 +838,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '84'
+- Rank: '85'
   Name: Jeremy Tan
   Group: ATC
   FBID: Scavenge1601
@@ -838,7 +848,7 @@
   Cycle: '0.00'
   Swim: '0.80'
   Walk: '4.02'
-- Rank: '85'
+- Rank: '86'
   Name: Rats
   Group: ABM
   FBID: Rats1500
@@ -848,7 +858,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '86'
+- Rank: '87'
   Name: Andre
   Group: ADW
   FBID: Andre7429
@@ -857,16 +867,6 @@
   Run: '4.22'
   Cycle: '354.72'
   Swim: '0.85'
-  Walk: '0.00'
-- Rank: '87'
-  Name: Lightyear
-  Group: ADW
-  FBID: Lightyear2020
-  Total_Mileage: '96.35'
-  Badges: '3'
-  Run: '96.35'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '88'
   Name: RainmanCYK
