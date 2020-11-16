@@ -549,6 +549,16 @@
   Swim: '3.55'
   Walk: '0.00'
 - Rank: '56'
+  Name: GN
+  Group: ADSS/ADWS/ADWO
+  FBID: GN8282
+  Total_Mileage: '132.34'
+  Badges: '4'
+  Run: '132.34'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '57'
   Name: Slong
   Group: ADW
   FBID: Slong1234
@@ -557,16 +567,6 @@
   Run: '87.87'
   Cycle: '0.00'
   Swim: '7.37'
-  Walk: '0.00'
-- Rank: '57'
-  Name: GN
-  Group: ADSS/ADWS/ADWO
-  FBID: GN8282
-  Total_Mileage: '128.27'
-  Badges: '4'
-  Run: '128.27'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '58'
   Name: Anson Chiu
