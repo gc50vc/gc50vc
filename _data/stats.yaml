@@ -109,16 +109,6 @@
   Swim: '44.20'
   Walk: '1.32'
 - Rank: '12'
-  Name: K Y Leong
-  Group: ADSS/ADWS/ADWO
-  FBID: Kyxy2808
-  Total_Mileage: '343.34'
-  Badges: '4'
-  Run: '343.34'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '13'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -128,6 +118,16 @@
   Cycle: '155.02'
   Swim: '35.87'
   Walk: '109.94'
+- Rank: '13'
+  Name: K Y Leong
+  Group: ADSS/ADWS/ADWO
+  FBID: Kyxy2808
+  Total_Mileage: '330.53'
+  Badges: '4'
+  Run: '330.53'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
 - Rank: '14'
   Name: yapoh
   Group: ADW
@@ -639,16 +639,6 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '65'
-  Name: Keith low
-  Group: ADSS/ADWS/ADWO
-  FBID: Keithlow1998
-  Total_Mileage: '114.32'
-  Badges: '5'
-  Run: '8.78'
-  Cycle: '422.17'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '66'
   Name: Zanna
   Group: ABM
   FBID: Zena2107
@@ -658,7 +648,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '67'
+- Rank: '66'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -668,6 +658,16 @@
   Cycle: '18.27'
   Swim: '0.00'
   Walk: '3.42'
+- Rank: '67'
+  Name: Keith low
+  Group: ADSS/ADWS/ADWO
+  FBID: Keithlow1998
+  Total_Mileage: '111.22'
+  Badges: '5'
+  Run: '8.78'
+  Cycle: '409.75'
+  Swim: '0.00'
+  Walk: '0.00'
 - Rank: '68'
   Name: Weng
   Group: ADSS/ADWS/ADWO
