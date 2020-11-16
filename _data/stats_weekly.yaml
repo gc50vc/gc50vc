@@ -89,22 +89,22 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '10'
-  Name: Zanna
-  Group: ABM
-  FBID: Zena2107
-  Total_Mileage: '117.92'
-  Badges: '0'
-  Run: '0.00'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '11'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
   Total_Mileage: '113.26'
   Badges: '0'
   Run: '8.06'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '11'
+  Name: Zanna
+  Group: ABM
+  FBID: Zena2107
+  Total_Mileage: '112.27'
+  Badges: '0'
+  Run: '0.00'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
