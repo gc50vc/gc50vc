@@ -337,7 +337,7 @@
   Run: '52.05'
   Cycle: '479.54'
   Swim: '4.00'
-  Walk: '12.33'
+  Walk: '18.58'
 - Rank: '35'
   Name: Daniel Tay
   Group: AOSX/AOS
@@ -869,6 +869,16 @@
   Swim: '6.10'
   Walk: '40.67'
 - Rank: '88'
+  Name: loanshark
+  Group: ATC
+  FBID: loanshark9356
+  Total_Mileage: '99.58'
+  Badges: '3'
+  Run: '99.58'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '89'
   Name: Steroid
   Group: ATC
   FBID: Steroid1007
@@ -878,7 +888,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '89'
+- Rank: '90'
   Name: Jeremy Tan
   Group: ATC
   FBID: Scavenge1601
@@ -888,7 +898,7 @@
   Cycle: '0.00'
   Swim: '0.80'
   Walk: '4.02'
-- Rank: '90'
+- Rank: '91'
   Name: Andre
   Group: ADW
   FBID: Andre7429
@@ -898,7 +908,7 @@
   Cycle: '354.72'
   Swim: '0.85'
   Walk: '0.00'
-- Rank: '91'
+- Rank: '92'
   Name: Rock
   Group: ADW
   FBID: Rock0165
@@ -908,7 +918,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '6.00'
-- Rank: '92'
+- Rank: '93'
   Name: Poon
   Group: ADSS/ADWS/ADWO
   FBID: Poon3636
@@ -918,7 +928,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '93'
+- Rank: '94'
   Name: QUENCHER
   Group: ABM
   FBID: quencher2020
@@ -928,7 +938,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '94'
+- Rank: '95'
   Name: Malcolm Taong
   Group: ADSS/ADWS/ADWO
   FBID: TAONG8070
@@ -938,7 +948,7 @@
   Cycle: '267.29'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '95'
+- Rank: '96'
   Name: ARROW
   Group: ADW
   FBID: Tee1980
@@ -946,16 +956,6 @@
   Badges: '4'
   Run: '69.36'
   Cycle: '77.42'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '96'
-  Name: loanshark
-  Group: ATC
-  FBID: loanshark9356
-  Total_Mileage: '88.57'
-  Badges: '3'
-  Run: '88.57'
-  Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '97'
