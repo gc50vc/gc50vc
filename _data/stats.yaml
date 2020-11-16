@@ -1289,6 +1289,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '130'
+  Name: Chin Yong
+  Group: ADSS/ADWS/ADWO
+  FBID: Relaxing1234
+  Total_Mileage: '65.31'
+  Badges: '4'
+  Run: '51.45'
+  Cycle: '55.45'
+  Swim: '0.00'
+  Walk: '36.21'
+- Rank: '131'
   Name: Barter
   Group: ATC
   FBID: Reload0203
@@ -1298,7 +1308,7 @@
   Cycle: '203.00'
   Swim: '1.50'
   Walk: '13.50'
-- Rank: '131'
+- Rank: '132'
   Name: Der Siang
   Group: ATC
   FBID: Aku1234
@@ -1308,7 +1318,7 @@
   Cycle: '72.93'
   Swim: '3.50'
   Walk: '0.00'
-- Rank: '132'
+- Rank: '133'
   Name: Wan Yuan
   Group: ADW
   FBID: Lost1908
@@ -1318,7 +1328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.83'
-- Rank: '133'
+- Rank: '134'
   Name: Camper
   Group: ADW
   FBID: tanht1968
@@ -1328,7 +1338,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '134'
+- Rank: '135'
   Name: Kent Zeng
   Group: ADSS/ADWS/ADWO
   FBID: Stonks69420
@@ -1338,7 +1348,7 @@
   Cycle: '75.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '135'
+- Rank: '136'
   Name: TRIPS
   Group: ATC
   FBID: TRIPS_0000
@@ -1348,7 +1358,7 @@
   Cycle: '161.87'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '136'
+- Rank: '137'
   Name: Darius Ng
   Group: ADSS/ADWS/ADWO
   FBID: bobo1234
@@ -1358,16 +1368,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '137'
-  Name: Chin Yong
-  Group: ADSS/ADWS/ADWO
-  FBID: Relaxing1234
-  Total_Mileage: '59.54'
-  Badges: '4'
-  Run: '45.68'
-  Cycle: '55.45'
-  Swim: '0.00'
-  Walk: '36.21'
 - Rank: '138'
   Name: Waffles
   Group: ATC
