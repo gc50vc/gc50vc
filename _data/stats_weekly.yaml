@@ -169,16 +169,6 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '18'
-  Name: Coral
-  Group: ABM
-  FBID: Coral5050
-  Total_Mileage: '72.63'
-  Badges: '0'
-  Run: '0.00'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '19'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -188,7 +178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '19'
   Name: aH-MuNs-Ge
   Group: AFE
   FBID: ahmuns9681
@@ -198,7 +188,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '20'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -208,7 +198,7 @@
   Cycle: '17.12'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '21'
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
@@ -218,7 +208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '22'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -228,7 +218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '23'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -238,7 +228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '24'
   Name: Daniel Tay
   Group: AOSX/AOS
   FBID: Corrupt2705
@@ -248,7 +238,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '25'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: Wang0165
@@ -258,11 +248,21 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '26'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
   Total_Mileage: '55.78'
+  Badges: '0'
+  Run: '0.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '27'
+  Name: Coral
+  Group: ABM
+  FBID: Coral5050
+  Total_Mileage: '54.61'
   Badges: '0'
   Run: '0.00'
   Cycle: '0.00'
