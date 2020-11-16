@@ -69,6 +69,16 @@
   Swim: '0.00'
   Walk: '2.18'
 - Rank: '8'
+  Name: Ektar
+  Group: ABM
+  FBID: ektar1971
+  Total_Mileage: '425.31'
+  Badges: '12'
+  Run: '102.47'
+  Cycle: '810.15'
+  Swim: '20.05'
+  Walk: '0.00'
+- Rank: '9'
   Name: Nicholas
   Group: ADSS/ADWS/ADWO
   FBID: NN1974
@@ -78,16 +88,6 @@
   Cycle: '1080.53'
   Swim: '13.50'
   Walk: '3.02'
-- Rank: '9'
-  Name: Ektar
-  Group: ABM
-  FBID: ektar1971
-  Total_Mileage: '411.21'
-  Badges: '12'
-  Run: '102.47'
-  Cycle: '810.15'
-  Swim: '17.70'
-  Walk: '0.00'
 - Rank: '10'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
