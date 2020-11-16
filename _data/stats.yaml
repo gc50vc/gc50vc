@@ -1339,6 +1339,16 @@
   Swim: '1.00'
   Walk: '0.00'
 - Rank: '135'
+  Name: TRIPS
+  Group: ATC
+  FBID: TRIPS_0000
+  Total_Mileage: '61.99'
+  Badges: '4'
+  Run: '21.52'
+  Cycle: '161.87'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '136'
   Name: Darius Ng
   Group: ADSS/ADWS/ADWO
   FBID: bobo1234
@@ -1348,7 +1358,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '136'
+- Rank: '137'
   Name: Chin Yong
   Group: ADSS/ADWS/ADWO
   FBID: Relaxing1234
@@ -1358,7 +1368,7 @@
   Cycle: '55.45'
   Swim: '0.00'
   Walk: '36.21'
-- Rank: '137'
+- Rank: '138'
   Name: Waffles
   Group: ATC
   FBID: Waffles3567
@@ -1368,16 +1378,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.57'
-- Rank: '138'
-  Name: TRIPS
-  Group: ATC
-  FBID: TRIPS_0000
-  Total_Mileage: '58.94'
-  Badges: '4'
-  Run: '18.47'
-  Cycle: '161.87'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '139'
   Name: Jamie Chen
   Group: ADSS/ADWS/ADWO
