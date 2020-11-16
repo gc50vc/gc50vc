@@ -329,6 +329,16 @@
   Swim: '18.80'
   Walk: '0.00'
 - Rank: '34'
+  Name: Rycel Wong
+  Group: AOSX/AOS
+  FBID: Rycel2929
+  Total_Mileage: '191.59'
+  Badges: '10'
+  Run: '63.89'
+  Cycle: '357.20'
+  Swim: '6.40'
+  Walk: '14.39'
+- Rank: '35'
   Name: aH-MuNs-Ge
   Group: AFE
   FBID: ahmuns9861
@@ -338,16 +348,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '79.15'
-- Rank: '35'
-  Name: Rycel Wong
-  Group: AOSX/AOS
-  FBID: Rycel2929
-  Total_Mileage: '189.59'
-  Badges: '10'
-  Run: '61.89'
-  Cycle: '357.20'
-  Swim: '6.40'
-  Walk: '14.39'
 - Rank: '36'
   Name: jheng
   Group: ADSS/ADWS/ADWO
@@ -939,6 +939,16 @@
   Swim: '6.10'
   Walk: '32.34'
 - Rank: '95'
+  Name: Jeremy Tan
+  Group: ATC
+  FBID: Scavenge1601
+  Total_Mileage: '91.09'
+  Badges: '3'
+  Run: '86.29'
+  Cycle: '0.00'
+  Swim: '0.80'
+  Walk: '4.02'
+- Rank: '96'
   Name: Malcolm Taong
   Group: ADSS/ADWS/ADWO
   FBID: TAONG8070
@@ -948,7 +958,7 @@
   Cycle: '267.29'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '96'
+- Rank: '97'
   Name: ARROW
   Group: ADW
   FBID: Tee1980
@@ -958,7 +968,7 @@
   Cycle: '77.42'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '97'
+- Rank: '98'
   Name: Rocky
   Group: AOSX/AOS
   FBID: ZeRo7113
@@ -968,16 +978,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '57.30'
-- Rank: '98'
-  Name: Jeremy Tan
-  Group: ATC
-  FBID: Scavenge1601
-  Total_Mileage: '86.07'
-  Badges: '3'
-  Run: '81.27'
-  Cycle: '0.00'
-  Swim: '0.80'
-  Walk: '4.02'
 - Rank: '99'
   Name: Weaver
   Group: ADW
