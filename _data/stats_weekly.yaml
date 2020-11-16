@@ -89,6 +89,16 @@
   Swim: '0.90'
   Walk: '0.00'
 - Rank: '10'
+  Name: Leonard ong
+  Group: ADSS/ADWS/ADWO
+  FBID: Wang0165
+  Total_Mileage: '23.95'
+  Badges: '0'
+  Run: '23.95'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '11'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -98,7 +108,7 @@
   Cycle: '33.13'
   Swim: '2.35'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -108,7 +118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -118,7 +128,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: LZX
   Group: ADSS/ADWS/ADWO
   FBID: leezx1337
@@ -128,7 +138,7 @@
   Cycle: '75.68'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '15'
   Name: Tyrone
   Group: ADW
   FBID: Tyrone1234
@@ -138,7 +148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '15'
+- Rank: '16'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -147,16 +157,6 @@
   Run: '0.00'
   Cycle: '0.00'
   Swim: '2.96'
-  Walk: '0.00'
-- Rank: '16'
-  Name: Leonard ong
-  Group: ADSS/ADWS/ADWO
-  FBID: Wang0165
-  Total_Mileage: '16.08'
-  Badges: '0'
-  Run: '16.08'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '17'
   Name: Lin Weili
@@ -237,7 +237,7 @@
   Run: '11.01'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
+  Walk: '0.82'
 - Rank: '25'
   Name: Jj
   Group: ADSS/ADWS/ADWO
