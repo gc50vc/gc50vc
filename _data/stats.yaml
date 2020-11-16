@@ -199,6 +199,16 @@
   Swim: '13.60'
   Walk: '0.00'
 - Rank: '21'
+  Name: 'Tan Swee Kiat '
+  Group: ADW
+  FBID: Eskay0077
+  Total_Mileage: '236.43'
+  Badges: '4'
+  Run: '236.43'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '11.68'
+- Rank: '22'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -208,16 +218,6 @@
   Cycle: '881.64'
   Swim: '0.00'
   Walk: '2.19'
-- Rank: '22'
-  Name: 'Tan Swee Kiat '
-  Group: ADW
-  FBID: Eskay0077
-  Total_Mileage: '225.53'
-  Badges: '4'
-  Run: '225.53'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '11.68'
 - Rank: '23'
   Name: Tony Foo
   Group: ADW
@@ -2859,6 +2859,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '287'
+  Name: lcheeleo
+  Group: ABM
+  FBID: Lcheeleo3347
+  Total_Mileage: '26.03'
+  Badges: '2'
+  Run: '22.51'
+  Cycle: '14.08'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '288'
   Name: 'HK '
   Group: ADSS/ADWS/ADWO
   FBID: HK4812
@@ -2868,7 +2878,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '288'
+- Rank: '289'
   Name: Rong Sheng
   Group: ADSS/ADWS/ADWO
   FBID: Rong2208
@@ -2878,7 +2888,7 @@
   Cycle: '101.94'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '289'
+- Rank: '290'
   Name: Aron
   Group: ADSS/ADWS/ADWO
   FBID: agjj1995
@@ -2888,7 +2898,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '290'
+- Rank: '291'
   Name: Marcus
   Group: ADW
   FBID: Trident1107
@@ -2898,7 +2908,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '291'
+- Rank: '292'
   Name: Zippo
   Group: ABM
   FBID: Spencer7888
@@ -2908,7 +2918,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '292'
+- Rank: '293'
   Name: Poh Liong Wui
   Group: AFE
   FBID: Pohlw7878
@@ -2918,7 +2928,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '93.35'
-- Rank: '293'
+- Rank: '294'
   Name: Wei Hong
   Group: ADW
   FBID: ulo2020
@@ -2928,7 +2938,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.66'
-- Rank: '294'
+- Rank: '295'
   Name: Evan
   Group: ADSS/ADWS/ADWO
   FBID: Meliodas4545
@@ -2938,7 +2948,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '295'
+- Rank: '296'
   Name: leslie
   Group: ADW
   FBID: les0374
@@ -2948,7 +2958,7 @@
   Cycle: '95.67'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '296'
+- Rank: '297'
   Name: Beyblade
   Group: ATC
   FBID: Beyblade9999
@@ -2958,7 +2968,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.07'
-- Rank: '297'
+- Rank: '298'
   Name: 160ACHESTNUT
   Group: ADSS/ADWS/ADWO
   FBID: CHESTNUT2303
@@ -2968,7 +2978,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.00'
-- Rank: '298'
+- Rank: '299'
   Name: Joel Tan
   Group: ADW
   FBID: mojojojo2000
@@ -2978,7 +2988,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '13.40'
-- Rank: '299'
+- Rank: '300'
   Name: WJ
   Group: ADSS/ADWS/ADWO
   FBID: jie0304
@@ -2988,7 +2998,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '12.73'
-- Rank: '300'
+- Rank: '301'
   Name: TEH
   Group: ADW
   FBID: TEH0501
@@ -2998,7 +3008,7 @@
   Cycle: '42.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '300'
+- Rank: '301'
   Name: XavYeo
   Group: ADSS/ADWS/ADWO
   FBID: OnsenEgg1234
@@ -3008,7 +3018,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '302'
+- Rank: '303'
   Name: Nigel Tan
   Group: ADW
   FBID: lavahound0404
@@ -3018,7 +3028,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '303'
+- Rank: '304'
   Name: Chris y
   Group: ATC
   FBID: Cyan0220
@@ -3029,16 +3039,6 @@
   Swim: '2.30'
   Walk: '0.00'
 - Rank: '305'
-  Name: lcheeleo
-  Group: ABM
-  FBID: Lcheeleo3347
-  Total_Mileage: '22.51'
-  Badges: '2'
-  Run: '22.51'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '304'
   Name: Min Jet
   Group: ADW
   FBID: Filter2174
