@@ -19,6 +19,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '3'
+  Name: Ektar
+  Group: ABM
+  FBID: Ektar1971
+  Total_Mileage: '22.38'
+  Badges: '0'
+  Run: '0.00'
+  Cycle: '33.13'
+  Swim: '2.35'
+  Walk: '0.00'
+- Rank: '4'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -28,7 +38,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '4'
+- Rank: '5'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -38,7 +48,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '5'
+- Rank: '6'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -48,7 +58,7 @@
   Cycle: '0.00'
   Swim: '2.96'
   Walk: '0.00'
-- Rank: '6'
+- Rank: '7'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: Wang0165
@@ -58,7 +68,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '7'
+- Rank: '8'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -68,7 +78,7 @@
   Cycle: '17.12'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '8'
+- Rank: '9'
   Name: Iggy
   Group: ADSS/ADWS/ADWO
   FBID: Iggy7900
@@ -77,16 +87,6 @@
   Run: '0.00'
   Cycle: '61.14'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '9'
-  Name: Ektar
-  Group: ABM
-  FBID: Ektar1971
-  Total_Mileage: '14.10'
-  Badges: '0'
-  Run: '0.00'
-  Cycle: '0.00'
-  Swim: '2.35'
   Walk: '0.00'
 - Rank: '10'
   Name: Sloh
