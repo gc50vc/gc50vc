@@ -139,16 +139,6 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '15'
-  Name: Nicholas Lian
-  Group: ADW
-  FBID: horsepower2001
-  Total_Mileage: '89.83'
-  Badges: '0'
-  Run: '6.21'
-  Cycle: '0.00'
-  Swim: '0.90'
-  Walk: '0.00'
-- Rank: '16'
   Name: yapoh
   Group: ADW
   FBID: Yapoh0304
@@ -157,6 +147,16 @@
   Run: '0.00'
   Cycle: '0.00'
   Swim: '0.00'
+  Walk: '0.00'
+- Rank: '16'
+  Name: Nicholas Lian
+  Group: ADW
+  FBID: horsepower2001
+  Total_Mileage: '81.00'
+  Badges: '0'
+  Run: '6.21'
+  Cycle: '0.00'
+  Swim: '0.90'
   Walk: '0.00'
 - Rank: '17'
   Name: Jade
