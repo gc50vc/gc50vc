@@ -2,11 +2,11 @@
   Name: Extreme
   Group: ATC
   FBID: Extreme8123
-  Total_Mileage: '1032.81'
+  Total_Mileage: '1056.81'
   Badges: '11'
   Run: '363.36'
   Cycle: '162.60'
-  Swim: '104.80'
+  Swim: '108.80'
   Walk: '3.10'
 - Rank: '2'
   Name: Ben
@@ -339,16 +339,6 @@
   Swim: '6.40'
   Walk: '14.39'
 - Rank: '35'
-  Name: bok ong
-  Group: ADSS/ADWS/ADWO
-  FBID: bok2903
-  Total_Mileage: '190.00'
-  Badges: '4'
-  Run: '190.00'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '35'
   Name: aH-MuNs-Ge
   Group: AFE
   FBID: ahmuns9861
@@ -358,6 +348,16 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '79.15'
+- Rank: '36'
+  Name: bok ong
+  Group: ADSS/ADWS/ADWO
+  FBID: bok2903
+  Total_Mileage: '189.16'
+  Badges: '4'
+  Run: '189.16'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
 - Rank: '37'
   Name: jheng
   Group: ADSS/ADWS/ADWO
