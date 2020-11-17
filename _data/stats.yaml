@@ -1169,6 +1169,16 @@
   Swim: '10.00'
   Walk: '11.06'
 - Rank: '118'
+  Name: Sunray
+  Group: ABM
+  FBID: Sunray0909
+  Total_Mileage: '72.02'
+  Badges: '4'
+  Run: '20.10'
+  Cycle: '179.85'
+  Swim: '1.16'
+  Walk: '0.00'
+- Rank: '119'
   Name: Lim Kian Hock
   Group: AFE
   FBID: Jon3445
@@ -1178,7 +1188,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '119'
+- Rank: '120'
   Name: Zinc
   Group: ADW
   FBID: zinc1997
@@ -1188,7 +1198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '5.65'
-- Rank: '120'
+- Rank: '121'
   Name: Yeow Teck
   Group: AOSX/AOS
   FBID: Youtube6116
@@ -1198,7 +1208,7 @@
   Cycle: '0.00'
   Swim: '2.20'
   Walk: '0.00'
-- Rank: '121'
+- Rank: '122'
   Name: Darius Ng
   Group: ADSS/ADWS/ADWO
   FBID: bobo1234
@@ -1208,7 +1218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '122'
+- Rank: '123'
   Name: Hector
   Group: ADW
   FBID: Hector0911
@@ -1218,7 +1228,7 @@
   Cycle: '0.00'
   Swim: '6.90'
   Walk: '4.26'
-- Rank: '123'
+- Rank: '124'
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
@@ -1228,7 +1238,7 @@
   Cycle: '24.16'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '124'
+- Rank: '125'
   Name: Camper
   Group: ADW
   FBID: tanht1968
@@ -1238,7 +1248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '125'
+- Rank: '126'
   Name: aH-MuNs-Ge
   Group: AFE
   FBID: ahmuns9681
@@ -1247,16 +1257,6 @@
   Run: '69.34'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '126'
-  Name: Sunray
-  Group: ABM
-  FBID: Sunray0909
-  Total_Mileage: '69.02'
-  Badges: '4'
-  Run: '20.10'
-  Cycle: '179.85'
-  Swim: '0.66'
   Walk: '0.00'
 - Rank: '127'
   Name: Alloy
