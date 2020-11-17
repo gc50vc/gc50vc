@@ -59,6 +59,16 @@
   Swim: '0.90'
   Walk: '0.00'
 - Rank: '7'
+  Name: Sloh
+  Group: ADW
+  FBID: Sloh0121
+  Total_Mileage: '42.68'
+  Badges: '0'
+  Run: '22.12'
+  Cycle: '43.83'
+  Swim: '1.60'
+  Walk: '0.00'
+- Rank: '8'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -68,7 +78,7 @@
   Cycle: '60.28'
   Swim: '4.45'
   Walk: '0.00'
-- Rank: '8'
+- Rank: '9'
   Name: Chan Wen
   Group: ADW
   FBID: Gman1234
@@ -78,7 +88,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '9'
+- Rank: '10'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -87,16 +97,6 @@
   Run: '37.30'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '10'
-  Name: Sloh
-  Group: ADW
-  FBID: Sloh0121
-  Total_Mileage: '34.56'
-  Badges: '0'
-  Run: '14.00'
-  Cycle: '43.83'
-  Swim: '1.60'
   Walk: '0.00'
 - Rank: '11'
   Name: Slimer
