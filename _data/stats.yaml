@@ -1019,6 +1019,16 @@
   Swim: '0.00'
   Walk: '13.11'
 - Rank: '103'
+  Name: Nana
+  Group: AFE
+  FBID: Chris1166
+  Total_Mileage: '81.71'
+  Badges: '7'
+  Run: '32.18'
+  Cycle: '114.11'
+  Swim: '3.50'
+  Walk: '70.00'
+- Rank: '104'
   Name: 'Windy '
   Group: ABM
   FBID: Windy4444
@@ -1028,7 +1038,7 @@
   Cycle: '0.00'
   Swim: '13.60'
   Walk: '0.00'
-- Rank: '104'
+- Rank: '105'
   Name: Ram
   Group: ADW
   FBID: ram7267
@@ -1038,7 +1048,7 @@
   Cycle: '0.00'
   Swim: '5.30'
   Walk: '0.00'
-- Rank: '105'
+- Rank: '106'
   Name: 'Sengie '
   Group: ADW
   FBID: ARIAL0160
@@ -1048,16 +1058,6 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '21.08'
-- Rank: '106'
-  Name: Nana
-  Group: AFE
-  FBID: Chris1166
-  Total_Mileage: '76.33'
-  Badges: '7'
-  Run: '26.80'
-  Cycle: '114.11'
-  Swim: '3.50'
-  Walk: '70.00'
 - Rank: '107'
   Name: Fu Hao Wei
   Group: ADW
