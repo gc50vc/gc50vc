@@ -369,6 +369,16 @@
   Swim: '0.00'
   Walk: '79.15'
 - Rank: '38'
+  Name: jheng
+  Group: ADSS/ADWS/ADWO
+  FBID: jheng0000
+  Total_Mileage: '189.62'
+  Badges: '9'
+  Run: '52.20'
+  Cycle: '132.79'
+  Swim: '17.37'
+  Walk: '0.00'
+- Rank: '39'
   Name: bok ong
   Group: ADSS/ADWS/ADWO
   FBID: bok2903
@@ -377,16 +387,6 @@
   Run: '189.16'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '39'
-  Name: jheng
-  Group: ADSS/ADWS/ADWO
-  FBID: jheng0000
-  Total_Mileage: '183.62'
-  Badges: '9'
-  Run: '52.20'
-  Cycle: '132.79'
-  Swim: '16.37'
   Walk: '0.00'
 - Rank: '40'
   Name: Ah Bing
@@ -629,6 +629,16 @@
   Swim: '0.00'
   Walk: '1.04'
 - Rank: '64'
+  Name: Tan Chee Wee
+  Group: ATC
+  FBID: tancw1974
+  Total_Mileage: '122.51'
+  Badges: '4'
+  Run: '115.13'
+  Cycle: '29.50'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '65'
   Name: Xiaolow3344
   Group: ADSS/ADWS/ADWO
   FBID: Xiaolow3344
@@ -638,7 +648,7 @@
   Cycle: '0.00'
   Swim: '20.00'
   Walk: '71.88'
-- Rank: '65'
+- Rank: '66'
   Name: Cosmo
   Group: ABM
   FBID: Cosmo6306
@@ -648,7 +658,7 @@
   Cycle: '0.00'
   Swim: '0.50'
   Walk: '10.51'
-- Rank: '66'
+- Rank: '67'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -658,7 +668,7 @@
   Cycle: '18.27'
   Swim: '0.00'
   Walk: '3.42'
-- Rank: '67'
+- Rank: '68'
   Name: Weng
   Group: ADSS/ADWS/ADWO
   FBID: Weng8238
@@ -668,7 +678,7 @@
   Cycle: '257.17'
   Swim: '0.00'
   Walk: '13.86'
-- Rank: '68'
+- Rank: '69'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: Errick1991
@@ -678,7 +688,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '69'
+- Rank: '70'
   Name: TT
   Group: ABM
   FBID: jiawei1989
@@ -688,7 +698,7 @@
   Cycle: '10.83'
   Swim: '0.00'
   Walk: '1.89'
-- Rank: '70'
+- Rank: '71'
   Name: Zanna
   Group: ABM
   FBID: Zena2107
@@ -698,7 +708,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '71'
+- Rank: '72'
   Name: Keith low
   Group: ADSS/ADWS/ADWO
   FBID: Keithlow1998
@@ -706,16 +716,6 @@
   Badges: '5'
   Run: '8.78'
   Cycle: '409.75'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '72'
-  Name: Tan Chee Wee
-  Group: ATC
-  FBID: tancw1974
-  Total_Mileage: '111.16'
-  Badges: '4'
-  Run: '103.78'
-  Cycle: '29.50'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '73'
