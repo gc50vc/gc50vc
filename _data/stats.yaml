@@ -1009,6 +1009,16 @@
   Swim: '0.00'
   Walk: '13.84'
 - Rank: '102'
+  Name: Gwyn
+  Group: ADW
+  FBID: Magma1201
+  Total_Mileage: '84.92'
+  Badges: '4'
+  Run: '73.27'
+  Cycle: '46.60'
+  Swim: '0.00'
+  Walk: '8.93'
+- Rank: '103'
   Name: Legend
   Group: ADW
   FBID: Legend2512
@@ -1018,7 +1028,7 @@
   Cycle: '191.27'
   Swim: '0.00'
   Walk: '13.11'
-- Rank: '103'
+- Rank: '104'
   Name: Nana
   Group: AFE
   FBID: Chris1166
@@ -1028,7 +1038,7 @@
   Cycle: '114.11'
   Swim: '3.50'
   Walk: '70.00'
-- Rank: '104'
+- Rank: '105'
   Name: 'Windy '
   Group: ABM
   FBID: Windy4444
@@ -1038,7 +1048,7 @@
   Cycle: '0.00'
   Swim: '13.60'
   Walk: '0.00'
-- Rank: '105'
+- Rank: '106'
   Name: Ram
   Group: ADW
   FBID: ram7267
@@ -1048,7 +1058,7 @@
   Cycle: '0.00'
   Swim: '5.30'
   Walk: '0.00'
-- Rank: '106'
+- Rank: '107'
   Name: 'Sengie '
   Group: ADW
   FBID: ARIAL0160
@@ -1058,7 +1068,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '21.08'
-- Rank: '107'
+- Rank: '108'
   Name: Fu Hao Wei
   Group: ADW
   FBID: fuhaowei8435
@@ -1068,7 +1078,7 @@
   Cycle: '273.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '108'
+- Rank: '109'
   Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
   FBID: LeonYeo2590
@@ -1078,7 +1088,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '109'
+- Rank: '110'
   Name: Sze Tein
   Group: ATC
   FBID: Topaz1327
@@ -1088,7 +1098,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '110'
+- Rank: '111'
   Name: Starbucks
   Group: ABM
   FBID: Starbucks3756
@@ -1098,7 +1108,7 @@
   Cycle: '9.23'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '111'
+- Rank: '112'
   Name: OLAF
   Group: ADW
   FBID: OLAF2156
@@ -1108,7 +1118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '112'
+- Rank: '113'
   Name: JonChen
   Group: ADW
   FBID: JonChen0000
@@ -1118,7 +1128,7 @@
   Cycle: '270.53'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '113'
+- Rank: '114'
   Name: Gabriel Low
   Group: ADSS/ADWS/ADWO
   FBID: gabrieltried1234
@@ -1128,7 +1138,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '114'
+- Rank: '115'
   Name: Dominic
   Group: ATC
   FBID: Nickel1191
@@ -1138,7 +1148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '115'
+- Rank: '116'
   Name: Jefferson
   Group: AFE
   FBID: VolvoJeff1985
@@ -1148,16 +1158,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '116'
-  Name: Gwyn
-  Group: ADW
-  FBID: Magma1201
-  Total_Mileage: '72.80'
-  Badges: '4'
-  Run: '61.15'
-  Cycle: '46.60'
-  Swim: '0.00'
-  Walk: '8.93'
 - Rank: '117'
   Name: Jiajun
   Group: ADSS/ADWS/ADWO
