@@ -139,6 +139,16 @@
   Swim: '9.40'
   Walk: '0.00'
 - Rank: '15'
+  Name: Nicholas Lian
+  Group: ADW
+  FBID: Horsepower2001
+  Total_Mileage: '314.08'
+  Badges: '7'
+  Run: '218.31'
+  Cycle: '30.26'
+  Swim: '14.70'
+  Walk: '2.98'
+- Rank: '16'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -148,16 +158,6 @@
   Cycle: '209.50'
   Swim: '28.70'
   Walk: '11.04'
-- Rank: '16'
-  Name: Nicholas Lian
-  Group: ADW
-  FBID: Horsepower2001
-  Total_Mileage: '310.86'
-  Badges: '7'
-  Run: '215.09'
-  Cycle: '30.26'
-  Swim: '14.70'
-  Walk: '2.98'
 - Rank: '17'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
@@ -259,6 +259,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '27'
+  Name: PIXAR
+  Group: ABM
+  FBID: PIXAR0001
+  Total_Mileage: '216.31'
+  Badges: '9'
+  Run: '114.25'
+  Cycle: '354.00'
+  Swim: '2.26'
+  Walk: '0.00'
+- Rank: '28'
   Name: Bronson
   Group: ADW
   FBID: Bronze1234
@@ -267,16 +277,6 @@
   Run: '47.73'
   Cycle: '149.89'
   Swim: '20.88'
-  Walk: '0.00'
-- Rank: '28'
-  Name: PIXAR
-  Group: ABM
-  FBID: PIXAR0001
-  Total_Mileage: '206.31'
-  Badges: '9'
-  Run: '114.25'
-  Cycle: '314.00'
-  Swim: '2.26'
   Walk: '0.00'
 - Rank: '29'
   Name: Dan
