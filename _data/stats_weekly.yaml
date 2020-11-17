@@ -69,6 +69,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '8'
+  Name: Sloh
+  Group: ADW
+  FBID: Sloh0121
+  Total_Mileage: '34.56'
+  Badges: '0'
+  Run: '14.00'
+  Cycle: '43.83'
+  Swim: '1.60'
+  Walk: '0.00'
+- Rank: '9'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -78,7 +88,7 @@
   Cycle: '8.76'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '9'
+- Rank: '10'
   Name: Nicholas Lian
   Group: ADW
   FBID: horsepower2001
@@ -88,7 +98,7 @@
   Cycle: '0.00'
   Swim: '0.90'
   Walk: '0.00'
-- Rank: '10'
+- Rank: '11'
   Name: Glenn
   Group: ADW
   FBID: Garfield3110
@@ -98,7 +108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: Ram
   Group: ADW
   FBID: Ram7267
@@ -108,7 +118,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: Besson
   Group: ATC
   FBID: Besson9898
@@ -118,7 +128,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: Bgtan
   Group: ADSS/ADWS/ADWO
   FBID: Kenny9889
@@ -128,16 +138,6 @@
   Cycle: '103.44'
   Swim: '0.00'
   Walk: '11.44'
-- Rank: '14'
-  Name: Sloh
-  Group: ADW
-  FBID: Sloh0121
-  Total_Mileage: '24.96'
-  Badges: '0'
-  Run: '14.00'
-  Cycle: '43.83'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '15'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
