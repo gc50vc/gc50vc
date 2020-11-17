@@ -199,6 +199,16 @@
   Swim: '2.96'
   Walk: '0.00'
 - Rank: '21'
+  Name: LWY
+  Group: AFE
+  FBID: LWY3137
+  Total_Mileage: '17.50'
+  Badges: '2'
+  Run: '5.00'
+  Cycle: '50.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '22'
   Name: Yun Jie (Rhythm)
   Group: ADW
   FBID: Jabez8686
@@ -208,7 +218,7 @@
   Cycle: '0.00'
   Swim: '2.14'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: Lin Weili
   Group: AOSX/AOS
   FBID: Michelin5052
@@ -218,7 +228,7 @@
   Cycle: '22.73'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: Iggy
   Group: ADSS/ADWS/ADWO
   FBID: Iggy7900
@@ -228,7 +238,7 @@
   Cycle: '61.14'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -238,7 +248,7 @@
   Cycle: '40.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: ASHWIN1234
   Group: ADW
   FBID: ashwin1234
@@ -248,7 +258,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: Sean Chua
   Group: ADSS/ADWS/ADWO
   FBID: Stop0001
@@ -258,7 +268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: Jeremy Tan
   Group: ATC
   FBID: Scavenge1601
@@ -266,16 +276,6 @@
   Badges: '0'
   Run: '12.73'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '28'
-  Name: LWY
-  Group: AFE
-  FBID: LWY3137
-  Total_Mileage: '12.50'
-  Badges: '2'
-  Run: '0.00'
-  Cycle: '50.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '29'
