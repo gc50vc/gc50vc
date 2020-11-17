@@ -1289,6 +1289,16 @@
   Swim: '11.00'
   Walk: '6.29'
 - Rank: '130'
+  Name: TRIPS
+  Group: ATC
+  FBID: TRIPS_0000
+  Total_Mileage: '68.28'
+  Badges: '4'
+  Run: '27.81'
+  Cycle: '161.87'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '131'
   Name: COVID
   Group: ADSS/ADWS/ADWO
   FBID: COVID9999
@@ -1298,7 +1308,7 @@
   Cycle: '74.61'
   Swim: '0.00'
   Walk: '21.50'
-- Rank: '131'
+- Rank: '132'
   Name: Manu
   Group: ABM
   FBID: Manu7894
@@ -1308,7 +1318,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '132'
+- Rank: '133'
   Name: Yew Choong
   Group: ADSS/ADWS/ADWO
   FBID: GGXC0160
@@ -1318,7 +1328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '19.25'
-- Rank: '133'
+- Rank: '134'
   Name: Lava
   Group: ATC
   FBID: Lava1717
@@ -1328,7 +1338,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '134'
+- Rank: '135'
   Name: Chin Yong
   Group: ADSS/ADWS/ADWO
   FBID: Relaxing1234
@@ -1338,7 +1348,7 @@
   Cycle: '55.45'
   Swim: '0.00'
   Walk: '36.21'
-- Rank: '135'
+- Rank: '136'
   Name: Barter
   Group: ATC
   FBID: Reload0203
@@ -1348,7 +1358,7 @@
   Cycle: '203.00'
   Swim: '1.50'
   Walk: '13.50'
-- Rank: '136'
+- Rank: '137'
   Name: Der Siang
   Group: ATC
   FBID: Aku1234
@@ -1358,7 +1368,7 @@
   Cycle: '72.93'
   Swim: '3.50'
   Walk: '0.00'
-- Rank: '137'
+- Rank: '138'
   Name: Wan Yuan
   Group: ADW
   FBID: Lost1908
@@ -1368,7 +1378,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.83'
-- Rank: '138'
+- Rank: '139'
   Name: Kent Zeng
   Group: ADSS/ADWS/ADWO
   FBID: Stonks69420
@@ -1377,16 +1387,6 @@
   Run: '37.50'
   Cycle: '75.00'
   Swim: '1.00'
-  Walk: '0.00'
-- Rank: '139'
-  Name: TRIPS
-  Group: ATC
-  FBID: TRIPS_0000
-  Total_Mileage: '61.99'
-  Badges: '4'
-  Run: '21.52'
-  Cycle: '161.87'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '140'
   Name: 'Crystal '
