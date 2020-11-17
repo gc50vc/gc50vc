@@ -169,6 +169,16 @@
   Swim: '2.58'
   Walk: '1.00'
 - Rank: '18'
+  Name: HC
+  Group: ADSS/ADWS/ADWO
+  FBID: hc1234
+  Total_Mileage: '264.23'
+  Badges: '5'
+  Run: '18.12'
+  Cycle: '984.44'
+  Swim: '0.00'
+  Walk: '2.19'
+- Rank: '19'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -178,16 +188,6 @@
   Cycle: '703.50'
   Swim: '3.10'
   Walk: '0.00'
-- Rank: '19'
-  Name: HC
-  Group: ADSS/ADWS/ADWO
-  FBID: hc1234
-  Total_Mileage: '248.91'
-  Badges: '5'
-  Run: '18.12'
-  Cycle: '923.14'
-  Swim: '0.00'
-  Walk: '2.19'
 - Rank: '20'
   Name: 'Tan Swee Kiat '
   Group: ADW
