@@ -779,6 +779,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '79'
+  Name: Rats
+  Group: ABM
+  FBID: Rats1500
+  Total_Mileage: '105.08'
+  Badges: '4'
+  Run: '105.08'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '80'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -788,7 +798,7 @@
   Cycle: '245.00'
   Swim: '0.00'
   Walk: '4.00'
-- Rank: '80'
+- Rank: '81'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -797,16 +807,6 @@
   Run: '35.35'
   Cycle: '91.76'
   Swim: '7.70'
-  Walk: '0.00'
-- Rank: '81'
-  Name: Rats
-  Group: ABM
-  FBID: Rats1500
-  Total_Mileage: '103.07'
-  Badges: '4'
-  Run: '103.07'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '82'
   Name: Rubiks
