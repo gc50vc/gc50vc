@@ -539,6 +539,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '55'
+  Name: GN
+  Group: ADSS/ADWS/ADWO
+  FBID: GN8282
+  Total_Mileage: '137.72'
+  Badges: '4'
+  Run: '137.72'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '56'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -548,7 +558,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '31.00'
-- Rank: '56'
+- Rank: '57'
   Name: Lia
   Group: ADSS/ADWS/ADWO
   FBID: Lia1116
@@ -557,16 +567,6 @@
   Run: '90.40'
   Cycle: '86.89'
   Swim: '3.55'
-  Walk: '0.00'
-- Rank: '57'
-  Name: GN
-  Group: ADSS/ADWS/ADWO
-  FBID: GN8282
-  Total_Mileage: '132.34'
-  Badges: '4'
-  Run: '132.34'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '58'
   Name: Slong
