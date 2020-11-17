@@ -949,6 +949,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '96'
+  Name: Jenny
+  Group: AFE
+  FBID: Jenny7373
+  Total_Mileage: '89.99'
+  Badges: '3'
+  Run: '87.07'
+  Cycle: '11.67'
+  Swim: '0.00'
+  Walk: '74.27'
+- Rank: '97'
   Name: ARROW
   Group: ADW
   FBID: Tee1980
@@ -958,7 +968,7 @@
   Cycle: '77.42'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '97'
+- Rank: '98'
   Name: Rocky
   Group: AOSX/AOS
   FBID: ZeRo7113
@@ -968,7 +978,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '57.30'
-- Rank: '98'
+- Rank: '99'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -978,7 +988,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '99'
+- Rank: '100'
   Name: Chan Howe
   Group: AOSX/AOS
   FBID: IceCube3008
@@ -988,7 +998,7 @@
   Cycle: '341.74'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '100'
+- Rank: '101'
   Name: Glenn
   Group: ADW
   FBID: Garfield3110
@@ -998,16 +1008,6 @@
   Cycle: '10.00'
   Swim: '0.00'
   Walk: '13.84'
-- Rank: '101'
-  Name: Jenny
-  Group: AFE
-  FBID: Jenny7373
-  Total_Mileage: '84.38'
-  Badges: '3'
-  Run: '81.46'
-  Cycle: '11.67'
-  Swim: '0.00'
-  Walk: '74.27'
 - Rank: '102'
   Name: Legend
   Group: ADW
