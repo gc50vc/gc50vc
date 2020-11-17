@@ -29,6 +29,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '4'
+  Name: Ben
+  Group: ADW
+  FBID: BY8362
+  Total_Mileage: '45.00'
+  Badges: '0'
+  Run: '10.00'
+  Cycle: '140.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '5'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -38,7 +48,7 @@
   Cycle: '60.28'
   Swim: '4.45'
   Walk: '0.00'
-- Rank: '5'
+- Rank: '6'
   Name: Chan Wen
   Group: ADW
   FBID: Gman1234
@@ -48,7 +58,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '6'
+- Rank: '7'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -58,7 +68,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '7'
+- Rank: '8'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -68,7 +78,7 @@
   Cycle: '8.76'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '8'
+- Rank: '9'
   Name: Nicholas Lian
   Group: ADW
   FBID: horsepower2001
@@ -78,7 +88,7 @@
   Cycle: '0.00'
   Swim: '0.90'
   Walk: '0.00'
-- Rank: '9'
+- Rank: '10'
   Name: Glenn
   Group: ADW
   FBID: Garfield3110
@@ -88,7 +98,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '10'
+- Rank: '11'
   Name: Ram
   Group: ADW
   FBID: Ram7267
@@ -98,7 +108,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: Besson
   Group: ATC
   FBID: Besson9898
@@ -108,7 +118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: Bgtan
   Group: ADSS/ADWS/ADWO
   FBID: Kenny9889
@@ -118,16 +128,6 @@
   Cycle: '103.44'
   Swim: '0.00'
   Walk: '11.44'
-- Rank: '13'
-  Name: Ben
-  Group: ADW
-  FBID: BY8362
-  Total_Mileage: '25.00'
-  Badges: '0'
-  Run: '10.00'
-  Cycle: '60.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '14'
   Name: Sloh
   Group: ADW
