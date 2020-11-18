@@ -3769,6 +3769,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '378'
+  Name: Shopan
+  Group: ATC
+  FBID: Shopan2000
+  Total_Mileage: '14.62'
+  Badges: '2'
+  Run: '14.62'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '379'
   Name: TAN
   Group: ADSS/ADWS/ADWO
   FBID: Number1111
@@ -3778,7 +3788,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '379'
+- Rank: '380'
   Name: Joseph Chua
   Group: ADSS/ADWS/ADWO
   FBID: RadarJoe0160
@@ -3788,7 +3798,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '380'
+- Rank: '381'
   Name: bray
   Group: ADSS/ADWS/ADWO
   FBID: BRAY0000
@@ -3798,7 +3808,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '381'
+- Rank: '382'
   Name: 'Siyi '
   Group: ADW
   FBID: Siyi1993
@@ -3808,7 +3818,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '382'
+- Rank: '383'
   Name: Chan Wen
   Group: ADSS/ADWS/ADWO
   FBID: Gman2105
@@ -3818,7 +3828,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '383'
+- Rank: '384'
   Name: Boonwee
   Group: AOSX/AOS
   FBID: Boon1950
@@ -3828,7 +3838,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '384'
+- Rank: '385'
   Name: TWIG
   Group: ATC
   FBID: TWIG2020
@@ -3838,7 +3848,7 @@
   Cycle: '0.00'
   Swim: '0.35'
   Walk: '0.00'
-- Rank: '385'
+- Rank: '386'
   Name: Brendan
   Group: ADSS/ADWS/ADWO
   FBID: xIAOchu0000
@@ -3848,7 +3858,7 @@
   Cycle: '40.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '386'
+- Rank: '387'
   Name: Declanmelo
   Group: ADSS/ADWS/ADWO
   FBID: Declan1234
@@ -3858,7 +3868,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '2.12'
-- Rank: '387'
+- Rank: '388'
   Name: Wenhua
   Group: ADW
   FBID: Chimney1111
@@ -3868,7 +3878,7 @@
   Cycle: '0.00'
   Swim: '0.70'
   Walk: '0.00'
-- Rank: '388'
+- Rank: '389'
   Name: JT
   Group: ADSS/ADWS/ADWO
   FBID: TC1657
@@ -3878,7 +3888,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '389'
+- Rank: '390'
   Name: Charles
   Group: ADSS/ADWS/ADWO
   FBID: CC0165
@@ -3888,23 +3898,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '389'
+- Rank: '390'
   Name: DomLai
   Group: ADSS/ADWS/ADWO
   FBID: ADSS8518
   Total_Mileage: '13.00'
   Badges: '2'
   Run: '13.00'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '391'
-  Name: Shopan
-  Group: ATC
-  FBID: Shopan2000
-  Total_Mileage: '12.60'
-  Badges: '2'
-  Run: '12.60'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
