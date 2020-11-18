@@ -1299,6 +1299,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '131'
+  Name: Chin Yong
+  Group: ADSS/ADWS/ADWO
+  FBID: Relaxing1234
+  Total_Mileage: '67.72'
+  Badges: '4'
+  Run: '53.86'
+  Cycle: '55.45'
+  Swim: '0.00'
+  Walk: '37.36'
+- Rank: '132'
   Name: COVID
   Group: ADSS/ADWS/ADWO
   FBID: COVID9999
@@ -1308,7 +1318,7 @@
   Cycle: '74.61'
   Swim: '0.00'
   Walk: '21.50'
-- Rank: '132'
+- Rank: '133'
   Name: Manu
   Group: ABM
   FBID: Manu7894
@@ -1318,7 +1328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '133'
+- Rank: '134'
   Name: Yew Choong
   Group: ADSS/ADWS/ADWO
   FBID: GGXC0160
@@ -1328,7 +1338,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '19.25'
-- Rank: '134'
+- Rank: '135'
   Name: Lava
   Group: ATC
   FBID: Lava1717
@@ -1338,16 +1348,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '135'
-  Name: Chin Yong
-  Group: ADSS/ADWS/ADWO
-  FBID: Relaxing1234
-  Total_Mileage: '65.31'
-  Badges: '4'
-  Run: '51.45'
-  Cycle: '55.45'
-  Swim: '0.00'
-  Walk: '36.21'
 - Rank: '136'
   Name: Barter
   Group: ATC
