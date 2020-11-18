@@ -219,6 +219,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '23'
+  Name: PIXAR
+  Group: ABM
+  FBID: PIXAR0001
+  Total_Mileage: '240.31'
+  Badges: '9'
+  Run: '114.25'
+  Cycle: '426.00'
+  Swim: '3.26'
+  Walk: '0.00'
+- Rank: '24'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -228,7 +238,7 @@
   Cycle: '40.64'
   Swim: '13.60'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -237,16 +247,6 @@
   Run: '189.16'
   Cycle: '66.17'
   Swim: '3.85'
-  Walk: '0.00'
-- Rank: '25'
-  Name: PIXAR
-  Group: ABM
-  FBID: PIXAR0001
-  Total_Mileage: '225.31'
-  Badges: '9'
-  Run: '114.25'
-  Cycle: '366.00'
-  Swim: '3.26'
   Walk: '0.00'
 - Rank: '26'
   Name: 'TiGeR3 '
