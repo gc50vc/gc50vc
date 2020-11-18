@@ -609,6 +609,16 @@
   Swim: '4.50'
   Walk: '6.00'
 - Rank: '62'
+  Name: Steyr
+  Group: ABM
+  FBID: Steyr9693
+  Total_Mileage: '127.67'
+  Badges: '4'
+  Run: '123.10'
+  Cycle: '18.27'
+  Swim: '0.00'
+  Walk: '3.42'
+- Rank: '63'
   Name: PCK
   Group: ADW
   FBID: PCK2205
@@ -618,7 +628,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '63'
+- Rank: '64'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -628,7 +638,7 @@
   Cycle: '8.76'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '64'
+- Rank: '65'
   Name: Sean Chua
   Group: ADSS/ADWS/ADWO
   FBID: Stop0001
@@ -638,7 +648,7 @@
   Cycle: '58.61'
   Swim: '0.00'
   Walk: '1.04'
-- Rank: '65'
+- Rank: '66'
   Name: Tan Chee Wee
   Group: ATC
   FBID: tancw1974
@@ -648,7 +658,7 @@
   Cycle: '29.50'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '66'
+- Rank: '67'
   Name: Xiaolow3344
   Group: ADSS/ADWS/ADWO
   FBID: Xiaolow3344
@@ -658,7 +668,7 @@
   Cycle: '0.00'
   Swim: '20.00'
   Walk: '71.88'
-- Rank: '67'
+- Rank: '68'
   Name: Cosmo
   Group: ABM
   FBID: Cosmo6306
@@ -668,16 +678,6 @@
   Cycle: '0.00'
   Swim: '0.50'
   Walk: '10.51'
-- Rank: '68'
-  Name: Steyr
-  Group: ABM
-  FBID: Steyr9693
-  Total_Mileage: '119.29'
-  Badges: '4'
-  Run: '114.72'
-  Cycle: '18.27'
-  Swim: '0.00'
-  Walk: '3.42'
 - Rank: '69'
   Name: Weng
   Group: ADSS/ADWS/ADWO
