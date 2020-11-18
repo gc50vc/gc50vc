@@ -999,6 +999,16 @@
   Swim: '0.00'
   Walk: '57.30'
 - Rank: '101'
+  Name: Fu Hao Wei
+  Group: ADW
+  FBID: fuhaowei8435
+  Total_Mileage: '85.95'
+  Badges: '4'
+  Run: '7.76'
+  Cycle: '312.77'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '102'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -1008,7 +1018,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '102'
+- Rank: '103'
   Name: Chan Howe
   Group: AOSX/AOS
   FBID: IceCube3008
@@ -1018,7 +1028,7 @@
   Cycle: '341.74'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '103'
+- Rank: '104'
   Name: Glenn
   Group: ADW
   FBID: Garfield3110
@@ -1028,7 +1038,7 @@
   Cycle: '10.00'
   Swim: '0.00'
   Walk: '13.84'
-- Rank: '104'
+- Rank: '105'
   Name: Gabriel Low
   Group: ADSS/ADWS/ADWO
   FBID: gabrieltried1234
@@ -1038,7 +1048,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '105'
+- Rank: '106'
   Name: Gwyn
   Group: ADW
   FBID: Magma1201
@@ -1048,7 +1058,7 @@
   Cycle: '46.60'
   Swim: '0.00'
   Walk: '8.93'
-- Rank: '106'
+- Rank: '107'
   Name: Legend
   Group: ADW
   FBID: Legend2512
@@ -1058,7 +1068,7 @@
   Cycle: '191.27'
   Swim: '0.00'
   Walk: '13.11'
-- Rank: '107'
+- Rank: '108'
   Name: Sze Tein
   Group: ATC
   FBID: Topaz1327
@@ -1068,7 +1078,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '108'
+- Rank: '109'
   Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
   FBID: LeonYeo2590
@@ -1078,7 +1088,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '109'
+- Rank: '110'
   Name: 'Windy '
   Group: ABM
   FBID: Windy4444
@@ -1088,7 +1098,7 @@
   Cycle: '0.00'
   Swim: '13.60'
   Walk: '0.00'
-- Rank: '110'
+- Rank: '111'
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
@@ -1098,7 +1108,7 @@
   Cycle: '24.16'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '111'
+- Rank: '112'
   Name: Ram
   Group: ADW
   FBID: ram7267
@@ -1108,7 +1118,7 @@
   Cycle: '0.00'
   Swim: '5.30'
   Walk: '0.00'
-- Rank: '112'
+- Rank: '113'
   Name: 'Sengie '
   Group: ADW
   FBID: ARIAL0160
@@ -1118,16 +1128,6 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '21.08'
-- Rank: '113'
-  Name: Fu Hao Wei
-  Group: ADW
-  FBID: fuhaowei8435
-  Total_Mileage: '76.01'
-  Badges: '4'
-  Run: '7.76'
-  Cycle: '273.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '114'
   Name: Der Siang
   Group: ATC
