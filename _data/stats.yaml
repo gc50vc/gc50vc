@@ -1539,6 +1539,16 @@
   Swim: '8.00'
   Walk: '14.22'
 - Rank: '155'
+  Name: Kelvis
+  Group: ADSS/ADWS/ADWO
+  FBID: Kelvis2000
+  Total_Mileage: '54.41'
+  Badges: '3'
+  Run: '44.23'
+  Cycle: '40.73'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '156'
   Name: Chan Wei Siang
   Group: AFE
   FBID: ws1234
@@ -1548,7 +1558,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '156'
+- Rank: '157'
   Name: Pixel EQ
   Group: AOSX/AOS
   FBID: Pixel0323
@@ -1558,7 +1568,7 @@
   Cycle: '7.17'
   Swim: '0.00'
   Walk: '9.82'
-- Rank: '157'
+- Rank: '158'
   Name: Diva
   Group: ADW
   FBID: Delia1234
@@ -1568,7 +1578,7 @@
   Cycle: '84.21'
   Swim: '0.00'
   Walk: '28.59'
-- Rank: '158'
+- Rank: '159'
   Name: Eric
   Group: AOSX/AOS
   FBID: RelacRunner0011
@@ -1578,7 +1588,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '159'
+- Rank: '160'
   Name: BY
   Group: ADSS/ADWS/ADWO
   FBID: Charlie3579
@@ -1588,7 +1598,7 @@
   Cycle: '45.46'
   Swim: '0.00'
   Walk: '5.06'
-- Rank: '160'
+- Rank: '161'
   Name: Shawn Chia
   Group: ADW
   FBID: SCWE9595
@@ -1598,7 +1608,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '161'
+- Rank: '162'
   Name: Ankle
   Group: ADSS/ADWS/ADWO
   FBID: Redeyesblackdragon1310
@@ -1608,7 +1618,7 @@
   Cycle: '45.68'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '162'
+- Rank: '163'
   Name: 3sg Charlie
   Group: ADSS/ADWS/ADWO
   FBID: Charlie2539
@@ -1618,7 +1628,7 @@
   Cycle: '0.00'
   Swim: '2.45'
   Walk: '0.00'
-- Rank: '163'
+- Rank: '164'
   Name: JTZH
   Group: ADSS/ADWS/ADWO
   FBID: Joshua2209
@@ -1628,7 +1638,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '164'
+- Rank: '165'
   Name: jAmEs h.
   Group: ADSS/ADWS/ADWO
   FBID: jAmEsh0007
@@ -1638,7 +1648,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '165'
+- Rank: '166'
   Name: Jing Wee
   Group: ADSS/ADWS/ADWO
   FBID: Pork2070
@@ -1648,7 +1658,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '166'
+- Rank: '167'
   Name: Rambo
   Group: AOSX/AOS
   FBID: Rambo0113
@@ -1658,7 +1668,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '167'
+- Rank: '168'
   Name: Joe Ng
   Group: AOSX/AOS
   FBID: Wiki5279
@@ -1668,7 +1678,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '168'
+- Rank: '169'
   Name: francisyap
   Group: AFE
   FBID: francis7373
@@ -1676,16 +1686,6 @@
   Badges: '3'
   Run: '50.93'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '169'
-  Name: Kelvis
-  Group: ADSS/ADWS/ADWO
-  FBID: Kelvis2000
-  Total_Mileage: '50.91'
-  Badges: '2'
-  Run: '40.73'
-  Cycle: '40.73'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '170'
