@@ -1399,6 +1399,16 @@
   Swim: '1.00'
   Walk: '0.00'
 - Rank: '141'
+  Name: Owyong
+  Group: ATC
+  FBID: Owyong251088
+  Total_Mileage: '62.08'
+  Badges: '3'
+  Run: '62.08'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '142'
   Name: 'Crystal '
   Group: ABM
   FBID: Crystal1101
@@ -1406,16 +1416,6 @@
   Badges: '3'
   Run: '57.69'
   Cycle: '9.48'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '142'
-  Name: Owyong
-  Group: ATC
-  FBID: Owyong251088
-  Total_Mileage: '59.58'
-  Badges: '3'
-  Run: '59.58'
-  Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '143'
