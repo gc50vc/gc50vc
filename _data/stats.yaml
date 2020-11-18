@@ -189,6 +189,16 @@
   Swim: '0.00'
   Walk: '11.68'
 - Rank: '20'
+  Name: Tony Foo
+  Group: ADW
+  FBID: tonyfoo0165
+  Total_Mileage: '256.50'
+  Badges: '4'
+  Run: '256.50'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '21'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -197,16 +207,6 @@
   Run: '55.00'
   Cycle: '703.50'
   Swim: '3.10'
-  Walk: '0.00'
-- Rank: '21'
-  Name: Tony Foo
-  Group: ADW
-  FBID: tonyfoo0165
-  Total_Mileage: '242.00'
-  Badges: '4'
-  Run: '242.00'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '22'
   Name: David Xu
@@ -739,6 +739,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '75'
+  Name: Rats
+  Group: ABM
+  FBID: Rats1500
+  Total_Mileage: '113.10'
+  Badges: '4'
+  Run: '113.10'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '76'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -748,7 +758,7 @@
   Cycle: '91.76'
   Swim: '8.95'
   Walk: '0.00'
-- Rank: '76'
+- Rank: '77'
   Name: Keith low
   Group: ADSS/ADWS/ADWO
   FBID: Keithlow1998
@@ -758,7 +768,7 @@
   Cycle: '409.75'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '77'
+- Rank: '78'
   Name: Silver
   Group: ABM
   FBID: Silver5117
@@ -768,7 +778,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.10'
-- Rank: '78'
+- Rank: '79'
   Name: Iggy
   Group: ADSS/ADWS/ADWO
   FBID: Iggy7900
@@ -778,7 +788,7 @@
   Cycle: '260.90'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '79'
+- Rank: '80'
   Name: Geeky
   Group: ADW
   FBID: Geeky1989
@@ -788,7 +798,7 @@
   Cycle: '0.00'
   Swim: '7.60'
   Walk: '40.67'
-- Rank: '80'
+- Rank: '81'
   Name: Warren Chua
   Group: ADSS/ADWS/ADWO
   FBID: Warren9588
@@ -798,7 +808,7 @@
   Cycle: '391.17'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '81'
+- Rank: '82'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -808,7 +818,7 @@
   Cycle: '221.29'
   Swim: '5.10'
   Walk: '0.00'
-- Rank: '82'
+- Rank: '83'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -818,16 +828,6 @@
   Cycle: '45.78'
   Swim: '3.50'
   Walk: '1.63'
-- Rank: '83'
-  Name: Rats
-  Group: ABM
-  FBID: Rats1500
-  Total_Mileage: '105.08'
-  Badges: '4'
-  Run: '105.08'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '84'
   Name: Viking
   Group: ADW
