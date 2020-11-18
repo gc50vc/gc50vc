@@ -479,6 +479,16 @@
   Swim: '0.00'
   Walk: '4.94'
 - Rank: '49'
+  Name: Homeboy
+  Group: AOSX/AOS
+  FBID: Home5116
+  Total_Mileage: '151.56'
+  Badges: '4'
+  Run: '151.56'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '31.00'
+- Rank: '50'
   Name: Btee
   Group: AFE
   FBID: Brian0307
@@ -488,7 +498,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '50'
+- Rank: '51'
   Name: Andrew
   Group: ADW
   FBID: Hammer1990
@@ -498,7 +508,7 @@
   Cycle: '295.12'
   Swim: '4.00'
   Walk: '0.00'
-- Rank: '51'
+- Rank: '52'
   Name: Benson
   Group: ADW
   FBID: benoi1234
@@ -508,7 +518,7 @@
   Cycle: '95.28'
   Swim: '0.00'
   Walk: '1.80'
-- Rank: '52'
+- Rank: '53'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -518,7 +528,7 @@
   Cycle: '164.95'
   Swim: '8.10'
   Walk: '3.15'
-- Rank: '53'
+- Rank: '54'
   Name: Bgtan
   Group: ADSS/ADWS/ADWO
   FBID: Kenny9889
@@ -528,7 +538,7 @@
   Cycle: '570.77'
   Swim: '0.00'
   Walk: '11.44'
-- Rank: '54'
+- Rank: '55'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
@@ -538,7 +548,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '55'
+- Rank: '56'
   Name: GN
   Group: ADSS/ADWS/ADWO
   FBID: GN8282
@@ -548,16 +558,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '56'
-  Name: Homeboy
-  Group: AOSX/AOS
-  FBID: Home5116
-  Total_Mileage: '133.86'
-  Badges: '4'
-  Run: '133.86'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '31.00'
 - Rank: '57'
   Name: Lia
   Group: ADSS/ADWS/ADWO
