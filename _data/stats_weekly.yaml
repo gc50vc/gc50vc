@@ -22,13 +22,23 @@
   Name: Ben
   Group: ADW
   FBID: BY8362
-  Total_Mileage: '60.00'
+  Total_Mileage: '70.00'
   Badges: '0'
-  Run: '10.00'
+  Run: '20.00'
   Cycle: '200.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '4'
+  Name: Ektar
+  Group: ABM
+  FBID: Ektar1971
+  Total_Mileage: '63.04'
+  Badges: '0'
+  Run: '0.00'
+  Cycle: '97.34'
+  Swim: '6.45'
+  Walk: '0.00'
+- Rank: '5'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -37,16 +47,6 @@
   Run: '2.42'
   Cycle: '224.63'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '5'
-  Name: Ektar
-  Group: ABM
-  FBID: Ektar1971
-  Total_Mileage: '53.77'
-  Badges: '0'
-  Run: '0.00'
-  Cycle: '60.28'
-  Swim: '6.45'
   Walk: '0.00'
 - Rank: '6'
   Name: K Y Leong
