@@ -59,6 +59,16 @@
   Swim: '6.45'
   Walk: '0.00'
 - Rank: '7'
+  Name: Nicholas Lian
+  Group: ADW
+  FBID: horsepower2001
+  Total_Mileage: '60.23'
+  Badges: '0'
+  Run: '54.83'
+  Cycle: '0.00'
+  Swim: '0.90'
+  Walk: '0.00'
+- Rank: '8'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -68,7 +78,7 @@
   Cycle: '224.63'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '8'
+- Rank: '9'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -78,16 +88,6 @@
   Cycle: '0.00'
   Swim: '6.40'
   Walk: '1.44'
-- Rank: '9'
-  Name: Nicholas Lian
-  Group: ADW
-  FBID: horsepower2001
-  Total_Mileage: '49.03'
-  Badges: '0'
-  Run: '43.63'
-  Cycle: '0.00'
-  Swim: '0.90'
-  Walk: '0.00'
 - Rank: '10'
   Name: Sloh
   Group: ADW
@@ -1317,7 +1317,7 @@
   Run: '4.52'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
+  Walk: '48.02'
 - Rank: '133'
   Name: Kush
   Group: AFE
