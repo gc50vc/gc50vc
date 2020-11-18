@@ -239,6 +239,16 @@
   Swim: '3.85'
   Walk: '0.00'
 - Rank: '25'
+  Name: PIXAR
+  Group: ABM
+  FBID: PIXAR0001
+  Total_Mileage: '225.31'
+  Badges: '9'
+  Run: '114.25'
+  Cycle: '366.00'
+  Swim: '3.26'
+  Walk: '0.00'
+- Rank: '26'
   Name: 'TiGeR3 '
   Group: ADSS/ADWS/ADWO
   FBID: TiGeR2876
@@ -247,16 +257,6 @@
   Run: '219.98'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '26'
-  Name: PIXAR
-  Group: ABM
-  FBID: PIXAR0001
-  Total_Mileage: '219.31'
-  Badges: '9'
-  Run: '114.25'
-  Cycle: '366.00'
-  Swim: '2.26'
   Walk: '0.00'
 - Rank: '27'
   Name: Loke Hon Wah
