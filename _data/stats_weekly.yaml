@@ -49,6 +49,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '6'
+  Name: Slimer
+  Group: ABM
+  FBID: Slimer1234
+  Total_Mileage: '54.79'
+  Badges: '0'
+  Run: '16.39'
+  Cycle: '0.00'
+  Swim: '6.40'
+  Walk: '1.44'
+- Rank: '7'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -58,7 +68,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '7'
+- Rank: '8'
   Name: Nicholas Lian
   Group: ADW
   FBID: horsepower2001
@@ -68,7 +78,7 @@
   Cycle: '0.00'
   Swim: '0.90'
   Walk: '0.00'
-- Rank: '8'
+- Rank: '9'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -78,7 +88,7 @@
   Cycle: '43.83'
   Swim: '1.60'
   Walk: '0.00'
-- Rank: '9'
+- Rank: '10'
   Name: Chan Wen
   Group: ADW
   FBID: Gman1234
@@ -88,7 +98,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '10'
+- Rank: '11'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -98,7 +108,7 @@
   Cycle: '112.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -108,16 +118,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '12'
-  Name: Slimer
-  Group: ABM
-  FBID: Slimer1234
-  Total_Mileage: '34.46'
-  Badges: '0'
-  Run: '8.06'
-  Cycle: '0.00'
-  Swim: '4.40'
-  Walk: '1.44'
 - Rank: '13'
   Name: Anson Chiu
   Group: ATC
