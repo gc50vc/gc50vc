@@ -869,6 +869,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '88'
+  Name: Rock
+  Group: ADW
+  FBID: Rock0165
+  Total_Mileage: '101.00'
+  Badges: '3'
+  Run: '95.00'
+  Cycle: '0.00'
+  Swim: '1.00'
+  Walk: '6.00'
+- Rank: '88'
   Name: RainmanCYK
   Group: ADW
   FBID: Rainman0000
@@ -878,7 +888,7 @@
   Cycle: '0.00'
   Swim: '14.50'
   Walk: '0.00'
-- Rank: '89'
+- Rank: '90'
   Name: Maj Lim
   Group: ABM
   FBID: Legoz1000
@@ -888,7 +898,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '16.48'
-- Rank: '90'
+- Rank: '91'
   Name: loanshark
   Group: ATC
   FBID: loanshark9356
@@ -898,7 +908,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.64'
-- Rank: '91'
+- Rank: '92'
   Name: Steroid
   Group: ATC
   FBID: Steroid1007
@@ -908,7 +918,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '92'
+- Rank: '93'
   Name: Jeremy Tan
   Group: ATC
   FBID: Scavenge1601
@@ -918,16 +928,6 @@
   Cycle: '0.00'
   Swim: '0.80'
   Walk: '4.02'
-- Rank: '93'
-  Name: Rock
-  Group: ADW
-  FBID: Rock0165
-  Total_Mileage: '98.00'
-  Badges: '3'
-  Run: '92.00'
-  Cycle: '0.00'
-  Swim: '1.00'
-  Walk: '6.00'
 - Rank: '94'
   Name: Poon
   Group: ADSS/ADWS/ADWO
