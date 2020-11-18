@@ -19,6 +19,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '3'
+  Name: Ben
+  Group: ADW
+  FBID: BY8362
+  Total_Mileage: '60.00'
+  Badges: '0'
+  Run: '10.00'
+  Cycle: '200.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '4'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -28,7 +38,7 @@
   Cycle: '224.63'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '4'
+- Rank: '5'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -38,7 +48,7 @@
   Cycle: '60.28'
   Swim: '6.45'
   Walk: '0.00'
-- Rank: '5'
+- Rank: '6'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -48,7 +58,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '6'
+- Rank: '7'
   Name: Nicholas Lian
   Group: ADW
   FBID: horsepower2001
@@ -57,16 +67,6 @@
   Run: '43.63'
   Cycle: '0.00'
   Swim: '0.90'
-  Walk: '0.00'
-- Rank: '7'
-  Name: Ben
-  Group: ADW
-  FBID: BY8362
-  Total_Mileage: '45.00'
-  Badges: '0'
-  Run: '10.00'
-  Cycle: '140.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '8'
   Name: Sloh
@@ -1119,6 +1119,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '109'
+  Name: WJ
+  Group: ADSS/ADWS/ADWO
+  FBID: jie0304
+  Total_Mileage: '5.00'
+  Badges: '0'
+  Run: '5.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '6.85'
+- Rank: '109'
   Name: Aik Phan
   Group: ADSS/ADWS/ADWO
   FBID: aikphan1234
@@ -1128,7 +1138,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '114'
+- Rank: '115'
   Name: Tim Kan
   Group: ADW
   FBID: timkan1991
@@ -1138,7 +1148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '115'
+- Rank: '116'
   Name: Hy
   Group: ATC
   FBID: huangyi2111
@@ -1148,7 +1158,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '116'
+- Rank: '117'
   Name: Starbucks
   Group: ABM
   FBID: Starbucks3756
@@ -1158,7 +1168,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '117'
+- Rank: '118'
   Name: Kush
   Group: AFE
   FBID: KM1695
@@ -1168,7 +1178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '14.01'
-- Rank: '118'
+- Rank: '119'
   Name: Hayden
   Group: ADSS/ADWS/ADWO
   FBID: Hayden0165
@@ -1178,7 +1188,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '119'
+- Rank: '120'
   Name: Gbear
   Group: ADSS/ADWS/ADWO
   FBID: Cavan1303
@@ -1188,7 +1198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '120'
+- Rank: '121'
   Name: Julian
   Group: ADW
   FBID: Echo9694
@@ -1198,7 +1208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '121'
+- Rank: '122'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -1208,7 +1218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '122'
+- Rank: '123'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -1218,7 +1228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '2.00'
-- Rank: '123'
+- Rank: '124'
   Name: 'Crystal '
   Group: ABM
   FBID: Crystal1101
@@ -1228,7 +1238,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '124'
+- Rank: '125'
   Name: Zhi Hao
   Group: ADSS/ADWS/ADWO
   FBID: ZhiHao_R0160
@@ -1238,7 +1248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '125'
+- Rank: '126'
   Name: Kong
   Group: ADW
   FBID: Kong1609
@@ -1248,7 +1258,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '126'
+- Rank: '127'
   Name: Yi Kuang
   Group: ADW
   FBID: rocket1999
@@ -1258,7 +1268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '127'
+- Rank: '128'
   Name: Bronson
   Group: ADW
   FBID: Bronze1234
@@ -1268,7 +1278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '128'
+- Rank: '129'
   Name: Blizzard
   Group: ATC
   FBID: blizzard1979
@@ -1278,7 +1288,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '129'
+- Rank: '130'
   Name: Diva
   Group: ADW
   FBID: Delia1234
@@ -1288,7 +1298,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '130'
+- Rank: '131'
   Name: Junan
   Group: ADW
   FBID: Junan1111
@@ -1298,7 +1308,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '130'
+- Rank: '131'
   Name: Jiajun
   Group: ADSS/ADWS/ADWO
   FBID: Jj2304
@@ -1308,7 +1318,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '132'
+- Rank: '133'
   Name: Laser
   Group: ADW
   FBID: Laser1993
@@ -1318,7 +1328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.75'
-- Rank: '133'
+- Rank: '134'
   Name: Winston160
   Group: ADSS/ADWS/ADWO
   FBID: Winston0160
@@ -1328,7 +1338,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '134'
+- Rank: '135'
   Name: JOVAN
   Group: ADW
   FBID: NIGHTOWL1303
@@ -1338,7 +1348,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '135'
+- Rank: '136'
   Name: Leonard
   Group: ADW
   FBID: Leonard0402
@@ -1348,7 +1358,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '136'
+- Rank: '137'
   Name: Wu Hao
   Group: AOSX/AOS
   FBID: lima5208
@@ -1358,7 +1368,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '137'
+- Rank: '138'
   Name: 'WX '
   Group: AOSX/AOS
   FBID: Cyclops7469
@@ -1368,7 +1378,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '138'
+- Rank: '139'
   Name: Saravanan
   Group: AOSX/AOS
   FBID: Chief1309
@@ -1378,7 +1388,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '139'
+- Rank: '140'
   Name: Andre
   Group: ADSS/ADWS/ADWO
   FBID: Wagon6190
@@ -1388,7 +1398,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '140'
+- Rank: '141'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -1398,7 +1408,17 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '141'
+- Rank: '142'
+  Name: Nat Wong
+  Group: ADW
+  FBID: nyat8784
+  Total_Mileage: '1.83'
+  Badges: '1'
+  Run: '1.83'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '143'
   Name: Glenn Lee
   Group: ADW
   FBID: Garfield3310
@@ -1408,7 +1428,7 @@
   Cycle: '7.20'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '142'
+- Rank: '144'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -1418,7 +1438,7 @@
   Cycle: '4.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '143'
+- Rank: '145'
   Name: Sirius
   Group: ABM
   FBID: Sirius1320
@@ -1428,7 +1448,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '16.06'
-- Rank: '143'
+- Rank: '145'
   Name: Poh Liong Wui
   Group: AFE
   FBID: Pohlw7878
@@ -1438,7 +1458,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '12.92'
-- Rank: '143'
+- Rank: '145'
   Name: Patrick Pang
   Group: AFE
   FBID: Playpang0113
@@ -1448,7 +1468,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '26.51'
-- Rank: '143'
+- Rank: '145'
   Name: NG Eng Ming
   Group: ADSS/ADWS/ADWO
   FBID: NgEM1858
@@ -1458,17 +1478,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '5.67'
-- Rank: '143'
-  Name: WJ
-  Group: ADSS/ADWS/ADWO
-  FBID: jie0304
-  Total_Mileage: '0.00'
-  Badges: '0'
-  Run: '0.00'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '6.85'
-- Rank: '143'
+- Rank: '145'
   Name: Zach Elliott
   Group: ADW
   FBID: disco2541
@@ -1478,7 +1488,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '7.51'
-- Rank: '143'
+- Rank: '145'
   Name: Bryan Tan GJ
   Group: ADW
   FBID: Bryan2727
