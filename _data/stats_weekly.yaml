@@ -19,6 +19,16 @@
   Swim: '20.70'
   Walk: '0.00'
 - Rank: '3'
+  Name: Ben
+  Group: ADW
+  FBID: BY8362
+  Total_Mileage: '95.00'
+  Badges: '0'
+  Run: '45.00'
+  Cycle: '200.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '4'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -28,7 +38,7 @@
   Cycle: '0.00'
   Swim: '8.40'
   Walk: '2.85'
-- Rank: '4'
+- Rank: '5'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -38,7 +48,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '5'
+- Rank: '6'
   Name: Malcolm Taong
   Group: ADSS/ADWS/ADWO
   FBID: TAONG8070
@@ -48,7 +58,7 @@
   Cycle: '229.98'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '6'
+- Rank: '7'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -58,7 +68,7 @@
   Cycle: '134.44'
   Swim: '6.45'
   Walk: '0.00'
-- Rank: '7'
+- Rank: '8'
   Name: LZX
   Group: ADSS/ADWS/ADWO
   FBID: leezx1337
@@ -66,16 +76,6 @@
   Badges: '0'
   Run: '11.37'
   Cycle: '241.66'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '8'
-  Name: Ben
-  Group: ADW
-  FBID: BY8362
-  Total_Mileage: '70.00'
-  Badges: '0'
-  Run: '20.00'
-  Cycle: '200.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '9'
