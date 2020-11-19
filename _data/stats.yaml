@@ -599,6 +599,16 @@
   Swim: '3.55'
   Walk: '0.00'
 - Rank: '61'
+  Name: Steyr
+  Group: ABM
+  FBID: Steyr9693
+  Total_Mileage: '132.93'
+  Badges: '4'
+  Run: '128.36'
+  Cycle: '18.27'
+  Swim: '0.00'
+  Walk: '3.42'
+- Rank: '62'
   Name: Slong
   Group: ADW
   FBID: Slong1234
@@ -608,7 +618,7 @@
   Cycle: '0.00'
   Swim: '7.37'
   Walk: '0.00'
-- Rank: '62'
+- Rank: '63'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
   FBID: Ahbye1234
@@ -618,16 +628,6 @@
   Cycle: '180.00'
   Swim: '4.50'
   Walk: '6.00'
-- Rank: '63'
-  Name: Steyr
-  Group: ABM
-  FBID: Steyr9693
-  Total_Mileage: '127.67'
-  Badges: '4'
-  Run: '123.10'
-  Cycle: '18.27'
-  Swim: '0.00'
-  Walk: '3.42'
 - Rank: '64'
   Name: PCK
   Group: ADW
