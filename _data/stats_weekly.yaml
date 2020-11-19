@@ -49,6 +49,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '6'
+  Name: Sloh
+  Group: ADW
+  FBID: Sloh0121
+  Total_Mileage: '68.03'
+  Badges: '0'
+  Run: '26.48'
+  Cycle: '86.98'
+  Swim: '3.30'
+  Walk: '0.00'
+- Rank: '7'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -58,7 +68,7 @@
   Cycle: '0.00'
   Swim: '6.40'
   Walk: '1.44'
-- Rank: '7'
+- Rank: '8'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -68,7 +78,7 @@
   Cycle: '97.34'
   Swim: '6.45'
   Walk: '0.00'
-- Rank: '8'
+- Rank: '9'
   Name: Nicholas Lian
   Group: ADW
   FBID: horsepower2001
@@ -78,7 +88,7 @@
   Cycle: '0.00'
   Swim: '0.90'
   Walk: '0.00'
-- Rank: '9'
+- Rank: '10'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -87,16 +97,6 @@
   Run: '2.42'
   Cycle: '224.63'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '10'
-  Name: Sloh
-  Group: ADW
-  FBID: Sloh0121
-  Total_Mileage: '53.47'
-  Badges: '0'
-  Run: '22.12'
-  Cycle: '86.98'
-  Swim: '1.60'
   Walk: '0.00'
 - Rank: '11'
   Name: Coral
