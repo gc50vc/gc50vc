@@ -1129,6 +1129,16 @@
   Swim: '1.00'
   Walk: '21.08'
 - Rank: '114'
+  Name: TRIPS
+  Group: ATC
+  FBID: TRIPS_0000
+  Total_Mileage: '78.28'
+  Badges: '4'
+  Run: '37.81'
+  Cycle: '161.87'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '115'
   Name: Der Siang
   Group: ATC
   FBID: Aku1234
@@ -1138,7 +1148,7 @@
   Cycle: '80.68'
   Swim: '3.95'
   Walk: '0.00'
-- Rank: '115'
+- Rank: '116'
   Name: Zinc
   Group: ADW
   FBID: zinc1997
@@ -1148,7 +1158,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '5.65'
-- Rank: '116'
+- Rank: '117'
   Name: Starbucks
   Group: ABM
   FBID: Starbucks3756
@@ -1158,7 +1168,7 @@
   Cycle: '9.23'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '117'
+- Rank: '118'
   Name: OLAF
   Group: ADW
   FBID: OLAF2156
@@ -1168,7 +1178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '118'
+- Rank: '119'
   Name: JonChen
   Group: ADW
   FBID: JonChen0000
@@ -1178,7 +1188,7 @@
   Cycle: '270.53'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '119'
+- Rank: '120'
   Name: Dominic
   Group: ATC
   FBID: Nickel1191
@@ -1188,7 +1198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '120'
+- Rank: '121'
   Name: Jefferson
   Group: AFE
   FBID: VolvoJeff1985
@@ -1198,7 +1208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '121'
+- Rank: '122'
   Name: Camper
   Group: ADW
   FBID: tanht1968
@@ -1208,7 +1218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '122'
+- Rank: '123'
   Name: Darius Ng
   Group: ADSS/ADWS/ADWO
   FBID: bobo1234
@@ -1218,7 +1228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '123'
+- Rank: '124'
   Name: Jiajun
   Group: ADSS/ADWS/ADWO
   FBID: Jj2304
@@ -1228,7 +1238,7 @@
   Cycle: '0.00'
   Swim: '10.00'
   Walk: '11.06'
-- Rank: '124'
+- Rank: '125'
   Name: Sunray
   Group: ABM
   FBID: Sunray0909
@@ -1238,7 +1248,7 @@
   Cycle: '179.85'
   Swim: '1.16'
   Walk: '0.00'
-- Rank: '125'
+- Rank: '126'
   Name: Lim Kian Hock
   Group: AFE
   FBID: Jon3445
@@ -1248,7 +1258,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '126'
+- Rank: '127'
   Name: Yeow Teck
   Group: AOSX/AOS
   FBID: Youtube6116
@@ -1258,7 +1268,7 @@
   Cycle: '0.00'
   Swim: '2.20'
   Walk: '0.00'
-- Rank: '127'
+- Rank: '128'
   Name: Hector
   Group: ADW
   FBID: Hector0911
@@ -1268,7 +1278,7 @@
   Cycle: '0.00'
   Swim: '6.90'
   Walk: '4.26'
-- Rank: '128'
+- Rank: '129'
   Name: Alloy
   Group: ABM
   FBID: alloy8585
@@ -1278,7 +1288,7 @@
   Cycle: '0.00'
   Swim: '3.40'
   Walk: '0.00'
-- Rank: '129'
+- Rank: '130'
   Name: KevinKKW
   Group: ADSS/ADWS/ADWO
   FBID: Kkkw0165
@@ -1288,7 +1298,7 @@
   Cycle: '117.90'
   Swim: '0.00'
   Walk: '7.10'
-- Rank: '130'
+- Rank: '131'
   Name: Akileis
   Group: ADW
   FBID: Akileis0163
@@ -1298,16 +1308,6 @@
   Cycle: '0.00'
   Swim: '11.00'
   Walk: '6.29'
-- Rank: '131'
-  Name: TRIPS
-  Group: ATC
-  FBID: TRIPS_0000
-  Total_Mileage: '68.28'
-  Badges: '4'
-  Run: '27.81'
-  Cycle: '161.87'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '132'
   Name: Chin Yong
   Group: ADSS/ADWS/ADWO
