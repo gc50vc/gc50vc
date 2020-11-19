@@ -159,6 +159,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '17'
+  Name: HC
+  Group: ADSS/ADWS/ADWO
+  FBID: hc1234
+  Total_Mileage: '40.45'
+  Badges: '0'
+  Run: '3.70'
+  Cycle: '147.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '18'
   Name: Coral
   Group: ABM
   FBID: Coral5050
@@ -168,7 +178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '18'
+- Rank: '19'
   Name: Chan Wen
   Group: ADW
   FBID: Gman1234
@@ -178,7 +188,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '19'
+- Rank: '20'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -188,7 +198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '21'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -198,7 +208,7 @@
   Cycle: '41.13'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -208,7 +218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: yapoh
   Group: ADW
   FBID: Yapoh0304
@@ -218,7 +228,7 @@
   Cycle: '100.42'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: Ram
   Group: ADW
   FBID: Ram7267
@@ -228,7 +238,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -238,7 +248,7 @@
   Cycle: '8.76'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: Vernon Lim
   Group: AFE
   FBID: Vernon7171
@@ -246,16 +256,6 @@
   Badges: '2'
   Run: '32.44'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '26'
-  Name: HC
-  Group: ADSS/ADWS/ADWO
-  FBID: hc1234
-  Total_Mileage: '29.40'
-  Badges: '0'
-  Run: '3.70'
-  Cycle: '102.80'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '27'
