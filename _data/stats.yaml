@@ -489,6 +489,16 @@
   Swim: '0.00'
   Walk: '1.57'
 - Rank: '50'
+  Name: Liwei
+  Group: ADW
+  FBID: dragongate5270
+  Total_Mileage: '160.03'
+  Badges: '9'
+  Run: '59.39'
+  Cycle: '164.95'
+  Swim: '9.90'
+  Walk: '3.15'
+- Rank: '51'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
@@ -498,7 +508,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '51'
+- Rank: '52'
   Name: 'Tay Wen Hao '
   Group: ADW
   FBID: Wh8295
@@ -508,7 +518,7 @@
   Cycle: '37.93'
   Swim: '0.00'
   Walk: '4.94'
-- Rank: '52'
+- Rank: '53'
   Name: Andrew
   Group: ADW
   FBID: Hammer1990
@@ -518,7 +528,7 @@
   Cycle: '295.12'
   Swim: '4.00'
   Walk: '0.00'
-- Rank: '53'
+- Rank: '54'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -528,16 +538,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '31.00'
-- Rank: '54'
-  Name: Liwei
-  Group: ADW
-  FBID: dragongate5270
-  Total_Mileage: '149.23'
-  Badges: '9'
-  Run: '59.39'
-  Cycle: '164.95'
-  Swim: '8.10'
-  Walk: '3.15'
 - Rank: '55'
   Name: Benson
   Group: ADW
