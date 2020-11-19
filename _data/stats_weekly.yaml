@@ -159,6 +159,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '17'
+  Name: Ram
+  Group: ADW
+  FBID: Ram7267
+  Total_Mileage: '33.10'
+  Badges: '1'
+  Run: '21.10'
+  Cycle: '0.00'
+  Swim: '2.00'
+  Walk: '0.00'
+- Rank: '18'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -168,7 +178,7 @@
   Cycle: '8.76'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '18'
+- Rank: '19'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -178,7 +188,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '19'
+- Rank: '20'
   Name: LZX
   Group: ADSS/ADWS/ADWO
   FBID: leezx1337
@@ -188,7 +198,7 @@
   Cycle: '75.68'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '21'
   Name: LWY
   Group: AFE
   FBID: LWY3137
@@ -198,7 +208,7 @@
   Cycle: '80.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -208,7 +218,7 @@
   Cycle: '102.80'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: Glenn
   Group: ADW
   FBID: Garfield3110
@@ -217,16 +227,6 @@
   Run: '28.10'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '23'
-  Name: Ram
-  Group: ADW
-  FBID: Ram7267
-  Total_Mileage: '27.10'
-  Badges: '1'
-  Run: '21.10'
-  Cycle: '0.00'
-  Swim: '1.00'
   Walk: '0.00'
 - Rank: '24'
   Name: Nana
