@@ -679,6 +679,16 @@
   Swim: '20.00'
   Walk: '71.88'
 - Rank: '69'
+  Name: Sen Kiat
+  Group: ATC
+  FBID: HSK7777
+  Total_Mileage: '120.49'
+  Badges: '4'
+  Run: '120.49'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '70'
   Name: Cosmo
   Group: ABM
   FBID: Cosmo6306
@@ -688,7 +698,7 @@
   Cycle: '0.00'
   Swim: '0.50'
   Walk: '10.51'
-- Rank: '70'
+- Rank: '71'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -698,16 +708,6 @@
   Cycle: '278.00'
   Swim: '0.00'
   Walk: '4.00'
-- Rank: '71'
-  Name: Sen Kiat
-  Group: ATC
-  FBID: HSK7777
-  Total_Mileage: '117.49'
-  Badges: '4'
-  Run: '117.49'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '72'
   Name: Weng
   Group: ADSS/ADWS/ADWO
@@ -1337,7 +1337,7 @@
   Run: '53.86'
   Cycle: '55.45'
   Swim: '0.00'
-  Walk: '37.36'
+  Walk: '44.84'
 - Rank: '135'
   Name: COVID
   Group: ADSS/ADWS/ADWO
@@ -3207,7 +3207,7 @@
   Run: '21.43'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
+  Walk: '1.23'
 - Rank: '322'
   Name: Oyster
   Group: ABM
