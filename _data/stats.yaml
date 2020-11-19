@@ -492,9 +492,9 @@
   Name: 'Tay Wen Hao '
   Group: ADW
   FBID: Wh8295
-  Total_Mileage: '152.09'
+  Total_Mileage: '157.09'
   Badges: '4'
-  Run: '142.61'
+  Run: '147.61'
   Cycle: '37.93'
   Swim: '0.00'
   Walk: '4.94'
@@ -689,6 +689,16 @@
   Swim: '0.50'
   Walk: '10.51'
 - Rank: '70'
+  Name: Viking
+  Group: ADW
+  FBID: Viking1987
+  Total_Mileage: '117.85'
+  Badges: '6'
+  Run: '48.35'
+  Cycle: '278.00'
+  Swim: '0.00'
+  Walk: '4.00'
+- Rank: '71'
   Name: Sen Kiat
   Group: ATC
   FBID: HSK7777
@@ -698,7 +708,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '71'
+- Rank: '72'
   Name: Weng
   Group: ADSS/ADWS/ADWO
   FBID: Weng8238
@@ -708,7 +718,7 @@
   Cycle: '257.17'
   Swim: '0.00'
   Walk: '13.86'
-- Rank: '72'
+- Rank: '73'
   Name: RainmanCYK
   Group: ADW
   FBID: Rainman0000
@@ -718,7 +728,7 @@
   Cycle: '0.00'
   Swim: '17.00'
   Walk: '0.00'
-- Rank: '73'
+- Rank: '74'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: Errick1991
@@ -728,7 +738,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '74'
+- Rank: '75'
   Name: TT
   Group: ABM
   FBID: jiawei1989
@@ -738,16 +748,6 @@
   Cycle: '10.83'
   Swim: '0.00'
   Walk: '1.89'
-- Rank: '75'
-  Name: Viking
-  Group: ADW
-  FBID: Viking1987
-  Total_Mileage: '113.25'
-  Badges: '6'
-  Run: '43.75'
-  Cycle: '278.00'
-  Swim: '0.00'
-  Walk: '4.00'
 - Rank: '76'
   Name: Zanna
   Group: ABM
