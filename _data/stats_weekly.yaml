@@ -109,6 +109,16 @@
   Swim: '2.20'
   Walk: '0.00'
 - Rank: '12'
+  Name: LWY
+  Group: AFE
+  FBID: LWY3137
+  Total_Mileage: '60.00'
+  Badges: '5'
+  Run: '10.00'
+  Cycle: '200.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '13'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -118,7 +128,7 @@
   Cycle: '224.63'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: Vernon Lim
   Group: AFE
   FBID: Vernon7070
@@ -128,7 +138,7 @@
   Cycle: '216.82'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '15'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: Wang0165
@@ -138,7 +148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '15'
+- Rank: '16'
   Name: Tony Foo
   Group: ADW
   FBID: tonyfoo0165
@@ -146,16 +156,6 @@
   Badges: '0'
   Run: '45.10'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '16'
-  Name: LWY
-  Group: AFE
-  FBID: LWY3137
-  Total_Mileage: '42.50'
-  Badges: '4'
-  Run: '10.00'
-  Cycle: '130.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '17'
