@@ -539,6 +539,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '55'
+  Name: Sen Kiat
+  Group: ATC
+  FBID: HSK7777
+  Total_Mileage: '15.17'
+  Badges: '0'
+  Run: '15.17'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '56'
   Name: Cookie
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -548,7 +558,7 @@
   Cycle: '18.56'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '56'
+- Rank: '57'
   Name: Rats
   Group: ABM
   FBID: Rats1500
@@ -558,7 +568,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '57'
+- Rank: '58'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -568,7 +578,7 @@
   Cycle: '0.00'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '58'
+- Rank: '59'
   Name: Sze Tein
   Group: ATC
   FBID: Topaz1327
@@ -578,7 +588,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '58'
+- Rank: '59'
   Name: jheng
   Group: ADSS/ADWS/ADWO
   FBID: jheng0000
@@ -588,7 +598,7 @@
   Cycle: '0.00'
   Swim: '2.50'
   Walk: '0.00'
-- Rank: '60'
+- Rank: '61'
   Name: Lia
   Group: ADSS/ADWS/ADWO
   FBID: Lia1116
@@ -598,7 +608,7 @@
   Cycle: '44.52'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '61'
+- Rank: '62'
   Name: lcheeleo
   Group: ADW
   FBID: Lcheeleo3347
@@ -608,7 +618,7 @@
   Cycle: '14.08'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '62'
+- Rank: '63'
   Name: Alan
   Group: ADSS/ADWS/ADWO
   FBID: Alan2881
@@ -618,7 +628,7 @@
   Cycle: '0.00'
   Swim: '0.60'
   Walk: '0.00'
-- Rank: '63'
+- Rank: '64'
   Name: ASHWIN1234
   Group: ADW
   FBID: ashwin1234
@@ -628,7 +638,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '64'
+- Rank: '65'
   Name: Zacchaeus
   Group: ADSS/ADWS/ADWO
   FBID: ZjSc9588
@@ -638,7 +648,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '65'
+- Rank: '66'
   Name: Sean Chua
   Group: ADSS/ADWS/ADWO
   FBID: Stop0001
@@ -648,7 +658,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '66'
+- Rank: '67'
   Name: Btee
   Group: AFE
   FBID: brian0307
@@ -658,7 +668,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '67'
+- Rank: '68'
   Name: Prem
   Group: ADW
   FBID: Premium6687
@@ -668,7 +678,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '68'
+- Rank: '69'
   Name: Jeremy Tan
   Group: ATC
   FBID: Scavenge1601
@@ -678,23 +688,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '69'
+- Rank: '70'
   Name: JIAYONG
   Group: ADSS/ADWS/ADWO
   FBID: Jaywhy0309
   Total_Mileage: '12.60'
   Badges: '0'
   Run: '12.60'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '70'
-  Name: Sen Kiat
-  Group: ATC
-  FBID: HSK7777
-  Total_Mileage: '12.17'
-  Badges: '0'
-  Run: '12.17'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
@@ -1017,7 +1017,7 @@
   Run: '8.18'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '1.15'
+  Walk: '8.63'
 - Rank: '103'
   Name: 'HK '
   Group: ADSS/ADWS/ADWO
@@ -1898,3 +1898,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '4.60'
+- Rank: '187'
+  Name: Joshuaistired
+  Group: ADSS/ADWS/ADWO
+  FBID: 165Bang1999
+  Total_Mileage: '0.00'
+  Badges: ''
+  Run: '0.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '1.23'
