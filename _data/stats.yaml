@@ -1059,6 +1059,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '107'
+  Name: Ram
+  Group: ADW
+  FBID: ram7267
+  Total_Mileage: '84.40'
+  Badges: '5'
+  Run: '46.60'
+  Cycle: '0.00'
+  Swim: '6.30'
+  Walk: '0.00'
+- Rank: '108'
   Name: Legend
   Group: ADW
   FBID: Legend2512
@@ -1068,7 +1078,7 @@
   Cycle: '191.27'
   Swim: '0.00'
   Walk: '13.11'
-- Rank: '108'
+- Rank: '109'
   Name: Sze Tein
   Group: ATC
   FBID: Topaz1327
@@ -1078,7 +1088,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '109'
+- Rank: '110'
   Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
   FBID: LeonYeo2590
@@ -1088,7 +1098,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '110'
+- Rank: '111'
   Name: 'Windy '
   Group: ABM
   FBID: Windy4444
@@ -1098,7 +1108,7 @@
   Cycle: '0.00'
   Swim: '13.60'
   Walk: '0.00'
-- Rank: '111'
+- Rank: '112'
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
@@ -1107,16 +1117,6 @@
   Run: '74.77'
   Cycle: '24.16'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '112'
-  Name: Ram
-  Group: ADW
-  FBID: ram7267
-  Total_Mileage: '78.40'
-  Badges: '5'
-  Run: '46.60'
-  Cycle: '0.00'
-  Swim: '5.30'
   Walk: '0.00'
 - Rank: '113'
   Name: 'Sengie '
