@@ -49,6 +49,16 @@
   Swim: '40.25'
   Walk: '0.00'
 - Rank: '6'
+  Name: LZX
+  Group: ADSS/ADWS/ADWO
+  FBID: leezx1337
+  Total_Mileage: '595.78'
+  Badges: '8'
+  Run: '176.36'
+  Cycle: '1677.69'
+  Swim: '0.00'
+  Walk: '2.18'
+- Rank: '7'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -58,16 +68,6 @@
   Cycle: '1189.88'
   Swim: '15.40'
   Walk: '0.00'
-- Rank: '7'
-  Name: LZX
-  Group: ADSS/ADWS/ADWO
-  FBID: leezx1337
-  Total_Mileage: '554.29'
-  Badges: '8'
-  Run: '176.36'
-  Cycle: '1511.71'
-  Swim: '0.00'
-  Walk: '2.18'
 - Rank: '8'
   Name: Ektar
   Group: ABM
@@ -402,9 +402,9 @@
   Name: Ah Bing
   Group: ADW
   FBID: Bingo0507
-  Total_Mileage: '182.59'
+  Total_Mileage: '187.66'
   Badges: '8'
-  Run: '115.43'
+  Run: '120.50'
   Cycle: '191.84'
   Swim: '3.20'
   Walk: '0.00'
