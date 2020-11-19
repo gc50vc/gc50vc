@@ -849,6 +849,16 @@
   Swim: '5.10'
   Walk: '0.00'
 - Rank: '86'
+  Name: Rock
+  Group: ADW
+  FBID: Rock0165
+  Total_Mileage: '105.90'
+  Badges: '3'
+  Run: '99.90'
+  Cycle: '0.00'
+  Swim: '1.00'
+  Walk: '6.00'
+- Rank: '87'
   Name: Andre
   Group: ADW
   FBID: Andre7429
@@ -858,16 +868,6 @@
   Cycle: '377.30'
   Swim: '0.85'
   Walk: '0.00'
-- Rank: '87'
-  Name: Rock
-  Group: ADW
-  FBID: Rock0165
-  Total_Mileage: '103.50'
-  Badges: '3'
-  Run: '97.50'
-  Cycle: '0.00'
-  Swim: '1.00'
-  Walk: '6.00'
 - Rank: '88'
   Name: Rubiks
   Group: ABM
