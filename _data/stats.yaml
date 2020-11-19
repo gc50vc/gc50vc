@@ -1389,6 +1389,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '140'
+  Name: 'Crystal '
+  Group: ABM
+  FBID: Crystal1101
+  Total_Mileage: '65.18'
+  Badges: '3'
+  Run: '62.81'
+  Cycle: '9.48'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '141'
   Name: Barter
   Group: ATC
   FBID: Reload0203
@@ -1398,7 +1408,7 @@
   Cycle: '203.00'
   Swim: '1.50'
   Walk: '13.50'
-- Rank: '141'
+- Rank: '142'
   Name: Shawn Chia
   Group: ADW
   FBID: SCWE9595
@@ -1408,7 +1418,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '142'
+- Rank: '143'
   Name: Saturn
   Group: ADW
   FBID: Saturn1501
@@ -1418,7 +1428,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '143'
+- Rank: '144'
   Name: Wan Yuan
   Group: ADW
   FBID: Lost1908
@@ -1428,7 +1438,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.83'
-- Rank: '144'
+- Rank: '145'
   Name: Eddie Chua
   Group: AFE
   FBID: EddieChua1973
@@ -1438,7 +1448,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '145'
+- Rank: '146'
   Name: Kent Zeng
   Group: ADSS/ADWS/ADWO
   FBID: Stonks69420
@@ -1448,7 +1458,7 @@
   Cycle: '75.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '146'
+- Rank: '147'
   Name: Owyong
   Group: ATC
   FBID: Owyong251088
@@ -1456,16 +1466,6 @@
   Badges: '3'
   Run: '62.08'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '147'
-  Name: 'Crystal '
-  Group: ABM
-  FBID: Crystal1101
-  Total_Mileage: '60.06'
-  Badges: '3'
-  Run: '57.69'
-  Cycle: '9.48'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '148'
