@@ -969,6 +969,16 @@
   Swim: '5.60'
   Walk: '70.00'
 - Rank: '98'
+  Name: Gwyn
+  Group: ADW
+  FBID: Magma1201
+  Total_Mileage: '90.62'
+  Badges: '4'
+  Run: '78.97'
+  Cycle: '46.60'
+  Swim: '0.00'
+  Walk: '8.93'
+- Rank: '99'
   Name: Jenny
   Group: AFE
   FBID: Jenny7373
@@ -978,7 +988,7 @@
   Cycle: '11.67'
   Swim: '0.00'
   Walk: '74.27'
-- Rank: '99'
+- Rank: '100'
   Name: ARROW
   Group: ADW
   FBID: Tee1980
@@ -988,7 +998,7 @@
   Cycle: '77.42'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '100'
+- Rank: '101'
   Name: Rocky
   Group: AOSX/AOS
   FBID: ZeRo7113
@@ -998,7 +1008,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '57.30'
-- Rank: '101'
+- Rank: '102'
   Name: Fu Hao Wei
   Group: ADW
   FBID: fuhaowei8435
@@ -1008,7 +1018,7 @@
   Cycle: '312.77'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '102'
+- Rank: '103'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -1018,7 +1028,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '103'
+- Rank: '104'
   Name: Chan Howe
   Group: AOSX/AOS
   FBID: IceCube3008
@@ -1028,7 +1038,7 @@
   Cycle: '341.74'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '104'
+- Rank: '105'
   Name: Glenn
   Group: ADW
   FBID: Garfield3110
@@ -1038,7 +1048,7 @@
   Cycle: '10.00'
   Swim: '0.00'
   Walk: '13.84'
-- Rank: '105'
+- Rank: '106'
   Name: Gabriel Low
   Group: ADSS/ADWS/ADWO
   FBID: gabrieltried1234
@@ -1048,16 +1058,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '106'
-  Name: Gwyn
-  Group: ADW
-  FBID: Magma1201
-  Total_Mileage: '84.92'
-  Badges: '4'
-  Run: '73.27'
-  Cycle: '46.60'
-  Swim: '0.00'
-  Walk: '8.93'
 - Rank: '107'
   Name: Legend
   Group: ADW
