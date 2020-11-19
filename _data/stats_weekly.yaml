@@ -19,6 +19,16 @@
   Swim: '20.70'
   Walk: '0.00'
 - Rank: '3'
+  Name: Slimer
+  Group: ABM
+  FBID: Slimer1234
+  Total_Mileage: '83.81'
+  Badges: '1'
+  Run: '33.41'
+  Cycle: '0.00'
+  Swim: '8.40'
+  Walk: '2.85'
+- Rank: '4'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -28,7 +38,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '4'
+- Rank: '5'
   Name: Malcolm Taong
   Group: ADSS/ADWS/ADWO
   FBID: TAONG8070
@@ -38,7 +48,7 @@
   Cycle: '229.98'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '5'
+- Rank: '6'
   Name: Ben
   Group: ADW
   FBID: BY8362
@@ -48,7 +58,7 @@
   Cycle: '200.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '6'
+- Rank: '7'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -58,16 +68,6 @@
   Cycle: '86.98'
   Swim: '3.30'
   Walk: '0.00'
-- Rank: '7'
-  Name: Slimer
-  Group: ABM
-  FBID: Slimer1234
-  Total_Mileage: '63.30'
-  Badges: '1'
-  Run: '24.90'
-  Cycle: '0.00'
-  Swim: '6.40'
-  Walk: '1.44'
 - Rank: '8'
   Name: Ektar
   Group: ABM
