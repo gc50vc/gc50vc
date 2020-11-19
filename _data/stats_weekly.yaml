@@ -129,6 +129,16 @@
   Swim: '2.20'
   Walk: '0.00'
 - Rank: '14'
+  Name: Leonard ong
+  Group: ADSS/ADWS/ADWO
+  FBID: Wang0165
+  Total_Mileage: '46.76'
+  Badges: '0'
+  Run: '46.76'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '15'
   Name: Tony Foo
   Group: ADW
   FBID: tonyfoo0165
@@ -138,7 +148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '15'
+- Rank: '16'
   Name: LWY
   Group: AFE
   FBID: LWY3137
@@ -148,7 +158,7 @@
   Cycle: '130.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '16'
+- Rank: '17'
   Name: Coral
   Group: ABM
   FBID: Coral5050
@@ -158,7 +168,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '17'
+- Rank: '18'
   Name: Chan Wen
   Group: ADW
   FBID: Gman1234
@@ -168,23 +178,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '18'
+- Rank: '19'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
   Total_Mileage: '39.21'
   Badges: '0'
   Run: '39.21'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '19'
-  Name: Leonard ong
-  Group: ADSS/ADWS/ADWO
-  FBID: Wang0165
-  Total_Mileage: '38.89'
-  Badges: '0'
-  Run: '38.89'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
@@ -1917,7 +1917,7 @@
   Run: '0.00'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '39.61'
+  Walk: '54.65'
 - Rank: '191'
   Name: NG Eng Ming
   Group: ADSS/ADWS/ADWO
