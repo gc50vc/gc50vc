@@ -69,6 +69,16 @@
   Swim: '15.40'
   Walk: '0.00'
 - Rank: '8'
+  Name: Nicholas
+  Group: ADSS/ADWS/ADWO
+  FBID: NN1974
+  Total_Mileage: '525.92'
+  Badges: '12'
+  Run: '87.97'
+  Cycle: '1402.61'
+  Swim: '14.55'
+  Walk: '3.02'
+- Rank: '9'
   Name: Ektar
   Group: ABM
   FBID: ektar1971
@@ -78,16 +88,6 @@
   Cycle: '974.59'
   Swim: '28.15'
   Walk: '0.00'
-- Rank: '9'
-  Name: Nicholas
-  Group: ADSS/ADWS/ADWO
-  FBID: NN1974
-  Total_Mileage: '445.40'
-  Badges: '11'
-  Run: '87.97'
-  Cycle: '1080.53'
-  Swim: '14.55'
-  Walk: '3.02'
 - Rank: '10'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
@@ -469,6 +469,16 @@
   Swim: '0.00'
   Walk: '1.57'
 - Rank: '48'
+  Name: Vapor
+  Group: ADW
+  FBID: Vapor6148
+  Total_Mileage: '166.34'
+  Badges: '4'
+  Run: '166.34'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '49'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -478,7 +488,7 @@
   Cycle: '164.95'
   Swim: '9.90'
   Walk: '3.15'
-- Rank: '49'
+- Rank: '50'
   Name: Malcolm Taong
   Group: ADSS/ADWS/ADWO
   FBID: TAONG8070
@@ -488,7 +498,7 @@
   Cycle: '497.27'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '50'
+- Rank: '51'
   Name: Btee
   Group: AFE
   FBID: Brian0307
@@ -498,7 +508,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '51'
+- Rank: '52'
   Name: Benson
   Group: ADW
   FBID: benoi1234
@@ -508,16 +518,6 @@
   Cycle: '95.28'
   Swim: '0.95'
   Walk: '1.80'
-- Rank: '52'
-  Name: Vapor
-  Group: ADW
-  FBID: Vapor6148
-  Total_Mileage: '161.34'
-  Badges: '4'
-  Run: '161.34'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '53'
   Name: 'Jack eng '
   Group: AOSX/AOS
@@ -712,10 +712,10 @@
   Name: Viking
   Group: ADW
   FBID: Viking1987
-  Total_Mileage: '117.85'
+  Total_Mileage: '119.23'
   Badges: '6'
   Run: '48.35'
-  Cycle: '278.00'
+  Cycle: '283.50'
   Swim: '0.00'
   Walk: '4.00'
 - Rank: '73'
