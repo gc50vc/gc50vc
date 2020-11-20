@@ -919,6 +919,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '93'
+  Name: Weaver
+  Group: ADW
+  FBID: Weaver5275
+  Total_Mileage: '101.03'
+  Badges: '4'
+  Run: '101.03'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '94'
   Name: Maj Lim
   Group: ABM
   FBID: Legoz1000
@@ -928,7 +938,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '16.48'
-- Rank: '94'
+- Rank: '95'
   Name: Steroid
   Group: ATC
   FBID: Steroid1007
@@ -938,7 +948,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '95'
+- Rank: '96'
   Name: Jeremy Tan
   Group: ATC
   FBID: Scavenge1601
@@ -948,16 +958,6 @@
   Cycle: '0.00'
   Swim: '0.80'
   Walk: '4.02'
-- Rank: '96'
-  Name: Weaver
-  Group: ADW
-  FBID: Weaver5275
-  Total_Mileage: '95.98'
-  Badges: '3'
-  Run: '95.98'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '97'
   Name: Poon
   Group: ADSS/ADWS/ADWO
