@@ -329,6 +329,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '34'
+  Name: Dan
+  Group: ADSS/ADWS/ADWO
+  FBID: Dan1234
+  Total_Mileage: '219.68'
+  Badges: '4'
+  Run: '219.68'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '35'
   Name: jheng
   Group: ADSS/ADWS/ADWO
   FBID: jheng0000
@@ -337,16 +347,6 @@
   Run: '52.20'
   Cycle: '132.79'
   Swim: '20.37'
-  Walk: '0.00'
-- Rank: '35'
-  Name: Dan
-  Group: ADSS/ADWS/ADWO
-  FBID: Dan1234
-  Total_Mileage: '206.11'
-  Badges: '4'
-  Run: '206.11'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '36'
   Name: Marcus
