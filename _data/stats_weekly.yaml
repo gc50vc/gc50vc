@@ -19,6 +19,16 @@
   Swim: '20.70'
   Walk: '0.00'
 - Rank: '3'
+  Name: LZX
+  Group: ADSS/ADWS/ADWO
+  FBID: leezx1337
+  Total_Mileage: '96.08'
+  Badges: '0'
+  Run: '34.38'
+  Cycle: '246.81'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '4'
   Name: Ben
   Group: ADW
   FBID: BY8362
@@ -28,7 +38,7 @@
   Cycle: '200.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '4'
+- Rank: '5'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -38,7 +48,7 @@
   Cycle: '0.00'
   Swim: '8.40'
   Walk: '2.85'
-- Rank: '5'
+- Rank: '6'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -48,7 +58,7 @@
   Cycle: '134.44'
   Swim: '8.45'
   Walk: '0.00'
-- Rank: '6'
+- Rank: '7'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -58,7 +68,7 @@
   Cycle: '86.98'
   Swim: '3.30'
   Walk: '0.00'
-- Rank: '7'
+- Rank: '8'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -68,7 +78,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '8'
+- Rank: '9'
   Name: Malcolm Taong
   Group: ADSS/ADWS/ADWO
   FBID: TAONG8070
@@ -78,7 +88,7 @@
   Cycle: '229.98'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '9'
+- Rank: '10'
   Name: Nicholas Lian
   Group: ADW
   FBID: horsepower2001
@@ -87,16 +97,6 @@
   Run: '67.26'
   Cycle: '0.00'
   Swim: '0.90'
-  Walk: '0.00'
-- Rank: '10'
-  Name: LZX
-  Group: ADSS/ADWS/ADWO
-  FBID: leezx1337
-  Total_Mileage: '71.79'
-  Badges: '0'
-  Run: '11.37'
-  Cycle: '241.66'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '11'
   Name: PIXAR
