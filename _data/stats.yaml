@@ -489,6 +489,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '50'
+  Name: Benson
+  Group: ADW
+  FBID: benoi1234
+  Total_Mileage: '162.79'
+  Badges: '5'
+  Run: '133.27'
+  Cycle: '95.28'
+  Swim: '0.95'
+  Walk: '1.80'
+- Rank: '51'
   Name: Vapor
   Group: ADW
   FBID: Vapor6148
@@ -498,7 +508,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '51'
+- Rank: '52'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -508,7 +518,7 @@
   Cycle: '164.95'
   Swim: '9.90'
   Walk: '3.15'
-- Rank: '52'
+- Rank: '53'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
@@ -518,7 +528,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '53'
+- Rank: '54'
   Name: 'Tay Wen Hao '
   Group: ADW
   FBID: Wh8295
@@ -528,16 +538,6 @@
   Cycle: '37.93'
   Swim: '0.00'
   Walk: '4.94'
-- Rank: '54'
-  Name: Benson
-  Group: ADW
-  FBID: benoi1234
-  Total_Mileage: '157.09'
-  Badges: '5'
-  Run: '133.27'
-  Cycle: '95.28'
-  Swim: '0.00'
-  Walk: '1.80'
 - Rank: '55'
   Name: Homeboy
   Group: AOSX/AOS
