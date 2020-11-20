@@ -89,6 +89,16 @@
   Swim: '13.50'
   Walk: '3.02'
 - Rank: '10'
+  Name: Tommy Tham
+  Group: ADSS/ADWS/ADWO
+  FBID: Tommy1976
+  Total_Mileage: '411.73'
+  Badges: '10'
+  Run: '59.96'
+  Cycle: '180.69'
+  Swim: '51.10'
+  Walk: '0.00'
+- Rank: '11'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -98,16 +108,6 @@
   Cycle: '209.50'
   Swim: '37.10'
   Walk: '13.89'
-- Rank: '11'
-  Name: Tommy Tham
-  Group: ADSS/ADWS/ADWO
-  FBID: Tommy1976
-  Total_Mileage: '393.43'
-  Badges: '10'
-  Run: '59.96'
-  Cycle: '180.69'
-  Swim: '48.05'
-  Walk: '0.00'
 - Rank: '12'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
@@ -1429,6 +1429,16 @@
   Swim: '1.50'
   Walk: '13.50'
 - Rank: '144'
+  Name: Owyong
+  Group: ATC
+  FBID: Owyong251088
+  Total_Mileage: '64.32'
+  Badges: '3'
+  Run: '64.32'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '145'
   Name: Shawn Chia
   Group: ADW
   FBID: SCWE9595
@@ -1438,7 +1448,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '145'
+- Rank: '146'
   Name: Saturn
   Group: ADW
   FBID: Saturn1501
@@ -1448,7 +1458,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '146'
+- Rank: '147'
   Name: Wan Yuan
   Group: ADW
   FBID: Lost1908
@@ -1458,7 +1468,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.83'
-- Rank: '147'
+- Rank: '148'
   Name: Eddie Chua
   Group: AFE
   FBID: EddieChua1973
@@ -1468,7 +1478,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '148'
+- Rank: '149'
   Name: Kent Zeng
   Group: ADSS/ADWS/ADWO
   FBID: Stonks69420
@@ -1477,16 +1487,6 @@
   Run: '37.50'
   Cycle: '75.00'
   Swim: '1.00'
-  Walk: '0.00'
-- Rank: '149'
-  Name: Owyong
-  Group: ATC
-  FBID: Owyong251088
-  Total_Mileage: '62.08'
-  Badges: '3'
-  Run: '62.08'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '150'
   Name: Zacchaeus
