@@ -39,6 +39,16 @@
   Swim: '10.40'
   Walk: '2.85'
 - Rank: '5'
+  Name: Ektar
+  Group: ABM
+  FBID: Ektar1971
+  Total_Mileage: '103.81'
+  Badges: '1'
+  Run: '0.00'
+  Cycle: '164.44'
+  Swim: '10.45'
+  Walk: '0.00'
+- Rank: '6'
   Name: LZX
   Group: ADSS/ADWS/ADWO
   FBID: leezx1337
@@ -47,16 +57,6 @@
   Run: '34.38'
   Cycle: '246.81'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '6'
-  Name: Ektar
-  Group: ABM
-  FBID: Ektar1971
-  Total_Mileage: '91.81'
-  Badges: '1'
-  Run: '0.00'
-  Cycle: '164.44'
-  Swim: '8.45'
   Walk: '0.00'
 - Rank: '7'
   Name: Nicholas Lian
