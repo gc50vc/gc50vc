@@ -519,6 +519,16 @@
   Swim: '0.00'
   Walk: '4.94'
 - Rank: '53'
+  Name: Benson
+  Group: ADW
+  FBID: benoi1234
+  Total_Mileage: '157.09'
+  Badges: '5'
+  Run: '133.27'
+  Cycle: '95.28'
+  Swim: '0.00'
+  Walk: '1.80'
+- Rank: '54'
   Name: Andrew
   Group: ADW
   FBID: Hammer1990
@@ -528,7 +538,7 @@
   Cycle: '295.12'
   Swim: '4.00'
   Walk: '0.00'
-- Rank: '54'
+- Rank: '55'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -538,7 +548,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '31.00'
-- Rank: '55'
+- Rank: '56'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -548,16 +558,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '56'
-  Name: Benson
-  Group: ADW
-  FBID: benoi1234
-  Total_Mileage: '145.69'
-  Badges: '5'
-  Run: '121.87'
-  Cycle: '95.28'
-  Swim: '0.00'
-  Walk: '1.80'
 - Rank: '57'
   Name: GN
   Group: ADSS/ADWS/ADWO
