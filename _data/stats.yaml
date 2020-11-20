@@ -569,6 +569,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '58'
+  Name: Slong
+  Group: ADW
+  FBID: Slong1234
+  Total_Mileage: '144.05'
+  Badges: '6'
+  Run: '99.85'
+  Cycle: '0.00'
+  Swim: '7.37'
+  Walk: '0.00'
+- Rank: '59'
   Name: Bgtan
   Group: ADSS/ADWS/ADWO
   FBID: Kenny9889
@@ -578,7 +588,7 @@
   Cycle: '570.77'
   Swim: '0.00'
   Walk: '11.44'
-- Rank: '59'
+- Rank: '60'
   Name: Lia
   Group: ADSS/ADWS/ADWO
   FBID: Lia1116
@@ -588,7 +598,7 @@
   Cycle: '107.70'
   Swim: '3.55'
   Walk: '0.00'
-- Rank: '60'
+- Rank: '61'
   Name: Yun Jie (Rhythm)
   Group: ADW
   FBID: Jabez8686
@@ -598,7 +608,7 @@
   Cycle: '0.00'
   Swim: '16.32'
   Walk: '4.80'
-- Rank: '61'
+- Rank: '62'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -608,16 +618,6 @@
   Cycle: '18.27'
   Swim: '0.00'
   Walk: '3.42'
-- Rank: '62'
-  Name: Slong
-  Group: ADW
-  FBID: Slong1234
-  Total_Mileage: '132.07'
-  Badges: '6'
-  Run: '87.87'
-  Cycle: '0.00'
-  Swim: '7.37'
-  Walk: '0.00'
 - Rank: '63'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
