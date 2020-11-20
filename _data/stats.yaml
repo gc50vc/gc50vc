@@ -959,6 +959,16 @@
   Swim: '0.80'
   Walk: '4.02'
 - Rank: '97'
+  Name: Fu Hao Wei
+  Group: ADW
+  FBID: fuhaowei8435
+  Total_Mileage: '96.00'
+  Badges: '4'
+  Run: '7.76'
+  Cycle: '352.95'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '98'
   Name: Poon
   Group: ADSS/ADWS/ADWO
   FBID: Poon3636
@@ -968,7 +978,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '98'
+- Rank: '99'
   Name: Ram
   Group: ADW
   FBID: ram7267
@@ -978,7 +988,7 @@
   Cycle: '0.00'
   Swim: '6.30'
   Walk: '0.00'
-- Rank: '99'
+- Rank: '100'
   Name: Nana
   Group: AFE
   FBID: Chris1166
@@ -988,7 +998,7 @@
   Cycle: '114.11'
   Swim: '5.60'
   Walk: '70.00'
-- Rank: '100'
+- Rank: '101'
   Name: Vernon Lim
   Group: AFE
   FBID: Vernon7070
@@ -998,7 +1008,7 @@
   Cycle: '376.95'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '101'
+- Rank: '102'
   Name: Gwyn
   Group: ADW
   FBID: Magma1201
@@ -1008,7 +1018,7 @@
   Cycle: '46.60'
   Swim: '0.00'
   Walk: '8.93'
-- Rank: '102'
+- Rank: '103'
   Name: Jenny
   Group: AFE
   FBID: Jenny7373
@@ -1018,7 +1028,7 @@
   Cycle: '11.67'
   Swim: '0.00'
   Walk: '74.27'
-- Rank: '103'
+- Rank: '104'
   Name: ARROW
   Group: ADW
   FBID: Tee1980
@@ -1028,7 +1038,7 @@
   Cycle: '77.42'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '104'
+- Rank: '105'
   Name: Rocky
   Group: AOSX/AOS
   FBID: ZeRo7113
@@ -1038,16 +1048,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '57.30'
-- Rank: '105'
-  Name: Fu Hao Wei
-  Group: ADW
-  FBID: fuhaowei8435
-  Total_Mileage: '85.95'
-  Badges: '4'
-  Run: '7.76'
-  Cycle: '312.77'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '106'
   Name: Chan Howe
   Group: AOSX/AOS
