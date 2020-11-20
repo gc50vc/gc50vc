@@ -169,6 +169,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '18'
+  Name: Ram
+  Group: ADW
+  FBID: Ram7267
+  Total_Mileage: '43.11'
+  Badges: '1'
+  Run: '31.11'
+  Cycle: '0.00'
+  Swim: '2.00'
+  Walk: '0.00'
+- Rank: '19'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -178,7 +188,7 @@
   Cycle: '147.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '19'
+- Rank: '20'
   Name: Coral
   Group: ABM
   FBID: Coral5050
@@ -188,7 +198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '21'
   Name: Chan Wen
   Group: ADW
   FBID: Gman1234
@@ -198,7 +208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -208,7 +218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -218,7 +228,7 @@
   Cycle: '41.13'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: yapoh
   Group: ADW
   FBID: Yapoh0304
@@ -227,16 +237,6 @@
   Run: '10.27'
   Cycle: '100.42'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '24'
-  Name: Ram
-  Group: ADW
-  FBID: Ram7267
-  Total_Mileage: '33.10'
-  Badges: '1'
-  Run: '21.10'
-  Cycle: '0.00'
-  Swim: '2.00'
   Walk: '0.00'
 - Rank: '25'
   Name: Anson Chiu
