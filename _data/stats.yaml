@@ -1569,6 +1569,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '158'
+  Name: Kelvis
+  Group: ADSS/ADWS/ADWO
+  FBID: Kelvis2000
+  Total_Mileage: '56.41'
+  Badges: '3'
+  Run: '46.23'
+  Cycle: '40.73'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '159'
   Name: JOLLY
   Group: ADW
   FBID: Jolly8178
@@ -1578,7 +1588,7 @@
   Cycle: '42.68'
   Swim: '2.50'
   Walk: '0.00'
-- Rank: '159'
+- Rank: '160'
   Name: Kelvin
   Group: ADSS/ADWS/ADWO
   FBID: Kelvin1111
@@ -1588,7 +1598,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '160'
+- Rank: '161'
   Name: BENteo
   Group: AFE
   FBID: BEN7452
@@ -1598,7 +1608,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '161'
+- Rank: '162'
   Name: Kian Seng
   Group: ADW
   FBID: KianSeng0170
@@ -1608,7 +1618,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '162'
+- Rank: '163'
   Name: Pterlek
   Group: ATC
   FBID: Conman7361
@@ -1618,16 +1628,6 @@
   Cycle: '0.00'
   Swim: '8.00'
   Walk: '14.22'
-- Rank: '163'
-  Name: Kelvis
-  Group: ADSS/ADWS/ADWO
-  FBID: Kelvis2000
-  Total_Mileage: '54.41'
-  Badges: '3'
-  Run: '44.23'
-  Cycle: '40.73'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '164'
   Name: Chan Wei Siang
   Group: AFE
