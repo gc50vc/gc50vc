@@ -189,6 +189,16 @@
   Swim: '2.00'
   Walk: '0.00'
 - Rank: '20'
+  Name: Tommy Tham
+  Group: ADSS/ADWS/ADWO
+  FBID: Tommy1976
+  Total_Mileage: '41.11'
+  Badges: '0'
+  Run: '5.05'
+  Cycle: '0.00'
+  Swim: '6.01'
+  Walk: '0.00'
+- Rank: '21'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -198,7 +208,7 @@
   Cycle: '147.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: Coral
   Group: ABM
   FBID: Coral5050
@@ -208,7 +218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: Chan Wen
   Group: ADW
   FBID: Gman1234
@@ -218,7 +228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -228,7 +238,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -238,7 +248,7 @@
   Cycle: '41.13'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: yapoh
   Group: ADW
   FBID: Yapoh0304
@@ -248,7 +258,7 @@
   Cycle: '100.42'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -258,7 +268,7 @@
   Cycle: '8.76'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: Vernon Lim
   Group: AFE
   FBID: Vernon7171
@@ -268,7 +278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -278,7 +288,7 @@
   Cycle: '0.00'
   Swim: '3.30'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: Glenn
   Group: ADW
   FBID: Garfield3110
@@ -288,7 +298,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '31'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -298,7 +308,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '32'
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
@@ -308,7 +318,7 @@
   Cycle: '0.00'
   Swim: '1.70'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '33'
   Name: Nana
   Group: AFE
   FBID: Chris1166
@@ -318,7 +328,7 @@
   Cycle: '0.00'
   Swim: '3.60'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '34'
   Name: Besson
   Group: ATC
   FBID: Besson9898
@@ -328,7 +338,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '34'
+- Rank: '35'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -338,7 +348,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: Bgtan
   Group: ADSS/ADWS/ADWO
   FBID: Kenny9889
@@ -348,7 +358,7 @@
   Cycle: '103.44'
   Swim: '0.00'
   Walk: '11.44'
-- Rank: '36'
+- Rank: '37'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -358,7 +368,7 @@
   Cycle: '0.00'
   Swim: '2.50'
   Walk: '0.00'
-- Rank: '37'
+- Rank: '38'
   Name: Andrew
   Group: ADW
   FBID: Hammer1990
@@ -368,7 +378,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '38'
+- Rank: '39'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
@@ -378,7 +388,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '39'
+- Rank: '40'
   Name: Lin Weili
   Group: AOSX/AOS
   FBID: Michelin5052
@@ -388,16 +398,6 @@
   Cycle: '22.73'
   Swim: '0.00'
   Walk: '1.00'
-- Rank: '40'
-  Name: Tommy Tham
-  Group: ADSS/ADWS/ADWO
-  FBID: Tommy1976
-  Total_Mileage: '22.81'
-  Badges: '0'
-  Run: '5.05'
-  Cycle: '0.00'
-  Swim: '2.96'
-  Walk: '0.00'
 - Rank: '41'
   Name: Yun Jie (Rhythm)
   Group: ADW
