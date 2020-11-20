@@ -1479,6 +1479,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '149'
+  Name: Zacchaeus
+  Group: ADSS/ADWS/ADWO
+  FBID: ZjSc9588
+  Total_Mileage: '61.64'
+  Badges: '3'
+  Run: '61.64'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '150'
   Name: LWY
   Group: AFE
   FBID: LWY3137
@@ -1488,7 +1498,7 @@
   Cycle: '200.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '150'
+- Rank: '151'
   Name: Waffles
   Group: ATC
   FBID: Waffles3567
@@ -1498,16 +1508,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.57'
-- Rank: '151'
-  Name: Zacchaeus
-  Group: ADSS/ADWS/ADWO
-  FBID: ZjSc9588
-  Total_Mileage: '58.33'
-  Badges: '3'
-  Run: '58.33'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '152'
   Name: Jamie Chen
   Group: ADSS/ADWS/ADWO
