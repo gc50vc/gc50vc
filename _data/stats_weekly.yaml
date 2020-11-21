@@ -249,6 +249,16 @@
   Swim: '6.01'
   Walk: '0.00'
 - Rank: '26'
+  Name: Coral
+  Group: ABM
+  FBID: Coral5050
+  Total_Mileage: '48.59'
+  Badges: '0'
+  Run: '48.59'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '27'
   Name: yapoh
   Group: ADW
   FBID: Yapoh0304
@@ -258,7 +268,7 @@
   Cycle: '150.71'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: Tony Foo
   Group: ADW
   FBID: tonyfoo0165
@@ -268,7 +278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: Ram
   Group: ADW
   FBID: Ram7267
@@ -278,7 +288,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: Nana
   Group: AFE
   FBID: Chris1166
@@ -287,16 +297,6 @@
   Run: '5.38'
   Cycle: '59.25'
   Swim: '3.60'
-  Walk: '0.00'
-- Rank: '30'
-  Name: Coral
-  Group: ABM
-  FBID: Coral5050
-  Total_Mileage: '39.97'
-  Badges: '0'
-  Run: '39.97'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '31'
   Name: Chan Wen
