@@ -89,6 +89,16 @@
   Swim: '0.90'
   Walk: '0.00'
 - Rank: '10'
+  Name: Irwin Chua
+  Group: AOSX/AOS
+  FBID: irwin2482
+  Total_Mileage: '81.00'
+  Badges: '4'
+  Run: '69.00'
+  Cycle: '0.00'
+  Swim: '2.00'
+  Walk: '0.00'
+- Rank: '11'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -98,7 +108,7 @@
   Cycle: '216.00'
   Swim: '2.20'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: LWY
   Group: AFE
   FBID: LWY3137
@@ -108,7 +118,7 @@
   Cycle: '278.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: HCM
   Group: ABM
   FBID: HCM1234
@@ -118,16 +128,6 @@
   Cycle: '34.01'
   Swim: '0.00'
   Walk: '40.49'
-- Rank: '13'
-  Name: Irwin Chua
-  Group: AOSX/AOS
-  FBID: irwin2482
-  Total_Mileage: '76.00'
-  Badges: '4'
-  Run: '64.00'
-  Cycle: '0.00'
-  Swim: '2.00'
-  Walk: '0.00'
 - Rank: '14'
   Name: Malcolm Taong
   Group: ADSS/ADWS/ADWO
