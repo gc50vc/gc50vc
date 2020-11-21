@@ -69,6 +69,16 @@
   Swim: '40.25'
   Walk: '0.00'
 - Rank: '8'
+  Name: Ektar
+  Group: ABM
+  FBID: ektar1971
+  Total_Mileage: '543.29'
+  Badges: '13'
+  Run: '102.47'
+  Cycle: '1039.66'
+  Swim: '30.15'
+  Walk: '0.00'
+- Rank: '9'
   Name: Nicholas
   Group: ADSS/ADWS/ADWO
   FBID: NN1974
@@ -78,16 +88,6 @@
   Cycle: '1402.61'
   Swim: '14.55'
   Walk: '3.02'
-- Rank: '9'
-  Name: Ektar
-  Group: ABM
-  FBID: ektar1971
-  Total_Mileage: '527.02'
-  Badges: '13'
-  Run: '102.47'
-  Cycle: '974.59'
-  Swim: '30.15'
-  Walk: '0.00'
 - Rank: '10'
   Name: Slimer
   Group: ABM
