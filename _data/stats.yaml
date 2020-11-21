@@ -1099,6 +1099,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '111'
+  Name: Der Siang
+  Group: ATC
+  FBID: Aku1234
+  Total_Mileage: '82.49'
+  Badges: '6'
+  Run: '35.02'
+  Cycle: '95.06'
+  Swim: '3.95'
+  Walk: '0.00'
+- Rank: '112'
   Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
   FBID: LeonYeo2590
@@ -1108,7 +1118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '112'
+- Rank: '113'
   Name: 'Windy '
   Group: ABM
   FBID: Windy4444
@@ -1118,7 +1128,7 @@
   Cycle: '0.00'
   Swim: '13.60'
   Walk: '0.00'
-- Rank: '113'
+- Rank: '114'
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
@@ -1128,7 +1138,7 @@
   Cycle: '24.16'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '114'
+- Rank: '115'
   Name: LWY
   Group: AFE
   FBID: LWY3137
@@ -1138,7 +1148,7 @@
   Cycle: '278.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '115'
+- Rank: '116'
   Name: Camper
   Group: ADW
   FBID: tanht1968
@@ -1148,7 +1158,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '116'
+- Rank: '117'
   Name: 'Sengie '
   Group: ADW
   FBID: ARIAL0160
@@ -1158,7 +1168,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '21.08'
-- Rank: '117'
+- Rank: '118'
   Name: TRIPS
   Group: ATC
   FBID: TRIPS_0000
@@ -1168,7 +1178,7 @@
   Cycle: '161.87'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '118'
+- Rank: '119'
   Name: Hector
   Group: ADW
   FBID: Hector0911
@@ -1178,7 +1188,7 @@
   Cycle: '0.00'
   Swim: '6.90'
   Walk: '4.26'
-- Rank: '119'
+- Rank: '120'
   Name: Irwin Chua
   Group: AOSX/AOS
   FBID: irwin2482
@@ -1187,16 +1197,6 @@
   Run: '64.00'
   Cycle: '0.00'
   Swim: '2.00'
-  Walk: '0.00'
-- Rank: '120'
-  Name: Der Siang
-  Group: ATC
-  FBID: Aku1234
-  Total_Mileage: '75.89'
-  Badges: '5'
-  Run: '32.02'
-  Cycle: '80.68'
-  Swim: '3.95'
   Walk: '0.00'
 - Rank: '121'
   Name: Zinc
