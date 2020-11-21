@@ -29,6 +29,16 @@
   Swim: '12.45'
   Walk: '0.00'
 - Rank: '4'
+  Name: LZX
+  Group: ADSS/ADWS/ADWO
+  FBID: leezx1337
+  Total_Mileage: '131.22'
+  Badges: '0'
+  Run: '34.38'
+  Cycle: '387.37'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '5'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -38,7 +48,7 @@
   Cycle: '0.00'
   Swim: '12.50'
   Walk: '2.85'
-- Rank: '5'
+- Rank: '6'
   Name: Nicholas
   Group: ADSS/ADWS/ADWO
   FBID: Nn1974
@@ -48,7 +58,7 @@
   Cycle: '322.08'
   Swim: '2.05'
   Walk: '0.00'
-- Rank: '6'
+- Rank: '7'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -58,7 +68,7 @@
   Cycle: '187.21'
   Swim: '3.30'
   Walk: '0.00'
-- Rank: '7'
+- Rank: '8'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -66,16 +76,6 @@
   Badges: '0'
   Run: '97.73'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '8'
-  Name: LZX
-  Group: ADSS/ADWS/ADWO
-  FBID: leezx1337
-  Total_Mileage: '96.08'
-  Badges: '0'
-  Run: '34.38'
-  Cycle: '246.81'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '9'
