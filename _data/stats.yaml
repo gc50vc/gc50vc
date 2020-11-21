@@ -169,6 +169,16 @@
   Swim: '2.58'
   Walk: '1.00'
 - Rank: '18'
+  Name: HC
+  Group: ADSS/ADWS/ADWO
+  FBID: hc1234
+  Total_Mileage: '305.81'
+  Badges: '5'
+  Run: '18.12'
+  Cycle: '1150.74'
+  Swim: '0.00'
+  Walk: '2.19'
+- Rank: '19'
   Name: aH-MuNs-Ge
   Group: AFE
   FBID: ahmuns9681
@@ -178,16 +188,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '19'
-  Name: HC
-  Group: ADSS/ADWS/ADWO
-  FBID: hc1234
-  Total_Mileage: '275.28'
-  Badges: '5'
-  Run: '18.12'
-  Cycle: '1028.64'
-  Swim: '0.00'
-  Walk: '2.19'
 - Rank: '20'
   Name: Tony Foo
   Group: ADW
@@ -639,6 +639,16 @@
   Swim: '4.50'
   Walk: '6.00'
 - Rank: '65'
+  Name: Sen Kiat
+  Group: ATC
+  FBID: HSK7777
+  Total_Mileage: '130.94'
+  Badges: '4'
+  Run: '130.94'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '66'
   Name: Iggy
   Group: ADSS/ADWS/ADWO
   FBID: Iggy7900
@@ -648,7 +658,7 @@
   Cycle: '286.57'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '66'
+- Rank: '67'
   Name: PCK
   Group: ADW
   FBID: PCK2205
@@ -658,7 +668,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '67'
+- Rank: '68'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -668,7 +678,7 @@
   Cycle: '8.76'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '68'
+- Rank: '69'
   Name: Sean Chua
   Group: ADSS/ADWS/ADWO
   FBID: Stop0001
@@ -678,7 +688,7 @@
   Cycle: '58.61'
   Swim: '0.00'
   Walk: '1.04'
-- Rank: '69'
+- Rank: '70'
   Name: Xiaolow3344
   Group: ADSS/ADWS/ADWO
   FBID: Xiaolow3344
@@ -688,16 +698,6 @@
   Cycle: '0.00'
   Swim: '20.00'
   Walk: '71.88'
-- Rank: '70'
-  Name: Sen Kiat
-  Group: ATC
-  FBID: HSK7777
-  Total_Mileage: '120.49'
-  Badges: '4'
-  Run: '120.49'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '71'
   Name: Cosmo
   Group: ABM
