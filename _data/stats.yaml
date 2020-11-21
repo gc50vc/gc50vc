@@ -69,6 +69,16 @@
   Swim: '40.25'
   Walk: '0.00'
 - Rank: '8'
+  Name: Nicholas
+  Group: ADSS/ADWS/ADWO
+  FBID: NN1974
+  Total_Mileage: '544.41'
+  Badges: '13'
+  Run: '100.46'
+  Cycle: '1402.61'
+  Swim: '15.55'
+  Walk: '3.02'
+- Rank: '9'
   Name: Ektar
   Group: ABM
   FBID: ektar1971
@@ -78,16 +88,6 @@
   Cycle: '1039.66'
   Swim: '30.15'
   Walk: '0.00'
-- Rank: '9'
-  Name: Nicholas
-  Group: ADSS/ADWS/ADWO
-  FBID: NN1974
-  Total_Mileage: '538.41'
-  Badges: '13'
-  Run: '100.46'
-  Cycle: '1402.61'
-  Swim: '14.55'
-  Walk: '3.02'
 - Rank: '10'
   Name: Slimer
   Group: ABM
@@ -179,6 +179,16 @@
   Swim: '0.00'
   Walk: '2.19'
 - Rank: '19'
+  Name: PIXAR
+  Group: ABM
+  FBID: PIXAR0001
+  Total_Mileage: '281.53'
+  Badges: '11'
+  Run: '122.27'
+  Cycle: '530.00'
+  Swim: '4.46'
+  Walk: '0.00'
+- Rank: '20'
   Name: aH-MuNs-Ge
   Group: AFE
   FBID: ahmuns9681
@@ -188,7 +198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '21'
   Name: Tony Foo
   Group: ADW
   FBID: tonyfoo0165
@@ -198,7 +208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -208,7 +218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.68'
-- Rank: '22'
+- Rank: '23'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -217,16 +227,6 @@
   Run: '223.61'
   Cycle: '66.17'
   Swim: '3.85'
-  Walk: '0.00'
-- Rank: '23'
-  Name: PIXAR
-  Group: ABM
-  FBID: PIXAR0001
-  Total_Mileage: '261.53'
-  Badges: '11'
-  Run: '122.27'
-  Cycle: '450.00'
-  Swim: '4.46'
   Walk: '0.00'
 - Rank: '24'
   Name: Vincent Yap
