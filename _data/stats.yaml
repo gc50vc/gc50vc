@@ -229,6 +229,16 @@
   Swim: '3.10'
   Walk: '0.00'
 - Rank: '24'
+  Name: AngmoATB
+  Group: ADW
+  FBID: Angmo1984
+  Total_Mileage: '247.55'
+  Badges: '7'
+  Run: '135.44'
+  Cycle: '0.00'
+  Swim: '18.69'
+  Walk: '7.97'
+- Rank: '25'
   Name: Coral
   Group: ABM
   FBID: Coral5050
@@ -238,7 +248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '9.48'
-- Rank: '25'
+- Rank: '26'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -248,16 +258,6 @@
   Cycle: '924.30'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '26'
-  Name: AngmoATB
-  Group: ADW
-  FBID: Angmo1984
-  Total_Mileage: '241.06'
-  Badges: '7'
-  Run: '128.95'
-  Cycle: '0.00'
-  Swim: '18.69'
-  Walk: '7.97'
 - Rank: '27'
   Name: Cutthroat
   Group: ATC
