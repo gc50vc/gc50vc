@@ -1,4 +1,14 @@
 - Rank: '1'
+  Name: Extreme
+  Group: ATC
+  FBID: Extreme8123
+  Total_Mileage: '223.67'
+  Badges: '2'
+  Run: '35.84'
+  Cycle: '181.30'
+  Swim: '23.75'
+  Walk: '0.00'
+- Rank: '2'
   Name: aH-MuNs-Ge
   Group: AFE
   FBID: ahmuns9681
@@ -7,16 +17,6 @@
   Run: '208.02'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '2'
-  Name: Extreme
-  Group: ATC
-  FBID: Extreme8123
-  Total_Mileage: '205.37'
-  Badges: '2'
-  Run: '35.84'
-  Cycle: '181.30'
-  Swim: '20.70'
   Walk: '0.00'
 - Rank: '3'
   Name: Ektar
