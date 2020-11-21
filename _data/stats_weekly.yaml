@@ -29,6 +29,16 @@
   Swim: '1.05'
   Walk: '0.00'
 - Rank: '4'
+  Name: Ektar
+  Group: ABM
+  FBID: Ektar1971
+  Total_Mileage: '115.81'
+  Badges: '1'
+  Run: '0.00'
+  Cycle: '164.44'
+  Swim: '12.45'
+  Walk: '0.00'
+- Rank: '5'
   Name: Ben
   Group: ADW
   FBID: BY8362
@@ -38,7 +48,7 @@
   Cycle: '240.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '5'
+- Rank: '6'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -48,7 +58,7 @@
   Cycle: '0.00'
   Swim: '10.40'
   Walk: '2.85'
-- Rank: '6'
+- Rank: '7'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -57,16 +67,6 @@
   Run: '40.07'
   Cycle: '187.21'
   Swim: '3.30'
-  Walk: '0.00'
-- Rank: '7'
-  Name: Ektar
-  Group: ABM
-  FBID: Ektar1971
-  Total_Mileage: '103.81'
-  Badges: '1'
-  Run: '0.00'
-  Cycle: '164.44'
-  Swim: '10.45'
   Walk: '0.00'
 - Rank: '8'
   Name: LZX
