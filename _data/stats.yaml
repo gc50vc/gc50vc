@@ -1069,6 +1069,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '108'
+  Name: Hector
+  Group: ADW
+  FBID: Hector0911
+  Total_Mileage: '84.85'
+  Badges: '5'
+  Run: '43.45'
+  Cycle: '0.00'
+  Swim: '6.90'
+  Walk: '4.26'
+- Rank: '109'
   Name: Legend
   Group: ADW
   FBID: Legend2512
@@ -1078,7 +1088,7 @@
   Cycle: '191.27'
   Swim: '0.00'
   Walk: '13.11'
-- Rank: '109'
+- Rank: '110'
   Name: Sze Tein
   Group: ATC
   FBID: Topaz1327
@@ -1088,7 +1098,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '110'
+- Rank: '111'
   Name: Der Siang
   Group: ATC
   FBID: Aku1234
@@ -1098,7 +1108,7 @@
   Cycle: '95.06'
   Swim: '3.95'
   Walk: '0.00'
-- Rank: '111'
+- Rank: '112'
   Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
   FBID: LeonYeo2590
@@ -1108,7 +1118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '112'
+- Rank: '113'
   Name: 'Windy '
   Group: ABM
   FBID: Windy4444
@@ -1118,7 +1128,7 @@
   Cycle: '0.00'
   Swim: '13.60'
   Walk: '0.00'
-- Rank: '113'
+- Rank: '114'
   Name: Zinc
   Group: ADW
   FBID: zinc1997
@@ -1128,7 +1138,7 @@
   Cycle: '24.40'
   Swim: '0.00'
   Walk: '5.65'
-- Rank: '114'
+- Rank: '115'
   Name: Irwin Chua
   Group: AOSX/AOS
   FBID: irwin2482
@@ -1138,7 +1148,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '115'
+- Rank: '116'
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
@@ -1148,7 +1158,7 @@
   Cycle: '24.16'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '116'
+- Rank: '117'
   Name: LWY
   Group: AFE
   FBID: LWY3137
@@ -1158,7 +1168,7 @@
   Cycle: '278.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '117'
+- Rank: '118'
   Name: Camper
   Group: ADW
   FBID: tanht1968
@@ -1168,7 +1178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '118'
+- Rank: '119'
   Name: 'Sengie '
   Group: ADW
   FBID: ARIAL0160
@@ -1178,7 +1188,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '21.08'
-- Rank: '119'
+- Rank: '120'
   Name: TRIPS
   Group: ATC
   FBID: TRIPS_0000
@@ -1188,16 +1198,6 @@
   Cycle: '161.87'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '120'
-  Name: Hector
-  Group: ADW
-  FBID: Hector0911
-  Total_Mileage: '77.64'
-  Badges: '4'
-  Run: '36.24'
-  Cycle: '0.00'
-  Swim: '6.90'
-  Walk: '4.26'
 - Rank: '121'
   Name: HCM
   Group: ABM
