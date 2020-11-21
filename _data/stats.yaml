@@ -379,6 +379,16 @@
   Swim: '3.20'
   Walk: '0.00'
 - Rank: '39'
+  Name: Vapor
+  Group: ADW
+  FBID: Vapor6148
+  Total_Mileage: '191.35'
+  Badges: '4'
+  Run: '186.83'
+  Cycle: '18.09'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '40'
   Name: aH-MuNs-Ge
   Group: AFE
   FBID: ahmuns9861
@@ -388,7 +398,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '79.15'
-- Rank: '40'
+- Rank: '41'
   Name: bok ong
   Group: ADSS/ADWS/ADWO
   FBID: bok2903
@@ -398,17 +408,17 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '41'
-  Name: Vapor
-  Group: ADW
-  FBID: Vapor6148
-  Total_Mileage: '188.95'
-  Badges: '4'
-  Run: '184.43'
-  Cycle: '18.09'
+- Rank: '42'
+  Name: Cookie
+  Group: ATC
+  FBID: Cookie3rdWSO1975
+  Total_Mileage: '179.98'
+  Badges: '6'
+  Run: '153.96'
+  Cycle: '104.06'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '42'
+- Rank: '43'
   Name: Andrew
   Group: ADW
   FBID: Hammer1990
@@ -418,7 +428,7 @@
   Cycle: '295.12'
   Swim: '4.00'
   Walk: '0.00'
-- Rank: '43'
+- Rank: '44'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -428,7 +438,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '4.73'
-- Rank: '44'
+- Rank: '45'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -436,16 +446,6 @@
   Badges: '4'
   Run: '173.28'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '45'
-  Name: Cookie
-  Group: ATC
-  FBID: Cookie3rdWSO1975
-  Total_Mileage: '169.97'
-  Badges: '6'
-  Run: '143.95'
-  Cycle: '104.06'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '46'
