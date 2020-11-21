@@ -1027,7 +1027,7 @@
   Run: '87.07'
   Cycle: '11.67'
   Swim: '0.00'
-  Walk: '74.27'
+  Walk: '80.44'
 - Rank: '104'
   Name: ARROW
   Group: ADW
@@ -1189,6 +1189,16 @@
   Swim: '6.90'
   Walk: '4.26'
 - Rank: '120'
+  Name: HCM
+  Group: ABM
+  FBID: HCM1234
+  Total_Mileage: '77.31'
+  Badges: '3'
+  Run: '68.81'
+  Cycle: '34.01'
+  Swim: '0.00'
+  Walk: '40.49'
+- Rank: '121'
   Name: Irwin Chua
   Group: AOSX/AOS
   FBID: irwin2482
@@ -1198,7 +1208,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '121'
+- Rank: '122'
   Name: Zinc
   Group: ADW
   FBID: zinc1997
@@ -1208,7 +1218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '5.65'
-- Rank: '122'
+- Rank: '123'
   Name: Starbucks
   Group: ABM
   FBID: Starbucks3756
@@ -1218,7 +1228,7 @@
   Cycle: '9.23'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '123'
+- Rank: '124'
   Name: OLAF
   Group: ADW
   FBID: OLAF2156
@@ -1228,7 +1238,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '124'
+- Rank: '125'
   Name: JonChen
   Group: ADW
   FBID: JonChen0000
@@ -1238,7 +1248,7 @@
   Cycle: '270.53'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '125'
+- Rank: '126'
   Name: Dominic
   Group: ATC
   FBID: Nickel1191
@@ -1248,7 +1258,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '126'
+- Rank: '127'
   Name: Jefferson
   Group: AFE
   FBID: VolvoJeff1985
@@ -1258,7 +1268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '127'
+- Rank: '128'
   Name: Darius Ng
   Group: ADSS/ADWS/ADWO
   FBID: bobo1234
@@ -1268,7 +1278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '128'
+- Rank: '129'
   Name: Jiajun
   Group: ADSS/ADWS/ADWO
   FBID: Jj2304
@@ -1278,7 +1288,7 @@
   Cycle: '0.00'
   Swim: '10.00'
   Walk: '11.06'
-- Rank: '129'
+- Rank: '130'
   Name: Sunray
   Group: ABM
   FBID: Sunray0909
@@ -1288,7 +1298,7 @@
   Cycle: '179.85'
   Swim: '1.16'
   Walk: '0.00'
-- Rank: '130'
+- Rank: '131'
   Name: KevinKKW
   Group: ADSS/ADWS/ADWO
   FBID: Kkkw0165
@@ -1298,7 +1308,7 @@
   Cycle: '117.90'
   Swim: '0.00'
   Walk: '7.10'
-- Rank: '131'
+- Rank: '132'
   Name: Alan
   Group: ADSS/ADWS/ADWO
   FBID: Alan2881
@@ -1308,7 +1318,7 @@
   Cycle: '0.00'
   Swim: '4.65'
   Walk: '32.00'
-- Rank: '132'
+- Rank: '133'
   Name: Lim Kian Hock
   Group: AFE
   FBID: Jon3445
@@ -1318,7 +1328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '133'
+- Rank: '134'
   Name: Yeow Teck
   Group: AOSX/AOS
   FBID: Youtube6116
@@ -1328,7 +1338,7 @@
   Cycle: '0.00'
   Swim: '2.20'
   Walk: '0.00'
-- Rank: '134'
+- Rank: '135'
   Name: Alloy
   Group: ABM
   FBID: alloy8585
@@ -1338,16 +1348,6 @@
   Cycle: '0.00'
   Swim: '3.40'
   Walk: '0.00'
-- Rank: '135'
-  Name: HCM
-  Group: ABM
-  FBID: HCM1234
-  Total_Mileage: '68.81'
-  Badges: '3'
-  Run: '68.81'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '40.49'
 - Rank: '136'
   Name: Akileis
   Group: ADW
