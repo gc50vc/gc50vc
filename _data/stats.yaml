@@ -259,6 +259,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '27'
+  Name: AngmoATB
+  Group: ADW
+  FBID: Angmo1984
+  Total_Mileage: '241.06'
+  Badges: '7'
+  Run: '128.95'
+  Cycle: '0.00'
+  Swim: '18.69'
+  Walk: '7.97'
+- Rank: '28'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -268,7 +278,7 @@
   Cycle: '40.64'
   Swim: '13.60'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -278,7 +288,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -288,7 +298,7 @@
   Cycle: '475.02'
   Swim: '9.15'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '31'
   Name: Bronson
   Group: ADW
   FBID: Bronze1234
@@ -298,7 +308,7 @@
   Cycle: '149.89'
   Swim: '22.93'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '32'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -308,16 +318,6 @@
   Cycle: '458.20'
   Swim: '6.40'
   Walk: '14.39'
-- Rank: '32'
-  Name: AngmoATB
-  Group: ADW
-  FBID: Angmo1984
-  Total_Mileage: '223.06'
-  Badges: '7'
-  Run: '128.95'
-  Cycle: '0.00'
-  Swim: '15.69'
-  Walk: '7.97'
 - Rank: '33'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
