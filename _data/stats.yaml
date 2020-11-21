@@ -1359,6 +1359,16 @@
   Swim: '11.00'
   Walk: '6.29'
 - Rank: '137'
+  Name: Wan Yuan
+  Group: ADW
+  FBID: Lost1908
+  Total_Mileage: '68.14'
+  Badges: '3'
+  Run: '68.14'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '18.68'
+- Rank: '138'
   Name: Chin Yong
   Group: ADSS/ADWS/ADWO
   FBID: Relaxing1234
@@ -1368,7 +1378,7 @@
   Cycle: '55.45'
   Swim: '0.00'
   Walk: '44.84'
-- Rank: '138'
+- Rank: '139'
   Name: COVID
   Group: ADSS/ADWS/ADWO
   FBID: COVID9999
@@ -1378,7 +1388,7 @@
   Cycle: '74.61'
   Swim: '0.00'
   Walk: '21.50'
-- Rank: '139'
+- Rank: '140'
   Name: Kelvin
   Group: ADSS/ADWS/ADWO
   FBID: Kelvin1111
@@ -1388,7 +1398,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '140'
+- Rank: '141'
   Name: Manu
   Group: ABM
   FBID: Manu7894
@@ -1398,7 +1408,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '141'
+- Rank: '142'
   Name: Dennis
   Group: ADSS/ADWS/ADWO
   FBID: Dennis0495
@@ -1408,7 +1418,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.31'
-- Rank: '142'
+- Rank: '143'
   Name: Yew Choong
   Group: ADSS/ADWS/ADWO
   FBID: GGXC0160
@@ -1418,7 +1428,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '19.25'
-- Rank: '143'
+- Rank: '144'
   Name: Lava
   Group: ATC
   FBID: Lava1717
@@ -1428,7 +1438,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '144'
+- Rank: '145'
   Name: 'Crystal '
   Group: ABM
   FBID: Crystal1101
@@ -1438,7 +1448,7 @@
   Cycle: '9.48'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '145'
+- Rank: '146'
   Name: Lin Weili
   Group: AOSX/AOS
   FBID: Michelin5052
@@ -1448,7 +1458,7 @@
   Cycle: '45.08'
   Swim: '0.00'
   Walk: '1.00'
-- Rank: '146'
+- Rank: '147'
   Name: Barter
   Group: ATC
   FBID: Reload0203
@@ -1458,7 +1468,7 @@
   Cycle: '203.00'
   Swim: '1.50'
   Walk: '13.50'
-- Rank: '147'
+- Rank: '148'
   Name: Owyong
   Group: ATC
   FBID: Owyong251088
@@ -1468,7 +1478,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '148'
+- Rank: '149'
   Name: Shawn Chia
   Group: ADW
   FBID: SCWE9595
@@ -1478,7 +1488,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '149'
+- Rank: '150'
   Name: Saturn
   Group: ADW
   FBID: Saturn1501
@@ -1488,16 +1498,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '150'
-  Name: Wan Yuan
-  Group: ADW
-  FBID: Lost1908
-  Total_Mileage: '63.98'
-  Badges: '3'
-  Run: '63.98'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '18.68'
 - Rank: '151'
   Name: Eddie Chua
   Group: AFE
