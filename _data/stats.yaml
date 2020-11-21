@@ -587,7 +587,7 @@
   Run: '139.98'
   Cycle: '29.50'
   Swim: '0.00'
-  Walk: '0.00'
+  Walk: '9.39'
 - Rank: '60'
   Name: GN
   Group: ADSS/ADWS/ADWO
@@ -839,6 +839,16 @@
   Swim: '0.00'
   Walk: '11.10'
 - Rank: '85'
+  Name: Rock
+  Group: ADW
+  FBID: Rock0165
+  Total_Mileage: '110.90'
+  Badges: '4'
+  Run: '104.90'
+  Cycle: '0.00'
+  Swim: '1.00'
+  Walk: '6.00'
+- Rank: '86'
   Name: Geeky
   Group: ADW
   FBID: Geeky1989
@@ -848,7 +858,7 @@
   Cycle: '0.00'
   Swim: '7.60'
   Walk: '40.67'
-- Rank: '86'
+- Rank: '87'
   Name: Warren Chua
   Group: ADSS/ADWS/ADWO
   FBID: Warren9588
@@ -858,7 +868,7 @@
   Cycle: '391.17'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '87'
+- Rank: '88'
   Name: loanshark
   Group: ATC
   FBID: loanshark9356
@@ -868,7 +878,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.64'
-- Rank: '88'
+- Rank: '89'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -878,16 +888,6 @@
   Cycle: '221.29'
   Swim: '5.10'
   Walk: '0.00'
-- Rank: '89'
-  Name: Rock
-  Group: ADW
-  FBID: Rock0165
-  Total_Mileage: '105.90'
-  Badges: '3'
-  Run: '99.90'
-  Cycle: '0.00'
-  Swim: '1.00'
-  Walk: '6.00'
 - Rank: '90'
   Name: Andre
   Group: ADW
