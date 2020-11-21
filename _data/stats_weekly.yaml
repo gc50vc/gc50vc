@@ -199,6 +199,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '21'
+  Name: Tommy Tham
+  Group: ADSS/ADWS/ADWO
+  FBID: Tommy1976
+  Total_Mileage: '49.77'
+  Badges: '1'
+  Run: '10.49'
+  Cycle: '12.89'
+  Swim: '6.01'
+  Walk: '0.00'
+- Rank: '22'
   Name: yapoh
   Group: ADW
   FBID: Yapoh0304
@@ -208,7 +218,7 @@
   Cycle: '150.71'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: Wang0165
@@ -218,7 +228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
@@ -228,7 +238,7 @@
   Cycle: '0.00'
   Swim: '4.70'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: Tony Foo
   Group: ADW
   FBID: tonyfoo0165
@@ -237,16 +247,6 @@
   Run: '45.10'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '25'
-  Name: Tommy Tham
-  Group: ADSS/ADWS/ADWO
-  FBID: Tommy1976
-  Total_Mileage: '44.33'
-  Badges: '1'
-  Run: '5.05'
-  Cycle: '12.89'
-  Swim: '6.01'
   Walk: '0.00'
 - Rank: '26'
   Name: Ram
