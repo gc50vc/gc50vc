@@ -59,6 +59,16 @@
   Swim: '10.45'
   Walk: '0.00'
 - Rank: '7'
+  Name: Sloh
+  Group: ADW
+  FBID: Sloh0121
+  Total_Mileage: '103.50'
+  Badges: '0'
+  Run: '36.90'
+  Cycle: '187.21'
+  Swim: '3.30'
+  Walk: '0.00'
+- Rank: '8'
   Name: LZX
   Group: ADSS/ADWS/ADWO
   FBID: leezx1337
@@ -68,7 +78,7 @@
   Cycle: '246.81'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '8'
+- Rank: '9'
   Name: Nicholas Lian
   Group: ADW
   FBID: horsepower2001
@@ -78,7 +88,7 @@
   Cycle: '0.00'
   Swim: '0.90'
   Walk: '0.00'
-- Rank: '9'
+- Rank: '10'
   Name: LWY
   Group: AFE
   FBID: LWY3137
@@ -87,16 +97,6 @@
   Run: '10.00'
   Cycle: '278.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '10'
-  Name: Sloh
-  Group: ADW
-  FBID: Sloh0121
-  Total_Mileage: '78.45'
-  Badges: '0'
-  Run: '36.90'
-  Cycle: '86.98'
-  Swim: '3.30'
   Walk: '0.00'
 - Rank: '11'
   Name: Irwin Chua
@@ -2089,6 +2089,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '210'
+  Name: Quainapz
+  Group: ADSS/ADWS/ADWO
+  FBID: Quainapz8585
+  Total_Mileage: '2.01'
+  Badges: ''
+  Run: '2.01'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '211'
   Name: NG Eng Ming
   Group: ADSS/ADWS/ADWO
   FBID: NgEM1858
@@ -2098,7 +2108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '5.67'
-- Rank: '211'
+- Rank: '212'
   Name: Nat Wong
   Group: ADW
   FBID: nyat8784
@@ -2108,7 +2118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '212'
+- Rank: '213'
   Name: Glenn Lee
   Group: ADW
   FBID: Garfield3310
@@ -2118,7 +2128,7 @@
   Cycle: '7.20'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '213'
+- Rank: '214'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -2128,7 +2138,7 @@
   Cycle: '4.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '214'
+- Rank: '215'
   Name: Sirius
   Group: ABM
   FBID: Sirius1320
@@ -2138,7 +2148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '16.06'
-- Rank: '214'
+- Rank: '215'
   Name: Patrick Pang
   Group: AFE
   FBID: Playpang0113
@@ -2148,7 +2158,17 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '75.01'
-- Rank: '214'
+- Rank: '215'
+  Name: Wan Yuan
+  Group: ADW
+  FBID: Lost1908
+  Total_Mileage: '0.00'
+  Badges: ''
+  Run: '0.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '14.85'
+- Rank: '215'
   Name: Ihit
   Group: ADW
   FBID: IHIT0103
@@ -2158,7 +2178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '75.00'
-- Rank: '214'
+- Rank: '215'
   Name: Bryan Tan GJ
   Group: ADW
   FBID: Bryan2727
@@ -2168,7 +2188,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '4.60'
-- Rank: '214'
+- Rank: '215'
   Name: Austin Law
   Group: AFE
   FBID: Austin8888
@@ -2178,7 +2198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '96.00'
-- Rank: '214'
+- Rank: '215'
   Name: Joshuaistired
   Group: ADSS/ADWS/ADWO
   FBID: 165Bang1999
