@@ -2449,6 +2449,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '246'
+  Name: Andrew Ng
+  Group: ADW
+  FBID: Maxcap2103
+  Total_Mileage: '37.42'
+  Badges: '3'
+  Run: '21.67'
+  Cycle: '42.60'
+  Swim: '0.85'
+  Walk: '0.98'
+- Rank: '247'
   Name: Blizzard
   Group: ATC
   FBID: blizzard1979
@@ -2458,7 +2468,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '247'
+- Rank: '248'
   Name: Cactus
   Group: ADSS/ADWS/ADWO
   FBID: Daphne1234
@@ -2468,7 +2478,7 @@
   Cycle: '0.00'
   Swim: '6.20'
   Walk: '0.00'
-- Rank: '248'
+- Rank: '249'
   Name: Psychic
   Group: ATC
   FBID: psychic2204
@@ -2478,7 +2488,7 @@
   Cycle: '39.31'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '249'
+- Rank: '250'
   Name: Aik Phan
   Group: ADSS/ADWS/ADWO
   FBID: aikphan1234
@@ -2488,7 +2498,7 @@
   Cycle: '0.00'
   Swim: '3.00'
   Walk: '0.00'
-- Rank: '250'
+- Rank: '251'
   Name: Zheng Xi
   Group: ADSS/ADWS/ADWO
   FBID: IamslowturtlefromR0160
@@ -2498,7 +2508,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '251'
+- Rank: '252'
   Name: Tim Kan
   Group: ADW
   FBID: timkan1991
@@ -2508,7 +2518,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '252'
+- Rank: '253'
   Name: J L
   Group: ADSS/ADWS/ADWO
   FBID: syke8890
@@ -2518,7 +2528,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '253'
+- Rank: '254'
   Name: aH Hui
   Group: ADSS/ADWS/ADWO
   FBID: Edgar0409
@@ -2528,7 +2538,7 @@
   Cycle: '45.33'
   Swim: '0.00'
   Walk: '9.07'
-- Rank: '254'
+- Rank: '255'
   Name: Aaron
   Group: AOSX/AOS
   FBID: Aaron0721
@@ -2538,7 +2548,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '255'
+- Rank: '256'
   Name: Wong Wei Ming
   Group: ATC
   FBID: Shadow0206
@@ -2548,7 +2558,7 @@
   Cycle: '0.00'
   Swim: '2.14'
   Walk: '0.00'
-- Rank: '256'
+- Rank: '257'
   Name: Yan Ting
   Group: ADSS/ADWS/ADWO
   FBID: Yeti1993
@@ -2558,7 +2568,7 @@
   Cycle: '0.00'
   Swim: '3.20'
   Walk: '0.00'
-- Rank: '257'
+- Rank: '258'
   Name: Soh Thiam Hing
   Group: ADSS/ADWS/ADWO
   FBID: daffodilistic1337
@@ -2568,16 +2578,6 @@
   Cycle: '9.74'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '258'
-  Name: Andrew Ng
-  Group: ADW
-  FBID: Maxcap2103
-  Total_Mileage: '35.17'
-  Badges: '2'
-  Run: '21.67'
-  Cycle: '33.59'
-  Swim: '0.85'
-  Walk: '0.98'
 - Rank: '259'
   Name: Ryan Tan
   Group: ADSS/ADWS/ADWO
@@ -4117,7 +4117,7 @@
   Run: '0.00'
   Cycle: '0.00'
   Swim: '2.05'
-  Walk: '0.00'
+  Walk: '3.59'
 - Rank: '413'
   Name: JiaZe
   Group: ADSS/ADWS/ADWO
