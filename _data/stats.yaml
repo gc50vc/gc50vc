@@ -89,6 +89,16 @@
   Swim: '30.15'
   Walk: '0.00'
 - Rank: '10'
+  Name: Slimer
+  Group: ABM
+  FBID: Slimer1234
+  Total_Mileage: '418.00'
+  Badges: '12'
+  Run: '130.42'
+  Cycle: '209.50'
+  Swim: '39.20'
+  Walk: '13.89'
+- Rank: '11'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -98,7 +108,7 @@
   Cycle: '193.58'
   Swim: '51.10'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -108,16 +118,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '12'
-  Name: Slimer
-  Group: ABM
-  FBID: Slimer1234
-  Total_Mileage: '405.40'
-  Badges: '12'
-  Run: '130.42'
-  Cycle: '209.50'
-  Swim: '37.10'
-  Walk: '13.89'
 - Rank: '13'
   Name: yapoh
   Group: ADW
