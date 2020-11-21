@@ -399,6 +399,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '41'
+  Name: Vapor
+  Group: ADW
+  FBID: Vapor6148
+  Total_Mileage: '188.95'
+  Badges: '4'
+  Run: '184.43'
+  Cycle: '18.09'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '42'
   Name: Andrew
   Group: ADW
   FBID: Hammer1990
@@ -408,7 +418,7 @@
   Cycle: '295.12'
   Swim: '4.00'
   Walk: '0.00'
-- Rank: '42'
+- Rank: '43'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -418,7 +428,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '4.73'
-- Rank: '43'
+- Rank: '44'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -428,7 +438,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '44'
+- Rank: '45'
   Name: Cookie
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -438,7 +448,7 @@
   Cycle: '104.06'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '45'
+- Rank: '46'
   Name: Benson
   Group: ADW
   FBID: benoi1234
@@ -448,7 +458,7 @@
   Cycle: '95.28'
   Swim: '0.95'
   Walk: '1.80'
-- Rank: '46'
+- Rank: '47'
   Name: AdolphusJJ
   Group: AOSX/AOS
   FBID: Bamboo1234
@@ -458,7 +468,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '47'
+- Rank: '48'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -468,16 +478,6 @@
   Cycle: '134.59'
   Swim: '0.00'
   Walk: '1.57'
-- Rank: '48'
-  Name: Vapor
-  Group: ADW
-  FBID: Vapor6148
-  Total_Mileage: '166.34'
-  Badges: '4'
-  Run: '166.34'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '49'
   Name: Homeboy
   Group: AOSX/AOS
