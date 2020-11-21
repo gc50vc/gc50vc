@@ -99,6 +99,16 @@
   Swim: '0.90'
   Walk: '0.00'
 - Rank: '11'
+  Name: PIXAR
+  Group: ABM
+  FBID: PIXAR0001
+  Total_Mileage: '80.29'
+  Badges: '2'
+  Run: '13.09'
+  Cycle: '216.00'
+  Swim: '2.20'
+  Walk: '0.00'
+- Rank: '12'
   Name: LWY
   Group: AFE
   FBID: LWY3137
@@ -108,7 +118,7 @@
   Cycle: '278.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: HCM
   Group: ABM
   FBID: HCM1234
@@ -118,7 +128,7 @@
   Cycle: '34.01'
   Swim: '0.00'
   Walk: '40.49'
-- Rank: '13'
+- Rank: '14'
   Name: Irwin Chua
   Group: AOSX/AOS
   FBID: irwin2482
@@ -128,7 +138,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '15'
   Name: Malcolm Taong
   Group: ADSS/ADWS/ADWO
   FBID: TAONG8070
@@ -138,7 +148,7 @@
   Cycle: '229.98'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '15'
+- Rank: '16'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -147,16 +157,6 @@
   Run: '3.70'
   Cycle: '269.10'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '16'
-  Name: PIXAR
-  Group: ABM
-  FBID: PIXAR0001
-  Total_Mileage: '60.29'
-  Badges: '2'
-  Run: '13.09'
-  Cycle: '136.00'
-  Swim: '2.20'
   Walk: '0.00'
 - Rank: '17'
   Name: YuenG
