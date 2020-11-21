@@ -19,6 +19,16 @@
   Swim: '20.70'
   Walk: '0.00'
 - Rank: '3'
+  Name: Slimer
+  Group: ABM
+  FBID: Slimer1234
+  Total_Mileage: '125.93'
+  Badges: '1'
+  Run: '50.93'
+  Cycle: '0.00'
+  Swim: '12.50'
+  Walk: '2.85'
+- Rank: '4'
   Name: Nicholas
   Group: ADSS/ADWS/ADWO
   FBID: Nn1974
@@ -28,7 +38,7 @@
   Cycle: '322.08'
   Swim: '1.05'
   Walk: '0.00'
-- Rank: '4'
+- Rank: '5'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -38,7 +48,7 @@
   Cycle: '164.44'
   Swim: '12.45'
   Walk: '0.00'
-- Rank: '5'
+- Rank: '6'
   Name: Ben
   Group: ADW
   FBID: BY8362
@@ -48,16 +58,6 @@
   Cycle: '240.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '6'
-  Name: Slimer
-  Group: ABM
-  FBID: Slimer1234
-  Total_Mileage: '113.33'
-  Badges: '1'
-  Run: '50.93'
-  Cycle: '0.00'
-  Swim: '10.40'
-  Walk: '2.85'
 - Rank: '7'
   Name: Sloh
   Group: ADW
