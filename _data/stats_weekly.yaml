@@ -189,6 +189,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '20'
+  Name: AngmoATB
+  Group: ADW
+  FBID: Angmo1984
+  Total_Mileage: '51.70'
+  Badges: '0'
+  Run: '23.50'
+  Cycle: '0.00'
+  Swim: '4.70'
+  Walk: '0.00'
+- Rank: '21'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -198,7 +208,7 @@
   Cycle: '8.76'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -208,7 +218,7 @@
   Cycle: '12.89'
   Swim: '6.01'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: yapoh
   Group: ADW
   FBID: Yapoh0304
@@ -218,7 +228,7 @@
   Cycle: '150.71'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: Wang0165
@@ -227,16 +237,6 @@
   Run: '46.76'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '24'
-  Name: AngmoATB
-  Group: ADW
-  FBID: Angmo1984
-  Total_Mileage: '45.21'
-  Badges: '0'
-  Run: '17.01'
-  Cycle: '0.00'
-  Swim: '4.70'
   Walk: '0.00'
 - Rank: '25'
   Name: Tony Foo
