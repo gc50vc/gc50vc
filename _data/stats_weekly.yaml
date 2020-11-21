@@ -639,6 +639,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '65'
+  Name: Prem
+  Group: ADW
+  FBID: Premium6687
+  Total_Mileage: '20.83'
+  Badges: '0'
+  Run: '20.83'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '66'
   Name: Fu Hao Wei
   Group: ADW
   FBID: fuhaowei8435
@@ -648,7 +658,7 @@
   Cycle: '79.95'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '66'
+- Rank: '67'
   Name: Aaron
   Group: AOSX/AOS
   FBID: Aaron0721
@@ -658,7 +668,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '67'
+- Rank: '68'
   Name: TRIPS
   Group: ATC
   FBID: TRIPS_0000
@@ -668,7 +678,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '68'
+- Rank: '69'
   Name: loanshark
   Group: ATC
   FBID: loanshark9356
@@ -678,7 +688,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.64'
-- Rank: '69'
+- Rank: '70'
   Name: Tyrone
   Group: ADW
   FBID: Tyrone1234
@@ -688,7 +698,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '70'
+- Rank: '71'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -698,7 +708,7 @@
   Cycle: '38.50'
   Swim: '0.00'
   Walk: '2.00'
-- Rank: '71'
+- Rank: '72'
   Name: Der Siang
   Group: ATC
   FBID: Aku1234
@@ -708,23 +718,13 @@
   Cycle: '22.13'
   Swim: '0.45'
   Walk: '0.00'
-- Rank: '72'
+- Rank: '73'
   Name: Gwyn
   Group: ADW
   FBID: Magma1201
   Total_Mileage: '17.82'
   Badges: '0'
   Run: '17.82'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '73'
-  Name: Prem
-  Group: ADW
-  FBID: Premium6687
-  Total_Mileage: '17.74'
-  Badges: '0'
-  Run: '17.74'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
