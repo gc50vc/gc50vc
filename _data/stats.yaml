@@ -899,6 +899,16 @@
   Swim: '0.85'
   Walk: '0.00'
 - Rank: '91'
+  Name: Quainapz
+  Group: ADSS/ADWS/ADWO
+  FBID: Quainapz8585
+  Total_Mileage: '103.51'
+  Badges: '4'
+  Run: '84.91'
+  Cycle: '0.00'
+  Swim: '3.10'
+  Walk: '2.30'
+- Rank: '92'
   Name: Rubiks
   Group: ABM
   FBID: Rubiks1234
@@ -908,16 +918,6 @@
   Cycle: '41.78'
   Swim: '4.10'
   Walk: '0.00'
-- Rank: '92'
-  Name: Quainapz
-  Group: ADSS/ADWS/ADWO
-  FBID: Quainapz8585
-  Total_Mileage: '101.50'
-  Badges: '4'
-  Run: '82.90'
-  Cycle: '0.00'
-  Swim: '3.10'
-  Walk: '2.30'
 - Rank: '93'
   Name: Lightyear
   Group: ADW
@@ -1487,7 +1487,7 @@
   Run: '63.98'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '3.83'
+  Walk: '18.68'
 - Rank: '150'
   Name: Eddie Chua
   Group: AFE
