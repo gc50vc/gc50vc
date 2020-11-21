@@ -639,6 +639,16 @@
   Swim: '4.50'
   Walk: '6.00'
 - Rank: '65'
+  Name: PCK
+  Group: ADW
+  FBID: PCK2205
+  Total_Mileage: '131.84'
+  Badges: '4'
+  Run: '131.84'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '66'
   Name: Sen Kiat
   Group: ATC
   FBID: HSK7777
@@ -648,7 +658,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '66'
+- Rank: '67'
   Name: RainmanCYK
   Group: ADW
   FBID: Rainman0000
@@ -658,7 +668,7 @@
   Cycle: '0.00'
   Swim: '18.00'
   Walk: '0.00'
-- Rank: '67'
+- Rank: '68'
   Name: Iggy
   Group: ADSS/ADWS/ADWO
   FBID: Iggy7900
@@ -666,16 +676,6 @@
   Badges: '6'
   Run: '54.83'
   Cycle: '286.57'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '68'
-  Name: PCK
-  Group: ADW
-  FBID: PCK2205
-  Total_Mileage: '126.02'
-  Badges: '4'
-  Run: '126.02'
-  Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '69'
