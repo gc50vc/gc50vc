@@ -99,6 +99,16 @@
   Swim: '64.45'
   Walk: '1.32'
 - Rank: '11'
+  Name: Tommy Tham
+  Group: ADSS/ADWS/ADWO
+  FBID: Tommy1976
+  Total_Mileage: '444.83'
+  Badges: '11'
+  Run: '72.43'
+  Cycle: '193.58'
+  Swim: '54.00'
+  Walk: '0.00'
+- Rank: '12'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -108,16 +118,6 @@
   Cycle: '209.50'
   Swim: '41.70'
   Walk: '13.89'
-- Rank: '12'
-  Name: Tommy Tham
-  Group: ADSS/ADWS/ADWO
-  FBID: Tommy1976
-  Total_Mileage: '431.03'
-  Badges: '11'
-  Run: '72.43'
-  Cycle: '193.58'
-  Swim: '51.70'
-  Walk: '0.00'
 - Rank: '13'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
@@ -869,6 +869,16 @@
   Swim: '1.00'
   Walk: '6.00'
 - Rank: '88'
+  Name: Warren Chua
+  Group: ADSS/ADWS/ADWO
+  FBID: Warren9588
+  Total_Mileage: '110.81'
+  Badges: '5'
+  Run: '10.49'
+  Cycle: '401.26'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '89'
   Name: Nana
   Group: AFE
   FBID: Chris1166
@@ -878,7 +888,7 @@
   Cycle: '173.36'
   Swim: '5.60'
   Walk: '70.00'
-- Rank: '89'
+- Rank: '90'
   Name: Geeky
   Group: ADW
   FBID: Geeky1989
@@ -888,16 +898,6 @@
   Cycle: '0.00'
   Swim: '7.60'
   Walk: '40.67'
-- Rank: '90'
-  Name: Warren Chua
-  Group: ADSS/ADWS/ADWO
-  FBID: Warren9588
-  Total_Mileage: '108.28'
-  Badges: '5'
-  Run: '10.49'
-  Cycle: '391.17'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '91'
   Name: SU WEIJIE
   Group: ADW
