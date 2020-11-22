@@ -629,6 +629,16 @@
   Swim: '16.32'
   Walk: '4.80'
 - Rank: '64'
+  Name: Iggy
+  Group: ADSS/ADWS/ADWO
+  FBID: Iggy7900
+  Total_Mileage: '134.49'
+  Badges: '6'
+  Run: '62.85'
+  Cycle: '286.57'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '65'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -638,7 +648,7 @@
   Cycle: '18.27'
   Swim: '0.00'
   Walk: '3.42'
-- Rank: '65'
+- Rank: '66'
   Name: PCK
   Group: ADW
   FBID: PCK2205
@@ -648,7 +658,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '66'
+- Rank: '67'
   Name: Sen Kiat
   Group: ATC
   FBID: HSK7777
@@ -658,7 +668,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '67'
+- Rank: '68'
   Name: RainmanCYK
   Group: ADW
   FBID: Rainman0000
@@ -667,16 +677,6 @@
   Run: '19.41'
   Cycle: '0.00'
   Swim: '18.00'
-  Walk: '0.00'
-- Rank: '68'
-  Name: Iggy
-  Group: ADSS/ADWS/ADWO
-  FBID: Iggy7900
-  Total_Mileage: '126.47'
-  Badges: '6'
-  Run: '54.83'
-  Cycle: '286.57'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '69'
   Name: Sean Chua
