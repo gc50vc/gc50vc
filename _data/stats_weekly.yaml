@@ -39,6 +39,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '5'
+  Name: wyh
+  Group: ADW
+  FBID: ljt2059
+  Total_Mileage: '149.28'
+  Badges: '4'
+  Run: '149.28'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '6'
   Name: Nicholas
   Group: ADSS/ADWS/ADWO
   FBID: Nn1974
@@ -48,7 +58,7 @@
   Cycle: '424.53'
   Swim: '2.05'
   Walk: '0.00'
-- Rank: '6'
+- Rank: '7'
   Name: Prem
   Group: ADW
   FBID: Premium6687
@@ -58,7 +68,7 @@
   Cycle: '0.00'
   Swim: '20.25'
   Walk: '0.00'
-- Rank: '7'
+- Rank: '8'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -68,7 +78,7 @@
   Cycle: '0.00'
   Swim: '15.00'
   Walk: '2.85'
-- Rank: '8'
+- Rank: '9'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -78,7 +88,7 @@
   Cycle: '285.81'
   Swim: '3.30'
   Walk: '0.00'
-- Rank: '9'
+- Rank: '10'
   Name: T-rex
   Group: ABM
   FBID: Trex1406
@@ -87,16 +97,6 @@
   Run: '9.74'
   Cycle: '470.59'
   Swim: '0.50'
-  Walk: '0.00'
-- Rank: '10'
-  Name: wyh
-  Group: ADW
-  FBID: ljt2059
-  Total_Mileage: '113.34'
-  Badges: '4'
-  Run: '113.34'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '11'
   Name: K Y Leong
