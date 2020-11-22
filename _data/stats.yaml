@@ -229,6 +229,16 @@
   Swim: '0.00'
   Walk: '11.68'
 - Rank: '24'
+  Name: Jade
+  Group: ABM
+  FBID: Jade9669
+  Total_Mileage: '251.32'
+  Badges: '11'
+  Run: '52.60'
+  Cycle: '575.28'
+  Swim: '9.15'
+  Walk: '0.00'
+- Rank: '25'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -238,7 +248,7 @@
   Cycle: '703.50'
   Swim: '3.10'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
@@ -248,7 +258,7 @@
   Cycle: '0.00'
   Swim: '18.69'
   Walk: '7.97'
-- Rank: '26'
+- Rank: '27'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -258,7 +268,7 @@
   Cycle: '924.30'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -268,7 +278,7 @@
   Cycle: '40.64'
   Swim: '13.60'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -278,7 +288,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: Bronson
   Group: ADW
   FBID: Bronze1234
@@ -287,16 +297,6 @@
   Run: '50.76'
   Cycle: '189.81'
   Swim: '22.93'
-  Walk: '0.00'
-- Rank: '30'
-  Name: Jade
-  Group: ABM
-  FBID: Jade9669
-  Total_Mileage: '226.26'
-  Badges: '11'
-  Run: '52.60'
-  Cycle: '475.02'
-  Swim: '9.15'
   Walk: '0.00'
 - Rank: '31'
   Name: Rycel Wong
