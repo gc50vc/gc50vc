@@ -39,6 +39,16 @@
   Swim: '0.00'
   Walk: '2.18'
 - Rank: '5'
+  Name: Sloh
+  Group: ADW
+  FBID: Sloh0121
+  Total_Mileage: '650.39'
+  Badges: '13'
+  Run: '210.81'
+  Cycle: '1388.71'
+  Swim: '15.40'
+  Walk: '0.00'
+- Rank: '6'
   Name: T-rex
   Group: ABM
   FBID: Trex1406
@@ -47,16 +57,6 @@
   Run: '142.84'
   Cycle: '1197.16'
   Swim: '32.00'
-  Walk: '0.00'
-- Rank: '6'
-  Name: Sloh
-  Group: ADW
-  FBID: Sloh0121
-  Total_Mileage: '625.74'
-  Badges: '13'
-  Run: '210.81'
-  Cycle: '1290.11'
-  Swim: '15.40'
   Walk: '0.00'
 - Rank: '7'
   Name: Hasty
@@ -359,6 +359,16 @@
   Swim: '15.00'
   Walk: '11.07'
 - Rank: '37'
+  Name: Ah Bing
+  Group: ADW
+  FBID: Bingo0507
+  Total_Mileage: '200.44'
+  Badges: '9'
+  Run: '125.56'
+  Cycle: '222.73'
+  Swim: '3.20'
+  Walk: '0.00'
+- Rank: '38'
   Name: Daniel Tay
   Group: AOSX/AOS
   FBID: Corrupt2705
@@ -367,16 +377,6 @@
   Run: '82.70'
   Cycle: '0.00'
   Swim: '18.80'
-  Walk: '0.00'
-- Rank: '38'
-  Name: Ah Bing
-  Group: ADW
-  FBID: Bingo0507
-  Total_Mileage: '192.72'
-  Badges: '8'
-  Run: '125.56'
-  Cycle: '191.84'
-  Swim: '3.20'
   Walk: '0.00'
 - Rank: '39'
   Name: Vapor
@@ -479,6 +479,16 @@
   Swim: '0.00'
   Walk: '1.57'
 - Rank: '49'
+  Name: Mouth
+  Group: ABM
+  FBID: Mouth2570
+  Total_Mileage: '165.08'
+  Badges: '4'
+  Run: '165.08'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '50'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -488,7 +498,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '39.00'
-- Rank: '50'
+- Rank: '51'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -498,7 +508,7 @@
   Cycle: '164.95'
   Swim: '9.90'
   Walk: '3.15'
-- Rank: '51'
+- Rank: '52'
   Name: Malcolm Taong
   Group: ADSS/ADWS/ADWO
   FBID: TAONG8070
@@ -508,7 +518,7 @@
   Cycle: '497.27'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '52'
+- Rank: '53'
   Name: Btee
   Group: AFE
   FBID: Brian0307
@@ -518,7 +528,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '53'
+- Rank: '54'
   Name: Slong
   Group: ADW
   FBID: Slong1234
@@ -528,7 +538,7 @@
   Cycle: '0.00'
   Swim: '9.17'
   Walk: '0.00'
-- Rank: '54'
+- Rank: '55'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
@@ -538,7 +548,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '55'
+- Rank: '56'
   Name: 'Tay Wen Hao '
   Group: ADW
   FBID: Wh8295
@@ -548,7 +558,7 @@
   Cycle: '37.93'
   Swim: '0.00'
   Walk: '4.94'
-- Rank: '56'
+- Rank: '57'
   Name: Lia
   Group: ADSS/ADWS/ADWO
   FBID: Lia1116
@@ -558,23 +568,13 @@
   Cycle: '107.70'
   Swim: '5.10'
   Walk: '0.00'
-- Rank: '57'
+- Rank: '58'
   Name: GN
   Group: ADSS/ADWS/ADWO
   FBID: GN8282
   Total_Mileage: '149.82'
   Badges: '4'
   Run: '149.82'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '58'
-  Name: Mouth
-  Group: ABM
-  FBID: Mouth2570
-  Total_Mileage: '148.03'
-  Badges: '4'
-  Run: '148.03'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
