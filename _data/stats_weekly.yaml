@@ -189,6 +189,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '20'
+  Name: Anson Chiu
+  Group: ATC
+  FBID: Antz0208
+  Total_Mileage: '63.12'
+  Badges: '1'
+  Run: '60.93'
+  Cycle: '8.76'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '21'
   Name: Penguin
   Group: ABM
   FBID: Penguin1234
@@ -198,7 +208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: Chee Yong
   Group: ABM
   FBID: TCY1234
@@ -208,7 +218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: Coral
   Group: ABM
   FBID: Coral5050
@@ -218,7 +228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -228,7 +238,7 @@
   Cycle: '224.63'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -238,7 +248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: Vernon Lim
   Group: AFE
   FBID: Vernon7070
@@ -248,7 +258,7 @@
   Cycle: '216.82'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -258,7 +268,7 @@
   Cycle: '12.89'
   Swim: '6.61'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
@@ -267,16 +277,6 @@
   Run: '23.50'
   Cycle: '0.00'
   Swim: '4.70'
-  Walk: '0.00'
-- Rank: '28'
-  Name: Anson Chiu
-  Group: ATC
-  FBID: Antz0208
-  Total_Mileage: '51.01'
-  Badges: '1'
-  Run: '48.82'
-  Cycle: '8.76'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '29'
   Name: yapoh
