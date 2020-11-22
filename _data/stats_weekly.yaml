@@ -139,6 +139,16 @@
   Swim: '2.00'
   Walk: '0.00'
 - Rank: '15'
+  Name: Tommy Tham
+  Group: ADSS/ADWS/ADWO
+  FBID: Tommy1976
+  Total_Mileage: '80.70'
+  Badges: '1'
+  Run: '17.52'
+  Cycle: '38.89'
+  Swim: '8.91'
+  Walk: '0.00'
+- Rank: '16'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -148,7 +158,7 @@
   Cycle: '216.00'
   Swim: '2.20'
   Walk: '0.00'
-- Rank: '16'
+- Rank: '17'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -158,7 +168,7 @@
   Cycle: '269.10'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '17'
+- Rank: '18'
   Name: HCM
   Group: ABM
   FBID: HCM1234
@@ -168,7 +178,7 @@
   Cycle: '34.01'
   Swim: '0.00'
   Walk: '40.49'
-- Rank: '18'
+- Rank: '19'
   Name: yapoh
   Group: ADW
   FBID: Yapoh0304
@@ -177,16 +187,6 @@
   Run: '10.27'
   Cycle: '255.84'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '19'
-  Name: Tommy Tham
-  Group: ADSS/ADWS/ADWO
-  FBID: Tommy1976
-  Total_Mileage: '74.20'
-  Badges: '1'
-  Run: '17.52'
-  Cycle: '12.89'
-  Swim: '8.91'
   Walk: '0.00'
 - Rank: '20'
   Name: Tony Foo
@@ -589,6 +589,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '60'
+  Name: GN
+  Group: ADSS/ADWS/ADWO
+  FBID: GN8282
+  Total_Mileage: '27.16'
+  Badges: '0'
+  Run: '27.16'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '61'
   Name: QUENCHER
   Group: ABM
   FBID: quencher2020
@@ -598,7 +608,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '61'
+- Rank: '62'
   Name: Cookie
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -608,7 +618,7 @@
   Cycle: '26.05'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '62'
+- Rank: '63'
   Name: Jeremy Tan
   Group: ATC
   FBID: Scavenge1601
@@ -618,7 +628,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '63'
+- Rank: '64'
   Name: Besson
   Group: ATC
   FBID: Besson9898
@@ -628,7 +638,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '64'
+- Rank: '65'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -638,7 +648,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '65'
+- Rank: '66'
   Name: Bgtan
   Group: ADSS/ADWS/ADWO
   FBID: Kenny9889
@@ -648,7 +658,7 @@
   Cycle: '103.44'
   Swim: '0.00'
   Walk: '11.44'
-- Rank: '66'
+- Rank: '67'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -658,7 +668,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '12.50'
-- Rank: '67'
+- Rank: '68'
   Name: Sen Kiat
   Group: ATC
   FBID: HSK7777
@@ -668,7 +678,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '68'
+- Rank: '69'
   Name: loanshark
   Group: ATC
   FBID: loanshark9356
@@ -678,7 +688,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.64'
-- Rank: '69'
+- Rank: '70'
   Name: Bronson
   Group: ADW
   FBID: Bronze1234
@@ -688,7 +698,7 @@
   Cycle: '39.92'
   Swim: '2.05'
   Walk: '0.00'
-- Rank: '70'
+- Rank: '71'
   Name: Magic
   Group: ABM
   FBID: Magic1233
@@ -698,7 +708,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '71'
+- Rank: '72'
   Name: Andrew
   Group: ADW
   FBID: Hammer1990
@@ -708,7 +718,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '72'
+- Rank: '73'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
@@ -718,7 +728,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '73'
+- Rank: '74'
   Name: jheng
   Group: ADSS/ADWS/ADWO
   FBID: jheng0000
@@ -728,7 +738,7 @@
   Cycle: '0.00'
   Swim: '4.00'
   Walk: '0.00'
-- Rank: '74'
+- Rank: '75'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -738,7 +748,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '75'
+- Rank: '76'
   Name: Lin Weili
   Group: AOSX/AOS
   FBID: Michelin5052
@@ -748,7 +758,7 @@
   Cycle: '22.73'
   Swim: '0.00'
   Walk: '1.00'
-- Rank: '76'
+- Rank: '77'
   Name: Aik Phan
   Group: ADSS/ADWS/ADWO
   FBID: aikphan1234
@@ -758,7 +768,7 @@
   Cycle: '0.00'
   Swim: '3.00'
   Walk: '0.00'
-- Rank: '77'
+- Rank: '78'
   Name: Ah Bing
   Group: ADW
   FBID: Bingo0507
@@ -768,7 +778,7 @@
   Cycle: '30.89'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '78'
+- Rank: '79'
   Name: Shawn Chia
   Group: ADW
   FBID: SCWE9595
@@ -778,23 +788,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '79'
+- Rank: '80'
   Name: Mimic
   Group: ABM
   FBID: Mimic1234
   Total_Mileage: '21.60'
   Badges: '2'
   Run: '21.60'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '80'
-  Name: GN
-  Group: ADSS/ADWS/ADWO
-  FBID: GN8282
-  Total_Mileage: '21.55'
-  Badges: '0'
-  Run: '21.55'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
