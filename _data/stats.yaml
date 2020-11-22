@@ -1769,6 +1769,16 @@
   Swim: '2.00'
   Walk: '0.00'
 - Rank: '178'
+  Name: Logan
+  Group: ABM
+  FBID: Logan0001
+  Total_Mileage: '52.54'
+  Badges: '3'
+  Run: '36.38'
+  Cycle: '64.62'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '179'
   Name: 3sg Charlie
   Group: ADSS/ADWS/ADWO
   FBID: Charlie2539
@@ -1778,7 +1788,7 @@
   Cycle: '0.00'
   Swim: '2.45'
   Walk: '0.00'
-- Rank: '179'
+- Rank: '180'
   Name: JTZH
   Group: ADSS/ADWS/ADWO
   FBID: Joshua2209
@@ -1788,7 +1798,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '180'
+- Rank: '181'
   Name: jAmEs h.
   Group: ADSS/ADWS/ADWO
   FBID: jAmEsh0007
@@ -1798,7 +1808,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '181'
+- Rank: '182'
   Name: Jing Wee
   Group: ADSS/ADWS/ADWO
   FBID: Pork2070
@@ -1808,7 +1818,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '182'
+- Rank: '183'
   Name: Rambo
   Group: AOSX/AOS
   FBID: Rambo0113
@@ -1818,7 +1828,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '183'
+- Rank: '184'
   Name: Joe Ng
   Group: AOSX/AOS
   FBID: Wiki5279
@@ -1828,7 +1838,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '184'
+- Rank: '185'
   Name: francisyap
   Group: AFE
   FBID: francis7373
@@ -1838,7 +1848,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '185'
+- Rank: '186'
   Name: EQ
   Group: ADSS/ADWS/ADWO
   FBID: eequan1234
@@ -1848,7 +1858,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '223.30'
-- Rank: '186'
+- Rank: '187'
   Name: Andre
   Group: ADSS/ADWS/ADWO
   FBID: Wagon6190
@@ -1858,7 +1868,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '187'
+- Rank: '188'
   Name: l0ng live the beard
   Group: ADSS/ADWS/ADWO
   FBID: Rovin0787
@@ -1868,7 +1878,7 @@
   Cycle: '141.04'
   Swim: '0.00'
   Walk: '5.07'
-- Rank: '188'
+- Rank: '189'
   Name: 'Beatbox '
   Group: ABM
   FBID: Beatbox0202
@@ -1878,7 +1888,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '7.54'
-- Rank: '189'
+- Rank: '190'
   Name: Jj
   Group: ADSS/ADWS/ADWO
   FBID: TaroQ5061
@@ -1888,7 +1898,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '189'
+- Rank: '190'
   Name: JR
   Group: ADW
   FBID: JR1986
@@ -1898,7 +1908,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '191'
+- Rank: '192'
   Name: batu
   Group: ABM
   FBID: batu1984
@@ -1908,7 +1918,7 @@
   Cycle: '31.98'
   Swim: '0.00'
   Walk: '2.50'
-- Rank: '192'
+- Rank: '193'
   Name: Parthiban
   Group: ADSS/ADWS/ADWO
   FBID: OUTLAW2111
@@ -1918,7 +1928,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '193'
+- Rank: '194'
   Name: Malice
   Group: ABM
   FBID: Malice2323
@@ -1928,7 +1938,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '86.10'
-- Rank: '194'
+- Rank: '195'
   Name: Junan
   Group: ADW
   FBID: Junan1111
@@ -1938,7 +1948,7 @@
   Cycle: '53.19'
   Swim: '0.00'
   Walk: '19.16'
-- Rank: '195'
+- Rank: '196'
   Name: Mondane
   Group: ADW
   FBID: Mondane9669
@@ -1948,7 +1958,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '196'
+- Rank: '197'
   Name: Wes
   Group: ADW
   FBID: Wesleyho1978
@@ -1958,7 +1968,7 @@
   Cycle: '66.14'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '197'
+- Rank: '198'
   Name: Halu
   Group: AFE
   FBID: Halu1805
@@ -1966,16 +1976,6 @@
   Badges: '3'
   Run: '46.66'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '198'
-  Name: Logan
-  Group: ABM
-  FBID: Logan0001
-  Total_Mileage: '46.49'
-  Badges: '3'
-  Run: '30.33'
-  Cycle: '64.62'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '199'
