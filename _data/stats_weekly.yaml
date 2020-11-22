@@ -9,6 +9,16 @@
   Swim: '26.75'
   Walk: '0.00'
 - Rank: '2'
+  Name: Ben
+  Group: ADW
+  FBID: BY8362
+  Total_Mileage: '160.00'
+  Badges: '0'
+  Run: '85.00'
+  Cycle: '300.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '3'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -18,7 +28,7 @@
   Cycle: '266.65'
   Swim: '15.00'
   Walk: '0.00'
-- Rank: '3'
+- Rank: '4'
   Name: LZX
   Group: ADSS/ADWS/ADWO
   FBID: leezx1337
@@ -28,7 +38,7 @@
   Cycle: '477.12'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '4'
+- Rank: '5'
   Name: Nicholas
   Group: ADSS/ADWS/ADWO
   FBID: Nn1974
@@ -38,7 +48,7 @@
   Cycle: '424.53'
   Swim: '2.05'
   Walk: '0.00'
-- Rank: '5'
+- Rank: '6'
   Name: Prem
   Group: ADW
   FBID: Premium6687
@@ -48,7 +58,7 @@
   Cycle: '0.00'
   Swim: '20.25'
   Walk: '0.00'
-- Rank: '6'
+- Rank: '7'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -58,16 +68,6 @@
   Cycle: '0.00'
   Swim: '15.00'
   Walk: '2.85'
-- Rank: '7'
-  Name: Ben
-  Group: ADW
-  FBID: BY8362
-  Total_Mileage: '140.00'
-  Badges: '0'
-  Run: '75.00'
-  Cycle: '260.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '8'
   Name: Sloh
   Group: ADW
