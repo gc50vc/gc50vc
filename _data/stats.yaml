@@ -179,6 +179,16 @@
   Swim: '0.00'
   Walk: '2.19'
 - Rank: '19'
+  Name: Tony Foo
+  Group: ADW
+  FBID: tonyfoo0165
+  Total_Mileage: '296.10'
+  Badges: '4'
+  Run: '296.10'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '20'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -188,7 +198,7 @@
   Cycle: '530.00'
   Swim: '4.46'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '21'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -197,16 +207,6 @@
   Run: '233.96'
   Cycle: '66.17'
   Swim: '3.85'
-  Walk: '0.00'
-- Rank: '21'
-  Name: Tony Foo
-  Group: ADW
-  FBID: tonyfoo0165
-  Total_Mileage: '268.10'
-  Badges: '4'
-  Run: '268.10'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '22'
   Name: Coral
