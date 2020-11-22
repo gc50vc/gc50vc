@@ -29,6 +29,16 @@
   Swim: '15.00'
   Walk: '0.00'
 - Rank: '4'
+  Name: Slimer
+  Group: ABM
+  FBID: Slimer1234
+  Total_Mileage: '140.93'
+  Badges: '1'
+  Run: '50.93'
+  Cycle: '0.00'
+  Swim: '15.00'
+  Walk: '2.85'
+- Rank: '5'
   Name: Ben
   Group: ADW
   FBID: BY8362
@@ -38,7 +48,7 @@
   Cycle: '260.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '5'
+- Rank: '6'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -48,7 +58,7 @@
   Cycle: '285.81'
   Swim: '3.30'
   Walk: '0.00'
-- Rank: '6'
+- Rank: '7'
   Name: LZX
   Group: ADSS/ADWS/ADWO
   FBID: leezx1337
@@ -58,7 +68,7 @@
   Cycle: '387.37'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '7'
+- Rank: '8'
   Name: T-rex
   Group: ABM
   FBID: Trex1406
@@ -68,16 +78,6 @@
   Cycle: '470.59'
   Swim: '0.50'
   Walk: '0.00'
-- Rank: '8'
-  Name: Slimer
-  Group: ABM
-  FBID: Slimer1234
-  Total_Mileage: '125.93'
-  Badges: '1'
-  Run: '50.93'
-  Cycle: '0.00'
-  Swim: '12.50'
-  Walk: '2.85'
 - Rank: '9'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
