@@ -9,6 +9,16 @@
   Swim: '26.75'
   Walk: '0.00'
 - Rank: '2'
+  Name: LZX
+  Group: ADSS/ADWS/ADWO
+  FBID: leezx1337
+  Total_Mileage: '175.76'
+  Badges: '0'
+  Run: '56.48'
+  Cycle: '477.12'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '3'
   Name: Ben
   Group: ADW
   FBID: BY8362
@@ -18,7 +28,7 @@
   Cycle: '300.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '3'
+- Rank: '4'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -27,16 +37,6 @@
   Run: '0.00'
   Cycle: '266.65'
   Swim: '15.00'
-  Walk: '0.00'
-- Rank: '4'
-  Name: LZX
-  Group: ADSS/ADWS/ADWO
-  FBID: leezx1337
-  Total_Mileage: '153.66'
-  Badges: '0'
-  Run: '34.38'
-  Cycle: '477.12'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '5'
   Name: wyh
