@@ -1539,6 +1539,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '155'
+  Name: Diva
+  Group: ADW
+  FBID: Delia1234
+  Total_Mileage: '63.91'
+  Badges: '4'
+  Run: '32.86'
+  Cycle: '100.21'
+  Swim: '1.00'
+  Walk: '28.59'
+- Rank: '156'
   Name: Kent Zeng
   Group: ADSS/ADWS/ADWO
   FBID: Stonks69420
@@ -1548,7 +1558,7 @@
   Cycle: '75.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '156'
+- Rank: '157'
   Name: Zacchaeus
   Group: ADSS/ADWS/ADWO
   FBID: ZjSc9588
@@ -1558,7 +1568,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '157'
+- Rank: '158'
   Name: Penguin
   Group: ABM
   FBID: Penguin1234
@@ -1568,7 +1578,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '158'
+- Rank: '159'
   Name: Chee Yong
   Group: ABM
   FBID: TCY1234
@@ -1578,16 +1588,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '159'
-  Name: Diva
-  Group: ADW
-  FBID: Delia1234
-  Total_Mileage: '60.91'
-  Badges: '4'
-  Run: '32.86'
-  Cycle: '100.21'
-  Swim: '0.50'
-  Walk: '28.59'
 - Rank: '160'
   Name: Matrix
   Group: ABM
