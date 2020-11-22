@@ -1369,6 +1369,16 @@
   Swim: '2.20'
   Walk: '0.00'
 - Rank: '138'
+  Name: Owyong
+  Group: ATC
+  FBID: Owyong251088
+  Total_Mileage: '70.46'
+  Badges: '3'
+  Run: '70.46'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '139'
   Name: aH-MuNs-Ge
   Group: AFE
   FBID: ahmuns9681
@@ -1378,7 +1388,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '139'
+- Rank: '140'
   Name: Alloy
   Group: ABM
   FBID: alloy8585
@@ -1388,7 +1398,7 @@
   Cycle: '0.00'
   Swim: '3.40'
   Walk: '0.00'
-- Rank: '140'
+- Rank: '141'
   Name: Akileis
   Group: ADW
   FBID: Akileis0163
@@ -1398,7 +1408,7 @@
   Cycle: '0.00'
   Swim: '11.00'
   Walk: '6.29'
-- Rank: '141'
+- Rank: '142'
   Name: Chin Yong
   Group: ADSS/ADWS/ADWO
   FBID: Relaxing1234
@@ -1408,7 +1418,7 @@
   Cycle: '55.45'
   Swim: '0.00'
   Walk: '44.84'
-- Rank: '142'
+- Rank: '143'
   Name: Kelvin
   Group: ADSS/ADWS/ADWO
   FBID: Kelvin1111
@@ -1418,7 +1428,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '143'
+- Rank: '144'
   Name: spirit
   Group: ATC
   FBID: spirit5555
@@ -1428,7 +1438,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.37'
-- Rank: '144'
+- Rank: '145'
   Name: Eddie Chua
   Group: AFE
   FBID: EddieChua1973
@@ -1438,7 +1448,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '145'
+- Rank: '146'
   Name: Manu
   Group: ABM
   FBID: Manu7894
@@ -1448,7 +1458,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '146'
+- Rank: '147'
   Name: Dennis
   Group: ADSS/ADWS/ADWO
   FBID: Dennis0495
@@ -1458,7 +1468,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.31'
-- Rank: '147'
+- Rank: '148'
   Name: Yew Choong
   Group: ADSS/ADWS/ADWO
   FBID: GGXC0160
@@ -1468,7 +1478,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '19.25'
-- Rank: '148'
+- Rank: '149'
   Name: Lava
   Group: ATC
   FBID: Lava1717
@@ -1478,7 +1488,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '149'
+- Rank: '150'
   Name: 'Crystal '
   Group: ABM
   FBID: Crystal1101
@@ -1488,7 +1498,7 @@
   Cycle: '9.48'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '150'
+- Rank: '151'
   Name: Lin Weili
   Group: AOSX/AOS
   FBID: Michelin5052
@@ -1498,7 +1508,7 @@
   Cycle: '45.08'
   Swim: '0.00'
   Walk: '1.00'
-- Rank: '151'
+- Rank: '152'
   Name: Barter
   Group: ATC
   FBID: Reload0203
@@ -1508,16 +1518,6 @@
   Cycle: '203.00'
   Swim: '1.50'
   Walk: '13.50'
-- Rank: '152'
-  Name: Owyong
-  Group: ATC
-  FBID: Owyong251088
-  Total_Mileage: '64.32'
-  Badges: '3'
-  Run: '64.32'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '153'
   Name: Shawn Chia
   Group: ADW
