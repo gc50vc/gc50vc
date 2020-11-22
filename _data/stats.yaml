@@ -1409,6 +1409,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '142'
+  Name: spirit
+  Group: ATC
+  FBID: spirit5555
+  Total_Mileage: '67.14'
+  Badges: '3'
+  Run: '67.14'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '3.37'
+- Rank: '143'
   Name: Eddie Chua
   Group: AFE
   FBID: EddieChua1973
@@ -1418,7 +1428,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '143'
+- Rank: '144'
   Name: Manu
   Group: ABM
   FBID: Manu7894
@@ -1428,7 +1438,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '144'
+- Rank: '145'
   Name: Dennis
   Group: ADSS/ADWS/ADWO
   FBID: Dennis0495
@@ -1438,7 +1448,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.31'
-- Rank: '145'
+- Rank: '146'
   Name: Yew Choong
   Group: ADSS/ADWS/ADWO
   FBID: GGXC0160
@@ -1448,7 +1458,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '19.25'
-- Rank: '146'
+- Rank: '147'
   Name: Lava
   Group: ATC
   FBID: Lava1717
@@ -1458,7 +1468,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '147'
+- Rank: '148'
   Name: 'Crystal '
   Group: ABM
   FBID: Crystal1101
@@ -1468,7 +1478,7 @@
   Cycle: '9.48'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '148'
+- Rank: '149'
   Name: Lin Weili
   Group: AOSX/AOS
   FBID: Michelin5052
@@ -1478,7 +1488,7 @@
   Cycle: '45.08'
   Swim: '0.00'
   Walk: '1.00'
-- Rank: '149'
+- Rank: '150'
   Name: Barter
   Group: ATC
   FBID: Reload0203
@@ -1488,7 +1498,7 @@
   Cycle: '203.00'
   Swim: '1.50'
   Walk: '13.50'
-- Rank: '150'
+- Rank: '151'
   Name: Owyong
   Group: ATC
   FBID: Owyong251088
@@ -1498,7 +1508,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '151'
+- Rank: '152'
   Name: Shawn Chia
   Group: ADW
   FBID: SCWE9595
@@ -1508,7 +1518,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '152'
+- Rank: '153'
   Name: Saturn
   Group: ADW
   FBID: Saturn1501
@@ -1518,7 +1528,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '153'
+- Rank: '154'
   Name: Kent Zeng
   Group: ADSS/ADWS/ADWO
   FBID: Stonks69420
@@ -1528,16 +1538,6 @@
   Cycle: '75.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '154'
-  Name: spirit
-  Group: ATC
-  FBID: spirit5555
-  Total_Mileage: '61.92'
-  Badges: '3'
-  Run: '61.92'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '3.37'
 - Rank: '155'
   Name: Zacchaeus
   Group: ADSS/ADWS/ADWO
