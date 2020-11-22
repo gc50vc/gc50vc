@@ -89,6 +89,16 @@
   Swim: '0.50'
   Walk: '0.00'
 - Rank: '10'
+  Name: wyh
+  Group: ADW
+  FBID: ljt2059
+  Total_Mileage: '113.34'
+  Badges: '4'
+  Run: '113.34'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '11'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -98,7 +108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: LWY
   Group: AFE
   FBID: LWY3137
@@ -106,16 +116,6 @@
   Badges: '5'
   Run: '10.00'
   Cycle: '378.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '12'
-  Name: wyh
-  Group: ADW
-  FBID: ljt2059
-  Total_Mileage: '87.45'
-  Badges: '3'
-  Run: '87.45'
-  Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '13'
