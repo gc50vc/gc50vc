@@ -69,6 +69,16 @@
   Swim: '2.05'
   Walk: '0.00'
 - Rank: '8'
+  Name: Tommy Tham
+  Group: ADSS/ADWS/ADWO
+  FBID: Tommy1976
+  Total_Mileage: '143.22'
+  Badges: '2'
+  Run: '28.14'
+  Cycle: '38.89'
+  Swim: '17.56'
+  Walk: '0.00'
+- Rank: '9'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -78,7 +88,7 @@
   Cycle: '0.00'
   Swim: '15.00'
   Walk: '2.85'
-- Rank: '9'
+- Rank: '10'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -88,7 +98,7 @@
   Cycle: '285.81'
   Swim: '3.30'
   Walk: '0.00'
-- Rank: '10'
+- Rank: '11'
   Name: T-rex
   Group: ABM
   FBID: Trex1406
@@ -98,7 +108,7 @@
   Cycle: '470.59'
   Swim: '0.50'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -108,7 +118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: LWY
   Group: AFE
   FBID: LWY3137
@@ -117,16 +127,6 @@
   Run: '10.00'
   Cycle: '378.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '13'
-  Name: Tommy Tham
-  Group: ADSS/ADWS/ADWO
-  FBID: Tommy1976
-  Total_Mileage: '104.22'
-  Badges: '1'
-  Run: '28.14'
-  Cycle: '38.89'
-  Swim: '11.06'
   Walk: '0.00'
 - Rank: '14'
   Name: Nicholas Lian
@@ -329,6 +329,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '34'
+  Name: 'Tan Swee Kiat '
+  Group: ADW
+  FBID: Eskay0077
+  Total_Mileage: '50.51'
+  Badges: '0'
+  Run: '50.51'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '35'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -338,7 +348,7 @@
   Cycle: '100.26'
   Swim: '2.50'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -348,7 +358,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '36'
+- Rank: '37'
   Name: Ram
   Group: ADW
   FBID: Ram7267
@@ -358,7 +368,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '37'
+- Rank: '38'
   Name: Nana
   Group: AFE
   FBID: Chris1166
@@ -368,7 +378,7 @@
   Cycle: '59.25'
   Swim: '3.60'
   Walk: '0.00'
-- Rank: '38'
+- Rank: '39'
   Name: Iggy
   Group: ADSS/ADWS/ADWO
   FBID: Iggy7900
@@ -378,7 +388,7 @@
   Cycle: '86.81'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '39'
+- Rank: '40'
   Name: SARATH
   Group: ADW
   FBID: SARATH2311
@@ -388,23 +398,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '40'
+- Rank: '41'
   Name: Chan Wen
   Group: ADW
   FBID: Gman1234
   Total_Mileage: '39.62'
   Badges: '2'
   Run: '39.62'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '41'
-  Name: 'Tan Swee Kiat '
-  Group: ADW
-  FBID: Eskay0077
-  Total_Mileage: '39.21'
-  Badges: '0'
-  Run: '39.21'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
