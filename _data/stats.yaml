@@ -1739,6 +1739,16 @@
   Swim: '8.00'
   Walk: '14.22'
 - Rank: '175'
+  Name: 'Beatbox '
+  Group: ABM
+  FBID: Beatbox0202
+  Total_Mileage: '54.69'
+  Badges: '3'
+  Run: '54.69'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '7.54'
+- Rank: '176'
   Name: Chan Wei Siang
   Group: AFE
   FBID: ws1234
@@ -1748,7 +1758,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '176'
+- Rank: '177'
   Name: Eric
   Group: AOSX/AOS
   FBID: RelacRunner0011
@@ -1758,7 +1768,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '177'
+- Rank: '178'
   Name: Ankle
   Group: ADSS/ADWS/ADWO
   FBID: Redeyesblackdragon1310
@@ -1768,7 +1778,7 @@
   Cycle: '45.68'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '178'
+- Rank: '179'
   Name: Logan
   Group: ABM
   FBID: Logan0001
@@ -1778,7 +1788,7 @@
   Cycle: '64.62'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '179'
+- Rank: '180'
   Name: 3sg Charlie
   Group: ADSS/ADWS/ADWO
   FBID: Charlie2539
@@ -1788,7 +1798,7 @@
   Cycle: '0.00'
   Swim: '2.45'
   Walk: '0.00'
-- Rank: '180'
+- Rank: '181'
   Name: JTZH
   Group: ADSS/ADWS/ADWO
   FBID: Joshua2209
@@ -1798,7 +1808,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '181'
+- Rank: '182'
   Name: jAmEs h.
   Group: ADSS/ADWS/ADWO
   FBID: jAmEsh0007
@@ -1808,7 +1818,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '182'
+- Rank: '183'
   Name: Jing Wee
   Group: ADSS/ADWS/ADWO
   FBID: Pork2070
@@ -1818,7 +1828,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '183'
+- Rank: '184'
   Name: Rambo
   Group: AOSX/AOS
   FBID: Rambo0113
@@ -1828,7 +1838,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '184'
+- Rank: '185'
   Name: Joe Ng
   Group: AOSX/AOS
   FBID: Wiki5279
@@ -1838,7 +1848,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '185'
+- Rank: '186'
   Name: francisyap
   Group: AFE
   FBID: francis7373
@@ -1848,7 +1858,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '186'
+- Rank: '187'
   Name: EQ
   Group: ADSS/ADWS/ADWO
   FBID: eequan1234
@@ -1858,7 +1868,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '223.30'
-- Rank: '187'
+- Rank: '188'
   Name: Andre
   Group: ADSS/ADWS/ADWO
   FBID: Wagon6190
@@ -1868,7 +1878,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '188'
+- Rank: '189'
   Name: l0ng live the beard
   Group: ADSS/ADWS/ADWO
   FBID: Rovin0787
@@ -1878,16 +1888,6 @@
   Cycle: '141.04'
   Swim: '0.00'
   Walk: '5.07'
-- Rank: '189'
-  Name: 'Beatbox '
-  Group: ABM
-  FBID: Beatbox0202
-  Total_Mileage: '50.20'
-  Badges: '3'
-  Run: '50.20'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '7.54'
 - Rank: '190'
   Name: Jj
   Group: ADSS/ADWS/ADWO
