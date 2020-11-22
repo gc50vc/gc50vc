@@ -889,6 +889,16 @@
   Swim: '5.60'
   Walk: '70.00'
 - Rank: '90'
+  Name: Weaver
+  Group: ADW
+  FBID: Weaver5275
+  Total_Mileage: '109.09'
+  Badges: '4'
+  Run: '109.09'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '91'
   Name: Geeky
   Group: ADW
   FBID: Geeky1989
@@ -898,7 +908,7 @@
   Cycle: '0.00'
   Swim: '7.60'
   Walk: '40.67'
-- Rank: '91'
+- Rank: '92'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -908,7 +918,7 @@
   Cycle: '221.29'
   Swim: '5.10'
   Walk: '0.00'
-- Rank: '92'
+- Rank: '93'
   Name: LWY
   Group: AFE
   FBID: LWY3137
@@ -918,7 +928,7 @@
   Cycle: '378.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '93'
+- Rank: '94'
   Name: Andre
   Group: ADW
   FBID: Andre7429
@@ -928,7 +938,7 @@
   Cycle: '377.30'
   Swim: '0.85'
   Walk: '0.00'
-- Rank: '94'
+- Rank: '95'
   Name: Quainapz
   Group: ADSS/ADWS/ADWO
   FBID: Quainapz8585
@@ -938,7 +948,7 @@
   Cycle: '0.00'
   Swim: '3.10'
   Walk: '2.30'
-- Rank: '95'
+- Rank: '96'
   Name: Gabriel Low
   Group: ADSS/ADWS/ADWO
   FBID: gabrieltried1234
@@ -948,7 +958,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '96'
+- Rank: '97'
   Name: Rubiks
   Group: ABM
   FBID: Rubiks1234
@@ -958,23 +968,13 @@
   Cycle: '41.78'
   Swim: '4.10'
   Walk: '0.00'
-- Rank: '97'
+- Rank: '98'
   Name: Lightyear
   Group: ADW
   FBID: Lightyear2020
   Total_Mileage: '101.35'
   Badges: '4'
   Run: '101.35'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '98'
-  Name: Weaver
-  Group: ADW
-  FBID: Weaver5275
-  Total_Mileage: '101.03'
-  Badges: '4'
-  Run: '101.03'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
