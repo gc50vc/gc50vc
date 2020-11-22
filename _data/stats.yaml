@@ -69,6 +69,16 @@
   Swim: '40.25'
   Walk: '0.00'
 - Rank: '8'
+  Name: Nicholas
+  Group: ADSS/ADWS/ADWO
+  FBID: NN1974
+  Total_Mileage: '570.03'
+  Badges: '13'
+  Run: '100.46'
+  Cycle: '1505.06'
+  Swim: '15.55'
+  Walk: '3.02'
+- Rank: '9'
   Name: Ektar
   Group: ABM
   FBID: ektar1971
@@ -78,16 +88,6 @@
   Cycle: '1039.66'
   Swim: '32.70'
   Walk: '0.00'
-- Rank: '9'
-  Name: Nicholas
-  Group: ADSS/ADWS/ADWO
-  FBID: NN1974
-  Total_Mileage: '544.41'
-  Badges: '13'
-  Run: '100.46'
-  Cycle: '1402.61'
-  Swim: '15.55'
-  Walk: '3.02'
 - Rank: '10'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
@@ -1249,6 +1249,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '126'
+  Name: COVID
+  Group: ADSS/ADWS/ADWO
+  FBID: COVID9999
+  Total_Mileage: '74.08'
+  Badges: '5'
+  Run: '48.82'
+  Cycle: '101.05'
+  Swim: '0.00'
+  Walk: '21.50'
+- Rank: '127'
   Name: Sunray
   Group: ABM
   FBID: Sunray0909
@@ -1258,7 +1268,7 @@
   Cycle: '179.85'
   Swim: '1.46'
   Walk: '0.00'
-- Rank: '127'
+- Rank: '128'
   Name: Dominic
   Group: ATC
   FBID: Nickel1191
@@ -1268,7 +1278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '128'
+- Rank: '129'
   Name: Jefferson
   Group: AFE
   FBID: VolvoJeff1985
@@ -1278,7 +1288,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '129'
+- Rank: '130'
   Name: Darius Ng
   Group: ADSS/ADWS/ADWO
   FBID: bobo1234
@@ -1288,7 +1298,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '130'
+- Rank: '131'
   Name: Jiajun
   Group: ADSS/ADWS/ADWO
   FBID: Jj2304
@@ -1298,7 +1308,7 @@
   Cycle: '0.00'
   Swim: '10.00'
   Walk: '11.06'
-- Rank: '131'
+- Rank: '132'
   Name: KevinKKW
   Group: ADSS/ADWS/ADWO
   FBID: Kkkw0165
@@ -1308,7 +1318,7 @@
   Cycle: '117.90'
   Swim: '0.00'
   Walk: '7.10'
-- Rank: '132'
+- Rank: '133'
   Name: Alan
   Group: ADSS/ADWS/ADWO
   FBID: Alan2881
@@ -1318,7 +1328,7 @@
   Cycle: '0.00'
   Swim: '4.65'
   Walk: '32.00'
-- Rank: '133'
+- Rank: '134'
   Name: Lim Kian Hock
   Group: AFE
   FBID: Jon3445
@@ -1328,7 +1338,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '134'
+- Rank: '135'
   Name: Wan Yuan
   Group: ADW
   FBID: Lost1908
@@ -1338,7 +1348,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '20.24'
-- Rank: '135'
+- Rank: '136'
   Name: Yeow Teck
   Group: AOSX/AOS
   FBID: Youtube6116
@@ -1348,7 +1358,7 @@
   Cycle: '0.00'
   Swim: '2.20'
   Walk: '0.00'
-- Rank: '136'
+- Rank: '137'
   Name: aH-MuNs-Ge
   Group: AFE
   FBID: ahmuns9681
@@ -1358,7 +1368,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '137'
+- Rank: '138'
   Name: Alloy
   Group: ABM
   FBID: alloy8585
@@ -1368,7 +1378,7 @@
   Cycle: '0.00'
   Swim: '3.40'
   Walk: '0.00'
-- Rank: '138'
+- Rank: '139'
   Name: Akileis
   Group: ADW
   FBID: Akileis0163
@@ -1378,7 +1388,7 @@
   Cycle: '0.00'
   Swim: '11.00'
   Walk: '6.29'
-- Rank: '139'
+- Rank: '140'
   Name: Chin Yong
   Group: ADSS/ADWS/ADWO
   FBID: Relaxing1234
@@ -1388,16 +1398,6 @@
   Cycle: '55.45'
   Swim: '0.00'
   Walk: '44.84'
-- Rank: '140'
-  Name: COVID
-  Group: ADSS/ADWS/ADWO
-  FBID: COVID9999
-  Total_Mileage: '67.47'
-  Badges: '4'
-  Run: '48.82'
-  Cycle: '74.61'
-  Swim: '0.00'
-  Walk: '21.50'
 - Rank: '141'
   Name: Kelvin
   Group: ADSS/ADWS/ADWO
