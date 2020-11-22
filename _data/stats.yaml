@@ -1959,6 +1959,16 @@
   Swim: '1.50'
   Walk: '0.00'
 - Rank: '197'
+  Name: LC
+  Group: AFE
+  FBID: LC0809
+  Total_Mileage: '45.74'
+  Badges: '4'
+  Run: '16.50'
+  Cycle: '116.97'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '198'
   Name: Eric Kwok
   Group: ABM
   FBID: Villain1111
@@ -1968,7 +1978,7 @@
   Cycle: '125.14'
   Swim: '1.30'
   Walk: '0.00'
-- Rank: '198'
+- Rank: '199'
   Name: Karma
   Group: ATC
   FBID: karma2790
@@ -1978,7 +1988,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '199'
+- Rank: '200'
   Name: lcheeleo
   Group: ADW
   FBID: Lcheeleo3347
@@ -1988,7 +1998,7 @@
   Cycle: '14.08'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '200'
+- Rank: '201'
   Name: Tyrone
   Group: ADW
   FBID: Tyrone1234
@@ -1998,7 +2008,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '201'
+- Rank: '202'
   Name: Tommy Wang
   Group: ADSS/ADWS/ADWO
   FBID: Tattoo1610
@@ -2008,7 +2018,7 @@
   Cycle: '178.63'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '202'
+- Rank: '203'
   Name: junhui
   Group: ADW
   FBID: junhui2301
@@ -2018,7 +2028,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '87.12'
-- Rank: '203'
+- Rank: '204'
   Name: Hayden
   Group: ADSS/ADWS/ADWO
   FBID: Hayden0165
@@ -2028,7 +2038,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '204'
+- Rank: '205'
   Name: Bryan Tan GJ
   Group: ADW
   FBID: Bryan2727
@@ -2038,7 +2048,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '23.28'
-- Rank: '205'
+- Rank: '206'
   Name: 'JOASH THANABALAN '
   Group: ADSS/ADWS/ADWO
   FBID: WorldWide1994
@@ -2047,16 +2057,6 @@
   Run: '0.00'
   Cycle: '8.40'
   Swim: '7.00'
-  Walk: '0.00'
-- Rank: '206'
-  Name: LC
-  Group: AFE
-  FBID: LC0809
-  Total_Mileage: '44.07'
-  Badges: '4'
-  Run: '16.50'
-  Cycle: '110.26'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '207'
   Name: Jeremy Ang
