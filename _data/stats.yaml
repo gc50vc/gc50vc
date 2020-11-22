@@ -249,6 +249,16 @@
   Swim: '9.15'
   Walk: '0.00'
 - Rank: '26'
+  Name: AngmoATB
+  Group: ADW
+  FBID: Angmo1984
+  Total_Mileage: '250.80'
+  Badges: '7'
+  Run: '138.69'
+  Cycle: '0.00'
+  Swim: '18.69'
+  Walk: '7.97'
+- Rank: '27'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -258,16 +268,6 @@
   Cycle: '703.50'
   Swim: '3.10'
   Walk: '0.00'
-- Rank: '27'
-  Name: AngmoATB
-  Group: ADW
-  FBID: Angmo1984
-  Total_Mileage: '247.55'
-  Badges: '7'
-  Run: '135.44'
-  Cycle: '0.00'
-  Swim: '18.69'
-  Walk: '7.97'
 - Rank: '28'
   Name: David Xu
   Group: ADW
