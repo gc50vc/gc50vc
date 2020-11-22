@@ -102,9 +102,9 @@
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
-  Total_Mileage: '424.00'
+  Total_Mileage: '431.03'
   Badges: '11'
-  Run: '65.40'
+  Run: '72.43'
   Cycle: '193.58'
   Swim: '51.70'
   Walk: '0.00'
@@ -172,9 +172,9 @@
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
-  Total_Mileage: '305.81'
+  Total_Mileage: '312.52'
   Badges: '5'
-  Run: '18.12'
+  Run: '24.83'
   Cycle: '1150.74'
   Swim: '0.00'
   Walk: '2.19'
@@ -299,6 +299,16 @@
   Swim: '22.93'
   Walk: '0.00'
 - Rank: '31'
+  Name: 'TiGeR3 '
+  Group: ADSS/ADWS/ADWO
+  FBID: TiGeR2876
+  Total_Mileage: '233.50'
+  Badges: '4'
+  Run: '233.50'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '32'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -308,7 +318,7 @@
   Cycle: '458.20'
   Swim: '6.40'
   Walk: '14.39'
-- Rank: '32'
+- Rank: '33'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -318,16 +328,6 @@
   Cycle: '479.54'
   Swim: '4.00'
   Walk: '24.83'
-- Rank: '33'
-  Name: 'TiGeR3 '
-  Group: ADSS/ADWS/ADWO
-  FBID: TiGeR2876
-  Total_Mileage: '219.98'
-  Badges: '4'
-  Run: '219.98'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '34'
   Name: Dan
   Group: ADSS/ADWS/ADWO
