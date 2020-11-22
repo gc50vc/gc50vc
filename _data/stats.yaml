@@ -1859,6 +1859,16 @@
   Swim: '0.00'
   Walk: '7.54'
 - Rank: '187'
+  Name: SARATH
+  Group: ADW
+  FBID: SARATH2311
+  Total_Mileage: '50.13'
+  Badges: '3'
+  Run: '33.54'
+  Cycle: '66.37'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '188'
   Name: Jj
   Group: ADSS/ADWS/ADWO
   FBID: TaroQ5061
@@ -1868,7 +1878,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '188'
+- Rank: '189'
   Name: batu
   Group: ABM
   FBID: batu1984
@@ -1878,7 +1888,7 @@
   Cycle: '31.98'
   Swim: '0.00'
   Walk: '2.50'
-- Rank: '189'
+- Rank: '190'
   Name: Parthiban
   Group: ADSS/ADWS/ADWO
   FBID: OUTLAW2111
@@ -1888,7 +1898,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '190'
+- Rank: '191'
   Name: Malice
   Group: ABM
   FBID: Malice2323
@@ -1898,7 +1908,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '86.10'
-- Rank: '191'
+- Rank: '192'
   Name: Junan
   Group: ADW
   FBID: Junan1111
@@ -1908,16 +1918,6 @@
   Cycle: '53.19'
   Swim: '0.00'
   Walk: '19.16'
-- Rank: '192'
-  Name: SARATH
-  Group: ADW
-  FBID: SARATH2311
-  Total_Mileage: '47.05'
-  Badges: '3'
-  Run: '30.46'
-  Cycle: '66.37'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '193'
   Name: Mondane
   Group: ADW
@@ -3477,7 +3477,7 @@
   Run: '0.00'
   Cycle: '33.20'
   Swim: '2.00'
-  Walk: '5.50'
+  Walk: '9.84'
 - Rank: '349'
   Name: Rayson
   Group: ATC
@@ -5688,6 +5688,16 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '14.00'
+- Rank: '558'
+  Name: Xavier
+  Group: AOSX/AOS
+  FBID: Loki0208
+  Total_Mileage: '0.00'
+  Badges: '1'
+  Run: '0.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '137.34'
 - Rank: '558'
   Name: Jchong
   Group: AFE
