@@ -1569,6 +1569,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '158'
+  Name: Diva
+  Group: ADW
+  FBID: Delia1234
+  Total_Mileage: '60.91'
+  Badges: '4'
+  Run: '32.86'
+  Cycle: '100.21'
+  Swim: '0.50'
+  Walk: '28.59'
+- Rank: '159'
   Name: Matrix
   Group: ABM
   FBID: Matrix3280
@@ -1578,7 +1588,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '4.68'
-- Rank: '159'
+- Rank: '160'
   Name: Clover
   Group: ABM
   FBID: Clover1234
@@ -1588,7 +1598,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '160'
+- Rank: '161'
   Name: Waffles
   Group: ATC
   FBID: Waffles3567
@@ -1598,7 +1608,17 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.57'
-- Rank: '161'
+- Rank: '162'
+  Name: BY
+  Group: ADSS/ADWS/ADWO
+  FBID: Charlie3579
+  Total_Mileage: '58.80'
+  Badges: '4'
+  Run: '47.43'
+  Cycle: '45.46'
+  Swim: '0.00'
+  Walk: '5.06'
+- Rank: '163'
   Name: Jamie Chen
   Group: ADSS/ADWS/ADWO
   FBID: FLASH2911
@@ -1608,17 +1628,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '162'
-  Name: Diva
-  Group: ADW
-  FBID: Delia1234
-  Total_Mileage: '57.91'
-  Badges: '4'
-  Run: '32.86'
-  Cycle: '100.21'
-  Swim: '0.00'
-  Walk: '28.59'
-- Rank: '163'
+- Rank: '164'
   Name: Pixel EQ
   Group: AOSX/AOS
   FBID: Pixel0323
@@ -1628,7 +1638,7 @@
   Cycle: '7.17'
   Swim: '0.00'
   Walk: '9.82'
-- Rank: '164'
+- Rank: '165'
   Name: Jon Thia
   Group: ADW
   FBID: Penguin3812
@@ -1638,7 +1648,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '7.31'
-- Rank: '165'
+- Rank: '166'
   Name: Kelvis
   Group: ADSS/ADWS/ADWO
   FBID: Kelvis2000
@@ -1648,7 +1658,7 @@
   Cycle: '40.73'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '166'
+- Rank: '167'
   Name: Joey Lee Jian Wei
   Group: AFE
   FBID: Joey3811
@@ -1658,7 +1668,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '498.01'
-- Rank: '167'
+- Rank: '168'
   Name: JOLLY
   Group: ADW
   FBID: Jolly8178
@@ -1668,7 +1678,7 @@
   Cycle: '42.68'
   Swim: '2.50'
   Walk: '0.00'
-- Rank: '168'
+- Rank: '169'
   Name: Philip Tan
   Group: ATC
   FBID: Philip6688
@@ -1678,7 +1688,7 @@
   Cycle: '221.08'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '169'
+- Rank: '170'
   Name: BENteo
   Group: AFE
   FBID: BEN7452
@@ -1688,7 +1698,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '170'
+- Rank: '171'
   Name: Kian Seng
   Group: ADW
   FBID: KianSeng0170
@@ -1698,7 +1708,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '171'
+- Rank: '172'
   Name: Pterlek
   Group: ATC
   FBID: Conman7361
@@ -1708,7 +1718,7 @@
   Cycle: '0.00'
   Swim: '8.00'
   Walk: '14.22'
-- Rank: '172'
+- Rank: '173'
   Name: Chan Wei Siang
   Group: AFE
   FBID: ws1234
@@ -1718,7 +1728,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '173'
+- Rank: '174'
   Name: Eric
   Group: AOSX/AOS
   FBID: RelacRunner0011
@@ -1728,16 +1738,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '174'
-  Name: BY
-  Group: ADSS/ADWS/ADWO
-  FBID: Charlie3579
-  Total_Mileage: '53.19'
-  Badges: '3'
-  Run: '41.82'
-  Cycle: '45.46'
-  Swim: '0.00'
-  Walk: '5.06'
 - Rank: '175'
   Name: Ankle
   Group: ADSS/ADWS/ADWO
