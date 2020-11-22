@@ -309,6 +309,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '32'
+  Name: AngmoATB
+  Group: ADW
+  FBID: Angmo1984
+  Total_Mileage: '54.95'
+  Badges: '0'
+  Run: '26.75'
+  Cycle: '0.00'
+  Swim: '4.70'
+  Walk: '0.00'
+- Rank: '33'
   Name: Vernon Lim
   Group: AFE
   FBID: Vernon7070
@@ -317,16 +327,6 @@
   Run: '0.00'
   Cycle: '216.82'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '33'
-  Name: AngmoATB
-  Group: ADW
-  FBID: Angmo1984
-  Total_Mileage: '51.70'
-  Badges: '0'
-  Run: '23.50'
-  Cycle: '0.00'
-  Swim: '4.70'
   Walk: '0.00'
 - Rank: '34'
   Name: Jade
