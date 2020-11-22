@@ -229,6 +229,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '24'
+  Name: Tommy Tham
+  Group: ADSS/ADWS/ADWO
+  FBID: Tommy1976
+  Total_Mileage: '60.40'
+  Badges: '1'
+  Run: '17.52'
+  Cycle: '12.89'
+  Swim: '6.61'
+  Walk: '0.00'
+- Rank: '25'
   Name: Coral
   Group: ABM
   FBID: Coral5050
@@ -238,7 +248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -248,7 +258,7 @@
   Cycle: '224.63'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -258,7 +268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: Vernon Lim
   Group: AFE
   FBID: Vernon7070
@@ -267,16 +277,6 @@
   Run: '0.00'
   Cycle: '216.82'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '28'
-  Name: Tommy Tham
-  Group: ADSS/ADWS/ADWO
-  FBID: Tommy1976
-  Total_Mileage: '53.37'
-  Badges: '1'
-  Run: '10.49'
-  Cycle: '12.89'
-  Swim: '6.61'
   Walk: '0.00'
 - Rank: '29'
   Name: AngmoATB
@@ -2488,6 +2488,16 @@
   Cycle: '4.00'
   Swim: '0.00'
   Walk: '0.00'
+- Rank: '250'
+  Name: Speedy
+  Group: AOSX/AOS
+  FBID: Speedy2020
+  Total_Mileage: '0.00'
+  Badges: ''
+  Run: '0.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '60.10'
 - Rank: '250'
   Name: Sirius
   Group: ABM
