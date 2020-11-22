@@ -1009,6 +1009,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '102'
+  Name: Jenny
+  Group: AFE
+  FBID: Jenny7373
+  Total_Mileage: '95.54'
+  Badges: '3'
+  Run: '92.62'
+  Cycle: '11.67'
+  Swim: '0.00'
+  Walk: '80.44'
+- Rank: '103'
   Name: Poon
   Group: ADSS/ADWS/ADWO
   FBID: Poon3636
@@ -1018,7 +1028,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '103'
+- Rank: '104'
   Name: Glenn
   Group: ADW
   FBID: Garfield3110
@@ -1028,7 +1038,7 @@
   Cycle: '10.00'
   Swim: '0.00'
   Walk: '13.84'
-- Rank: '104'
+- Rank: '105'
   Name: Ram
   Group: ADW
   FBID: ram7267
@@ -1038,7 +1048,7 @@
   Cycle: '0.00'
   Swim: '6.30'
   Walk: '0.00'
-- Rank: '105'
+- Rank: '106'
   Name: Vernon Lim
   Group: AFE
   FBID: Vernon7070
@@ -1048,7 +1058,7 @@
   Cycle: '376.95'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '106'
+- Rank: '107'
   Name: Gwyn
   Group: ADW
   FBID: Magma1201
@@ -1058,16 +1068,6 @@
   Cycle: '46.60'
   Swim: '0.00'
   Walk: '8.93'
-- Rank: '107'
-  Name: Jenny
-  Group: AFE
-  FBID: Jenny7373
-  Total_Mileage: '89.99'
-  Badges: '3'
-  Run: '87.07'
-  Cycle: '11.67'
-  Swim: '0.00'
-  Walk: '80.44'
 - Rank: '108'
   Name: ARROW
   Group: ADW
