@@ -89,6 +89,16 @@
   Swim: '32.70'
   Walk: '0.00'
 - Rank: '10'
+  Name: Prem
+  Group: ADW
+  FBID: Premium6687
+  Total_Mileage: '490.59'
+  Badges: '7'
+  Run: '93.24'
+  Cycle: '42.58'
+  Swim: '64.45'
+  Walk: '1.32'
+- Rank: '11'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -98,7 +108,7 @@
   Cycle: '209.50'
   Swim: '41.70'
   Walk: '13.89'
-- Rank: '11'
+- Rank: '12'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -108,7 +118,7 @@
   Cycle: '193.58'
   Swim: '51.70'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -118,7 +128,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: yapoh
   Group: ADW
   FBID: yapoh0304
@@ -128,7 +138,7 @@
   Cycle: '822.71'
   Swim: '9.40'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '15'
   Name: Nicholas Lian
   Group: ADW
   FBID: Horsepower2001
@@ -138,16 +148,6 @@
   Cycle: '30.26'
   Swim: '14.70'
   Walk: '2.98'
-- Rank: '15'
-  Name: Prem
-  Group: ADW
-  FBID: Premium6687
-  Total_Mileage: '369.09'
-  Badges: '7'
-  Run: '93.24'
-  Cycle: '42.58'
-  Swim: '44.20'
-  Walk: '1.32'
 - Rank: '16'
   Name: Euj
   Group: ATC
