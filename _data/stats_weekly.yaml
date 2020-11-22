@@ -299,6 +299,16 @@
   Swim: '3.60'
   Walk: '0.00'
 - Rank: '31'
+  Name: Iggy
+  Group: ADSS/ADWS/ADWO
+  FBID: Iggy7900
+  Total_Mileage: '39.90'
+  Badges: '0'
+  Run: '18.20'
+  Cycle: '86.81'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '32'
   Name: Chan Wen
   Group: ADW
   FBID: Gman1234
@@ -308,7 +318,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '33'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -318,7 +328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '34'
   Name: Tan Chee Wee
   Group: ATC
   FBID: Tancw1974
@@ -328,7 +338,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '9.39'
-- Rank: '34'
+- Rank: '35'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -338,7 +348,7 @@
   Cycle: '101.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: Vernon Lim
   Group: AFE
   FBID: Vernon7171
@@ -346,16 +356,6 @@
   Badges: '2'
   Run: '32.44'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '36'
-  Name: Iggy
-  Group: ADSS/ADWS/ADWO
-  FBID: Iggy7900
-  Total_Mileage: '31.88'
-  Badges: '0'
-  Run: '10.18'
-  Cycle: '86.81'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '37'
