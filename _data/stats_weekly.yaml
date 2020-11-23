@@ -49,6 +49,16 @@
   Swim: '1.00'
   Walk: '0.00'
 - Rank: '6'
+  Name: Kar Hin
+  Group: AOSX/AOS
+  FBID: Hin0113
+  Total_Mileage: '15.35'
+  Badges: '2'
+  Run: '15.35'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '2.68'
+- Rank: '7'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -58,16 +68,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '7'
-  Name: Kar Hin
-  Group: AOSX/AOS
-  FBID: Hin0113
-  Total_Mileage: '13.03'
-  Badges: '2'
-  Run: '13.03'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '2.68'
 - Rank: '8'
   Name: Shawn Lim
   Group: ADW
