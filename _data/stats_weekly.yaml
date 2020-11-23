@@ -146,7 +146,7 @@
   Badges: '0'
   Run: '0.00'
   Cycle: '0.00'
-  Swim: '0.00'
+  Swim: '0.85'
   Walk: '0.00'
 - Rank: '16'
   Name: yapoh
@@ -219,16 +219,6 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '23'
-  Name: Penguin
-  Group: ABM
-  FBID: Penguin1234
-  Total_Mileage: '61.54'
-  Badges: '0'
-  Run: '0.00'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '24'
   Name: Coral
   Group: ABM
   FBID: Coral5050
@@ -238,7 +228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '24'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -248,7 +238,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '25'
   Name: 'TiGeR3 '
   Group: ADSS/ADWS/ADWO
   FBID: TiGeR2876
@@ -258,7 +248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '26'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -268,7 +258,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '27'
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
@@ -278,11 +268,21 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '28'
   Name: Vernon Lim
   Group: AFE
   FBID: Vernon7070
   Total_Mileage: '54.21'
+  Badges: '0'
+  Run: '0.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '29'
+  Name: Penguin
+  Group: ABM
+  FBID: Penguin1234
+  Total_Mileage: '53.07'
   Badges: '0'
   Run: '0.00'
   Cycle: '0.00'
