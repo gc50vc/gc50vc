@@ -409,6 +409,16 @@
   Swim: '18.80'
   Walk: '0.00'
 - Rank: '42'
+  Name: Hanyong
+  Group: ADW
+  FBID: Hany2801
+  Total_Mileage: '194.39'
+  Badges: '4'
+  Run: '194.39'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '43'
   Name: Cookie
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -418,7 +428,7 @@
   Cycle: '104.06'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '43'
+- Rank: '44'
   Name: bok ong
   Group: ADSS/ADWS/ADWO
   FBID: bok2903
@@ -428,7 +438,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '44'
+- Rank: '45'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -438,7 +448,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '4.73'
-- Rank: '45'
+- Rank: '46'
   Name: Andrew
   Group: ADW
   FBID: Hammer1990
@@ -448,7 +458,7 @@
   Cycle: '295.12'
   Swim: '4.00'
   Walk: '0.00'
-- Rank: '46'
+- Rank: '47'
   Name: Benson
   Group: ADW
   FBID: benoi1234
@@ -458,16 +468,6 @@
   Cycle: '95.28'
   Swim: '0.95'
   Walk: '1.80'
-- Rank: '47'
-  Name: Hanyong
-  Group: ADW
-  FBID: Hany2801
-  Total_Mileage: '173.28'
-  Badges: '4'
-  Run: '173.28'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '48'
   Name: 'Jack eng '
   Group: AOSX/AOS
@@ -729,6 +729,16 @@
   Swim: '18.00'
   Walk: '0.00'
 - Rank: '74'
+  Name: You Rong
+  Group: ADW
+  FBID: Audi1987
+  Total_Mileage: '125.86'
+  Badges: '4'
+  Run: '125.86'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '75'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -738,7 +748,7 @@
   Cycle: '45.78'
   Swim: '3.50'
   Walk: '1.63'
-- Rank: '75'
+- Rank: '76'
   Name: Sean Chua
   Group: ADSS/ADWS/ADWO
   FBID: Stop0001
@@ -748,7 +758,7 @@
   Cycle: '58.61'
   Swim: '0.00'
   Walk: '1.04'
-- Rank: '76'
+- Rank: '77'
   Name: Xiaolow3344
   Group: ADSS/ADWS/ADWO
   FBID: Xiaolow3344
@@ -758,16 +768,6 @@
   Cycle: '0.00'
   Swim: '20.00'
   Walk: '71.88'
-- Rank: '77'
-  Name: You Rong
-  Group: ADW
-  FBID: Audi1987
-  Total_Mileage: '120.86'
-  Badges: '4'
-  Run: '120.86'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '78'
   Name: Cosmo
   Group: ABM
