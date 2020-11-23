@@ -1149,6 +1149,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '116'
+  Name: TRIPS
+  Group: ATC
+  FBID: TRIPS_0000
+  Total_Mileage: '83.29'
+  Badges: '5'
+  Run: '42.82'
+  Cycle: '161.87'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '117'
   Name: Sze Tein
   Group: ATC
   FBID: Topaz1327
@@ -1158,7 +1168,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '117'
+- Rank: '118'
   Name: Der Siang
   Group: ATC
   FBID: Aku1234
@@ -1168,7 +1178,7 @@
   Cycle: '95.06'
   Swim: '3.95'
   Walk: '0.00'
-- Rank: '118'
+- Rank: '119'
   Name: 'Windy '
   Group: ABM
   FBID: Windy4444
@@ -1178,7 +1188,7 @@
   Cycle: '0.00'
   Swim: '13.60'
   Walk: '0.00'
-- Rank: '119'
+- Rank: '120'
   Name: Zinc
   Group: ADW
   FBID: zinc1997
@@ -1188,7 +1198,7 @@
   Cycle: '24.40'
   Swim: '0.00'
   Walk: '5.65'
-- Rank: '120'
+- Rank: '121'
   Name: SARATH
   Group: ADW
   FBID: SARATH2311
@@ -1198,7 +1208,7 @@
   Cycle: '66.37'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '121'
+- Rank: '122'
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
@@ -1208,7 +1218,7 @@
   Cycle: '24.16'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '122'
+- Rank: '123'
   Name: 'Sengie '
   Group: ADW
   FBID: ARIAL0160
@@ -1218,16 +1228,6 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '21.08'
-- Rank: '123'
-  Name: TRIPS
-  Group: ATC
-  FBID: TRIPS_0000
-  Total_Mileage: '78.28'
-  Badges: '4'
-  Run: '37.81'
-  Cycle: '161.87'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '124'
   Name: HCM
   Group: ABM
