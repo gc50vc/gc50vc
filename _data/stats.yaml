@@ -859,6 +859,16 @@
   Swim: '7.60'
   Walk: '40.67'
 - Rank: '87'
+  Name: LWY
+  Group: AFE
+  FBID: LWY3137
+  Total_Mileage: '112.00'
+  Badges: '5'
+  Run: '10.00'
+  Cycle: '408.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '88'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -868,7 +878,7 @@
   Cycle: '91.76'
   Swim: '8.95'
   Walk: '0.00'
-- Rank: '88'
+- Rank: '89'
   Name: Keith low
   Group: ADSS/ADWS/ADWO
   FBID: Keithlow1998
@@ -878,7 +888,7 @@
   Cycle: '409.75'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '89'
+- Rank: '90'
   Name: Silver
   Group: ABM
   FBID: Silver5117
@@ -888,7 +898,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.10'
-- Rank: '90'
+- Rank: '91'
   Name: Rock
   Group: ADW
   FBID: Rock0165
@@ -898,7 +908,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '6.00'
-- Rank: '91'
+- Rank: '92'
   Name: Warren Chua
   Group: ADSS/ADWS/ADWO
   FBID: Warren9588
@@ -908,7 +918,7 @@
   Cycle: '401.26'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '92'
+- Rank: '93'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -918,7 +928,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '93'
+- Rank: '94'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -928,7 +938,7 @@
   Cycle: '221.29'
   Swim: '5.10'
   Walk: '0.00'
-- Rank: '94'
+- Rank: '95'
   Name: Quainapz
   Group: ADSS/ADWS/ADWO
   FBID: Quainapz8585
@@ -938,16 +948,6 @@
   Cycle: '0.00'
   Swim: '3.10'
   Walk: '2.30'
-- Rank: '95'
-  Name: LWY
-  Group: AFE
-  FBID: LWY3137
-  Total_Mileage: '104.50'
-  Badges: '5'
-  Run: '10.00'
-  Cycle: '378.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '96'
   Name: Andre
   Group: ADW
