@@ -49,16 +49,6 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '6'
-  Name: wyh
-  Group: ADW
-  FBID: ljt2059
-  Total_Mileage: '149.28'
-  Badges: '0'
-  Run: '0.00'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '7'
   Name: Nicholas
   Group: ADSS/ADWS/ADWO
   FBID: Nn1974
@@ -68,7 +58,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '8'
+- Rank: '7'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -78,7 +68,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '9'
+- Rank: '8'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -88,7 +78,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '10'
+- Rank: '9'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -98,7 +88,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '10'
   Name: T-rex
   Group: ABM
   FBID: Trex1406
@@ -108,7 +98,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '11'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -118,7 +108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '12'
   Name: LWY
   Group: AFE
   FBID: LWY3137
@@ -128,7 +118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '13'
   Name: Nicholas Lian
   Group: ADW
   FBID: horsepower2001
@@ -138,7 +128,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '15'
+- Rank: '14'
   Name: Irwin Chua
   Group: AOSX/AOS
   FBID: irwin2482
@@ -148,7 +138,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '16'
+- Rank: '15'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -158,7 +148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '17'
+- Rank: '16'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -168,7 +158,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '18'
+- Rank: '17'
   Name: HCM
   Group: ABM
   FBID: HCM1234
@@ -178,11 +168,21 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '19'
+- Rank: '18'
   Name: yapoh
   Group: ADW
   FBID: Yapoh0304
   Total_Mileage: '74.23'
+  Badges: '0'
+  Run: '0.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '19'
+  Name: wyh
+  Group: ADW
+  FBID: ljt2059
+  Total_Mileage: '73.66'
   Badges: '0'
   Run: '0.00'
   Cycle: '0.00'
@@ -524,7 +524,7 @@
   FBID: Vapor6148
   Total_Mileage: '30.01'
   Badges: '0'
-  Run: '0.00'
+  Run: '6.00'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
