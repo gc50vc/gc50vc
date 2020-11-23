@@ -59,6 +59,16 @@
   Swim: '1.50'
   Walk: '0.00'
 - Rank: '7'
+  Name: Sloh
+  Group: ADW
+  FBID: Sloh0121
+  Total_Mileage: '17.70'
+  Badges: '0'
+  Run: '8.72'
+  Cycle: '35.91'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '8'
   Name: HCM
   Group: ABM
   FBID: HCM1234
@@ -68,7 +78,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '8'
+- Rank: '9'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -78,7 +88,7 @@
   Cycle: '40.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '9'
+- Rank: '10'
   Name: Kar Hin
   Group: AOSX/AOS
   FBID: Hin0113
@@ -88,7 +98,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '2.68'
-- Rank: '10'
+- Rank: '11'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -98,7 +108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: Shawn Lim
   Group: ADW
   FBID: bison2609
@@ -108,7 +118,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -118,7 +128,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: Cactus
   Group: ADSS/ADWS/ADWO
   FBID: Daphne1234
@@ -128,7 +138,7 @@
   Cycle: '0.00'
   Swim: '1.80'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '15'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
@@ -138,7 +148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '15'
+- Rank: '16'
   Name: Cookie
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -148,7 +158,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '16'
+- Rank: '17'
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
@@ -158,7 +168,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '17'
+- Rank: '18'
   Name: Yi Kuang
   Group: ADW
   FBID: rocket1999
@@ -168,7 +178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '18'
+- Rank: '19'
   Name: Lin Weili
   Group: AOSX/AOS
   FBID: Michelin5052
@@ -178,7 +188,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '19'
+- Rank: '20'
   Name: Nana
   Group: AFE
   FBID: Chris1166
@@ -187,16 +197,6 @@
   Run: '0.00'
   Cycle: '0.00'
   Swim: '1.50'
-  Walk: '0.00'
-- Rank: '20'
-  Name: Sloh
-  Group: ADW
-  FBID: Sloh0121
-  Total_Mileage: '8.72'
-  Badges: '0'
-  Run: '8.72'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '21'
   Name: Mondane
