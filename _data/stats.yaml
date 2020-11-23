@@ -409,6 +409,16 @@
   Swim: '18.80'
   Walk: '0.00'
 - Rank: '42'
+  Name: Cookie
+  Group: ATC
+  FBID: Cookie3rdWSO1975
+  Total_Mileage: '190.53'
+  Badges: '6'
+  Run: '164.51'
+  Cycle: '104.06'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '43'
   Name: bok ong
   Group: ADSS/ADWS/ADWO
   FBID: bok2903
@@ -416,16 +426,6 @@
   Badges: '4'
   Run: '189.16'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '43'
-  Name: Cookie
-  Group: ATC
-  FBID: Cookie3rdWSO1975
-  Total_Mileage: '179.98'
-  Badges: '6'
-  Run: '153.96'
-  Cycle: '104.06'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '44'
