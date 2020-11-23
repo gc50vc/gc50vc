@@ -52,9 +52,9 @@
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
-  Total_Mileage: '650.39'
+  Total_Mileage: '659.11'
   Badges: '13'
-  Run: '210.81'
+  Run: '219.53'
   Cycle: '1388.71'
   Swim: '15.40'
   Walk: '0.00'
@@ -589,6 +589,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '60'
+  Name: Steyr
+  Group: ABM
+  FBID: Steyr9693
+  Total_Mileage: '147.45'
+  Badges: '4'
+  Run: '142.88'
+  Cycle: '18.27'
+  Swim: '0.00'
+  Walk: '3.42'
+- Rank: '61'
   Name: Tan Chee Wee
   Group: ATC
   FBID: tancw1974
@@ -598,7 +608,7 @@
   Cycle: '29.50'
   Swim: '0.00'
   Walk: '9.39'
-- Rank: '61'
+- Rank: '62'
   Name: Yun Jie (Rhythm)
   Group: ADW
   FBID: Jabez8686
@@ -608,7 +618,7 @@
   Cycle: '0.00'
   Swim: '18.11'
   Walk: '4.80'
-- Rank: '62'
+- Rank: '63'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
   FBID: Ahbye1234
@@ -618,7 +628,7 @@
   Cycle: '200.00'
   Swim: '5.50'
   Walk: '6.00'
-- Rank: '63'
+- Rank: '64'
   Name: Bgtan
   Group: ADSS/ADWS/ADWO
   FBID: Kenny9889
@@ -628,16 +638,6 @@
   Cycle: '570.77'
   Swim: '0.00'
   Walk: '11.44'
-- Rank: '64'
-  Name: Steyr
-  Group: ABM
-  FBID: Steyr9693
-  Total_Mileage: '141.03'
-  Badges: '4'
-  Run: '136.46'
-  Cycle: '18.27'
-  Swim: '0.00'
-  Walk: '3.42'
 - Rank: '65'
   Name: PCK
   Group: ADW
