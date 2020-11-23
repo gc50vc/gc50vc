@@ -999,6 +999,16 @@
   Swim: '0.00'
   Walk: '16.48'
 - Rank: '101'
+  Name: Ram
+  Group: ADW
+  FBID: ram7267
+  Total_Mileage: '100.41'
+  Badges: '6'
+  Run: '56.61'
+  Cycle: '0.00'
+  Swim: '7.30'
+  Walk: '0.00'
+- Rank: '102'
   Name: Fu Hao Wei
   Group: ADW
   FBID: fuhaowei8435
@@ -1008,7 +1018,7 @@
   Cycle: '352.95'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '102'
+- Rank: '103'
   Name: Jenny
   Group: AFE
   FBID: Jenny7373
@@ -1018,7 +1028,7 @@
   Cycle: '11.67'
   Swim: '0.00'
   Walk: '80.44'
-- Rank: '103'
+- Rank: '104'
   Name: Poon
   Group: ADSS/ADWS/ADWO
   FBID: Poon3636
@@ -1028,7 +1038,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '104'
+- Rank: '105'
   Name: Glenn
   Group: ADW
   FBID: Garfield3110
@@ -1038,7 +1048,7 @@
   Cycle: '10.00'
   Swim: '0.00'
   Walk: '13.84'
-- Rank: '105'
+- Rank: '106'
   Name: HCM
   Group: ABM
   FBID: HCM1234
@@ -1048,16 +1058,6 @@
   Cycle: '34.01'
   Swim: '0.00'
   Walk: '40.49'
-- Rank: '106'
-  Name: Ram
-  Group: ADW
-  FBID: ram7267
-  Total_Mileage: '94.41'
-  Badges: '5'
-  Run: '56.61'
-  Cycle: '0.00'
-  Swim: '6.30'
-  Walk: '0.00'
 - Rank: '107'
   Name: Vernon Lim
   Group: AFE
