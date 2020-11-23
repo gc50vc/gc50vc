@@ -1139,6 +1139,16 @@
   Swim: '0.00'
   Walk: '13.11'
 - Rank: '115'
+  Name: Camper
+  Group: ADW
+  FBID: tanht1968
+  Total_Mileage: '83.75'
+  Badges: '3'
+  Run: '83.75'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '116'
   Name: Sze Tein
   Group: ATC
   FBID: Topaz1327
@@ -1148,7 +1158,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '116'
+- Rank: '117'
   Name: Der Siang
   Group: ATC
   FBID: Aku1234
@@ -1158,7 +1168,7 @@
   Cycle: '95.06'
   Swim: '3.95'
   Walk: '0.00'
-- Rank: '117'
+- Rank: '118'
   Name: 'Windy '
   Group: ABM
   FBID: Windy4444
@@ -1168,7 +1178,7 @@
   Cycle: '0.00'
   Swim: '13.60'
   Walk: '0.00'
-- Rank: '118'
+- Rank: '119'
   Name: Zinc
   Group: ADW
   FBID: zinc1997
@@ -1178,7 +1188,7 @@
   Cycle: '24.40'
   Swim: '0.00'
   Walk: '5.65'
-- Rank: '119'
+- Rank: '120'
   Name: SARATH
   Group: ADW
   FBID: SARATH2311
@@ -1188,7 +1198,7 @@
   Cycle: '66.37'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '120'
+- Rank: '121'
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
@@ -1196,16 +1206,6 @@
   Badges: '3'
   Run: '74.77'
   Cycle: '24.16'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '121'
-  Name: Camper
-  Group: ADW
-  FBID: tanht1968
-  Total_Mileage: '78.66'
-  Badges: '3'
-  Run: '78.66'
-  Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '122'
