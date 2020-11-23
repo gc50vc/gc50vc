@@ -429,6 +429,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '44'
+  Name: Andrew
+  Group: ADW
+  FBID: Hammer1990
+  Total_Mileage: '181.26'
+  Badges: '10'
+  Run: '83.48'
+  Cycle: '295.12'
+  Swim: '4.00'
+  Walk: '0.00'
+- Rank: '45'
   Name: Benson
   Group: ADW
   FBID: benoi1234
@@ -438,16 +448,6 @@
   Cycle: '95.28'
   Swim: '0.95'
   Walk: '1.80'
-- Rank: '45'
-  Name: Andrew
-  Group: ADW
-  FBID: Hammer1990
-  Total_Mileage: '173.90'
-  Badges: '10'
-  Run: '76.12'
-  Cycle: '295.12'
-  Swim: '4.00'
-  Walk: '0.00'
 - Rank: '46'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
@@ -1239,6 +1239,16 @@
   Swim: '0.00'
   Walk: '40.49'
 - Rank: '125'
+  Name: Sunray
+  Group: ABM
+  FBID: Sunray0909
+  Total_Mileage: '76.52'
+  Badges: '4'
+  Run: '20.10'
+  Cycle: '190.65'
+  Swim: '1.46'
+  Walk: '0.00'
+- Rank: '126'
   Name: Darius Ng
   Group: ADSS/ADWS/ADWO
   FBID: bobo1234
@@ -1248,7 +1258,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '126'
+- Rank: '127'
   Name: Starbucks
   Group: ABM
   FBID: Starbucks3756
@@ -1258,7 +1268,7 @@
   Cycle: '9.23'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '127'
+- Rank: '128'
   Name: OLAF
   Group: ADW
   FBID: OLAF2156
@@ -1268,7 +1278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '128'
+- Rank: '129'
   Name: JonChen
   Group: ADW
   FBID: JonChen0000
@@ -1278,7 +1288,7 @@
   Cycle: '270.53'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '129'
+- Rank: '130'
   Name: COVID
   Group: ADSS/ADWS/ADWO
   FBID: COVID9999
@@ -1288,16 +1298,6 @@
   Cycle: '101.05'
   Swim: '0.00'
   Walk: '21.50'
-- Rank: '130'
-  Name: Sunray
-  Group: ABM
-  FBID: Sunray0909
-  Total_Mileage: '73.82'
-  Badges: '4'
-  Run: '20.10'
-  Cycle: '179.85'
-  Swim: '1.46'
-  Walk: '0.00'
 - Rank: '131'
   Name: Dominic
   Group: ATC
