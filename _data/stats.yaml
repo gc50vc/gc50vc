@@ -1089,6 +1089,16 @@
   Swim: '0.00'
   Walk: '57.30'
 - Rank: '110'
+  Name: Leon Yeo
+  Group: ADSS/ADWS/ADWO
+  FBID: LeonYeo2590
+  Total_Mileage: '88.00'
+  Badges: '3'
+  Run: '88.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '111'
   Name: Chan Howe
   Group: AOSX/AOS
   FBID: IceCube3008
@@ -1098,7 +1108,7 @@
   Cycle: '341.74'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '111'
+- Rank: '112'
   Name: Hector
   Group: ADW
   FBID: Hector0911
@@ -1108,7 +1118,7 @@
   Cycle: '0.00'
   Swim: '6.90'
   Walk: '4.26'
-- Rank: '112'
+- Rank: '113'
   Name: Legend
   Group: ADW
   FBID: Legend2512
@@ -1118,7 +1128,7 @@
   Cycle: '191.27'
   Swim: '0.00'
   Walk: '13.11'
-- Rank: '113'
+- Rank: '114'
   Name: Sze Tein
   Group: ATC
   FBID: Topaz1327
@@ -1128,7 +1138,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '114'
+- Rank: '115'
   Name: Der Siang
   Group: ATC
   FBID: Aku1234
@@ -1137,16 +1147,6 @@
   Run: '35.02'
   Cycle: '95.06'
   Swim: '3.95'
-  Walk: '0.00'
-- Rank: '115'
-  Name: Leon Yeo
-  Group: ADSS/ADWS/ADWO
-  FBID: LeonYeo2590
-  Total_Mileage: '82.00'
-  Badges: '3'
-  Run: '82.00'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '116'
   Name: 'Windy '
