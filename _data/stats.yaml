@@ -429,6 +429,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '44'
+  Name: Lo Heng
+  Group: ADSS/ADWS/ADWO
+  FBID: Random3050
+  Total_Mileage: '187.12'
+  Badges: '4'
+  Run: '187.12'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '4.73'
+- Rank: '45'
   Name: Andrew
   Group: ADW
   FBID: Hammer1990
@@ -438,7 +448,7 @@
   Cycle: '295.12'
   Swim: '4.00'
   Walk: '0.00'
-- Rank: '45'
+- Rank: '46'
   Name: Benson
   Group: ADW
   FBID: benoi1234
@@ -448,16 +458,6 @@
   Cycle: '95.28'
   Swim: '0.95'
   Walk: '1.80'
-- Rank: '46'
-  Name: Lo Heng
-  Group: ADSS/ADWS/ADWO
-  FBID: Random3050
-  Total_Mileage: '173.43'
-  Badges: '4'
-  Run: '173.43'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '4.73'
 - Rank: '47'
   Name: Hanyong
   Group: ADW
