@@ -549,6 +549,16 @@
   Swim: '9.17'
   Walk: '0.00'
 - Rank: '56'
+  Name: GN
+  Group: ADSS/ADWS/ADWO
+  FBID: GN8282
+  Total_Mileage: '160.55'
+  Badges: '4'
+  Run: '160.55'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '57'
   Name: 'Tay Wen Hao '
   Group: ADW
   FBID: Wh8295
@@ -558,7 +568,7 @@
   Cycle: '37.93'
   Swim: '0.00'
   Walk: '4.94'
-- Rank: '57'
+- Rank: '58'
   Name: Lia
   Group: ADSS/ADWS/ADWO
   FBID: Lia1116
@@ -568,7 +578,7 @@
   Cycle: '107.70'
   Swim: '5.10'
   Walk: '0.00'
-- Rank: '58'
+- Rank: '59'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -576,16 +586,6 @@
   Badges: '4'
   Run: '153.90'
   Cycle: '8.76'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '59'
-  Name: GN
-  Group: ADSS/ADWS/ADWO
-  FBID: GN8282
-  Total_Mileage: '155.43'
-  Badges: '4'
-  Run: '155.43'
-  Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '60'
