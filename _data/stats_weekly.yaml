@@ -29,6 +29,16 @@
   Swim: '4.00'
   Walk: '0.00'
 - Rank: '4'
+  Name: LWY
+  Group: AFE
+  FBID: LWY3137
+  Total_Mileage: '40.00'
+  Badges: '0'
+  Run: '0.00'
+  Cycle: '160.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '5'
   Name: Extreme
   Group: ATC
   FBID: Extreme8123
@@ -38,7 +48,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '5'
+- Rank: '6'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: errick1991
@@ -48,7 +58,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '6'
+- Rank: '7'
   Name: Ming Feng
   Group: ADW
   FBID: Tonic1630
@@ -58,7 +68,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '7'
+- Rank: '8'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -68,7 +78,7 @@
   Cycle: '80.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '8'
+- Rank: '9'
   Name: Steroid
   Group: ATC
   FBID: Steroid1007
@@ -76,16 +86,6 @@
   Badges: '1'
   Run: '29.33'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '9'
-  Name: LWY
-  Group: AFE
-  FBID: LWY3137
-  Total_Mileage: '27.50'
-  Badges: '0'
-  Run: '0.00'
-  Cycle: '110.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '10'
