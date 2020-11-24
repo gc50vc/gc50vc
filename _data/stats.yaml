@@ -229,16 +229,6 @@
   Swim: '0.00'
   Walk: '11.68'
 - Rank: '24'
-  Name: Coral
-  Group: ABM
-  FBID: Coral5050
-  Total_Mileage: '265.18'
-  Badges: '4'
-  Run: '265.18'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '9.48'
-- Rank: '25'
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
@@ -248,7 +238,7 @@
   Cycle: '0.00'
   Swim: '18.69'
   Walk: '7.97'
-- Rank: '26'
+- Rank: '25'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -258,7 +248,7 @@
   Cycle: '575.28'
   Swim: '9.15'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '26'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -268,6 +258,16 @@
   Cycle: '40.64'
   Swim: '13.60'
   Walk: '0.00'
+- Rank: '27'
+  Name: Coral
+  Group: ABM
+  FBID: Coral5050
+  Total_Mileage: '249.83'
+  Badges: '4'
+  Run: '249.83'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '9.48'
 - Rank: '28'
   Name: Vincent Yap
   Group: ADW
