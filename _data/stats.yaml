@@ -669,6 +669,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '68'
+  Name: Viking
+  Group: ADW
+  FBID: Viking1987
+  Total_Mileage: '133.48'
+  Badges: '6'
+  Run: '53.35'
+  Cycle: '320.50'
+  Swim: '0.00'
+  Walk: '4.00'
+- Rank: '69'
   Name: LWY
   Group: AFE
   FBID: LWY3137
@@ -678,7 +688,7 @@
   Cycle: '488.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '69'
+- Rank: '70'
   Name: wyh
   Group: ADW
   FBID: ljt2059
@@ -688,7 +698,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '70'
+- Rank: '71'
   Name: Sen Kiat
   Group: ATC
   FBID: HSK7777
@@ -698,7 +708,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '71'
+- Rank: '72'
   Name: Steroid
   Group: ATC
   FBID: Steroid1007
@@ -708,16 +718,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '72'
-  Name: Viking
-  Group: ADW
-  FBID: Viking1987
-  Total_Mileage: '128.48'
-  Badges: '6'
-  Run: '48.35'
-  Cycle: '320.50'
-  Swim: '0.00'
-  Walk: '4.00'
 - Rank: '73'
   Name: RainmanCYK
   Group: ADW
