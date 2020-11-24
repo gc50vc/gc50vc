@@ -412,10 +412,10 @@
   Name: Cookie
   Group: ATC
   FBID: Cookie3rdWSO1975
-  Total_Mileage: '190.53'
+  Total_Mileage: '192.83'
   Badges: '6'
   Run: '164.51'
-  Cycle: '104.06'
+  Cycle: '113.28'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '43'
@@ -639,6 +639,16 @@
   Swim: '18.11'
   Walk: '4.80'
 - Rank: '65'
+  Name: LWY
+  Group: AFE
+  FBID: LWY3137
+  Total_Mileage: '144.50'
+  Badges: '5'
+  Run: '10.00'
+  Cycle: '538.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '66'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
   FBID: Ahbye1234
@@ -648,7 +658,7 @@
   Cycle: '200.00'
   Swim: '5.50'
   Walk: '6.00'
-- Rank: '66'
+- Rank: '67'
   Name: Bgtan
   Group: ADSS/ADWS/ADWO
   FBID: Kenny9889
@@ -658,7 +668,7 @@
   Cycle: '570.77'
   Swim: '0.00'
   Walk: '11.44'
-- Rank: '67'
+- Rank: '68'
   Name: PCK
   Group: ADW
   FBID: PCK2205
@@ -668,7 +678,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '68'
+- Rank: '69'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -678,16 +688,6 @@
   Cycle: '320.50'
   Swim: '0.00'
   Walk: '4.00'
-- Rank: '69'
-  Name: LWY
-  Group: AFE
-  FBID: LWY3137
-  Total_Mileage: '132.00'
-  Badges: '5'
-  Run: '10.00'
-  Cycle: '488.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '70'
   Name: wyh
   Group: ADW
