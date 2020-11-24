@@ -759,6 +759,16 @@
   Swim: '0.00'
   Walk: '1.04'
 - Rank: '77'
+  Name: loanshark
+  Group: ATC
+  FBID: loanshark9356
+  Total_Mileage: '122.84'
+  Badges: '4'
+  Run: '122.84'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '1.64'
+- Rank: '78'
   Name: Xiaolow3344
   Group: ADSS/ADWS/ADWO
   FBID: Xiaolow3344
@@ -768,7 +778,7 @@
   Cycle: '0.00'
   Swim: '20.00'
   Walk: '71.88'
-- Rank: '78'
+- Rank: '79'
   Name: Cosmo
   Group: ABM
   FBID: Cosmo6306
@@ -778,7 +788,7 @@
   Cycle: '0.00'
   Swim: '0.50'
   Walk: '10.51'
-- Rank: '79'
+- Rank: '80'
   Name: QUENCHER
   Group: ABM
   FBID: quencher2020
@@ -788,7 +798,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '80'
+- Rank: '81'
   Name: Nana
   Group: AFE
   FBID: Chris1166
@@ -798,7 +808,7 @@
   Cycle: '173.36'
   Swim: '7.10'
   Walk: '70.00'
-- Rank: '81'
+- Rank: '82'
   Name: Weng
   Group: ADSS/ADWS/ADWO
   FBID: Weng8238
@@ -808,7 +818,7 @@
   Cycle: '257.17'
   Swim: '0.00'
   Walk: '13.86'
-- Rank: '82'
+- Rank: '83'
   Name: TT
   Group: ABM
   FBID: jiawei1989
@@ -818,16 +828,6 @@
   Cycle: '10.83'
   Swim: '0.00'
   Walk: '1.89'
-- Rank: '83'
-  Name: loanshark
-  Group: ATC
-  FBID: loanshark9356
-  Total_Mileage: '113.96'
-  Badges: '4'
-  Run: '113.96'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '1.64'
 - Rank: '84'
   Name: Zanna
   Group: ABM
