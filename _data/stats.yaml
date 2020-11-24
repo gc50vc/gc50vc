@@ -299,6 +299,16 @@
   Swim: '0.00'
   Walk: '79.15'
 - Rank: '31'
+  Name: 'Jonjuay '
+  Group: ADSS/ADWS/ADWO
+  FBID: Jonjuay8822
+  Total_Mileage: '236.85'
+  Badges: '10'
+  Run: '77.67'
+  Cycle: '540.71'
+  Swim: '4.00'
+  Walk: '24.83'
+- Rank: '32'
   Name: Bronson
   Group: ADW
   FBID: Bronze1234
@@ -308,7 +318,7 @@
   Cycle: '189.81'
   Swim: '22.93'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '33'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -318,16 +328,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '33'
-  Name: 'Jonjuay '
-  Group: ADSS/ADWS/ADWO
-  FBID: Jonjuay8822
-  Total_Mileage: '221.56'
-  Badges: '10'
-  Run: '77.67'
-  Cycle: '479.54'
-  Swim: '4.00'
-  Walk: '24.83'
 - Rank: '34'
   Name: Rycel Wong
   Group: AOSX/AOS
