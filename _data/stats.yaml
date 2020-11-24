@@ -299,16 +299,6 @@
   Swim: '0.00'
   Walk: '79.15'
 - Rank: '31'
-  Name: Loke Hon Wah
-  Group: ADSS/ADWS/ADWO
-  FBID: HonWah1607
-  Total_Mileage: '235.93'
-  Badges: '4'
-  Run: '235.93'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '32'
   Name: Bronson
   Group: ADW
   FBID: Bronze1234
@@ -318,7 +308,7 @@
   Cycle: '189.81'
   Swim: '22.93'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '32'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -328,7 +318,7 @@
   Cycle: '458.20'
   Swim: '6.40'
   Walk: '14.39'
-- Rank: '34'
+- Rank: '33'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -338,7 +328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '34'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -348,6 +338,16 @@
   Cycle: '479.54'
   Swim: '4.00'
   Walk: '24.83'
+- Rank: '35'
+  Name: Loke Hon Wah
+  Group: ADSS/ADWS/ADWO
+  FBID: HonWah1607
+  Total_Mileage: '215.83'
+  Badges: '4'
+  Run: '215.83'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
 - Rank: '36'
   Name: jheng
   Group: ADSS/ADWS/ADWO
@@ -409,16 +409,6 @@
   Swim: '18.80'
   Walk: '0.00'
 - Rank: '42'
-  Name: Hanyong
-  Group: ADW
-  FBID: Hany2801
-  Total_Mileage: '194.39'
-  Badges: '4'
-  Run: '194.39'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '43'
   Name: Cookie
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -428,7 +418,7 @@
   Cycle: '104.06'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '44'
+- Rank: '43'
   Name: bok ong
   Group: ADSS/ADWS/ADWO
   FBID: bok2903
@@ -438,7 +428,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '45'
+- Rank: '44'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -448,6 +438,16 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '4.73'
+- Rank: '45'
+  Name: Hanyong
+  Group: ADW
+  FBID: Hany2801
+  Total_Mileage: '184.39'
+  Badges: '4'
+  Run: '184.39'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
 - Rank: '46'
   Name: Andrew
   Group: ADW
