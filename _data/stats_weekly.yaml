@@ -89,6 +89,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '10'
+  Name: Sloh
+  Group: ADW
+  FBID: Sloh0121
+  Total_Mileage: '28.03'
+  Badges: '0'
+  Run: '19.05'
+  Cycle: '35.91'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '11'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -98,7 +108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
@@ -108,7 +118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -118,7 +128,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: Iggy
   Group: ADSS/ADWS/ADWO
   FBID: Iggy7900
@@ -126,16 +136,6 @@
   Badges: '0'
   Run: '0.00'
   Cycle: '72.64'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '14'
-  Name: Sloh
-  Group: ADW
-  FBID: Sloh0121
-  Total_Mileage: '17.70'
-  Badges: '0'
-  Run: '8.72'
-  Cycle: '35.91'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '15'
