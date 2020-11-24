@@ -29,6 +29,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '4'
+  Name: LZX
+  Group: ADSS/ADWS/ADWO
+  FBID: leezx1337
+  Total_Mileage: '774.73'
+  Badges: '8'
+  Run: '243.24'
+  Cycle: '2125.94'
+  Swim: '0.00'
+  Walk: '2.18'
+- Rank: '5'
   Name: T-rex
   Group: ABM
   FBID: Trex1406
@@ -38,16 +48,6 @@
   Cycle: '1667.75'
   Swim: '32.50'
   Walk: '0.00'
-- Rank: '5'
-  Name: LZX
-  Group: ADSS/ADWS/ADWO
-  FBID: leezx1337
-  Total_Mileage: '747.39'
-  Badges: '8'
-  Run: '243.24'
-  Cycle: '2016.61'
-  Swim: '0.00'
-  Walk: '2.18'
 - Rank: '6'
   Name: Sloh
   Group: ADW
