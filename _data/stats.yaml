@@ -309,16 +309,6 @@
   Swim: '22.93'
   Walk: '0.00'
 - Rank: '32'
-  Name: Rycel Wong
-  Group: AOSX/AOS
-  FBID: Rycel2929
-  Total_Mileage: '225.64'
-  Badges: '10'
-  Run: '72.69'
-  Cycle: '458.20'
-  Swim: '6.40'
-  Walk: '14.39'
-- Rank: '33'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -328,7 +318,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '34'
+- Rank: '33'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -338,6 +328,16 @@
   Cycle: '479.54'
   Swim: '4.00'
   Walk: '24.83'
+- Rank: '34'
+  Name: Rycel Wong
+  Group: AOSX/AOS
+  FBID: Rycel2929
+  Total_Mileage: '221.24'
+  Badges: '10'
+  Run: '68.29'
+  Cycle: '458.20'
+  Swim: '6.40'
+  Walk: '14.39'
 - Rank: '35'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
