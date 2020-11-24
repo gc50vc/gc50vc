@@ -1249,6 +1249,16 @@
   Swim: '1.46'
   Walk: '0.00'
 - Rank: '126'
+  Name: Wan Yuan
+  Group: ADW
+  FBID: Lost1908
+  Total_Mileage: '75.71'
+  Badges: '3'
+  Run: '75.71'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '20.24'
+- Rank: '127'
   Name: Lin Weili
   Group: AOSX/AOS
   FBID: Michelin5052
@@ -1258,7 +1268,7 @@
   Cycle: '45.08'
   Swim: '0.00'
   Walk: '1.00'
-- Rank: '127'
+- Rank: '128'
   Name: Darius Ng
   Group: ADSS/ADWS/ADWO
   FBID: bobo1234
@@ -1268,7 +1278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '128'
+- Rank: '129'
   Name: Starbucks
   Group: ABM
   FBID: Starbucks3756
@@ -1278,7 +1288,7 @@
   Cycle: '9.23'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '129'
+- Rank: '130'
   Name: OLAF
   Group: ADW
   FBID: OLAF2156
@@ -1288,7 +1298,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '130'
+- Rank: '131'
   Name: JonChen
   Group: ADW
   FBID: JonChen0000
@@ -1298,7 +1308,7 @@
   Cycle: '270.53'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '131'
+- Rank: '132'
   Name: COVID
   Group: ADSS/ADWS/ADWO
   FBID: COVID9999
@@ -1308,7 +1318,7 @@
   Cycle: '101.05'
   Swim: '0.00'
   Walk: '21.50'
-- Rank: '132'
+- Rank: '133'
   Name: Dominic
   Group: ATC
   FBID: Nickel1191
@@ -1318,7 +1328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '133'
+- Rank: '134'
   Name: Jefferson
   Group: AFE
   FBID: VolvoJeff1985
@@ -1328,7 +1338,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '134'
+- Rank: '135'
   Name: Jiajun
   Group: ADSS/ADWS/ADWO
   FBID: Jj2304
@@ -1338,7 +1348,7 @@
   Cycle: '0.00'
   Swim: '10.00'
   Walk: '11.06'
-- Rank: '135'
+- Rank: '136'
   Name: KevinKKW
   Group: ADSS/ADWS/ADWO
   FBID: Kkkw0165
@@ -1348,7 +1358,7 @@
   Cycle: '117.90'
   Swim: '0.00'
   Walk: '7.10'
-- Rank: '136'
+- Rank: '137'
   Name: Lim Kian Hock
   Group: AFE
   FBID: Jon3445
@@ -1358,7 +1368,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '137'
+- Rank: '138'
   Name: BY
   Group: ADSS/ADWS/ADWO
   FBID: Charlie3579
@@ -1368,16 +1378,6 @@
   Cycle: '45.46'
   Swim: '0.00'
   Walk: '5.06'
-- Rank: '138'
-  Name: Wan Yuan
-  Group: ADW
-  FBID: Lost1908
-  Total_Mileage: '70.70'
-  Badges: '3'
-  Run: '70.70'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '20.24'
 - Rank: '139'
   Name: Yeow Teck
   Group: AOSX/AOS
