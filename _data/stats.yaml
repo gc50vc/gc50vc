@@ -459,6 +459,16 @@
   Swim: '4.00'
   Walk: '0.00'
 - Rank: '47'
+  Name: 'Jack eng '
+  Group: AOSX/AOS
+  FBID: Jackpot6967
+  Total_Mileage: '180.58'
+  Badges: '4'
+  Run: '180.58'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '48'
   Name: Benson
   Group: ADW
   FBID: benoi1234
@@ -468,16 +478,6 @@
   Cycle: '95.28'
   Swim: '0.95'
   Walk: '1.80'
-- Rank: '48'
-  Name: 'Jack eng '
-  Group: AOSX/AOS
-  FBID: Jackpot6967
-  Total_Mileage: '169.57'
-  Badges: '4'
-  Run: '169.57'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '49'
   Name: GN
   Group: ADSS/ADWS/ADWO
@@ -1809,6 +1809,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '182'
+  Name: Nigel Tan
+  Group: ADW
+  FBID: lavahound0404
+  Total_Mileage: '52.72'
+  Badges: '3'
+  Run: '38.17'
+  Cycle: '58.18'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '183'
   Name: Ankle
   Group: ADSS/ADWS/ADWO
   FBID: Redeyesblackdragon1310
@@ -1818,7 +1828,7 @@
   Cycle: '45.68'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '183'
+- Rank: '184'
   Name: Logan
   Group: ABM
   FBID: Logan0001
@@ -1828,7 +1838,7 @@
   Cycle: '64.62'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '184'
+- Rank: '185'
   Name: Malice
   Group: ABM
   FBID: Malice2323
@@ -1838,7 +1848,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '86.10'
-- Rank: '185'
+- Rank: '186'
   Name: 3sg Charlie
   Group: ADSS/ADWS/ADWO
   FBID: Charlie2539
@@ -1848,7 +1858,7 @@
   Cycle: '0.00'
   Swim: '2.45'
   Walk: '0.00'
-- Rank: '186'
+- Rank: '187'
   Name: JTZH
   Group: ADSS/ADWS/ADWO
   FBID: Joshua2209
@@ -1858,7 +1868,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '187'
+- Rank: '188'
   Name: jAmEs h.
   Group: ADSS/ADWS/ADWO
   FBID: jAmEsh0007
@@ -1868,7 +1878,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '188'
+- Rank: '189'
   Name: Jing Wee
   Group: ADSS/ADWS/ADWO
   FBID: Pork2070
@@ -1878,7 +1888,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '189'
+- Rank: '190'
   Name: Rambo
   Group: AOSX/AOS
   FBID: Rambo0113
@@ -1888,7 +1898,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '190'
+- Rank: '191'
   Name: Joe Ng
   Group: AOSX/AOS
   FBID: Wiki5279
@@ -1898,7 +1908,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '191'
+- Rank: '192'
   Name: francisyap
   Group: AFE
   FBID: francis7373
@@ -1908,7 +1918,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '192'
+- Rank: '193'
   Name: EQ
   Group: ADSS/ADWS/ADWO
   FBID: eequan1234
@@ -1918,7 +1928,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '223.30'
-- Rank: '193'
+- Rank: '194'
   Name: Andre
   Group: ADSS/ADWS/ADWO
   FBID: Wagon6190
@@ -1928,7 +1938,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '194'
+- Rank: '195'
   Name: l0ng live the beard
   Group: ADSS/ADWS/ADWO
   FBID: Rovin0787
@@ -1938,7 +1948,7 @@
   Cycle: '141.04'
   Swim: '0.00'
   Walk: '5.07'
-- Rank: '195'
+- Rank: '196'
   Name: Junan
   Group: ADW
   FBID: Junan1111
@@ -1948,7 +1958,7 @@
   Cycle: '53.19'
   Swim: '0.00'
   Walk: '19.16'
-- Rank: '196'
+- Rank: '197'
   Name: JR
   Group: ADW
   FBID: JR1986
@@ -1958,7 +1968,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '197'
+- Rank: '198'
   Name: batu
   Group: ABM
   FBID: batu1984
@@ -1968,7 +1978,7 @@
   Cycle: '31.98'
   Swim: '0.00'
   Walk: '2.50'
-- Rank: '198'
+- Rank: '199'
   Name: Cactus
   Group: ADSS/ADWS/ADWO
   FBID: Daphne1234
@@ -1978,7 +1988,7 @@
   Cycle: '0.00'
   Swim: '8.00'
   Walk: '0.00'
-- Rank: '199'
+- Rank: '200'
   Name: Desmond Ong
   Group: ADSS/ADWS/ADWO
   FBID: Desmondowx1992
@@ -1988,7 +1998,7 @@
   Cycle: '82.52'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '200'
+- Rank: '201'
   Name: Zhi Hao
   Group: ADSS/ADWS/ADWO
   FBID: ZhiHao_R0160
@@ -1998,7 +2008,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '201'
+- Rank: '202'
   Name: SONG RUI
   Group: ADSS/ADWS/ADWO
   FBID: SR7730
@@ -2008,7 +2018,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '202'
+- Rank: '203'
   Name: Wes
   Group: ADW
   FBID: Wesleyho1978
@@ -2018,7 +2028,7 @@
   Cycle: '66.14'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '203'
+- Rank: '204'
   Name: Halu
   Group: AFE
   FBID: Halu1805
@@ -2028,7 +2038,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '204'
+- Rank: '205'
   Name: Shawn Lim
   Group: ADW
   FBID: bison2609
@@ -2038,7 +2048,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '205'
+- Rank: '206'
   Name: Xerox
   Group: ABM
   FBID: Xerox1739
@@ -2048,7 +2058,7 @@
   Cycle: '0.00'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '206'
+- Rank: '207'
   Name: Boon Peng
   Group: ADSS/ADWS/ADWO
   FBID: Bpeng1129
@@ -2058,7 +2068,7 @@
   Cycle: '2.10'
   Swim: '6.00'
   Walk: '2.45'
-- Rank: '207'
+- Rank: '208'
   Name: LC
   Group: AFE
   FBID: LC0809
@@ -2068,7 +2078,7 @@
   Cycle: '116.97'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '208'
+- Rank: '209'
   Name: Eric Kwok
   Group: ABM
   FBID: Villain1111
@@ -2077,16 +2087,6 @@
   Run: '6.59'
   Cycle: '125.14'
   Swim: '1.30'
-  Walk: '0.00'
-- Rank: '209'
-  Name: Nigel Tan
-  Group: ADW
-  FBID: lavahound0404
-  Total_Mileage: '45.66'
-  Badges: '2'
-  Run: '38.17'
-  Cycle: '29.97'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '210'
   Name: Karma
