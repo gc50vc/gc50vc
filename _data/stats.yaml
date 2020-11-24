@@ -1079,6 +1079,16 @@
   Swim: '0.00'
   Walk: '8.93'
 - Rank: '109'
+  Name: Hector
+  Group: ADW
+  FBID: Hector0911
+  Total_Mileage: '90.95'
+  Badges: '5'
+  Run: '49.55'
+  Cycle: '0.00'
+  Swim: '6.90'
+  Walk: '4.26'
+- Rank: '110'
   Name: ARROW
   Group: ADW
   FBID: Tee1980
@@ -1088,7 +1098,7 @@
   Cycle: '77.42'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '110'
+- Rank: '111'
   Name: Rocky
   Group: AOSX/AOS
   FBID: ZeRo7113
@@ -1098,7 +1108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '57.30'
-- Rank: '111'
+- Rank: '112'
   Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
   FBID: LeonYeo2590
@@ -1108,7 +1118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '112'
+- Rank: '113'
   Name: Irwin Chua
   Group: AOSX/AOS
   FBID: irwin2482
@@ -1118,7 +1128,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '113'
+- Rank: '114'
   Name: Chan Howe
   Group: AOSX/AOS
   FBID: IceCube3008
@@ -1128,7 +1138,7 @@
   Cycle: '341.74'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '114'
+- Rank: '115'
   Name: Zinc
   Group: ADW
   FBID: zinc1997
@@ -1138,16 +1148,6 @@
   Cycle: '24.40'
   Swim: '0.00'
   Walk: '5.65'
-- Rank: '115'
-  Name: Hector
-  Group: ADW
-  FBID: Hector0911
-  Total_Mileage: '84.85'
-  Badges: '5'
-  Run: '43.45'
-  Cycle: '0.00'
-  Swim: '6.90'
-  Walk: '4.26'
 - Rank: '116'
   Name: Legend
   Group: ADW
