@@ -229,6 +229,16 @@
   Swim: '0.00'
   Walk: '11.68'
 - Rank: '24'
+  Name: Coral
+  Group: ABM
+  FBID: Coral5050
+  Total_Mileage: '261.50'
+  Badges: '4'
+  Run: '261.50'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '9.48'
+- Rank: '25'
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
@@ -238,7 +248,7 @@
   Cycle: '0.00'
   Swim: '18.69'
   Walk: '7.97'
-- Rank: '25'
+- Rank: '26'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -248,7 +258,7 @@
   Cycle: '575.28'
   Swim: '9.15'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -258,16 +268,6 @@
   Cycle: '40.64'
   Swim: '13.60'
   Walk: '0.00'
-- Rank: '27'
-  Name: Coral
-  Group: ABM
-  FBID: Coral5050
-  Total_Mileage: '249.83'
-  Badges: '4'
-  Run: '249.83'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '9.48'
 - Rank: '28'
   Name: Vincent Yap
   Group: ADW
@@ -1009,6 +1009,16 @@
   Swim: '7.30'
   Walk: '0.00'
 - Rank: '102'
+  Name: Hector
+  Group: ADW
+  FBID: Hector0911
+  Total_Mileage: '96.45'
+  Badges: '5'
+  Run: '55.05'
+  Cycle: '0.00'
+  Swim: '6.90'
+  Walk: '4.26'
+- Rank: '103'
   Name: Fu Hao Wei
   Group: ADW
   FBID: fuhaowei8435
@@ -1018,7 +1028,7 @@
   Cycle: '352.95'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '103'
+- Rank: '104'
   Name: Jenny
   Group: AFE
   FBID: Jenny7373
@@ -1028,7 +1038,7 @@
   Cycle: '11.67'
   Swim: '0.00'
   Walk: '80.44'
-- Rank: '104'
+- Rank: '105'
   Name: Poon
   Group: ADSS/ADWS/ADWO
   FBID: Poon3636
@@ -1038,7 +1048,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '105'
+- Rank: '106'
   Name: Glenn
   Group: ADW
   FBID: Garfield3110
@@ -1048,7 +1058,7 @@
   Cycle: '10.00'
   Swim: '0.00'
   Walk: '13.84'
-- Rank: '106'
+- Rank: '107'
   Name: HCM
   Group: ABM
   FBID: HCM1234
@@ -1058,7 +1068,7 @@
   Cycle: '34.01'
   Swim: '0.00'
   Walk: '40.49'
-- Rank: '107'
+- Rank: '108'
   Name: Vernon Lim
   Group: AFE
   FBID: Vernon7070
@@ -1068,7 +1078,7 @@
   Cycle: '376.95'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '108'
+- Rank: '109'
   Name: Gwyn
   Group: ADW
   FBID: Magma1201
@@ -1078,16 +1088,6 @@
   Cycle: '46.60'
   Swim: '0.00'
   Walk: '8.93'
-- Rank: '109'
-  Name: Hector
-  Group: ADW
-  FBID: Hector0911
-  Total_Mileage: '90.95'
-  Badges: '5'
-  Run: '49.55'
-  Cycle: '0.00'
-  Swim: '6.90'
-  Walk: '4.26'
 - Rank: '110'
   Name: ARROW
   Group: ADW
