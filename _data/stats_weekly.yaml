@@ -39,6 +39,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '5'
+  Name: PIXAR
+  Group: ABM
+  FBID: PIXAR0001
+  Total_Mileage: '32.40'
+  Badges: '0'
+  Run: '6.40'
+  Cycle: '80.00'
+  Swim: '1.00'
+  Walk: '0.00'
+- Rank: '6'
   Name: Steroid
   Group: ATC
   FBID: Steroid1007
@@ -48,7 +58,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '6'
+- Rank: '7'
   Name: LWY
   Group: AFE
   FBID: LWY3137
@@ -58,7 +68,7 @@
   Cycle: '110.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '7'
+- Rank: '8'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -67,16 +77,6 @@
   Run: '24.81'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '8'
-  Name: PIXAR
-  Group: ABM
-  FBID: PIXAR0001
-  Total_Mileage: '22.40'
-  Badges: '0'
-  Run: '6.40'
-  Cycle: '40.00'
-  Swim: '1.00'
   Walk: '0.00'
 - Rank: '9'
   Name: Hanyong
