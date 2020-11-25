@@ -79,6 +79,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '9'
+  Name: 'Jonjuay '
+  Group: ADSS/ADWS/ADWO
+  FBID: Jonjuay8822
+  Total_Mileage: '35.92'
+  Badges: '0'
+  Run: '6.00'
+  Cycle: '119.68'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '10'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -88,7 +98,7 @@
   Cycle: '80.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '10'
+- Rank: '11'
   Name: Nicholas Lian
   Group: ADW
   FBID: horsepower2001
@@ -96,16 +106,6 @@
   Badges: '0'
   Run: '31.88'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '11'
-  Name: 'Jonjuay '
-  Group: ADSS/ADWS/ADWO
-  FBID: Jonjuay8822
-  Total_Mileage: '29.92'
-  Badges: '0'
-  Run: '0.00'
-  Cycle: '119.68'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '12'
