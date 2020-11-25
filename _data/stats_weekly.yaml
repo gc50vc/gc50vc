@@ -119,6 +119,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '13'
+  Name: Cookie
+  Group: ATC
+  FBID: Cookie3rdWSO1975
+  Total_Mileage: '23.49'
+  Badges: '0'
+  Run: '21.18'
+  Cycle: '9.22'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '14'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
@@ -128,7 +138,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '15'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -138,7 +148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '15'
+- Rank: '16'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -148,7 +158,7 @@
   Cycle: '40.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '16'
+- Rank: '17'
   Name: Nicholas Lian
   Group: ADW
   FBID: horsepower2001
@@ -158,7 +168,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '17'
+- Rank: '18'
   Name: Iggy
   Group: ADSS/ADWS/ADWO
   FBID: Iggy7900
@@ -168,7 +178,7 @@
   Cycle: '72.64'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '18'
+- Rank: '19'
   Name: HCM
   Group: ABM
   FBID: HCM1234
@@ -178,7 +188,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '19'
+- Rank: '20'
   Name: Lightyear
   Group: ADW
   FBID: Lightyear2020
@@ -188,7 +198,7 @@
   Cycle: '5.90'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '21'
   Name: Kar Hin
   Group: AOSX/AOS
   FBID: Hin0113
@@ -198,7 +208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '2.68'
-- Rank: '21'
+- Rank: '22'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -208,7 +218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -218,7 +228,7 @@
   Cycle: '61.17'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: TRIPS
   Group: ATC
   FBID: TRIPS_0000
@@ -228,7 +238,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: Nigel Tan
   Group: ADW
   FBID: Lavahound0404
@@ -238,7 +248,7 @@
   Cycle: '58.18'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: Boon Peng
   Group: ADSS/ADWS/ADWO
   FBID: Bpeng1129
@@ -248,7 +258,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: Nana
   Group: AFE
   FBID: Chris1166
@@ -258,7 +268,7 @@
   Cycle: '0.00'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -268,7 +278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -276,16 +286,6 @@
   Badges: '0'
   Run: '13.50'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '29'
-  Name: Cookie
-  Group: ATC
-  FBID: Cookie3rdWSO1975
-  Total_Mileage: '12.86'
-  Badges: '0'
-  Run: '10.55'
-  Cycle: '9.22'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '30'
