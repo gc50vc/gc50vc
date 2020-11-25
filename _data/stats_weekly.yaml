@@ -39,6 +39,16 @@
   Swim: '6.10'
   Walk: '0.00'
 - Rank: '5'
+  Name: Extreme
+  Group: ATC
+  FBID: Extreme8123
+  Total_Mileage: '50.54'
+  Badges: '0'
+  Run: '38.01'
+  Cycle: '50.10'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '6'
   Name: LWY
   Group: AFE
   FBID: LWY3137
@@ -46,16 +56,6 @@
   Badges: '0'
   Run: '0.00'
   Cycle: '160.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '6'
-  Name: Extreme
-  Group: ATC
-  FBID: Extreme8123
-  Total_Mileage: '38.01'
-  Badges: '0'
-  Run: '38.01'
-  Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '7'
