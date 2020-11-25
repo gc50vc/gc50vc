@@ -19,6 +19,16 @@
   Swim: '22.35'
   Walk: '5.05'
 - Rank: '3'
+  Name: LZX
+  Group: ADSS/ADWS/ADWO
+  FBID: leezx1337
+  Total_Mileage: '849.75'
+  Badges: '8'
+  Run: '265.26'
+  Cycle: '2337.97'
+  Swim: '0.00'
+  Walk: '2.18'
+- Rank: '4'
   Name: Lee Wen Yang
   Group: AFE
   FBID: LWY3942
@@ -28,16 +38,6 @@
   Cycle: '3045.94'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '4'
-  Name: LZX
-  Group: ADSS/ADWS/ADWO
-  FBID: leezx1337
-  Total_Mileage: '796.75'
-  Badges: '8'
-  Run: '265.26'
-  Cycle: '2125.94'
-  Swim: '0.00'
-  Walk: '2.18'
 - Rank: '5'
   Name: T-rex
   Group: ABM
@@ -1242,11 +1242,11 @@
   Name: Sunray
   Group: ABM
   FBID: Sunray0909
-  Total_Mileage: '76.52'
-  Badges: '4'
+  Total_Mileage: '78.02'
+  Badges: '5'
   Run: '20.10'
   Cycle: '190.65'
-  Swim: '1.46'
+  Swim: '1.71'
   Walk: '0.00'
 - Rank: '126'
   Name: Wan Yuan
