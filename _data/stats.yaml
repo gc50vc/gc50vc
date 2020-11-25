@@ -147,7 +147,7 @@
   Run: '289.55'
   Cycle: '30.26'
   Swim: '14.70'
-  Walk: '2.98'
+  Walk: '5.89'
 - Rank: '16'
   Name: aH-MuNs-Ge
   Group: AFE
@@ -779,6 +779,16 @@
   Swim: '0.00'
   Walk: '1.64'
 - Rank: '79'
+  Name: Rock
+  Group: ADW
+  FBID: Rock0165
+  Total_Mileage: '122.34'
+  Badges: '4'
+  Run: '116.34'
+  Cycle: '0.00'
+  Swim: '1.00'
+  Walk: '6.00'
+- Rank: '80'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -788,7 +798,7 @@
   Cycle: '91.76'
   Swim: '10.65'
   Walk: '0.00'
-- Rank: '80'
+- Rank: '81'
   Name: Xiaolow3344
   Group: ADSS/ADWS/ADWO
   FBID: Xiaolow3344
@@ -798,7 +808,7 @@
   Cycle: '0.00'
   Swim: '20.00'
   Walk: '71.88'
-- Rank: '81'
+- Rank: '82'
   Name: Cosmo
   Group: ABM
   FBID: Cosmo6306
@@ -808,7 +818,7 @@
   Cycle: '0.00'
   Swim: '0.50'
   Walk: '10.51'
-- Rank: '82'
+- Rank: '83'
   Name: QUENCHER
   Group: ABM
   FBID: quencher2020
@@ -818,7 +828,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '83'
+- Rank: '84'
   Name: Lightyear
   Group: ADW
   FBID: Lightyear2020
@@ -828,16 +838,6 @@
   Cycle: '5.90'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '84'
-  Name: Rock
-  Group: ADW
-  FBID: Rock0165
-  Total_Mileage: '117.34'
-  Badges: '4'
-  Run: '111.34'
-  Cycle: '0.00'
-  Swim: '1.00'
-  Walk: '6.00'
 - Rank: '85'
   Name: Weng
   Group: ADSS/ADWS/ADWO
@@ -5838,16 +5838,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '6.00'
-- Rank: '567'
-  Name: Nicholas Lian
-  Group: ADW
-  FBID: horsepowe2001
-  Total_Mileage: '0.00'
-  Badges: '0'
-  Run: '0.00'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '2.91'
 - Rank: '567'
   Name: Ginkgo
   Group: ABM
