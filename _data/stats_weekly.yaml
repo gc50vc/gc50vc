@@ -69,16 +69,6 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '8'
-  Name: Ming Feng
-  Group: ADW
-  FBID: Tonic1630
-  Total_Mileage: '35.27'
-  Badges: '1'
-  Run: '35.27'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '9'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -88,7 +78,7 @@
   Cycle: '80.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '10'
+- Rank: '9'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -98,13 +88,23 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '10'
   Name: Steroid
   Group: ATC
   FBID: Steroid1007
   Total_Mileage: '29.33'
   Badges: '1'
   Run: '29.33'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '11'
+  Name: Ming Feng
+  Group: ADW
+  FBID: Tonic1630
+  Total_Mileage: '28.74'
+  Badges: '1'
+  Run: '28.74'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
