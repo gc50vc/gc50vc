@@ -179,6 +179,16 @@
   Swim: '2.58'
   Walk: '1.00'
 - Rank: '19'
+  Name: PIXAR
+  Group: ABM
+  FBID: PIXAR0001
+  Total_Mileage: '321.93'
+  Badges: '11'
+  Run: '128.67'
+  Cycle: '642.00'
+  Swim: '5.46'
+  Walk: '0.00'
+- Rank: '20'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -188,16 +198,6 @@
   Cycle: '1150.74'
   Swim: '0.85'
   Walk: '2.19'
-- Rank: '20'
-  Name: PIXAR
-  Group: ABM
-  FBID: PIXAR0001
-  Total_Mileage: '313.93'
-  Badges: '11'
-  Run: '128.67'
-  Cycle: '610.00'
-  Swim: '5.46'
-  Walk: '0.00'
 - Rank: '21'
   Name: 'Tan Swee Kiat '
   Group: ADW
@@ -1349,6 +1349,16 @@
   Swim: '10.00'
   Walk: '11.06'
 - Rank: '136'
+  Name: Manu
+  Group: ABM
+  FBID: Manu7894
+  Total_Mileage: '72.06'
+  Badges: '3'
+  Run: '72.06'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '137'
   Name: KevinKKW
   Group: ADSS/ADWS/ADWO
   FBID: Kkkw0165
@@ -1358,7 +1368,7 @@
   Cycle: '117.90'
   Swim: '0.00'
   Walk: '7.10'
-- Rank: '137'
+- Rank: '138'
   Name: Lim Kian Hock
   Group: AFE
   FBID: Jon3445
@@ -1368,7 +1378,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '138'
+- Rank: '139'
   Name: BY
   Group: ADSS/ADWS/ADWO
   FBID: Charlie3579
@@ -1378,7 +1388,7 @@
   Cycle: '45.46'
   Swim: '0.00'
   Walk: '5.06'
-- Rank: '139'
+- Rank: '140'
   Name: Yeow Teck
   Group: AOSX/AOS
   FBID: Youtube6116
@@ -1388,7 +1398,7 @@
   Cycle: '0.00'
   Swim: '2.20'
   Walk: '0.00'
-- Rank: '140'
+- Rank: '141'
   Name: Owyong
   Group: ATC
   FBID: Owyong251088
@@ -1398,7 +1408,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '141'
+- Rank: '142'
   Name: Alloy
   Group: ABM
   FBID: alloy8585
@@ -1408,7 +1418,7 @@
   Cycle: '0.00'
   Swim: '3.40'
   Walk: '0.00'
-- Rank: '142'
+- Rank: '143'
   Name: Akileis
   Group: ADW
   FBID: Akileis0163
@@ -1418,7 +1428,7 @@
   Cycle: '0.00'
   Swim: '11.00'
   Walk: '6.29'
-- Rank: '143'
+- Rank: '144'
   Name: Chin Yong
   Group: ADSS/ADWS/ADWO
   FBID: Relaxing1234
@@ -1428,7 +1438,7 @@
   Cycle: '55.45'
   Swim: '0.00'
   Walk: '44.84'
-- Rank: '144'
+- Rank: '145'
   Name: Diva
   Group: ADW
   FBID: Delia1234
@@ -1438,7 +1448,7 @@
   Cycle: '100.21'
   Swim: '1.00'
   Walk: '28.59'
-- Rank: '145'
+- Rank: '146'
   Name: Kelvin
   Group: ADSS/ADWS/ADWO
   FBID: Kelvin1111
@@ -1448,7 +1458,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '146'
+- Rank: '147'
   Name: spirit
   Group: ATC
   FBID: spirit5555
@@ -1458,23 +1468,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.37'
-- Rank: '147'
+- Rank: '148'
   Name: Eddie Chua
   Group: AFE
   FBID: EddieChua1973
   Total_Mileage: '67.02'
   Badges: '3'
   Run: '67.02'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '148'
-  Name: Manu
-  Group: ABM
-  FBID: Manu7894
-  Total_Mileage: '66.82'
-  Badges: '3'
-  Run: '66.82'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
