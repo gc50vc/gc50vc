@@ -119,6 +119,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '13'
+  Name: jheng
+  Group: ADSS/ADWS/ADWO
+  FBID: jheng0000
+  Total_Mileage: '30.02'
+  Badges: '0'
+  Run: '21.02'
+  Cycle: '0.00'
+  Swim: '1.50'
+  Walk: '0.00'
+- Rank: '14'
   Name: Steroid
   Group: ATC
   FBID: Steroid1007
@@ -128,7 +138,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '15'
   Name: Tony Foo
   Group: ADW
   FBID: tonyfoo0165
@@ -138,7 +148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '15'
+- Rank: '16'
   Name: Ming Feng
   Group: ADW
   FBID: Tonic1630
@@ -148,7 +158,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '16'
+- Rank: '17'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -158,7 +168,7 @@
   Cycle: '35.91'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '17'
+- Rank: '18'
   Name: yapoh
   Group: ADW
   FBID: Yapoh0304
@@ -168,7 +178,7 @@
   Cycle: '40.05'
   Swim: '2.60'
   Walk: '0.00'
-- Rank: '18'
+- Rank: '19'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -178,7 +188,7 @@
   Cycle: '0.00'
   Swim: '2.40'
   Walk: '0.00'
-- Rank: '19'
+- Rank: '20'
   Name: Vapor
   Group: ADW
   FBID: Vapor6148
@@ -188,7 +198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '21'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -198,7 +208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -208,7 +218,7 @@
   Cycle: '0.00'
   Swim: '2.50'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: Cookie
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -218,7 +228,7 @@
   Cycle: '9.22'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: Prem
   Group: ADW
   FBID: Premium6687
@@ -228,7 +238,7 @@
   Cycle: '0.00'
   Swim: '2.05'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -238,7 +248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -248,7 +258,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
@@ -258,7 +268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -268,7 +278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: Irwin Chua
   Group: AOSX/AOS
   FBID: irwin2482
@@ -278,7 +288,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -288,7 +298,7 @@
   Cycle: '40.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '31'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -297,16 +307,6 @@
   Run: '0.00'
   Cycle: '38.11'
   Swim: '1.70'
-  Walk: '0.00'
-- Rank: '31'
-  Name: jheng
-  Group: ADSS/ADWS/ADWO
-  FBID: jheng0000
-  Total_Mileage: '19.51'
-  Badges: '0'
-  Run: '10.51'
-  Cycle: '0.00'
-  Swim: '1.50'
   Walk: '0.00'
 - Rank: '32'
   Name: Ying Tat
