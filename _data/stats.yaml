@@ -1079,6 +1079,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '109'
+  Name: TRIPS
+  Group: ATC
+  FBID: TRIPS_0000
+  Total_Mileage: '93.31'
+  Badges: '5'
+  Run: '52.84'
+  Cycle: '161.87'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '110'
   Name: Gwyn
   Group: ADW
   FBID: Magma1201
@@ -1088,7 +1098,7 @@
   Cycle: '46.60'
   Swim: '0.00'
   Walk: '8.93'
-- Rank: '110'
+- Rank: '111'
   Name: Sze Tein
   Group: ATC
   FBID: Topaz1327
@@ -1098,7 +1108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '111'
+- Rank: '112'
   Name: ARROW
   Group: ADW
   FBID: Tee1980
@@ -1108,7 +1118,7 @@
   Cycle: '77.42'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '112'
+- Rank: '113'
   Name: Rocky
   Group: AOSX/AOS
   FBID: ZeRo7113
@@ -1118,7 +1128,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '57.30'
-- Rank: '113'
+- Rank: '114'
   Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
   FBID: LeonYeo2590
@@ -1128,7 +1138,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '114'
+- Rank: '115'
   Name: Irwin Chua
   Group: AOSX/AOS
   FBID: irwin2482
@@ -1138,7 +1148,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '115'
+- Rank: '116'
   Name: Chan Howe
   Group: AOSX/AOS
   FBID: IceCube3008
@@ -1148,7 +1158,7 @@
   Cycle: '341.74'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '116'
+- Rank: '117'
   Name: Zinc
   Group: ADW
   FBID: zinc1997
@@ -1158,7 +1168,7 @@
   Cycle: '24.40'
   Swim: '0.00'
   Walk: '5.65'
-- Rank: '117'
+- Rank: '118'
   Name: Legend
   Group: ADW
   FBID: Legend2512
@@ -1168,7 +1178,7 @@
   Cycle: '191.27'
   Swim: '0.00'
   Walk: '13.11'
-- Rank: '118'
+- Rank: '119'
   Name: Camper
   Group: ADW
   FBID: tanht1968
@@ -1176,16 +1186,6 @@
   Badges: '3'
   Run: '83.75'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '119'
-  Name: TRIPS
-  Group: ATC
-  FBID: TRIPS_0000
-  Total_Mileage: '83.29'
-  Badges: '5'
-  Run: '42.82'
-  Cycle: '161.87'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '120'
