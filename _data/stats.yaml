@@ -999,6 +999,16 @@
   Swim: '0.00'
   Walk: '8.93'
 - Rank: '101'
+  Name: ARROW
+  Group: ADW
+  FBID: Tee1980
+  Total_Mileage: '103.06'
+  Badges: '4'
+  Run: '79.92'
+  Cycle: '92.57'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '102'
   Name: Rubiks
   Group: ABM
   FBID: Rubiks1234
@@ -1008,7 +1018,7 @@
   Cycle: '41.78'
   Swim: '4.10'
   Walk: '0.00'
-- Rank: '102'
+- Rank: '103'
   Name: Jenny
   Group: AFE
   FBID: Jenny7373
@@ -1018,7 +1028,7 @@
   Cycle: '11.67'
   Swim: '0.00'
   Walk: '80.44'
-- Rank: '103'
+- Rank: '104'
   Name: Irwin Chua
   Group: AOSX/AOS
   FBID: irwin2482
@@ -1028,7 +1038,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '104'
+- Rank: '105'
   Name: Maj Lim
   Group: ABM
   FBID: Legoz1000
@@ -1038,7 +1048,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '16.48'
-- Rank: '105'
+- Rank: '106'
   Name: Ram
   Group: ADW
   FBID: ram7267
@@ -1048,7 +1058,7 @@
   Cycle: '0.00'
   Swim: '7.30'
   Walk: '0.00'
-- Rank: '106'
+- Rank: '107'
   Name: Hector
   Group: ADW
   FBID: Hector0911
@@ -1058,7 +1068,7 @@
   Cycle: '0.00'
   Swim: '6.90'
   Walk: '4.26'
-- Rank: '107'
+- Rank: '108'
   Name: Glenn
   Group: ADW
   FBID: Garfield3110
@@ -1068,7 +1078,7 @@
   Cycle: '17.20'
   Swim: '0.00'
   Walk: '13.84'
-- Rank: '108'
+- Rank: '109'
   Name: Poon
   Group: ADSS/ADWS/ADWO
   FBID: Poon3636
@@ -1078,7 +1088,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '109'
+- Rank: '110'
   Name: HCM
   Group: ABM
   FBID: HCM1234
@@ -1088,7 +1098,7 @@
   Cycle: '34.01'
   Swim: '0.00'
   Walk: '40.49'
-- Rank: '110'
+- Rank: '111'
   Name: Vernon Lim
   Group: AFE
   FBID: Vernon7070
@@ -1098,7 +1108,7 @@
   Cycle: '376.95'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '111'
+- Rank: '112'
   Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
   FBID: LeonYeo2590
@@ -1108,7 +1118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '112'
+- Rank: '113'
   Name: TRIPS
   Group: ATC
   FBID: TRIPS_0000
@@ -1118,7 +1128,7 @@
   Cycle: '161.87'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '113'
+- Rank: '114'
   Name: Sze Tein
   Group: ATC
   FBID: Topaz1327
@@ -1126,16 +1136,6 @@
   Badges: '3'
   Run: '89.55'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '114'
-  Name: ARROW
-  Group: ADW
-  FBID: Tee1980
-  Total_Mileage: '88.72'
-  Badges: '4'
-  Run: '69.36'
-  Cycle: '77.42'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '115'
