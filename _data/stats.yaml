@@ -92,9 +92,9 @@
   Name: Prem
   Group: ADW
   FBID: Premium6687
-  Total_Mileage: '516.36'
+  Total_Mileage: '523.86'
   Badges: '9'
-  Run: '106.71'
+  Run: '114.21'
   Cycle: '42.58'
   Swim: '66.50'
   Walk: '1.32'
@@ -319,6 +319,26 @@
   Swim: '22.93'
   Walk: '0.00'
 - Rank: '33'
+  Name: Dan
+  Group: ADSS/ADWS/ADWO
+  FBID: Dan1234
+  Total_Mileage: '229.86'
+  Badges: '4'
+  Run: '229.86'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '34'
+  Name: jheng
+  Group: ADSS/ADWS/ADWO
+  FBID: jheng0000
+  Total_Mileage: '227.13'
+  Badges: '9'
+  Run: '62.71'
+  Cycle: '132.79'
+  Swim: '21.87'
+  Walk: '0.00'
+- Rank: '35'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -328,7 +348,7 @@
   Cycle: '458.20'
   Swim: '6.40'
   Walk: '14.39'
-- Rank: '34'
+- Rank: '36'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -337,26 +357,6 @@
   Run: '224.89'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '35'
-  Name: Dan
-  Group: ADSS/ADWS/ADWO
-  FBID: Dan1234
-  Total_Mileage: '224.74'
-  Badges: '4'
-  Run: '224.74'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '36'
-  Name: jheng
-  Group: ADSS/ADWS/ADWO
-  FBID: jheng0000
-  Total_Mileage: '216.62'
-  Badges: '9'
-  Run: '52.20'
-  Cycle: '132.79'
-  Swim: '21.87'
   Walk: '0.00'
 - Rank: '37'
   Name: Vapor
@@ -369,6 +369,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '38'
+  Name: Marcus
+  Group: ADSS/ADWS/ADWO
+  FBID: Mtwk1998
+  Total_Mileage: '207.60'
+  Badges: '9'
+  Run: '75.00'
+  Cycle: '170.38'
+  Swim: '15.00'
+  Walk: '11.07'
+- Rank: '39'
   Name: Ah Bing
   Group: ADW
   FBID: Bingo0507
@@ -378,7 +388,7 @@
   Cycle: '222.73'
   Swim: '3.20'
   Walk: '0.00'
-- Rank: '39'
+- Rank: '40'
   Name: Cookie
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -388,16 +398,6 @@
   Cycle: '113.28'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '40'
-  Name: Marcus
-  Group: ADSS/ADWS/ADWO
-  FBID: Mtwk1998
-  Total_Mileage: '202.60'
-  Badges: '9'
-  Run: '70.00'
-  Cycle: '170.38'
-  Swim: '15.00'
-  Walk: '11.07'
 - Rank: '41'
   Name: AdolphusJJ
   Group: AOSX/AOS
