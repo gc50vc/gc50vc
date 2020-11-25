@@ -369,6 +369,16 @@
   Swim: '3.20'
   Walk: '0.00'
 - Rank: '38'
+  Name: Cookie
+  Group: ATC
+  FBID: Cookie3rdWSO1975
+  Total_Mileage: '203.46'
+  Badges: '6'
+  Run: '175.14'
+  Cycle: '113.28'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '39'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
@@ -378,7 +388,7 @@
   Cycle: '170.38'
   Swim: '15.00'
   Walk: '11.07'
-- Rank: '39'
+- Rank: '40'
   Name: AdolphusJJ
   Group: AOSX/AOS
   FBID: Bamboo1234
@@ -388,7 +398,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '40'
+- Rank: '41'
   Name: Vapor
   Group: ADW
   FBID: Vapor6148
@@ -398,7 +408,7 @@
   Cycle: '18.09'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '41'
+- Rank: '42'
   Name: Daniel Tay
   Group: AOSX/AOS
   FBID: Corrupt2705
@@ -407,16 +417,6 @@
   Run: '82.70'
   Cycle: '0.00'
   Swim: '18.80'
-  Walk: '0.00'
-- Rank: '42'
-  Name: Cookie
-  Group: ATC
-  FBID: Cookie3rdWSO1975
-  Total_Mileage: '192.83'
-  Badges: '6'
-  Run: '164.51'
-  Cycle: '113.28'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '43'
   Name: bok ong
