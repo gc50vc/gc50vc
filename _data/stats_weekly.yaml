@@ -169,6 +169,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '18'
+  Name: Lightyear
+  Group: ADW
+  FBID: Lightyear2020
+  Total_Mileage: '16.96'
+  Badges: '0'
+  Run: '15.48'
+  Cycle: '5.90'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '19'
   Name: Kar Hin
   Group: AOSX/AOS
   FBID: Hin0113
@@ -178,7 +188,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '2.68'
-- Rank: '19'
+- Rank: '20'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -188,7 +198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '21'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -198,7 +208,7 @@
   Cycle: '61.17'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: Nigel Tan
   Group: ADW
   FBID: Lavahound0404
@@ -208,7 +218,7 @@
   Cycle: '58.18'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: Boon Peng
   Group: ADSS/ADWS/ADWO
   FBID: Bpeng1129
@@ -218,7 +228,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: Nana
   Group: AFE
   FBID: Chris1166
@@ -228,7 +238,7 @@
   Cycle: '0.00'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -238,7 +248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: Cookie
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -248,7 +258,7 @@
   Cycle: '9.22'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -258,7 +268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: Jenny
   Group: AFE
   FBID: Jenny7373
@@ -268,7 +278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: GN
   Group: ADSS/ADWS/ADWO
   FBID: GN8282
@@ -278,7 +288,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: Nicholas Lian
   Group: ADW
   FBID: horsepower2001
@@ -288,7 +298,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '31'
   Name: Shawn Lim
   Group: ADW
   FBID: bison2609
@@ -298,7 +308,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '32'
   Name: Julian
   Group: ADW
   FBID: Echo9694
@@ -308,7 +318,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '33'
   Name: Coral
   Group: ABM
   FBID: Coral5050
@@ -318,7 +328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '34'
   Name: Hector
   Group: ADW
   FBID: Hector0911
@@ -328,7 +338,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '34'
+- Rank: '35'
   Name: Andre
   Group: ADW
   FBID: Andre7429
@@ -338,7 +348,7 @@
   Cycle: '37.46'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -348,7 +358,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '36'
+- Rank: '37'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -358,7 +368,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '37'
+- Rank: '38'
   Name: lcheeleo
   Group: ADW
   FBID: Lcheeleo3347
@@ -368,7 +378,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '38'
+- Rank: '39'
   Name: Cactus
   Group: ADSS/ADWS/ADWO
   FBID: Daphne1234
@@ -378,7 +388,7 @@
   Cycle: '0.00'
   Swim: '1.80'
   Walk: '0.00'
-- Rank: '39'
+- Rank: '40'
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
@@ -388,7 +398,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '40'
+- Rank: '41'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -397,16 +407,6 @@
   Run: '0.00'
   Cycle: '0.00'
   Swim: '1.70'
-  Walk: '0.00'
-- Rank: '41'
-  Name: Lightyear
-  Group: ADW
-  FBID: Lightyear2020
-  Total_Mileage: '10.14'
-  Badges: '0'
-  Run: '10.14'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '42'
   Name: Yi Kuang
