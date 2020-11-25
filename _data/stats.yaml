@@ -119,6 +119,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '13'
+  Name: Slimer
+  Group: ABM
+  FBID: Slimer1234
+  Total_Mileage: '448.53'
+  Badges: '12'
+  Run: '130.95'
+  Cycle: '209.50'
+  Swim: '44.20'
+  Walk: '13.89'
+- Rank: '14'
   Name: yapoh
   Group: ADW
   FBID: yapoh0304
@@ -128,16 +138,6 @@
   Cycle: '967.89'
   Swim: '12.00'
   Walk: '0.00'
-- Rank: '14'
-  Name: Slimer
-  Group: ABM
-  FBID: Slimer1234
-  Total_Mileage: '424.49'
-  Badges: '12'
-  Run: '121.91'
-  Cycle: '209.50'
-  Swim: '41.70'
-  Walk: '13.89'
 - Rank: '15'
   Name: Nicholas Lian
   Group: ADW
@@ -2219,6 +2219,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '223'
+  Name: Tim Kan
+  Group: ADW
+  FBID: timkan1991
+  Total_Mileage: '43.50'
+  Badges: '3'
+  Run: '43.50'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '224'
   Name: Button
   Group: ATC
   FBID: Button9029
@@ -2228,7 +2238,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '2.85'
-- Rank: '224'
+- Rank: '225'
   Name: Dubs
   Group: ADW
   FBID: Dubs0002
@@ -2238,7 +2248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '225'
+- Rank: '226'
   Name: USwiftO
   Group: ADW
   FBID: Swift1010
@@ -2248,7 +2258,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '226'
+- Rank: '227'
   Name: Max160A
   Group: ADSS/ADWS/ADWO
   FBID: Max2310
@@ -2258,7 +2268,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '15.28'
-- Rank: '227'
+- Rank: '228'
   Name: Pat160A
   Group: ADSS/ADWS/ADWO
   FBID: Pat1991
@@ -2268,7 +2278,7 @@
   Cycle: '0.00'
   Swim: '3.68'
   Walk: '0.00'
-- Rank: '228'
+- Rank: '229'
   Name: Pock xuan
   Group: ADSS/ADWS/ADWO
   FBID: Bravoadws0000
@@ -2278,7 +2288,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.60'
-- Rank: '229'
+- Rank: '230'
   Name: Cupid
   Group: AOSX/AOS
   FBID: Cupid2711
@@ -2288,7 +2298,7 @@
   Cycle: '159.10'
   Swim: '0.00'
   Walk: '2.40'
-- Rank: '230'
+- Rank: '231'
   Name: Songbird
   Group: ABM
   FBID: Songbird1904
@@ -2298,7 +2308,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '231'
+- Rank: '232'
   Name: Ham
   Group: ADSS/ADWS/ADWO
   FBID: Ham1234
@@ -2308,7 +2318,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '232'
+- Rank: '233'
   Name: JIN
   Group: ADSS/ADWS/ADWO
   FBID: JIN1999
@@ -2318,7 +2328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '233'
+- Rank: '234'
   Name: Beyblade
   Group: ATC
   FBID: Beyblade9999
@@ -2328,7 +2338,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.07'
-- Rank: '234'
+- Rank: '235'
   Name: Winson
   Group: ADSS/ADWS/ADWO
   FBID: Winson1999
@@ -2338,7 +2348,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '235'
+- Rank: '236'
   Name: KW
   Group: ADW
   FBID: ccey9191
@@ -2348,7 +2358,7 @@
   Cycle: '136.30'
   Swim: '0.00'
   Walk: '1.78'
-- Rank: '236'
+- Rank: '237'
   Name: Yi Kuang
   Group: ADW
   FBID: rocket1999
@@ -2358,16 +2368,6 @@
   Cycle: '48.82'
   Swim: '0.00'
   Walk: '1.03'
-- Rank: '237'
-  Name: Tim Kan
-  Group: ADW
-  FBID: timkan1991
-  Total_Mileage: '41.08'
-  Badges: '2'
-  Run: '41.08'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '238'
   Name: Jun Jia
   Group: ADSS/ADWS/ADWO
