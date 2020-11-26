@@ -189,6 +189,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '20'
+  Name: Cookie
+  Group: ATC
+  FBID: Cookie3rdWSO1975
+  Total_Mileage: '29.67'
+  Badges: '0'
+  Run: '21.18'
+  Cycle: '33.97'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '21'
   Name: Steroid
   Group: ATC
   FBID: Steroid1007
@@ -198,7 +208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: Ming Feng
   Group: ADW
   FBID: Tonic1630
@@ -206,16 +216,6 @@
   Badges: '1'
   Run: '28.74'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '22'
-  Name: Cookie
-  Group: ATC
-  FBID: Cookie3rdWSO1975
-  Total_Mileage: '27.34'
-  Badges: '0'
-  Run: '21.18'
-  Cycle: '24.65'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '23'
