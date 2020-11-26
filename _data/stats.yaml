@@ -372,9 +372,9 @@
   Name: Ah Bing
   Group: ADW
   FBID: Bingo0507
-  Total_Mileage: '210.53'
+  Total_Mileage: '215.56'
   Badges: '9'
-  Run: '135.65'
+  Run: '140.68'
   Cycle: '222.73'
   Swim: '3.20'
   Walk: '0.00'
@@ -769,6 +769,16 @@
   Swim: '10.65'
   Walk: '0.00'
 - Rank: '78'
+  Name: Weng
+  Group: ADSS/ADWS/ADWO
+  FBID: Weng8238
+  Total_Mileage: '129.09'
+  Badges: '6'
+  Run: '51.91'
+  Cycle: '308.70'
+  Swim: '0.00'
+  Walk: '13.86'
+- Rank: '79'
   Name: Nana
   Group: AFE
   FBID: Chris1166
@@ -778,7 +788,7 @@
   Cycle: '173.36'
   Swim: '7.10'
   Walk: '70.00'
-- Rank: '79'
+- Rank: '80'
   Name: Steroid
   Group: ATC
   FBID: Steroid1007
@@ -788,16 +798,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '80'
-  Name: Weng
-  Group: ADSS/ADWS/ADWO
-  FBID: Weng8238
-  Total_Mileage: '125.56'
-  Badges: '6'
-  Run: '51.91'
-  Cycle: '294.61'
-  Swim: '0.00'
-  Walk: '13.86'
 - Rank: '81'
   Name: Sean Chua
   Group: ADSS/ADWS/ADWO
