@@ -189,6 +189,16 @@
   Swim: '0.85'
   Walk: '2.19'
 - Rank: '20'
+  Name: PIXAR
+  Group: ABM
+  FBID: PIXAR0001
+  Total_Mileage: '328.93'
+  Badges: '11'
+  Run: '128.67'
+  Cycle: '670.00'
+  Swim: '5.46'
+  Walk: '0.00'
+- Rank: '21'
   Name: Tony Foo
   Group: ADW
   FBID: tonyfoo0165
@@ -197,16 +207,6 @@
   Run: '325.10'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '21'
-  Name: PIXAR
-  Group: ABM
-  FBID: PIXAR0001
-  Total_Mileage: '321.93'
-  Badges: '11'
-  Run: '128.67'
-  Cycle: '642.00'
-  Swim: '5.46'
   Walk: '0.00'
 - Rank: '22'
   Name: 'Tan Swee Kiat '
@@ -329,6 +329,16 @@
   Swim: '22.93'
   Walk: '0.00'
 - Rank: '34'
+  Name: Loke Hon Wah
+  Group: ADSS/ADWS/ADWO
+  FBID: HonWah1607
+  Total_Mileage: '230.91'
+  Badges: '4'
+  Run: '230.91'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '35'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -338,7 +348,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -348,16 +358,6 @@
   Cycle: '458.20'
   Swim: '6.90'
   Walk: '14.39'
-- Rank: '36'
-  Name: Loke Hon Wah
-  Group: ADSS/ADWS/ADWO
-  FBID: HonWah1607
-  Total_Mileage: '224.89'
-  Badges: '4'
-  Run: '224.89'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '37'
   Name: Vapor
   Group: ADW
