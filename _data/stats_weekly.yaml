@@ -329,6 +329,16 @@
   Swim: '1.70'
   Walk: '0.00'
 - Rank: '34'
+  Name: Nana
+  Group: AFE
+  FBID: Chris1166
+  Total_Mileage: '19.71'
+  Badges: '2'
+  Run: '10.71'
+  Cycle: '0.00'
+  Swim: '1.50'
+  Walk: '0.00'
+- Rank: '35'
   Name: johngn
   Group: ADSS/ADWS/ADWO
   FBID: john1234
@@ -338,7 +348,7 @@
   Cycle: '0.00'
   Swim: '3.25'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -348,7 +358,7 @@
   Cycle: '55.24'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '36'
+- Rank: '37'
   Name: Andre
   Group: ADW
   FBID: Andre7429
@@ -358,7 +368,7 @@
   Cycle: '66.98'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '37'
+- Rank: '38'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -368,7 +378,7 @@
   Cycle: '40.95'
   Swim: '0.85'
   Walk: '0.00'
-- Rank: '38'
+- Rank: '39'
   Name: Iggy
   Group: ADSS/ADWS/ADWO
   FBID: Iggy7900
@@ -378,7 +388,7 @@
   Cycle: '72.64'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '39'
+- Rank: '40'
   Name: 'Beatbox '
   Group: ABM
   FBID: Beatbox0202
@@ -388,7 +398,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '40'
+- Rank: '41'
   Name: Boon Peng
   Group: ADSS/ADWS/ADWO
   FBID: Bpeng1129
@@ -398,7 +408,7 @@
   Cycle: '12.62'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '41'
+- Rank: '42'
   Name: HCM
   Group: ABM
   FBID: HCM1234
@@ -408,7 +418,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '42'
+- Rank: '43'
   Name: Benson
   Group: ADW
   FBID: Benoi1234
@@ -418,7 +428,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '43'
+- Rank: '44'
   Name: Lightyear
   Group: ADW
   FBID: Lightyear2020
@@ -428,7 +438,7 @@
   Cycle: '5.90'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '44'
+- Rank: '45'
   Name: GN
   Group: ADSS/ADWS/ADWO
   FBID: GN8282
@@ -438,7 +448,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '45'
+- Rank: '46'
   Name: Cosmo
   Group: ABM
   FBID: cosmo6306
@@ -448,7 +458,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '46'
+- Rank: '47'
   Name: Kar Hin
   Group: AOSX/AOS
   FBID: Hin0113
@@ -458,7 +468,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '2.68'
-- Rank: '47'
+- Rank: '48'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -468,7 +478,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '48'
+- Rank: '49'
   Name: TRIPS
   Group: ATC
   FBID: TRIPS_0000
@@ -478,7 +488,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '49'
+- Rank: '50'
   Name: loanshark
   Group: ATC
   FBID: loanshark9356
@@ -488,7 +498,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '50'
+- Rank: '51'
   Name: Nigel Tan
   Group: ADW
   FBID: Lavahound0404
@@ -498,7 +508,7 @@
   Cycle: '58.18'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '51'
+- Rank: '52'
   Name: Zhi Hao
   Group: ADSS/ADWS/ADWO
   FBID: ZhiHao_R0160
@@ -508,7 +518,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '52'
+- Rank: '53'
   Name: ARROW
   Group: ADW
   FBID: Tee1980
@@ -517,16 +527,6 @@
   Run: '10.56'
   Cycle: '15.15'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '53'
-  Name: Nana
-  Group: AFE
-  FBID: Chris1166
-  Total_Mileage: '14.33'
-  Badges: '1'
-  Run: '5.33'
-  Cycle: '0.00'
-  Swim: '1.50'
   Walk: '0.00'
 - Rank: '54'
   Name: Jun Jia
