@@ -1179,6 +1179,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '119'
+  Name: Zinc
+  Group: ADW
+  FBID: zinc1997
+  Total_Mileage: '91.16'
+  Badges: '3'
+  Run: '85.06'
+  Cycle: '24.40'
+  Swim: '0.00'
+  Walk: '5.65'
+- Rank: '120'
   Name: Rocky
   Group: AOSX/AOS
   FBID: ZeRo7113
@@ -1188,7 +1198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '57.30'
-- Rank: '120'
+- Rank: '121'
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
@@ -1198,7 +1208,7 @@
   Cycle: '24.16'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '121'
+- Rank: '122'
   Name: Chan Howe
   Group: AOSX/AOS
   FBID: IceCube3008
@@ -1208,16 +1218,6 @@
   Cycle: '341.74'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '122'
-  Name: Zinc
-  Group: ADW
-  FBID: zinc1997
-  Total_Mileage: '85.16'
-  Badges: '3'
-  Run: '79.06'
-  Cycle: '24.40'
-  Swim: '0.00'
-  Walk: '5.65'
 - Rank: '123'
   Name: Camper
   Group: ADW
@@ -1429,6 +1429,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '144'
+  Name: Joey Lee Jian Wei
+  Group: AFE
+  FBID: Joey3811
+  Total_Mileage: '70.00'
+  Badges: '4'
+  Run: '70.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '574.07'
+- Rank: '145'
   Name: Akileis
   Group: ADW
   FBID: Akileis0163
@@ -1438,7 +1448,7 @@
   Cycle: '0.00'
   Swim: '11.00'
   Walk: '6.29'
-- Rank: '145'
+- Rank: '146'
   Name: 'Beatbox '
   Group: ABM
   FBID: Beatbox0202
@@ -1448,7 +1458,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '7.54'
-- Rank: '146'
+- Rank: '147'
   Name: Chin Yong
   Group: ADSS/ADWS/ADWO
   FBID: Relaxing1234
@@ -1458,7 +1468,7 @@
   Cycle: '55.45'
   Swim: '0.00'
   Walk: '44.84'
-- Rank: '147'
+- Rank: '148'
   Name: Diva
   Group: ADW
   FBID: Delia1234
@@ -1468,7 +1478,7 @@
   Cycle: '100.21'
   Swim: '1.00'
   Walk: '28.59'
-- Rank: '148'
+- Rank: '149'
   Name: Kelvin
   Group: ADSS/ADWS/ADWO
   FBID: Kelvin1111
@@ -1478,7 +1488,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '149'
+- Rank: '150'
   Name: spirit
   Group: ATC
   FBID: spirit5555
@@ -1488,7 +1498,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.37'
-- Rank: '150'
+- Rank: '151'
   Name: Eddie Chua
   Group: AFE
   FBID: EddieChua1973
@@ -1498,7 +1508,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '151'
+- Rank: '152'
   Name: Dennis
   Group: ADSS/ADWS/ADWO
   FBID: Dennis0495
@@ -1508,7 +1518,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.31'
-- Rank: '152'
+- Rank: '153'
   Name: Alan
   Group: ADSS/ADWS/ADWO
   FBID: Alan2881
@@ -1518,7 +1528,7 @@
   Cycle: '0.00'
   Swim: '4.65'
   Walk: '32.00'
-- Rank: '153'
+- Rank: '154'
   Name: Lava
   Group: ATC
   FBID: Lava1717
@@ -1528,7 +1538,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '154'
+- Rank: '155'
   Name: 'Crystal '
   Group: ABM
   FBID: Crystal1101
@@ -1538,7 +1548,7 @@
   Cycle: '9.48'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '155'
+- Rank: '156'
   Name: Barter
   Group: ATC
   FBID: Reload0203
@@ -1548,7 +1558,7 @@
   Cycle: '203.00'
   Swim: '1.50'
   Walk: '13.50'
-- Rank: '156'
+- Rank: '157'
   Name: Shawn Chia
   Group: ADW
   FBID: SCWE9595
@@ -1558,7 +1568,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '157'
+- Rank: '158'
   Name: Saturn
   Group: ADW
   FBID: Saturn1501
@@ -1568,7 +1578,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '158'
+- Rank: '159'
   Name: Kent Zeng
   Group: ADSS/ADWS/ADWO
   FBID: Stonks69420
@@ -1578,16 +1588,6 @@
   Cycle: '75.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '159'
-  Name: Joey Lee Jian Wei
-  Group: AFE
-  FBID: Joey3811
-  Total_Mileage: '62.00'
-  Badges: '4'
-  Run: '62.00'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '574.07'
 - Rank: '160'
   Name: Penguin
   Group: ABM
