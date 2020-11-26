@@ -1139,6 +1139,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '115'
+  Name: 'Windy '
+  Group: ABM
+  FBID: Windy4444
+  Total_Mileage: '94.20'
+  Badges: '4'
+  Run: '0.00'
+  Cycle: '0.00'
+  Swim: '15.70'
+  Walk: '0.00'
+- Rank: '116'
   Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
   FBID: LeonYeo2590
@@ -1147,16 +1157,6 @@
   Run: '94.00'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '116'
-  Name: 'Windy '
-  Group: ABM
-  FBID: Windy4444
-  Total_Mileage: '93.60'
-  Badges: '4'
-  Run: '0.00'
-  Cycle: '0.00'
-  Swim: '15.60'
   Walk: '0.00'
 - Rank: '117'
   Name: TRIPS
