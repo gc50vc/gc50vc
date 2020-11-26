@@ -289,6 +289,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '30'
+  Name: GN
+  Group: ADSS/ADWS/ADWO
+  FBID: GN8282
+  Total_Mileage: '22.07'
+  Badges: '0'
+  Run: '22.07'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '31'
   Name: loanshark
   Group: ATC
   FBID: loanshark9356
@@ -298,7 +308,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '32'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
@@ -308,7 +318,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '33'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: Wang0165
@@ -318,7 +328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '34'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -328,7 +338,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '34'
+- Rank: '35'
   Name: Legend
   Group: ADW
   FBID: Legend2512
@@ -338,7 +348,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: Irwin Chua
   Group: AOSX/AOS
   FBID: irwin2482
@@ -348,7 +358,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '36'
+- Rank: '37'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -358,7 +368,7 @@
   Cycle: '40.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '37'
+- Rank: '38'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -368,7 +378,7 @@
   Cycle: '38.11'
   Swim: '1.70'
   Walk: '0.00'
-- Rank: '38'
+- Rank: '39'
   Name: Nana
   Group: AFE
   FBID: Chris1166
@@ -378,7 +388,7 @@
   Cycle: '0.00'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '39'
+- Rank: '40'
   Name: johngn
   Group: ADSS/ADWS/ADWO
   FBID: john1234
@@ -388,7 +398,7 @@
   Cycle: '0.00'
   Swim: '3.25'
   Walk: '0.00'
-- Rank: '40'
+- Rank: '41'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -398,7 +408,7 @@
   Cycle: '55.24'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '41'
+- Rank: '42'
   Name: Andre
   Group: ADW
   FBID: Andre7429
@@ -408,7 +418,7 @@
   Cycle: '66.98'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '42'
+- Rank: '43'
   Name: Iggy
   Group: ADSS/ADWS/ADWO
   FBID: Iggy7900
@@ -418,7 +428,7 @@
   Cycle: '72.64'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '43'
+- Rank: '44'
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
@@ -428,7 +438,7 @@
   Cycle: '0.00'
   Swim: '1.25'
   Walk: '0.00'
-- Rank: '44'
+- Rank: '45'
   Name: 'Beatbox '
   Group: ABM
   FBID: Beatbox0202
@@ -438,7 +448,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '45'
+- Rank: '46'
   Name: Boon Peng
   Group: ADSS/ADWS/ADWO
   FBID: Bpeng1129
@@ -448,7 +458,7 @@
   Cycle: '12.62'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '46'
+- Rank: '47'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -458,7 +468,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '47'
+- Rank: '48'
   Name: HCM
   Group: ABM
   FBID: HCM1234
@@ -468,7 +478,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '48'
+- Rank: '49'
   Name: Benson
   Group: ADW
   FBID: Benoi1234
@@ -478,7 +488,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '49'
+- Rank: '50'
   Name: Lightyear
   Group: ADW
   FBID: Lightyear2020
@@ -486,16 +496,6 @@
   Badges: '0'
   Run: '15.48'
   Cycle: '5.90'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '50'
-  Name: GN
-  Group: ADSS/ADWS/ADWO
-  FBID: GN8282
-  Total_Mileage: '16.92'
-  Badges: '0'
-  Run: '16.92'
-  Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '51'
