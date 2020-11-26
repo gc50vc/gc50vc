@@ -379,6 +379,16 @@
   Swim: '3.20'
   Walk: '0.00'
 - Rank: '39'
+  Name: Cookie
+  Group: ATC
+  FBID: Cookie3rdWSO1975
+  Total_Mileage: '209.65'
+  Badges: '6'
+  Run: '175.14'
+  Cycle: '138.03'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '40'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
@@ -388,16 +398,6 @@
   Cycle: '170.38'
   Swim: '15.00'
   Walk: '11.07'
-- Rank: '40'
-  Name: Cookie
-  Group: ATC
-  FBID: Cookie3rdWSO1975
-  Total_Mileage: '207.32'
-  Badges: '6'
-  Run: '175.14'
-  Cycle: '128.71'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '41'
   Name: AdolphusJJ
   Group: AOSX/AOS
