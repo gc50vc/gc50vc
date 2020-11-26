@@ -159,6 +159,16 @@
   Swim: '0.00'
   Walk: '79.15'
 - Rank: '17'
+  Name: Leonard ong
+  Group: ADSS/ADWS/ADWO
+  FBID: WANG0165
+  Total_Mileage: '363.90'
+  Badges: '5'
+  Run: '342.42'
+  Cycle: '24.00'
+  Swim: '2.58'
+  Walk: '1.00'
+- Rank: '18'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -168,16 +178,6 @@
   Cycle: '159.02'
   Swim: '35.87'
   Walk: '109.94'
-- Rank: '18'
-  Name: Leonard ong
-  Group: ADSS/ADWS/ADWO
-  FBID: WANG0165
-  Total_Mileage: '342.56'
-  Badges: '5'
-  Run: '321.08'
-  Cycle: '24.00'
-  Swim: '2.58'
-  Walk: '1.00'
 - Rank: '19'
   Name: PIXAR
   Group: ABM
@@ -1079,6 +1079,16 @@
   Swim: '7.30'
   Walk: '0.00'
 - Rank: '109'
+  Name: Sze Tein
+  Group: ATC
+  FBID: Topaz1327
+  Total_Mileage: '97.56'
+  Badges: '3'
+  Run: '97.56'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '110'
   Name: Hector
   Group: ADW
   FBID: Hector0911
@@ -1088,7 +1098,7 @@
   Cycle: '0.00'
   Swim: '6.90'
   Walk: '4.26'
-- Rank: '110'
+- Rank: '111'
   Name: Glenn
   Group: ADW
   FBID: Garfield3110
@@ -1098,7 +1108,7 @@
   Cycle: '17.20'
   Swim: '0.00'
   Walk: '13.84'
-- Rank: '111'
+- Rank: '112'
   Name: Poon
   Group: ADSS/ADWS/ADWO
   FBID: Poon3636
@@ -1108,7 +1118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '112'
+- Rank: '113'
   Name: HCM
   Group: ABM
   FBID: HCM1234
@@ -1118,7 +1128,7 @@
   Cycle: '34.01'
   Swim: '0.00'
   Walk: '40.49'
-- Rank: '113'
+- Rank: '114'
   Name: Vernon Lim
   Group: AFE
   FBID: Vernon7070
@@ -1128,7 +1138,7 @@
   Cycle: '376.95'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '114'
+- Rank: '115'
   Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
   FBID: LeonYeo2590
@@ -1138,7 +1148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '115'
+- Rank: '116'
   Name: TRIPS
   Group: ATC
   FBID: TRIPS_0000
@@ -1146,16 +1156,6 @@
   Badges: '5'
   Run: '52.84'
   Cycle: '161.87'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '116'
-  Name: Sze Tein
-  Group: ATC
-  FBID: Topaz1327
-  Total_Mileage: '89.55'
-  Badges: '3'
-  Run: '89.55'
-  Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '117'
