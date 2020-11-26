@@ -109,6 +109,16 @@
   Swim: '62.65'
   Walk: '0.00'
 - Rank: '12'
+  Name: Slimer
+  Group: ABM
+  FBID: Slimer1234
+  Total_Mileage: '473.23'
+  Badges: '12'
+  Run: '140.35'
+  Cycle: '209.50'
+  Swim: '46.75'
+  Walk: '13.89'
+- Rank: '13'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -118,16 +128,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '13'
-  Name: Slimer
-  Group: ABM
-  FBID: Slimer1234
-  Total_Mileage: '448.53'
-  Badges: '12'
-  Run: '130.95'
-  Cycle: '209.50'
-  Swim: '44.20'
-  Walk: '13.89'
 - Rank: '14'
   Name: yapoh
   Group: ADW
