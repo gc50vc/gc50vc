@@ -519,6 +519,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '53'
+  Name: Slong
+  Group: ADW
+  FBID: Slong1234
+  Total_Mileage: '172.15'
+  Badges: '7'
+  Run: '107.85'
+  Cycle: '0.00'
+  Swim: '10.72'
+  Walk: '0.00'
+- Rank: '54'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -528,7 +538,7 @@
   Cycle: '8.76'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '54'
+- Rank: '55'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -538,7 +548,7 @@
   Cycle: '134.59'
   Swim: '0.00'
   Walk: '1.57'
-- Rank: '55'
+- Rank: '56'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -548,7 +558,7 @@
   Cycle: '18.27'
   Swim: '0.00'
   Walk: '3.42'
-- Rank: '56'
+- Rank: '57'
   Name: Malcolm Taong
   Group: ADSS/ADWS/ADWO
   FBID: TAONG8070
@@ -558,7 +568,7 @@
   Cycle: '497.27'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '57'
+- Rank: '58'
   Name: Btee
   Group: AFE
   FBID: Brian0307
@@ -567,16 +577,6 @@
   Run: '162.90'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '58'
-  Name: Slong
-  Group: ADW
-  FBID: Slong1234
-  Total_Mileage: '162.85'
-  Badges: '7'
-  Run: '107.85'
-  Cycle: '0.00'
-  Swim: '9.17'
   Walk: '0.00'
 - Rank: '59'
   Name: Lia
