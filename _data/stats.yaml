@@ -142,9 +142,9 @@
   Name: Nicholas Lian
   Group: ADW
   FBID: Horsepower2001
-  Total_Mileage: '405.08'
+  Total_Mileage: '416.45'
   Badges: '7'
-  Run: '309.31'
+  Run: '320.68'
   Cycle: '30.26'
   Swim: '14.70'
   Walk: '5.89'
@@ -179,6 +179,16 @@
   Swim: '2.58'
   Walk: '1.00'
 - Rank: '19'
+  Name: PIXAR
+  Group: ABM
+  FBID: PIXAR0001
+  Total_Mileage: '336.93'
+  Badges: '11'
+  Run: '136.67'
+  Cycle: '670.00'
+  Swim: '5.46'
+  Walk: '0.00'
+- Rank: '20'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -188,16 +198,6 @@
   Cycle: '1191.69'
   Swim: '0.85'
   Walk: '2.19'
-- Rank: '20'
-  Name: PIXAR
-  Group: ABM
-  FBID: PIXAR0001
-  Total_Mileage: '328.93'
-  Badges: '11'
-  Run: '128.67'
-  Cycle: '670.00'
-  Swim: '5.46'
-  Walk: '0.00'
 - Rank: '21'
   Name: Tony Foo
   Group: ADW
@@ -1389,6 +1389,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '140'
+  Name: Alloy
+  Group: ABM
+  FBID: alloy8585
+  Total_Mileage: '71.69'
+  Badges: '4'
+  Run: '51.29'
+  Cycle: '0.00'
+  Swim: '3.40'
+  Walk: '0.00'
+- Rank: '141'
   Name: Lim Kian Hock
   Group: AFE
   FBID: Jon3445
@@ -1398,7 +1408,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '141'
+- Rank: '142'
   Name: Yeow Teck
   Group: AOSX/AOS
   FBID: Youtube6116
@@ -1408,7 +1418,7 @@
   Cycle: '0.00'
   Swim: '2.20'
   Walk: '0.00'
-- Rank: '142'
+- Rank: '143'
   Name: Owyong
   Group: ATC
   FBID: Owyong251088
@@ -1417,16 +1427,6 @@
   Run: '70.46'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '143'
-  Name: Alloy
-  Group: ABM
-  FBID: alloy8585
-  Total_Mileage: '68.97'
-  Badges: '4'
-  Run: '48.57'
-  Cycle: '0.00'
-  Swim: '3.40'
   Walk: '0.00'
 - Rank: '144'
   Name: Akileis
