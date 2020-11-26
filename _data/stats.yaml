@@ -1889,6 +1889,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '190'
+  Name: POR KB
+  Group: AFE
+  FBID: AP0316
+  Total_Mileage: '52.42'
+  Badges: '3'
+  Run: '52.42'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '191'
   Name: 3sg Charlie
   Group: ADSS/ADWS/ADWO
   FBID: Charlie2539
@@ -1898,7 +1908,7 @@
   Cycle: '0.00'
   Swim: '2.45'
   Walk: '0.00'
-- Rank: '191'
+- Rank: '192'
   Name: JTZH
   Group: ADSS/ADWS/ADWO
   FBID: Joshua2209
@@ -1908,7 +1918,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '192'
+- Rank: '193'
   Name: jAmEs h.
   Group: ADSS/ADWS/ADWO
   FBID: jAmEsh0007
@@ -1918,7 +1928,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '193'
+- Rank: '194'
   Name: Jing Wee
   Group: ADSS/ADWS/ADWO
   FBID: Pork2070
@@ -1928,7 +1938,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '194'
+- Rank: '195'
   Name: Rambo
   Group: AOSX/AOS
   FBID: Rambo0113
@@ -1938,7 +1948,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '195'
+- Rank: '196'
   Name: Joe Ng
   Group: AOSX/AOS
   FBID: Wiki5279
@@ -1948,7 +1958,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '196'
+- Rank: '197'
   Name: francisyap
   Group: AFE
   FBID: francis7373
@@ -1958,7 +1968,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '197'
+- Rank: '198'
   Name: Andre
   Group: ADSS/ADWS/ADWO
   FBID: Wagon6190
@@ -1968,7 +1978,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '198'
+- Rank: '199'
   Name: l0ng live the beard
   Group: ADSS/ADWS/ADWO
   FBID: Rovin0787
@@ -1978,7 +1988,7 @@
   Cycle: '141.04'
   Swim: '0.00'
   Walk: '5.07'
-- Rank: '199'
+- Rank: '200'
   Name: Boon Peng
   Group: ADSS/ADWS/ADWO
   FBID: Bpeng1129
@@ -1988,7 +1998,7 @@
   Cycle: '14.72'
   Swim: '6.00'
   Walk: '2.45'
-- Rank: '200'
+- Rank: '201'
   Name: ASHWIN1234
   Group: ADW
   FBID: ASHWIN1234
@@ -1998,7 +2008,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '2.47'
-- Rank: '201'
+- Rank: '202'
   Name: Hsien Rong
   Group: ADSS/ADWS/ADWO
   FBID: xian1108
@@ -2008,7 +2018,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '202'
+- Rank: '203'
   Name: Cactus
   Group: ADSS/ADWS/ADWO
   FBID: Daphne1234
@@ -2017,16 +2027,6 @@
   Run: '0.00'
   Cycle: '0.00'
   Swim: '8.00'
-  Walk: '0.00'
-- Rank: '203'
-  Name: POR KB
-  Group: AFE
-  FBID: AP0316
-  Total_Mileage: '47.98'
-  Badges: '3'
-  Run: '47.98'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '204'
   Name: Songbird
@@ -2877,7 +2877,7 @@
   Run: '26.22'
   Cycle: '25.68'
   Swim: '0.00'
-  Walk: '365.99'
+  Walk: '375.29'
 - Rank: '289'
   Name: Duster
   Group: ABM
