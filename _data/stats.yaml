@@ -179,6 +179,16 @@
   Swim: '2.58'
   Walk: '1.00'
 - Rank: '19'
+  Name: HC
+  Group: ADSS/ADWS/ADWO
+  FBID: hc1234
+  Total_Mileage: '331.20'
+  Badges: '5'
+  Run: '28.18'
+  Cycle: '1191.69'
+  Swim: '0.85'
+  Walk: '2.19'
+- Rank: '20'
   Name: Tony Foo
   Group: ADW
   FBID: tonyfoo0165
@@ -188,7 +198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '21'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -198,16 +208,6 @@
   Cycle: '642.00'
   Swim: '5.46'
   Walk: '0.00'
-- Rank: '21'
-  Name: HC
-  Group: ADSS/ADWS/ADWO
-  FBID: hc1234
-  Total_Mileage: '317.62'
-  Badges: '5'
-  Run: '24.83'
-  Cycle: '1150.74'
-  Swim: '0.85'
-  Walk: '2.19'
 - Rank: '22'
   Name: 'Tan Swee Kiat '
   Group: ADW
