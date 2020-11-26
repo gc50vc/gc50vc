@@ -499,6 +499,16 @@
   Swim: '0.00'
   Walk: '51.00'
 - Rank: '51'
+  Name: Anson Chiu
+  Group: ATC
+  FBID: Antz0208
+  Total_Mileage: '173.59'
+  Badges: '4'
+  Run: '171.40'
+  Cycle: '8.76'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '52'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -508,7 +518,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '52'
+- Rank: '53'
   Name: GN
   Group: ADSS/ADWS/ADWO
   FBID: GN8282
@@ -518,7 +528,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '53'
+- Rank: '54'
   Name: Slong
   Group: ADW
   FBID: Slong1234
@@ -527,16 +537,6 @@
   Run: '107.85'
   Cycle: '0.00'
   Swim: '10.72'
-  Walk: '0.00'
-- Rank: '54'
-  Name: Anson Chiu
-  Group: ATC
-  FBID: Antz0208
-  Total_Mileage: '168.61'
-  Badges: '4'
-  Run: '166.42'
-  Cycle: '8.76'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '55'
   Name: Andrew Leong
