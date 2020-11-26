@@ -989,6 +989,16 @@
   Swim: '3.10'
   Walk: '2.30'
 - Rank: '100'
+  Name: Legend
+  Group: ADW
+  FBID: Legend2512
+  Total_Mileage: '104.88'
+  Badges: '5'
+  Run: '57.06'
+  Cycle: '191.27'
+  Swim: '0.00'
+  Walk: '13.11'
+- Rank: '101'
   Name: Fu Hao Wei
   Group: ADW
   FBID: fuhaowei8435
@@ -998,7 +1008,7 @@
   Cycle: '383.59'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '101'
+- Rank: '102'
   Name: Gwyn
   Group: ADW
   FBID: Magma1201
@@ -1008,7 +1018,7 @@
   Cycle: '46.60'
   Swim: '0.00'
   Walk: '8.93'
-- Rank: '102'
+- Rank: '103'
   Name: ARROW
   Group: ADW
   FBID: Tee1980
@@ -1018,7 +1028,7 @@
   Cycle: '92.57'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '103'
+- Rank: '104'
   Name: Rubiks
   Group: ABM
   FBID: Rubiks1234
@@ -1028,7 +1038,7 @@
   Cycle: '41.78'
   Swim: '4.10'
   Walk: '0.00'
-- Rank: '104'
+- Rank: '105'
   Name: Jenny
   Group: AFE
   FBID: Jenny7373
@@ -1038,7 +1048,7 @@
   Cycle: '11.67'
   Swim: '0.00'
   Walk: '80.44'
-- Rank: '105'
+- Rank: '106'
   Name: Irwin Chua
   Group: AOSX/AOS
   FBID: irwin2482
@@ -1048,7 +1058,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '106'
+- Rank: '107'
   Name: Maj Lim
   Group: ABM
   FBID: Legoz1000
@@ -1058,7 +1068,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '16.48'
-- Rank: '107'
+- Rank: '108'
   Name: Ram
   Group: ADW
   FBID: ram7267
@@ -1068,7 +1078,7 @@
   Cycle: '0.00'
   Swim: '7.30'
   Walk: '0.00'
-- Rank: '108'
+- Rank: '109'
   Name: Hector
   Group: ADW
   FBID: Hector0911
@@ -1078,7 +1088,7 @@
   Cycle: '0.00'
   Swim: '6.90'
   Walk: '4.26'
-- Rank: '109'
+- Rank: '110'
   Name: Glenn
   Group: ADW
   FBID: Garfield3110
@@ -1088,7 +1098,7 @@
   Cycle: '17.20'
   Swim: '0.00'
   Walk: '13.84'
-- Rank: '110'
+- Rank: '111'
   Name: Poon
   Group: ADSS/ADWS/ADWO
   FBID: Poon3636
@@ -1098,7 +1108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '111'
+- Rank: '112'
   Name: HCM
   Group: ABM
   FBID: HCM1234
@@ -1108,7 +1118,7 @@
   Cycle: '34.01'
   Swim: '0.00'
   Walk: '40.49'
-- Rank: '112'
+- Rank: '113'
   Name: Vernon Lim
   Group: AFE
   FBID: Vernon7070
@@ -1118,7 +1128,7 @@
   Cycle: '376.95'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '113'
+- Rank: '114'
   Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
   FBID: LeonYeo2590
@@ -1128,7 +1138,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '114'
+- Rank: '115'
   Name: TRIPS
   Group: ATC
   FBID: TRIPS_0000
@@ -1138,7 +1148,7 @@
   Cycle: '161.87'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '115'
+- Rank: '116'
   Name: Sze Tein
   Group: ATC
   FBID: Topaz1327
@@ -1148,7 +1158,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '116'
+- Rank: '117'
   Name: Rocky
   Group: AOSX/AOS
   FBID: ZeRo7113
@@ -1158,7 +1168,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '57.30'
-- Rank: '117'
+- Rank: '118'
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
@@ -1168,7 +1178,7 @@
   Cycle: '24.16'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '118'
+- Rank: '119'
   Name: Chan Howe
   Group: AOSX/AOS
   FBID: IceCube3008
@@ -1178,7 +1188,7 @@
   Cycle: '341.74'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '119'
+- Rank: '120'
   Name: Zinc
   Group: ADW
   FBID: zinc1997
@@ -1188,16 +1198,6 @@
   Cycle: '24.40'
   Swim: '0.00'
   Walk: '5.65'
-- Rank: '120'
-  Name: Legend
-  Group: ADW
-  FBID: Legend2512
-  Total_Mileage: '83.86'
-  Badges: '4'
-  Run: '36.04'
-  Cycle: '191.27'
-  Swim: '0.00'
-  Walk: '13.11'
 - Rank: '121'
   Name: Camper
   Group: ADW
