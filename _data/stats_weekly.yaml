@@ -29,6 +29,16 @@
   Swim: '8.30'
   Walk: '0.00'
 - Rank: '4'
+  Name: Extreme
+  Group: ATC
+  FBID: Extreme8123
+  Total_Mileage: '71.56'
+  Badges: '0'
+  Run: '38.01'
+  Cycle: '134.20'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '5'
   Name: aH-MuNs-Ge
   Group: AFE
   FBID: ahmuns9861
@@ -38,7 +48,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '5'
+- Rank: '6'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -48,7 +58,7 @@
   Cycle: '112.58'
   Swim: '1.60'
   Walk: '0.00'
-- Rank: '6'
+- Rank: '7'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -57,16 +67,6 @@
   Run: '14.40'
   Cycle: '140.00'
   Swim: '1.00'
-  Walk: '0.00'
-- Rank: '7'
-  Name: Extreme
-  Group: ATC
-  FBID: Extreme8123
-  Total_Mileage: '50.54'
-  Badges: '0'
-  Run: '38.01'
-  Cycle: '50.10'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '8'
   Name: LWY
