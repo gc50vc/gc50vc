@@ -489,6 +489,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '50'
+  Name: GN
+  Group: ADSS/ADWS/ADWO
+  FBID: GN8282
+  Total_Mileage: '177.50'
+  Badges: '4'
+  Run: '177.50'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '51'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -498,7 +508,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '51.00'
-- Rank: '51'
+- Rank: '52'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -508,23 +518,13 @@
   Cycle: '8.76'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '52'
+- Rank: '53'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
   Total_Mileage: '173.10'
   Badges: '4'
   Run: '173.10'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '53'
-  Name: GN
-  Group: ADSS/ADWS/ADWO
-  FBID: GN8282
-  Total_Mileage: '172.35'
-  Badges: '4'
-  Run: '172.35'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
