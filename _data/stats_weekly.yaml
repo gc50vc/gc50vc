@@ -39,6 +39,16 @@
   Swim: '6.10'
   Walk: '0.00'
 - Rank: '5'
+  Name: Sloh
+  Group: ADW
+  FBID: Sloh0121
+  Total_Mileage: '56.80'
+  Badges: '0'
+  Run: '19.05'
+  Cycle: '112.58'
+  Swim: '1.60'
+  Walk: '0.00'
+- Rank: '6'
   Name: Extreme
   Group: ATC
   FBID: Extreme8123
@@ -48,7 +58,7 @@
   Cycle: '50.10'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '6'
+- Rank: '7'
   Name: LWY
   Group: AFE
   FBID: LWY3137
@@ -58,7 +68,7 @@
   Cycle: '200.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '7'
+- Rank: '8'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -68,7 +78,7 @@
   Cycle: '0.00'
   Swim: '5.05'
   Walk: '0.00'
-- Rank: '8'
+- Rank: '9'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -77,16 +87,6 @@
   Run: '6.40'
   Cycle: '140.00'
   Swim: '1.00'
-  Walk: '0.00'
-- Rank: '9'
-  Name: Sloh
-  Group: ADW
-  FBID: Sloh0121
-  Total_Mileage: '47.20'
-  Badges: '0'
-  Run: '19.05'
-  Cycle: '112.58'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '10'
   Name: Yew Choong
