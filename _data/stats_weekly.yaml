@@ -439,6 +439,16 @@
   Swim: '2.00'
   Walk: '0.00'
 - Rank: '45'
+  Name: Anson Chiu
+  Group: ATC
+  FBID: Antz0208
+  Total_Mileage: '17.50'
+  Badges: '0'
+  Run: '17.50'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '46'
   Name: HCM
   Group: ABM
   FBID: HCM1234
@@ -448,7 +458,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '46'
+- Rank: '47'
   Name: Benson
   Group: ADW
   FBID: Benoi1234
@@ -458,7 +468,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '47'
+- Rank: '48'
   Name: Lightyear
   Group: ADW
   FBID: Lightyear2020
@@ -468,7 +478,7 @@
   Cycle: '5.90'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '48'
+- Rank: '49'
   Name: GN
   Group: ADSS/ADWS/ADWO
   FBID: GN8282
@@ -478,7 +488,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '49'
+- Rank: '50'
   Name: Cosmo
   Group: ABM
   FBID: cosmo6306
@@ -488,7 +498,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '50'
+- Rank: '51'
   Name: Kar Hin
   Group: AOSX/AOS
   FBID: Hin0113
@@ -498,7 +508,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '2.68'
-- Rank: '51'
+- Rank: '52'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -508,7 +518,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '52'
+- Rank: '53'
   Name: TRIPS
   Group: ATC
   FBID: TRIPS_0000
@@ -518,7 +528,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '53'
+- Rank: '54'
   Name: Seow Jian Wei
   Group: ADSS/ADWS/ADWO
   FBID: Iwaneji1999
@@ -528,7 +538,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '54'
+- Rank: '55'
   Name: Sze Tein
   Group: ATC
   FBID: Topaz1327
@@ -538,7 +548,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '55'
+- Rank: '56'
   Name: Nigel Tan
   Group: ADW
   FBID: Lavahound0404
@@ -548,7 +558,7 @@
   Cycle: '58.18'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '56'
+- Rank: '57'
   Name: Zhi Hao
   Group: ADSS/ADWS/ADWO
   FBID: ZhiHao_R0160
@@ -558,7 +568,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '57'
+- Rank: '58'
   Name: ARROW
   Group: ADW
   FBID: Tee1980
@@ -568,7 +578,7 @@
   Cycle: '15.15'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '58'
+- Rank: '59'
   Name: Jun Jia
   Group: ADSS/ADWS/ADWO
   FBID: JJTAN1507
@@ -578,7 +588,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '59'
+- Rank: '60'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -588,7 +598,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '60'
+- Rank: '61'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -598,23 +608,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '61'
+- Rank: '62'
   Name: Gwyn
   Group: ADW
   FBID: Magma1201
   Total_Mileage: '12.79'
   Badges: '0'
   Run: '12.79'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '62'
-  Name: Anson Chiu
-  Group: ATC
-  FBID: Antz0208
-  Total_Mileage: '12.52'
-  Badges: '0'
-  Run: '12.52'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
