@@ -589,6 +589,16 @@
   Swim: '5.10'
   Walk: '0.00'
 - Rank: '60'
+  Name: Cosmo
+  Group: ABM
+  FBID: Cosmo6306
+  Total_Mileage: '157.72'
+  Badges: '4'
+  Run: '154.72'
+  Cycle: '0.00'
+  Swim: '0.50'
+  Walk: '10.51'
+- Rank: '61'
   Name: 'Tay Wen Hao '
   Group: ADW
   FBID: Wh8295
@@ -598,7 +608,7 @@
   Cycle: '37.93'
   Swim: '0.00'
   Walk: '4.94'
-- Rank: '61'
+- Rank: '62'
   Name: LWY
   Group: AFE
   FBID: LWY3137
@@ -608,7 +618,7 @@
   Cycle: '578.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '62'
+- Rank: '63'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: Errick1991
@@ -618,7 +628,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '63'
+- Rank: '64'
   Name: Iggy
   Group: ADSS/ADWS/ADWO
   FBID: Iggy7900
@@ -628,7 +638,7 @@
   Cycle: '359.21'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '64'
+- Rank: '65'
   Name: Tan Chee Wee
   Group: ATC
   FBID: tancw1974
@@ -638,7 +648,7 @@
   Cycle: '29.50'
   Swim: '0.00'
   Walk: '21.68'
-- Rank: '65'
+- Rank: '66'
   Name: Yun Jie (Rhythm)
   Group: ADW
   FBID: Jabez8686
@@ -648,7 +658,7 @@
   Cycle: '0.00'
   Swim: '18.11'
   Walk: '4.80'
-- Rank: '66'
+- Rank: '67'
   Name: RainmanCYK
   Group: ADW
   FBID: Rainman0000
@@ -658,7 +668,7 @@
   Cycle: '0.00'
   Swim: '19.50'
   Walk: '0.00'
-- Rank: '67'
+- Rank: '68'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -668,7 +678,7 @@
   Cycle: '101.02'
   Swim: '3.50'
   Walk: '1.63'
-- Rank: '68'
+- Rank: '69'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
   FBID: Ahbye1234
@@ -678,7 +688,7 @@
   Cycle: '200.00'
   Swim: '5.50'
   Walk: '6.00'
-- Rank: '69'
+- Rank: '70'
   Name: Bgtan
   Group: ADSS/ADWS/ADWO
   FBID: Kenny9889
@@ -688,7 +698,7 @@
   Cycle: '570.77'
   Swim: '0.00'
   Walk: '11.44'
-- Rank: '70'
+- Rank: '71'
   Name: You Rong
   Group: ADW
   FBID: Audi1987
@@ -698,7 +708,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '71'
+- Rank: '72'
   Name: PCK
   Group: ADW
   FBID: PCK2205
@@ -708,7 +718,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '72'
+- Rank: '73'
   Name: Sen Kiat
   Group: ATC
   FBID: HSK7777
@@ -718,16 +728,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '73'
-  Name: Cosmo
-  Group: ABM
-  FBID: Cosmo6306
-  Total_Mileage: '136.32'
-  Badges: '4'
-  Run: '133.32'
-  Cycle: '0.00'
-  Swim: '0.50'
-  Walk: '10.51'
 - Rank: '74'
   Name: loanshark
   Group: ATC
