@@ -49,6 +49,16 @@
   Swim: '1.60'
   Walk: '0.00'
 - Rank: '6'
+  Name: Slimer
+  Group: ABM
+  FBID: Slimer1234
+  Total_Mileage: '77.43'
+  Badges: '1'
+  Run: '37.22'
+  Cycle: '0.00'
+  Swim: '6.70'
+  Walk: '0.60'
+- Rank: '7'
   Name: aH-MuNs-Ge
   Group: AFE
   FBID: ahmuns9861
@@ -57,16 +67,6 @@
   Run: '69.34'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '7'
-  Name: Slimer
-  Group: ABM
-  FBID: Slimer1234
-  Total_Mileage: '67.79'
-  Badges: '1'
-  Run: '27.58'
-  Cycle: '0.00'
-  Swim: '6.70'
   Walk: '0.00'
 - Rank: '8'
   Name: K Y Leong
