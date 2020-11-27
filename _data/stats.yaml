@@ -269,6 +269,16 @@
   Swim: '0.00'
   Walk: '9.48'
 - Rank: '28'
+  Name: jheng
+  Group: ADSS/ADWS/ADWO
+  FBID: jheng0000
+  Total_Mileage: '260.14'
+  Badges: '9'
+  Run: '73.22'
+  Cycle: '179.60'
+  Swim: '23.67'
+  Walk: '0.00'
+- Rank: '29'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -278,7 +288,7 @@
   Cycle: '599.22'
   Swim: '4.00'
   Walk: '24.83'
-- Rank: '29'
+- Rank: '30'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -288,7 +298,7 @@
   Cycle: '575.28'
   Swim: '9.15'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '31'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -297,16 +307,6 @@
   Run: '55.00'
   Cycle: '703.50'
   Swim: '3.10'
-  Walk: '0.00'
-- Rank: '31'
-  Name: jheng
-  Group: ADSS/ADWS/ADWO
-  FBID: jheng0000
-  Total_Mileage: '249.34'
-  Badges: '9'
-  Run: '73.22'
-  Cycle: '179.60'
-  Swim: '21.87'
   Walk: '0.00'
 - Rank: '32'
   Name: David Xu
@@ -2297,7 +2297,7 @@
   Run: '43.39'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
+  Walk: '4.05'
 - Rank: '231'
   Name: Blizzard
   Group: ATC
