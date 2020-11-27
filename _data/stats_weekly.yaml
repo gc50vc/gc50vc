@@ -89,6 +89,16 @@
   Swim: '3.30'
   Walk: '0.00'
 - Rank: '10'
+  Name: Nicholas Lian
+  Group: ADW
+  FBID: horsepower2001
+  Total_Mileage: '51.42'
+  Badges: '0'
+  Run: '51.42'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '11'
   Name: LWY
   Group: AFE
   FBID: LWY3137
@@ -96,16 +106,6 @@
   Badges: '0'
   Run: '0.00'
   Cycle: '200.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '11'
-  Name: Nicholas Lian
-  Group: ADW
-  FBID: horsepower2001
-  Total_Mileage: '43.25'
-  Badges: '0'
-  Run: '43.25'
-  Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '12'
@@ -289,6 +289,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '30'
+  Name: BY
+  Group: ADSS/ADWS/ADWO
+  FBID: Charlie3579
+  Total_Mileage: '26.01'
+  Badges: '1'
+  Run: '12.32'
+  Cycle: '54.74'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '31'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -298,7 +308,7 @@
   Cycle: '55.24'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '32'
   Name: Lim Kian Hock
   Group: AFE
   FBID: Jon3445
@@ -308,7 +318,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '33'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -318,7 +328,7 @@
   Cycle: '40.95'
   Swim: '0.85'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '34'
   Name: Prem
   Group: ADW
   FBID: Premium6687
@@ -328,7 +338,7 @@
   Cycle: '0.00'
   Swim: '2.05'
   Walk: '0.00'
-- Rank: '34'
+- Rank: '35'
   Name: GN
   Group: ADSS/ADWS/ADWO
   FBID: GN8282
@@ -338,7 +348,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: loanshark
   Group: ATC
   FBID: loanshark9356
@@ -348,7 +358,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '36'
+- Rank: '37'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
@@ -358,7 +368,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '37'
+- Rank: '38'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: Wang0165
@@ -368,7 +378,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '38'
+- Rank: '39'
   Name: Legend
   Group: ADW
   FBID: Legend2512
@@ -378,7 +388,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '39'
+- Rank: '40'
   Name: Irwin Chua
   Group: AOSX/AOS
   FBID: irwin2482
@@ -388,7 +398,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '40'
+- Rank: '41'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -398,7 +408,7 @@
   Cycle: '40.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '41'
+- Rank: '42'
   Name: Jiongwei
   Group: ADSS/ADWS/ADWO
   FBID: Jiongwei1234
@@ -408,7 +418,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '42'
+- Rank: '43'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -418,7 +428,7 @@
   Cycle: '38.11'
   Swim: '1.70'
   Walk: '0.00'
-- Rank: '43'
+- Rank: '44'
   Name: Nana
   Group: AFE
   FBID: Chris1166
@@ -428,7 +438,7 @@
   Cycle: '0.00'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '44'
+- Rank: '45'
   Name: johngn
   Group: ADSS/ADWS/ADWO
   FBID: john1234
@@ -437,16 +447,6 @@
   Run: '0.00'
   Cycle: '0.00'
   Swim: '3.25'
-  Walk: '0.00'
-- Rank: '44'
-  Name: BY
-  Group: ADSS/ADWS/ADWO
-  FBID: Charlie3579
-  Total_Mileage: '19.50'
-  Badges: '0'
-  Run: '12.32'
-  Cycle: '28.72'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '46'
   Name: Andre
