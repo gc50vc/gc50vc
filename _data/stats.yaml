@@ -1219,6 +1219,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '123'
+  Name: BY
+  Group: ADSS/ADWS/ADWO
+  FBID: Charlie3579
+  Total_Mileage: '84.90'
+  Badges: '4'
+  Run: '66.35'
+  Cycle: '74.18'
+  Swim: '0.00'
+  Walk: '5.06'
+- Rank: '124'
   Name: Camper
   Group: ADW
   FBID: tanht1968
@@ -1228,7 +1238,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '124'
+- Rank: '125'
   Name: Der Siang
   Group: ATC
   FBID: Aku1234
@@ -1238,7 +1248,7 @@
   Cycle: '95.06'
   Swim: '3.95'
   Walk: '0.00'
-- Rank: '125'
+- Rank: '126'
   Name: SARATH
   Group: ADW
   FBID: SARATH2311
@@ -1248,7 +1258,7 @@
   Cycle: '66.37'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '126'
+- Rank: '127'
   Name: Sunray
   Group: ABM
   FBID: Sunray0909
@@ -1258,7 +1268,7 @@
   Cycle: '201.00'
   Swim: '1.71'
   Walk: '0.00'
-- Rank: '127'
+- Rank: '128'
   Name: Wan Yuan
   Group: ADW
   FBID: Lost1908
@@ -1268,7 +1278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '20.24'
-- Rank: '128'
+- Rank: '129'
   Name: KevinKKW
   Group: ADSS/ADWS/ADWO
   FBID: Kkkw0165
@@ -1278,7 +1288,7 @@
   Cycle: '117.90'
   Swim: '0.00'
   Walk: '11.85'
-- Rank: '129'
+- Rank: '130'
   Name: 'Sengie '
   Group: ADW
   FBID: ARIAL0160
@@ -1288,16 +1298,6 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '21.08'
-- Rank: '130'
-  Name: BY
-  Group: ADSS/ADWS/ADWO
-  FBID: Charlie3579
-  Total_Mileage: '77.72'
-  Badges: '4'
-  Run: '66.35'
-  Cycle: '45.46'
-  Swim: '0.00'
-  Walk: '5.06'
 - Rank: '131'
   Name: Lin Weili
   Group: AOSX/AOS
@@ -2179,6 +2179,16 @@
   Swim: '0.00'
   Walk: '87.12'
 - Rank: '219'
+  Name: Winson
+  Group: ADSS/ADWS/ADWO
+  FBID: Winson1999
+  Total_Mileage: '44.45'
+  Badges: '3'
+  Run: '44.45'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '220'
   Name: Parthiban
   Group: ADSS/ADWS/ADWO
   FBID: OUTLAW2111
@@ -2188,7 +2198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '220'
+- Rank: '221'
   Name: Hayden
   Group: ADSS/ADWS/ADWO
   FBID: Hayden0165
@@ -2198,7 +2208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '221'
+- Rank: '222'
   Name: Bryan Tan GJ
   Group: ADW
   FBID: Bryan2727
@@ -2208,7 +2218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '23.28'
-- Rank: '222'
+- Rank: '223'
   Name: 'HK '
   Group: ADSS/ADWS/ADWO
   FBID: HK4812
@@ -2218,7 +2228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '223'
+- Rank: '224'
   Name: 'JOASH THANABALAN '
   Group: ADSS/ADWS/ADWO
   FBID: WorldWide1994
@@ -2228,7 +2238,7 @@
   Cycle: '8.40'
   Swim: '7.00'
   Walk: '0.00'
-- Rank: '224'
+- Rank: '225'
   Name: Jeremy Ang
   Group: AFE
   FBID: Jayyleemee1993
@@ -2238,7 +2248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '225'
+- Rank: '226'
   Name: Yuhang
   Group: AOSX/AOS
   FBID: YH1234
@@ -2248,7 +2258,7 @@
   Cycle: '155.11'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '226'
+- Rank: '227'
   Name: Tim Kan
   Group: ADW
   FBID: timkan1991
@@ -2258,7 +2268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '227'
+- Rank: '228'
   Name: Button
   Group: ATC
   FBID: Button9029
@@ -2268,7 +2278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '2.85'
-- Rank: '228'
+- Rank: '229'
   Name: Blizzard
   Group: ATC
   FBID: blizzard1979
@@ -2278,7 +2288,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '229'
+- Rank: '230'
   Name: Dubs
   Group: ADW
   FBID: Dubs0002
@@ -2288,7 +2298,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '230'
+- Rank: '231'
   Name: USwiftO
   Group: ADW
   FBID: Swift1010
@@ -2298,7 +2308,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '231'
+- Rank: '232'
   Name: Max160A
   Group: ADSS/ADWS/ADWO
   FBID: Max2310
@@ -2308,7 +2318,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '15.28'
-- Rank: '232'
+- Rank: '233'
   Name: Pat160A
   Group: ADSS/ADWS/ADWO
   FBID: Pat1991
@@ -2318,7 +2328,7 @@
   Cycle: '0.00'
   Swim: '3.68'
   Walk: '0.00'
-- Rank: '233'
+- Rank: '234'
   Name: Pock xuan
   Group: ADSS/ADWS/ADWO
   FBID: Bravoadws0000
@@ -2328,7 +2338,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.60'
-- Rank: '234'
+- Rank: '235'
   Name: Cupid
   Group: AOSX/AOS
   FBID: Cupid2711
@@ -2338,7 +2348,7 @@
   Cycle: '159.10'
   Swim: '0.00'
   Walk: '2.40'
-- Rank: '235'
+- Rank: '236'
   Name: JIN
   Group: ADSS/ADWS/ADWO
   FBID: JIN1999
@@ -2348,7 +2358,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '236'
+- Rank: '237'
   Name: Beyblade
   Group: ATC
   FBID: Beyblade9999
@@ -2358,16 +2368,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.07'
-- Rank: '237'
-  Name: Winson
-  Group: ADSS/ADWS/ADWO
-  FBID: Winson1999
-  Total_Mileage: '41.68'
-  Badges: '2'
-  Run: '41.68'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '238'
   Name: KW
   Group: ADW
