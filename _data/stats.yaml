@@ -529,6 +529,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '54'
+  Name: Steyr
+  Group: ABM
+  FBID: Steyr9693
+  Total_Mileage: '172.45'
+  Badges: '4'
+  Run: '167.88'
+  Cycle: '18.27'
+  Swim: '0.00'
+  Walk: '3.42'
+- Rank: '55'
   Name: Slong
   Group: ADW
   FBID: Slong1234
@@ -538,7 +548,7 @@
   Cycle: '0.00'
   Swim: '10.72'
   Walk: '0.00'
-- Rank: '55'
+- Rank: '56'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -548,16 +558,6 @@
   Cycle: '134.59'
   Swim: '0.00'
   Walk: '1.57'
-- Rank: '56'
-  Name: Steyr
-  Group: ABM
-  FBID: Steyr9693
-  Total_Mileage: '164.18'
-  Badges: '4'
-  Run: '159.61'
-  Cycle: '18.27'
-  Swim: '0.00'
-  Walk: '3.42'
 - Rank: '57'
   Name: Malcolm Taong
   Group: ADSS/ADWS/ADWO
@@ -2059,6 +2059,16 @@
   Swim: '0.00'
   Walk: '6.00'
 - Rank: '207'
+  Name: LC
+  Group: AFE
+  FBID: LC0809
+  Total_Mileage: '47.36'
+  Badges: '4'
+  Run: '16.50'
+  Cycle: '123.42'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '208'
   Name: SONG RUI
   Group: ADSS/ADWS/ADWO
   FBID: SR7730
@@ -2068,7 +2078,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '208'
+- Rank: '209'
   Name: Ming Feng
   Group: ADW
   FBID: Tonic1630
@@ -2078,7 +2088,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '209'
+- Rank: '210'
   Name: Wes
   Group: ADW
   FBID: Wesleyho1978
@@ -2088,7 +2098,7 @@
   Cycle: '66.14'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '210'
+- Rank: '211'
   Name: Halu
   Group: AFE
   FBID: Halu1805
@@ -2098,7 +2108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '211'
+- Rank: '212'
   Name: Shawn Lim
   Group: ADW
   FBID: bison2609
@@ -2108,7 +2118,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '212'
+- Rank: '213'
   Name: Ham
   Group: ADSS/ADWS/ADWO
   FBID: Ham1234
@@ -2118,7 +2128,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '213'
+- Rank: '214'
   Name: Xerox
   Group: ABM
   FBID: Xerox1739
@@ -2127,16 +2137,6 @@
   Run: '37.04'
   Cycle: '0.00'
   Swim: '1.50'
-  Walk: '0.00'
-- Rank: '214'
-  Name: LC
-  Group: AFE
-  FBID: LC0809
-  Total_Mileage: '45.74'
-  Badges: '4'
-  Run: '16.50'
-  Cycle: '116.97'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '215'
   Name: Eric Kwok
