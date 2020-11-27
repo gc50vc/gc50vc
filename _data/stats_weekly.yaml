@@ -289,6 +289,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '30'
+  Name: Prem
+  Group: ADW
+  FBID: Premium6687
+  Total_Mileage: '27.44'
+  Badges: '0'
+  Run: '15.14'
+  Cycle: '0.00'
+  Swim: '2.05'
+  Walk: '0.00'
+- Rank: '31'
   Name: BY
   Group: ADSS/ADWS/ADWO
   FBID: Charlie3579
@@ -298,7 +308,7 @@
   Cycle: '54.74'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '32'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -308,7 +318,7 @@
   Cycle: '55.24'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '33'
   Name: Lim Kian Hock
   Group: AFE
   FBID: Jon3445
@@ -318,7 +328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '34'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -327,16 +337,6 @@
   Run: '8.36'
   Cycle: '40.95'
   Swim: '0.85'
-  Walk: '0.00'
-- Rank: '34'
-  Name: Prem
-  Group: ADW
-  FBID: Premium6687
-  Total_Mileage: '23.27'
-  Badges: '0'
-  Run: '10.97'
-  Cycle: '0.00'
-  Swim: '2.05'
   Walk: '0.00'
 - Rank: '35'
   Name: GN
