@@ -899,6 +899,26 @@
   Swim: '0.80'
   Walk: '4.02'
 - Rank: '91'
+  Name: Fu Hao Wei
+  Group: ADW
+  FBID: fuhaowei8435
+  Total_Mileage: '114.39'
+  Badges: '4'
+  Run: '7.76'
+  Cycle: '426.50'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '92'
+  Name: Keith low
+  Group: ADSS/ADWS/ADWO
+  FBID: Keithlow1998
+  Total_Mileage: '114.21'
+  Badges: '5'
+  Run: '8.78'
+  Cycle: '421.73'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '93'
   Name: Zena
   Group: ABM
   FBID: Zena2107
@@ -908,7 +928,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '92'
+- Rank: '94'
   Name: Rats
   Group: ABM
   FBID: Rats1500
@@ -918,7 +938,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '93'
+- Rank: '95'
   Name: Geeky
   Group: ADW
   FBID: Geeky1989
@@ -928,17 +948,7 @@
   Cycle: '0.00'
   Swim: '7.60'
   Walk: '40.67'
-- Rank: '94'
-  Name: Keith low
-  Group: ADSS/ADWS/ADWO
-  FBID: Keithlow1998
-  Total_Mileage: '111.22'
-  Badges: '5'
-  Run: '8.78'
-  Cycle: '409.75'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '95'
+- Rank: '96'
   Name: Silver
   Group: ABM
   FBID: Silver5117
@@ -948,7 +958,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.10'
-- Rank: '96'
+- Rank: '97'
   Name: Warren Chua
   Group: ADSS/ADWS/ADWO
   FBID: Warren9588
@@ -958,7 +968,7 @@
   Cycle: '401.26'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '97'
+- Rank: '98'
   Name: Gabriel Low
   Group: ADSS/ADWS/ADWO
   FBID: gabrieltried1234
@@ -968,7 +978,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '98'
+- Rank: '99'
   Name: Yew Choong
   Group: ADSS/ADWS/ADWO
   FBID: GGXC0160
@@ -978,7 +988,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '19.25'
-- Rank: '99'
+- Rank: '100'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -988,7 +998,7 @@
   Cycle: '221.29'
   Swim: '5.10'
   Walk: '0.00'
-- Rank: '100'
+- Rank: '101'
   Name: Quainapz
   Group: ADSS/ADWS/ADWO
   FBID: Quainapz8585
@@ -998,7 +1008,7 @@
   Cycle: '0.00'
   Swim: '3.10'
   Walk: '2.30'
-- Rank: '101'
+- Rank: '102'
   Name: Legend
   Group: ADW
   FBID: Legend2512
@@ -1008,16 +1018,6 @@
   Cycle: '191.27'
   Swim: '0.00'
   Walk: '13.11'
-- Rank: '102'
-  Name: Fu Hao Wei
-  Group: ADW
-  FBID: fuhaowei8435
-  Total_Mileage: '103.66'
-  Badges: '4'
-  Run: '7.76'
-  Cycle: '383.59'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '103'
   Name: Gwyn
   Group: ADW
