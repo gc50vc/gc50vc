@@ -49,6 +49,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '6'
+  Name: Slimer
+  Group: ABM
+  FBID: Slimer1234
+  Total_Mileage: '67.79'
+  Badges: '1'
+  Run: '27.58'
+  Cycle: '0.00'
+  Swim: '6.70'
+  Walk: '0.00'
+- Rank: '7'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -58,7 +68,7 @@
   Cycle: '112.58'
   Swim: '1.60'
   Walk: '0.00'
-- Rank: '7'
+- Rank: '8'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -68,7 +78,7 @@
   Cycle: '140.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '8'
+- Rank: '9'
   Name: LWY
   Group: AFE
   FBID: LWY3137
@@ -77,16 +87,6 @@
   Run: '0.00'
   Cycle: '200.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '9'
-  Name: Slimer
-  Group: ABM
-  FBID: Slimer1234
-  Total_Mileage: '48.74'
-  Badges: '0'
-  Run: '18.44'
-  Cycle: '0.00'
-  Swim: '5.05'
   Walk: '0.00'
 - Rank: '10'
   Name: Nicholas Lian
