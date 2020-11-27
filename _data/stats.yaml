@@ -802,10 +802,10 @@
   Name: Sean Chua
   Group: ADSS/ADWS/ADWO
   FBID: Stop0001
-  Total_Mileage: '123.21'
+  Total_Mileage: '128.29'
   Badges: '5'
   Run: '108.56'
-  Cycle: '58.61'
+  Cycle: '78.93'
   Swim: '0.00'
   Walk: '1.04'
 - Rank: '82'
@@ -1299,6 +1299,16 @@
   Swim: '1.00'
   Walk: '21.08'
 - Rank: '131'
+  Name: Darius Ng
+  Group: ADSS/ADWS/ADWO
+  FBID: bobo1234
+  Total_Mileage: '77.85'
+  Badges: '3'
+  Run: '77.85'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '132'
   Name: Lin Weili
   Group: AOSX/AOS
   FBID: Michelin5052
@@ -1308,16 +1318,6 @@
   Cycle: '45.08'
   Swim: '0.00'
   Walk: '1.00'
-- Rank: '132'
-  Name: Darius Ng
-  Group: ADSS/ADWS/ADWO
-  FBID: bobo1234
-  Total_Mileage: '74.85'
-  Badges: '3'
-  Run: '74.85'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '133'
   Name: Starbucks
   Group: ABM
