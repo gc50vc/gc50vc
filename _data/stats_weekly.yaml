@@ -69,6 +69,16 @@
   Swim: '1.60'
   Walk: '0.00'
 - Rank: '8'
+  Name: yapoh
+  Group: ADW
+  FBID: Yapoh0304
+  Total_Mileage: '59.55'
+  Badges: '0'
+  Run: '10.00'
+  Cycle: '90.19'
+  Swim: '4.50'
+  Walk: '0.00'
+- Rank: '9'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -78,7 +88,7 @@
   Cycle: '140.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '9'
+- Rank: '10'
   Name: jheng
   Group: ADSS/ADWS/ADWO
   FBID: jheng0000
@@ -88,7 +98,7 @@
   Cycle: '46.81'
   Swim: '3.30'
   Walk: '0.00'
-- Rank: '10'
+- Rank: '11'
   Name: Nicholas Lian
   Group: ADW
   FBID: horsepower2001
@@ -98,7 +108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: LWY
   Group: AFE
   FBID: LWY3137
@@ -107,16 +117,6 @@
   Run: '0.00'
   Cycle: '200.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '12'
-  Name: yapoh
-  Group: ADW
-  FBID: Yapoh0304
-  Total_Mileage: '49.55'
-  Badges: '0'
-  Run: '0.00'
-  Cycle: '90.19'
-  Swim: '4.50'
   Walk: '0.00'
 - Rank: '13'
   Name: 'Tan Swee Kiat '
