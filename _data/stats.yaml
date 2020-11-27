@@ -332,9 +332,9 @@
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
-  Total_Mileage: '234.51'
+  Total_Mileage: '236.53'
   Badges: '4'
-  Run: '234.51'
+  Run: '236.53'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
@@ -1429,6 +1429,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '144'
+  Name: Diva
+  Group: ADW
+  FBID: Delia1234
+  Total_Mileage: '70.42'
+  Badges: '4'
+  Run: '39.37'
+  Cycle: '100.21'
+  Swim: '1.00'
+  Walk: '28.59'
+- Rank: '145'
   Name: Joey Lee Jian Wei
   Group: AFE
   FBID: Joey3811
@@ -1438,7 +1448,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '574.07'
-- Rank: '145'
+- Rank: '146'
   Name: Akileis
   Group: ADW
   FBID: Akileis0163
@@ -1448,7 +1458,7 @@
   Cycle: '0.00'
   Swim: '11.00'
   Walk: '6.29'
-- Rank: '146'
+- Rank: '147'
   Name: 'Beatbox '
   Group: ABM
   FBID: Beatbox0202
@@ -1458,7 +1468,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '7.54'
-- Rank: '147'
+- Rank: '148'
   Name: Chin Yong
   Group: ADSS/ADWS/ADWO
   FBID: Relaxing1234
@@ -1468,16 +1478,6 @@
   Cycle: '55.45'
   Swim: '0.00'
   Walk: '44.84'
-- Rank: '148'
-  Name: Diva
-  Group: ADW
-  FBID: Delia1234
-  Total_Mileage: '67.41'
-  Badges: '4'
-  Run: '36.36'
-  Cycle: '100.21'
-  Swim: '1.00'
-  Walk: '28.59'
 - Rank: '149'
   Name: Kelvin
   Group: ADSS/ADWS/ADWO
