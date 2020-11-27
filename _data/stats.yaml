@@ -309,6 +309,16 @@
   Swim: '3.10'
   Walk: '0.00'
 - Rank: '32'
+  Name: Bronson
+  Group: ADW
+  FBID: Bronze1234
+  Total_Mileage: '246.87'
+  Badges: '10'
+  Run: '55.87'
+  Cycle: '189.81'
+  Swim: '23.93'
+  Walk: '0.00'
+- Rank: '33'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -317,16 +327,6 @@
   Run: '10.36'
   Cycle: '924.30'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '33'
-  Name: Bronson
-  Group: ADW
-  FBID: Bronze1234
-  Total_Mileage: '240.87'
-  Badges: '10'
-  Run: '55.87'
-  Cycle: '189.81'
-  Swim: '22.93'
   Walk: '0.00'
 - Rank: '34'
   Name: Loke Hon Wah
@@ -739,6 +739,16 @@
   Swim: '0.00'
   Walk: '1.64'
 - Rank: '75'
+  Name: Sean Chua
+  Group: ADSS/ADWS/ADWO
+  FBID: Stop0001
+  Total_Mileage: '134.35'
+  Badges: '6'
+  Run: '108.56'
+  Cycle: '103.15'
+  Swim: '0.00'
+  Walk: '1.04'
+- Rank: '76'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -748,7 +758,7 @@
   Cycle: '320.50'
   Swim: '0.00'
   Walk: '4.00'
-- Rank: '76'
+- Rank: '77'
   Name: wyh
   Group: ADW
   FBID: ljt2059
@@ -758,7 +768,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '77'
+- Rank: '78'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -768,7 +778,7 @@
   Cycle: '129.87'
   Swim: '10.65'
   Walk: '0.00'
-- Rank: '78'
+- Rank: '79'
   Name: Weng
   Group: ADSS/ADWS/ADWO
   FBID: Weng8238
@@ -778,7 +788,7 @@
   Cycle: '308.70'
   Swim: '0.00'
   Walk: '13.86'
-- Rank: '79'
+- Rank: '80'
   Name: Nana
   Group: AFE
   FBID: Chris1166
@@ -788,7 +798,7 @@
   Cycle: '173.36'
   Swim: '7.10'
   Walk: '70.00'
-- Rank: '80'
+- Rank: '81'
   Name: Steroid
   Group: ATC
   FBID: Steroid1007
@@ -798,16 +808,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '81'
-  Name: Sean Chua
-  Group: ADSS/ADWS/ADWO
-  FBID: Stop0001
-  Total_Mileage: '128.29'
-  Badges: '5'
-  Run: '108.56'
-  Cycle: '78.93'
-  Swim: '0.00'
-  Walk: '1.04'
 - Rank: '82'
   Name: Weaver
   Group: ADW
