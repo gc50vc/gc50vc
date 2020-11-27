@@ -1259,6 +1259,16 @@
   Swim: '3.95'
   Walk: '0.00'
 - Rank: '127'
+  Name: Alloy
+  Group: ABM
+  FBID: alloy8585
+  Total_Mileage: '81.10'
+  Badges: '4'
+  Run: '60.70'
+  Cycle: '0.00'
+  Swim: '3.40'
+  Walk: '0.00'
+- Rank: '128'
   Name: Sunray
   Group: ABM
   FBID: Sunray0909
@@ -1268,7 +1278,7 @@
   Cycle: '201.00'
   Swim: '1.71'
   Walk: '0.00'
-- Rank: '128'
+- Rank: '129'
   Name: COVID
   Group: ADSS/ADWS/ADWO
   FBID: COVID9999
@@ -1278,7 +1288,7 @@
   Cycle: '101.05'
   Swim: '0.00'
   Walk: '21.50'
-- Rank: '129'
+- Rank: '130'
   Name: Wan Yuan
   Group: ADW
   FBID: Lost1908
@@ -1288,7 +1298,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '20.24'
-- Rank: '130'
+- Rank: '131'
   Name: KevinKKW
   Group: ADSS/ADWS/ADWO
   FBID: Kkkw0165
@@ -1298,7 +1308,7 @@
   Cycle: '117.90'
   Swim: '0.00'
   Walk: '11.85'
-- Rank: '131'
+- Rank: '132'
   Name: 'Sengie '
   Group: ADW
   FBID: ARIAL0160
@@ -1308,7 +1318,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '21.08'
-- Rank: '132'
+- Rank: '133'
   Name: Darius Ng
   Group: ADSS/ADWS/ADWO
   FBID: bobo1234
@@ -1317,16 +1327,6 @@
   Run: '77.85'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '133'
-  Name: Alloy
-  Group: ABM
-  FBID: alloy8585
-  Total_Mileage: '75.79'
-  Badges: '4'
-  Run: '55.39'
-  Cycle: '0.00'
-  Swim: '3.40'
   Walk: '0.00'
 - Rank: '134'
   Name: Lin Weili
