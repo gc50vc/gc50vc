@@ -209,6 +209,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '22'
+  Name: YuenG
+  Group: ADSS/ADWS/ADWO
+  FBID: YuenG1977
+  Total_Mileage: '317.13'
+  Badges: '7'
+  Run: '277.49'
+  Cycle: '66.17'
+  Swim: '3.85'
+  Walk: '0.00'
+- Rank: '23'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -218,16 +228,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.68'
-- Rank: '23'
-  Name: YuenG
-  Group: ADSS/ADWS/ADWO
-  FBID: YuenG1977
-  Total_Mileage: '307.35'
-  Badges: '7'
-  Run: '267.71'
-  Cycle: '66.17'
-  Swim: '3.85'
-  Walk: '0.00'
 - Rank: '24'
   Name: Cutthroat
   Group: ATC
@@ -589,6 +589,16 @@
   Swim: '5.10'
   Walk: '0.00'
 - Rank: '60'
+  Name: Iggy
+  Group: ADSS/ADWS/ADWO
+  FBID: Iggy7900
+  Total_Mileage: '160.66'
+  Badges: '6'
+  Run: '70.86'
+  Cycle: '359.21'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '61'
   Name: Cosmo
   Group: ABM
   FBID: Cosmo6306
@@ -598,7 +608,7 @@
   Cycle: '0.00'
   Swim: '0.50'
   Walk: '10.51'
-- Rank: '61'
+- Rank: '62'
   Name: 'Tay Wen Hao '
   Group: ADW
   FBID: Wh8295
@@ -608,7 +618,7 @@
   Cycle: '37.93'
   Swim: '0.00'
   Walk: '4.94'
-- Rank: '62'
+- Rank: '63'
   Name: LWY
   Group: AFE
   FBID: LWY3137
@@ -618,7 +628,7 @@
   Cycle: '578.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '63'
+- Rank: '64'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: Errick1991
@@ -626,16 +636,6 @@
   Badges: '4'
   Run: '153.18'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '64'
-  Name: Iggy
-  Group: ADSS/ADWS/ADWO
-  FBID: Iggy7900
-  Total_Mileage: '152.65'
-  Badges: '6'
-  Run: '62.85'
-  Cycle: '359.21'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '65'
@@ -1639,6 +1639,16 @@
   Swim: '0.00'
   Walk: '19.16'
 - Rank: '165'
+  Name: lcheeleo
+  Group: ADW
+  FBID: Lcheeleo3347
+  Total_Mileage: '59.15'
+  Badges: '3'
+  Run: '55.63'
+  Cycle: '14.08'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '166'
   Name: Clover
   Group: ABM
   FBID: Clover1234
@@ -1648,7 +1658,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '166'
+- Rank: '167'
   Name: Waffles
   Group: ATC
   FBID: Waffles3567
@@ -1658,7 +1668,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.57'
-- Rank: '167'
+- Rank: '168'
   Name: Zacchaeus
   Group: ADSS/ADWS/ADWO
   FBID: ZjSc9588
@@ -1668,7 +1678,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '168'
+- Rank: '169'
   Name: Jamie Chen
   Group: ADSS/ADWS/ADWO
   FBID: FLASH2911
@@ -1678,7 +1688,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '169'
+- Rank: '170'
   Name: Malice
   Group: ABM
   FBID: Malice2323
@@ -1688,7 +1698,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '130.33'
-- Rank: '170'
+- Rank: '171'
   Name: Pixel EQ
   Group: AOSX/AOS
   FBID: Pixel0323
@@ -1698,7 +1708,7 @@
   Cycle: '7.17'
   Swim: '0.00'
   Walk: '9.82'
-- Rank: '171'
+- Rank: '172'
   Name: Zhi Hao
   Group: ADSS/ADWS/ADWO
   FBID: ZhiHao_R0160
@@ -1708,7 +1718,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '172'
+- Rank: '173'
   Name: Jon Thia
   Group: ADW
   FBID: Penguin3812
@@ -1718,7 +1728,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '7.31'
-- Rank: '173'
+- Rank: '174'
   Name: Kelvis
   Group: ADSS/ADWS/ADWO
   FBID: Kelvis2000
@@ -1728,7 +1738,7 @@
   Cycle: '40.73'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '174'
+- Rank: '175'
   Name: Jj
   Group: ADSS/ADWS/ADWO
   FBID: TaroQ5061
@@ -1738,7 +1748,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '175'
+- Rank: '176'
   Name: JOLLY
   Group: ADW
   FBID: Jolly8178
@@ -1747,16 +1757,6 @@
   Run: '30.18'
   Cycle: '42.68'
   Swim: '2.50'
-  Walk: '0.00'
-- Rank: '176'
-  Name: lcheeleo
-  Group: ADW
-  FBID: Lcheeleo3347
-  Total_Mileage: '55.72'
-  Badges: '3'
-  Run: '52.20'
-  Cycle: '14.08'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '177'
   Name: Philip Tan
