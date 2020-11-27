@@ -142,9 +142,9 @@
   Name: Nicholas Lian
   Group: ADW
   FBID: Horsepower2001
-  Total_Mileage: '416.45'
+  Total_Mileage: '424.62'
   Badges: '7'
-  Run: '320.68'
+  Run: '328.85'
   Cycle: '30.26'
   Swim: '14.70'
   Walk: '5.89'
@@ -1189,6 +1189,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '120'
+  Name: BY
+  Group: ADSS/ADWS/ADWO
+  FBID: Charlie3579
+  Total_Mileage: '91.40'
+  Badges: '5'
+  Run: '66.35'
+  Cycle: '100.20'
+  Swim: '0.00'
+  Walk: '5.06'
+- Rank: '121'
   Name: Zinc
   Group: ADW
   FBID: zinc1997
@@ -1198,7 +1208,7 @@
   Cycle: '24.40'
   Swim: '0.00'
   Walk: '5.65'
-- Rank: '121'
+- Rank: '122'
   Name: Camper
   Group: ADW
   FBID: tanht1968
@@ -1208,7 +1218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '122'
+- Rank: '123'
   Name: Rocky
   Group: AOSX/AOS
   FBID: ZeRo7113
@@ -1218,7 +1228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '57.30'
-- Rank: '123'
+- Rank: '124'
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
@@ -1228,7 +1238,7 @@
   Cycle: '24.16'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '124'
+- Rank: '125'
   Name: Chan Howe
   Group: AOSX/AOS
   FBID: IceCube3008
@@ -1238,16 +1248,6 @@
   Cycle: '341.74'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '125'
-  Name: BY
-  Group: ADSS/ADWS/ADWO
-  FBID: Charlie3579
-  Total_Mileage: '84.90'
-  Badges: '4'
-  Run: '66.35'
-  Cycle: '74.18'
-  Swim: '0.00'
-  Walk: '5.06'
 - Rank: '126'
   Name: Der Siang
   Group: ATC
