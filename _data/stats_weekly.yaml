@@ -169,6 +169,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '18'
+  Name: Hanyong
+  Group: ADW
+  FBID: Hany2801
+  Total_Mileage: '43.13'
+  Badges: '0'
+  Run: '43.13'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '19'
   Name: Yew Choong
   Group: ADSS/ADWS/ADWO
   FBID: GGXC0160
@@ -178,7 +188,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '19'
+- Rank: '20'
   Name: Cookie
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -188,7 +198,7 @@
   Cycle: '33.97'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '21'
   Name: Tony Foo
   Group: ADW
   FBID: tonyfoo0165
@@ -198,7 +208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: Adrian
   Group: ADSS/ADWS/ADWO
   FBID: Adrian9888
@@ -208,7 +218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: Cosmo
   Group: ABM
   FBID: cosmo6306
@@ -218,7 +228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: errick1991
@@ -228,7 +238,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: Nana
   Group: AFE
   FBID: Chris1166
@@ -238,7 +248,7 @@
   Cycle: '68.21'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -248,7 +258,7 @@
   Cycle: '119.68'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: BY
   Group: ADSS/ADWS/ADWO
   FBID: Charlie3579
@@ -258,7 +268,7 @@
   Cycle: '54.74'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: Pravin
   Group: ADSS/ADWS/ADWO
   FBID: Pravin8938
@@ -268,7 +278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -278,7 +288,7 @@
   Cycle: '40.95'
   Swim: '0.85'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: Hector
   Group: ADW
   FBID: Hector0911
@@ -288,7 +298,7 @@
   Cycle: '0.00'
   Swim: '1.05'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '31'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -297,16 +307,6 @@
   Run: '5.00'
   Cycle: '102.00'
   Swim: '0.50'
-  Walk: '0.00'
-- Rank: '31'
-  Name: Hanyong
-  Group: ADW
-  FBID: Hany2801
-  Total_Mileage: '33.12'
-  Badges: '0'
-  Run: '33.12'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '32'
   Name: Benson
