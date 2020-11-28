@@ -1079,6 +1079,16 @@
   Swim: '0.00'
   Walk: '16.48'
 - Rank: '109'
+  Name: BY
+  Group: ADSS/ADWS/ADWO
+  FBID: Charlie3579
+  Total_Mileage: '100.55'
+  Badges: '5'
+  Run: '75.50'
+  Cycle: '100.20'
+  Swim: '0.00'
+  Walk: '5.06'
+- Rank: '110'
   Name: Ram
   Group: ADW
   FBID: ram7267
@@ -1088,7 +1098,7 @@
   Cycle: '0.00'
   Swim: '7.30'
   Walk: '0.00'
-- Rank: '110'
+- Rank: '111'
   Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
   FBID: LeonYeo2590
@@ -1098,7 +1108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '111'
+- Rank: '112'
   Name: Sze Tein
   Group: ATC
   FBID: Topaz1327
@@ -1108,7 +1118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '112'
+- Rank: '113'
   Name: Glenn
   Group: ADW
   FBID: Garfield3110
@@ -1118,7 +1128,7 @@
   Cycle: '17.20'
   Swim: '0.00'
   Walk: '13.84'
-- Rank: '113'
+- Rank: '114'
   Name: Lim Kian Hock
   Group: AFE
   FBID: Jon3445
@@ -1128,7 +1138,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '114'
+- Rank: '115'
   Name: Poon
   Group: ADSS/ADWS/ADWO
   FBID: Poon3636
@@ -1138,7 +1148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '115'
+- Rank: '116'
   Name: HCM
   Group: ABM
   FBID: HCM1234
@@ -1148,7 +1158,7 @@
   Cycle: '34.01'
   Swim: '0.00'
   Walk: '40.49'
-- Rank: '116'
+- Rank: '117'
   Name: Vernon Lim
   Group: AFE
   FBID: Vernon7070
@@ -1158,7 +1168,7 @@
   Cycle: '376.95'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '117'
+- Rank: '118'
   Name: 'Windy '
   Group: ABM
   FBID: Windy4444
@@ -1168,7 +1178,7 @@
   Cycle: '0.00'
   Swim: '15.70'
   Walk: '0.00'
-- Rank: '118'
+- Rank: '119'
   Name: SARATH
   Group: ADW
   FBID: SARATH2311
@@ -1178,7 +1188,7 @@
   Cycle: '66.37'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '119'
+- Rank: '120'
   Name: TRIPS
   Group: ATC
   FBID: TRIPS_0000
@@ -1188,16 +1198,6 @@
   Cycle: '161.87'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '120'
-  Name: BY
-  Group: ADSS/ADWS/ADWO
-  FBID: Charlie3579
-  Total_Mileage: '91.40'
-  Badges: '5'
-  Run: '66.35'
-  Cycle: '100.20'
-  Swim: '0.00'
-  Walk: '5.06'
 - Rank: '121'
   Name: Zinc
   Group: ADW
