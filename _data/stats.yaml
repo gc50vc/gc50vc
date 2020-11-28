@@ -679,6 +679,16 @@
   Swim: '7.10'
   Walk: '70.00'
 - Rank: '69'
+  Name: loanshark
+  Group: ATC
+  FBID: loanshark9356
+  Total_Mileage: '145.87'
+  Badges: '4'
+  Run: '145.87'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '1.64'
+- Rank: '70'
   Name: RainmanCYK
   Group: ADW
   FBID: Rainman0000
@@ -688,7 +698,7 @@
   Cycle: '0.00'
   Swim: '19.50'
   Walk: '0.00'
-- Rank: '70'
+- Rank: '71'
   Name: Steroid
   Group: ATC
   FBID: Steroid1007
@@ -698,7 +708,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '71'
+- Rank: '72'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -708,7 +718,7 @@
   Cycle: '101.02'
   Swim: '3.50'
   Walk: '1.63'
-- Rank: '72'
+- Rank: '73'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
   FBID: Ahbye1234
@@ -718,7 +728,7 @@
   Cycle: '200.00'
   Swim: '5.50'
   Walk: '6.00'
-- Rank: '73'
+- Rank: '74'
   Name: Bgtan
   Group: ADSS/ADWS/ADWO
   FBID: Kenny9889
@@ -728,7 +738,7 @@
   Cycle: '570.77'
   Swim: '0.00'
   Walk: '11.44'
-- Rank: '74'
+- Rank: '75'
   Name: You Rong
   Group: ADW
   FBID: Audi1987
@@ -738,7 +748,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '75'
+- Rank: '76'
   Name: Sen Kiat
   Group: ATC
   FBID: HSK7777
@@ -748,16 +758,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '76'
-  Name: loanshark
-  Group: ATC
-  FBID: loanshark9356
-  Total_Mileage: '135.86'
-  Badges: '4'
-  Run: '135.86'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '1.64'
 - Rank: '77'
   Name: Sean Chua
   Group: ADSS/ADWS/ADWO
