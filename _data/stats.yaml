@@ -559,6 +559,16 @@
   Swim: '10.72'
   Walk: '0.00'
 - Rank: '57'
+  Name: Lia
+  Group: ADSS/ADWS/ADWO
+  FBID: Lia1116
+  Total_Mileage: '167.32'
+  Badges: '8'
+  Run: '99.41'
+  Cycle: '149.22'
+  Swim: '5.10'
+  Walk: '0.00'
+- Rank: '58'
   Name: Malcolm Taong
   Group: ADSS/ADWS/ADWO
   FBID: TAONG8070
@@ -568,7 +578,7 @@
   Cycle: '497.27'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '58'
+- Rank: '59'
   Name: Btee
   Group: AFE
   FBID: Brian0307
@@ -577,16 +587,6 @@
   Run: '162.90'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '59'
-  Name: Lia
-  Group: ADSS/ADWS/ADWO
-  FBID: Lia1116
-  Total_Mileage: '162.02'
-  Badges: '8'
-  Run: '99.41'
-  Cycle: '128.02'
-  Swim: '5.10'
   Walk: '0.00'
 - Rank: '60'
   Name: Iggy
@@ -709,6 +709,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '72'
+  Name: Viking
+  Group: ADW
+  FBID: Viking1987
+  Total_Mileage: '143.78'
+  Badges: '6'
+  Run: '53.35'
+  Cycle: '361.72'
+  Swim: '0.00'
+  Walk: '4.00'
+- Rank: '73'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -718,7 +728,7 @@
   Cycle: '101.02'
   Swim: '3.50'
   Walk: '1.63'
-- Rank: '73'
+- Rank: '74'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
   FBID: Ahbye1234
@@ -728,7 +738,7 @@
   Cycle: '200.00'
   Swim: '5.50'
   Walk: '6.00'
-- Rank: '74'
+- Rank: '75'
   Name: Bgtan
   Group: ADSS/ADWS/ADWO
   FBID: Kenny9889
@@ -738,7 +748,7 @@
   Cycle: '570.77'
   Swim: '0.00'
   Walk: '11.44'
-- Rank: '75'
+- Rank: '76'
   Name: You Rong
   Group: ADW
   FBID: Audi1987
@@ -748,7 +758,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '76'
+- Rank: '77'
   Name: Sen Kiat
   Group: ATC
   FBID: HSK7777
@@ -758,7 +768,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '77'
+- Rank: '78'
   Name: Sean Chua
   Group: ADSS/ADWS/ADWO
   FBID: Stop0001
@@ -768,16 +778,6 @@
   Cycle: '103.15'
   Swim: '0.00'
   Walk: '1.04'
-- Rank: '78'
-  Name: Viking
-  Group: ADW
-  FBID: Viking1987
-  Total_Mileage: '133.48'
-  Badges: '6'
-  Run: '53.35'
-  Cycle: '320.50'
-  Swim: '0.00'
-  Walk: '4.00'
 - Rank: '79'
   Name: wyh
   Group: ADW
