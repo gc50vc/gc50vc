@@ -389,6 +389,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '40'
+  Name: Marcus
+  Group: ADSS/ADWS/ADWO
+  FBID: Mtwk1998
+  Total_Mileage: '219.60'
+  Badges: '11'
+  Run: '75.00'
+  Cycle: '218.38'
+  Swim: '15.00'
+  Walk: '11.07'
+- Rank: '41'
   Name: Benson
   Group: ADW
   FBID: benoi1234
@@ -398,16 +408,6 @@
   Cycle: '95.28'
   Swim: '0.95'
   Walk: '1.80'
-- Rank: '41'
-  Name: Marcus
-  Group: ADSS/ADWS/ADWO
-  FBID: Mtwk1998
-  Total_Mileage: '207.60'
-  Badges: '9'
-  Run: '75.00'
-  Cycle: '170.38'
-  Swim: '15.00'
-  Walk: '11.07'
 - Rank: '42'
   Name: Hanyong
   Group: ADW
