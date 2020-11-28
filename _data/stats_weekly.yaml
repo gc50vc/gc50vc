@@ -39,6 +39,16 @@
   Swim: '6.10'
   Walk: '0.00'
 - Rank: '5'
+  Name: Slimer
+  Group: ABM
+  FBID: Slimer1234
+  Total_Mileage: '92.73'
+  Badges: '1'
+  Run: '37.22'
+  Cycle: '0.00'
+  Swim: '9.25'
+  Walk: '0.60'
+- Rank: '6'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -48,16 +58,6 @@
   Cycle: '197.54'
   Swim: '1.60'
   Walk: '0.00'
-- Rank: '6'
-  Name: Slimer
-  Group: ABM
-  FBID: Slimer1234
-  Total_Mileage: '77.43'
-  Badges: '1'
-  Run: '37.22'
-  Cycle: '0.00'
-  Swim: '6.70'
-  Walk: '0.60'
 - Rank: '7'
   Name: aH-MuNs-Ge
   Group: AFE
