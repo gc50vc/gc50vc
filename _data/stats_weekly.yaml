@@ -259,6 +259,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '27'
+  Name: HC
+  Group: ADSS/ADWS/ADWO
+  FBID: hc1234
+  Total_Mileage: '33.89'
+  Badges: '1'
+  Run: '18.55'
+  Cycle: '40.95'
+  Swim: '0.85'
+  Walk: '0.00'
+- Rank: '28'
   Name: Hector
   Group: ADW
   FBID: Hector0911
@@ -268,7 +278,7 @@
   Cycle: '0.00'
   Swim: '1.05'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -278,7 +288,7 @@
   Cycle: '102.00'
   Swim: '0.50'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -288,7 +298,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '31'
   Name: Benson
   Group: ADW
   FBID: Benoi1234
@@ -298,7 +308,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '32'
   Name: Prem
   Group: ADW
   FBID: Premium6687
@@ -308,7 +318,7 @@
   Cycle: '0.00'
   Swim: '2.05'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '33'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -318,7 +328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '34'
   Name: Vapor
   Group: ADW
   FBID: Vapor6148
@@ -328,7 +338,7 @@
   Cycle: '18.66'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '34'
+- Rank: '35'
   Name: Cookie
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -338,7 +348,7 @@
   Cycle: '33.97'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: Ming Feng
   Group: ADW
   FBID: Tonic1630
@@ -348,7 +358,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '36'
+- Rank: '37'
   Name: Iggy
   Group: ADSS/ADWS/ADWO
   FBID: Iggy7900
@@ -358,7 +368,7 @@
   Cycle: '72.64'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '37'
+- Rank: '38'
   Name: Irwin Chua
   Group: AOSX/AOS
   FBID: irwin2482
@@ -368,7 +378,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '38'
+- Rank: '39'
   Name: Ah Bing
   Group: ADW
   FBID: Bingo0507
@@ -378,7 +388,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '39'
+- Rank: '40'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -388,7 +398,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '40'
+- Rank: '41'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -398,7 +408,7 @@
   Cycle: '55.24'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '41'
+- Rank: '42'
   Name: Lim Kian Hock
   Group: AFE
   FBID: Jon3445
@@ -407,16 +417,6 @@
   Run: '24.13'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '42'
-  Name: HC
-  Group: ADSS/ADWS/ADWO
-  FBID: hc1234
-  Total_Mileage: '23.70'
-  Badges: '0'
-  Run: '8.36'
-  Cycle: '40.95'
-  Swim: '0.85'
   Walk: '0.00'
 - Rank: '43'
   Name: AngmoATB
