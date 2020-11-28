@@ -359,6 +359,16 @@
   Swim: '6.90'
   Walk: '14.39'
 - Rank: '37'
+  Name: Ah Bing
+  Group: ADW
+  FBID: Bingo0507
+  Total_Mileage: '225.97'
+  Badges: '9'
+  Run: '151.09'
+  Cycle: '222.73'
+  Swim: '3.20'
+  Walk: '0.00'
+- Rank: '38'
   Name: Vapor
   Group: ADW
   FBID: Vapor6148
@@ -367,16 +377,6 @@
   Run: '211.88'
   Cycle: '36.75'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '38'
-  Name: Ah Bing
-  Group: ADW
-  FBID: Bingo0507
-  Total_Mileage: '215.56'
-  Badges: '9'
-  Run: '140.68'
-  Cycle: '222.73'
-  Swim: '3.20'
   Walk: '0.00'
 - Rank: '39'
   Name: Benson
