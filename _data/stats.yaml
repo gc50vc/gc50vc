@@ -2349,6 +2349,16 @@
   Swim: '7.00'
   Walk: '0.00'
 - Rank: '236'
+  Name: bsim
+  Group: ADSS/ADWS/ADWO
+  FBID: bsim8420
+  Total_Mileage: '44.06'
+  Badges: '2'
+  Run: '33.96'
+  Cycle: '32.00'
+  Swim: '0.35'
+  Walk: '2.87'
+- Rank: '237'
   Name: Volley
   Group: ADW
   FBID: Volley1543
@@ -2358,7 +2368,7 @@
   Cycle: '19.16'
   Swim: '2.35'
   Walk: '13.54'
-- Rank: '237'
+- Rank: '238'
   Name: cheehao
   Group: ADSS/ADWS/ADWO
   FBID: 165sloth1999
@@ -2368,7 +2378,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '5.99'
-- Rank: '238'
+- Rank: '239'
   Name: Jeremy Ang
   Group: AFE
   FBID: Jayyleemee1993
@@ -2378,7 +2388,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '239'
+- Rank: '240'
   Name: Yuhang
   Group: AOSX/AOS
   FBID: YH1234
@@ -2388,7 +2398,7 @@
   Cycle: '155.11'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '240'
+- Rank: '241'
   Name: Tim Kan
   Group: ADW
   FBID: timkan1991
@@ -2398,7 +2408,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '241'
+- Rank: '242'
   Name: Button
   Group: ATC
   FBID: Button9029
@@ -2408,7 +2418,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '2.85'
-- Rank: '242'
+- Rank: '243'
   Name: Siew Boon Choy
   Group: AFE
   FBID: SBC8888
@@ -2418,7 +2428,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '4.05'
-- Rank: '243'
+- Rank: '244'
   Name: Blizzard
   Group: ATC
   FBID: blizzard1979
@@ -2428,7 +2438,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '244'
+- Rank: '245'
   Name: Dubs
   Group: ADW
   FBID: Dubs0002
@@ -2438,7 +2448,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '245'
+- Rank: '246'
   Name: USwiftO
   Group: ADW
   FBID: Swift1010
@@ -2448,7 +2458,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '246'
+- Rank: '247'
   Name: Pat160A
   Group: ADSS/ADWS/ADWO
   FBID: Pat1991
@@ -2458,7 +2468,7 @@
   Cycle: '0.00'
   Swim: '3.68'
   Walk: '0.00'
-- Rank: '247'
+- Rank: '248'
   Name: Pock xuan
   Group: ADSS/ADWS/ADWO
   FBID: Bravoadws0000
@@ -2468,7 +2478,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.60'
-- Rank: '248'
+- Rank: '249'
   Name: Cupid
   Group: AOSX/AOS
   FBID: Cupid2711
@@ -2478,7 +2488,7 @@
   Cycle: '159.10'
   Swim: '0.00'
   Walk: '2.40'
-- Rank: '249'
+- Rank: '250'
   Name: JIN
   Group: ADSS/ADWS/ADWO
   FBID: JIN1999
@@ -2488,7 +2498,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '250'
+- Rank: '251'
   Name: JOVAN
   Group: ADW
   FBID: NIGHTOWL1303
@@ -2498,7 +2508,7 @@
   Cycle: '43.65'
   Swim: '0.00'
   Walk: '26.05'
-- Rank: '251'
+- Rank: '252'
   Name: Leeg
   Group: ADW
   FBID: Leeg9475
@@ -2508,16 +2518,6 @@
   Cycle: '79.90'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '252'
-  Name: bsim
-  Group: ADSS/ADWS/ADWO
-  FBID: bsim8420
-  Total_Mileage: '41.90'
-  Badges: '2'
-  Run: '31.80'
-  Cycle: '32.00'
-  Swim: '0.35'
-  Walk: '2.87'
 - Rank: '253'
   Name: Wu Hao
   Group: AOSX/AOS
