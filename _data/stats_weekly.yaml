@@ -99,6 +99,16 @@
   Swim: '4.50'
   Walk: '0.00'
 - Rank: '11'
+  Name: jheng
+  Group: ADSS/ADWS/ADWO
+  FBID: jheng0000
+  Total_Mileage: '58.23'
+  Badges: '2'
+  Run: '21.02'
+  Cycle: '69.62'
+  Swim: '3.30'
+  Walk: '0.00'
+- Rank: '12'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -108,7 +118,7 @@
   Cycle: '140.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -117,16 +127,6 @@
   Run: '11.01'
   Cycle: '0.00'
   Swim: '7.35'
-  Walk: '0.00'
-- Rank: '13'
-  Name: jheng
-  Group: ADSS/ADWS/ADWO
-  FBID: jheng0000
-  Total_Mileage: '52.52'
-  Badges: '0'
-  Run: '21.02'
-  Cycle: '46.81'
-  Swim: '3.30'
   Walk: '0.00'
 - Rank: '14'
   Name: Nicholas Lian
