@@ -629,6 +629,16 @@
   Swim: '0.00'
   Walk: '4.94'
 - Rank: '64'
+  Name: Viking
+  Group: ADW
+  FBID: Viking1987
+  Total_Mileage: '156.08'
+  Badges: '6'
+  Run: '65.65'
+  Cycle: '361.72'
+  Swim: '0.00'
+  Walk: '4.00'
+- Rank: '65'
   Name: LWY
   Group: AFE
   FBID: LWY3137
@@ -638,7 +648,7 @@
   Cycle: '578.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '65'
+- Rank: '66'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: Errick1991
@@ -648,7 +658,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '66'
+- Rank: '67'
   Name: PCK
   Group: ADW
   FBID: PCK2205
@@ -658,7 +668,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '67'
+- Rank: '68'
   Name: Yun Jie (Rhythm)
   Group: ADW
   FBID: Jabez8686
@@ -668,7 +678,7 @@
   Cycle: '0.00'
   Swim: '18.11'
   Walk: '4.80'
-- Rank: '68'
+- Rank: '69'
   Name: Nana
   Group: AFE
   FBID: Chris1166
@@ -678,7 +688,7 @@
   Cycle: '241.57'
   Swim: '7.10'
   Walk: '70.00'
-- Rank: '69'
+- Rank: '70'
   Name: loanshark
   Group: ATC
   FBID: loanshark9356
@@ -688,7 +698,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.64'
-- Rank: '70'
+- Rank: '71'
   Name: RainmanCYK
   Group: ADW
   FBID: Rainman0000
@@ -698,7 +708,7 @@
   Cycle: '0.00'
   Swim: '19.50'
   Walk: '0.00'
-- Rank: '71'
+- Rank: '72'
   Name: Steroid
   Group: ATC
   FBID: Steroid1007
@@ -708,16 +718,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '72'
-  Name: Viking
-  Group: ADW
-  FBID: Viking1987
-  Total_Mileage: '143.78'
-  Badges: '6'
-  Run: '53.35'
-  Cycle: '361.72'
-  Swim: '0.00'
-  Walk: '4.00'
 - Rank: '73'
   Name: Ying Tat
   Group: ADW
