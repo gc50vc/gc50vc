@@ -169,6 +169,16 @@
   Swim: '2.58'
   Walk: '1.00'
 - Rank: '18'
+  Name: HC
+  Group: ADSS/ADWS/ADWO
+  FBID: hc1234
+  Total_Mileage: '346.40'
+  Badges: '6'
+  Run: '43.38'
+  Cycle: '1191.69'
+  Swim: '0.85'
+  Walk: '2.19'
+- Rank: '19'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -178,7 +188,7 @@
   Cycle: '159.02'
   Swim: '35.87'
   Walk: '109.94'
-- Rank: '19'
+- Rank: '20'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -188,16 +198,6 @@
   Cycle: '670.00'
   Swim: '5.46'
   Walk: '0.00'
-- Rank: '20'
-  Name: HC
-  Group: ADSS/ADWS/ADWO
-  FBID: hc1234
-  Total_Mileage: '336.21'
-  Badges: '5'
-  Run: '33.19'
-  Cycle: '1191.69'
-  Swim: '0.85'
-  Walk: '2.19'
 - Rank: '21'
   Name: Tony Foo
   Group: ADW
