@@ -999,6 +999,16 @@
   Swim: '5.10'
   Walk: '0.00'
 - Rank: '101'
+  Name: Irwin Chua
+  Group: AOSX/AOS
+  FBID: irwin2482
+  Total_Mileage: '107.00'
+  Badges: '4'
+  Run: '95.00'
+  Cycle: '0.00'
+  Swim: '2.00'
+  Walk: '0.00'
+- Rank: '102'
   Name: Quainapz
   Group: ADSS/ADWS/ADWO
   FBID: Quainapz8585
@@ -1008,7 +1018,7 @@
   Cycle: '0.00'
   Swim: '3.10'
   Walk: '2.30'
-- Rank: '102'
+- Rank: '103'
   Name: Legend
   Group: ADW
   FBID: Legend2512
@@ -1018,7 +1028,7 @@
   Cycle: '191.27'
   Swim: '0.00'
   Walk: '13.11'
-- Rank: '103'
+- Rank: '104'
   Name: Gwyn
   Group: ADW
   FBID: Magma1201
@@ -1028,7 +1038,7 @@
   Cycle: '46.60'
   Swim: '0.00'
   Walk: '8.93'
-- Rank: '104'
+- Rank: '105'
   Name: ARROW
   Group: ADW
   FBID: Tee1980
@@ -1038,7 +1048,7 @@
   Cycle: '92.57'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '105'
+- Rank: '106'
   Name: Rubiks
   Group: ABM
   FBID: Rubiks1234
@@ -1048,7 +1058,7 @@
   Cycle: '41.78'
   Swim: '4.10'
   Walk: '0.00'
-- Rank: '106'
+- Rank: '107'
   Name: Jenny
   Group: AFE
   FBID: Jenny7373
@@ -1058,16 +1068,6 @@
   Cycle: '11.67'
   Swim: '0.00'
   Walk: '83.11'
-- Rank: '107'
-  Name: Irwin Chua
-  Group: AOSX/AOS
-  FBID: irwin2482
-  Total_Mileage: '102.00'
-  Badges: '4'
-  Run: '90.00'
-  Cycle: '0.00'
-  Swim: '2.00'
-  Walk: '0.00'
 - Rank: '108'
   Name: Maj Lim
   Group: ABM
