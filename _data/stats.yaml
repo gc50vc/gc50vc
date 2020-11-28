@@ -679,6 +679,16 @@
   Swim: '19.50'
   Walk: '0.00'
 - Rank: '69'
+  Name: Steroid
+  Group: ATC
+  FBID: Steroid1007
+  Total_Mileage: '144.02'
+  Badges: '4'
+  Run: '144.02'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '70'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -688,7 +698,7 @@
   Cycle: '101.02'
   Swim: '3.50'
   Walk: '1.63'
-- Rank: '70'
+- Rank: '71'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
   FBID: Ahbye1234
@@ -698,7 +708,7 @@
   Cycle: '200.00'
   Swim: '5.50'
   Walk: '6.00'
-- Rank: '71'
+- Rank: '72'
   Name: Bgtan
   Group: ADSS/ADWS/ADWO
   FBID: Kenny9889
@@ -708,7 +718,7 @@
   Cycle: '570.77'
   Swim: '0.00'
   Walk: '11.44'
-- Rank: '72'
+- Rank: '73'
   Name: You Rong
   Group: ADW
   FBID: Audi1987
@@ -718,7 +728,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '73'
+- Rank: '74'
   Name: PCK
   Group: ADW
   FBID: PCK2205
@@ -728,7 +738,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '74'
+- Rank: '75'
   Name: Sen Kiat
   Group: ATC
   FBID: HSK7777
@@ -738,7 +748,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '75'
+- Rank: '76'
   Name: loanshark
   Group: ATC
   FBID: loanshark9356
@@ -748,7 +758,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.64'
-- Rank: '76'
+- Rank: '77'
   Name: Sean Chua
   Group: ADSS/ADWS/ADWO
   FBID: Stop0001
@@ -758,7 +768,7 @@
   Cycle: '103.15'
   Swim: '0.00'
   Walk: '1.04'
-- Rank: '77'
+- Rank: '78'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -768,7 +778,7 @@
   Cycle: '320.50'
   Swim: '0.00'
   Walk: '4.00'
-- Rank: '78'
+- Rank: '79'
   Name: wyh
   Group: ADW
   FBID: ljt2059
@@ -778,7 +788,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '79'
+- Rank: '80'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -788,7 +798,7 @@
   Cycle: '129.87'
   Swim: '10.65'
   Walk: '0.00'
-- Rank: '80'
+- Rank: '81'
   Name: Jeremy Tan
   Group: ATC
   FBID: Scavenge1601
@@ -798,7 +808,7 @@
   Cycle: '0.00'
   Swim: '0.80'
   Walk: '4.02'
-- Rank: '81'
+- Rank: '82'
   Name: Weng
   Group: ADSS/ADWS/ADWO
   FBID: Weng8238
@@ -808,16 +818,6 @@
   Cycle: '308.70'
   Swim: '0.00'
   Walk: '13.86'
-- Rank: '82'
-  Name: Steroid
-  Group: ATC
-  FBID: Steroid1007
-  Total_Mileage: '128.65'
-  Badges: '4'
-  Run: '128.65'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '83'
   Name: Weaver
   Group: ADW
