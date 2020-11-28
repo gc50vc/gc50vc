@@ -1409,6 +1409,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '142'
+  Name: spirit
+  Group: ATC
+  FBID: spirit5555
+  Total_Mileage: '72.47'
+  Badges: '3'
+  Run: '72.47'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '3.37'
+- Rank: '143'
   Name: Jiajun
   Group: ADSS/ADWS/ADWO
   FBID: Jj2304
@@ -1418,7 +1428,7 @@
   Cycle: '0.00'
   Swim: '10.00'
   Walk: '11.06'
-- Rank: '143'
+- Rank: '144'
   Name: Manu
   Group: ABM
   FBID: Manu7894
@@ -1428,7 +1438,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '144'
+- Rank: '145'
   Name: Yeow Teck
   Group: AOSX/AOS
   FBID: Youtube6116
@@ -1438,7 +1448,7 @@
   Cycle: '0.00'
   Swim: '2.20'
   Walk: '0.00'
-- Rank: '145'
+- Rank: '146'
   Name: Diva
   Group: ADW
   FBID: Delia1234
@@ -1448,7 +1458,7 @@
   Cycle: '100.21'
   Swim: '1.00'
   Walk: '28.59'
-- Rank: '146'
+- Rank: '147'
   Name: Joey Lee Jian Wei
   Group: AFE
   FBID: Joey3811
@@ -1458,7 +1468,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '596.67'
-- Rank: '147'
+- Rank: '148'
   Name: Akileis
   Group: ADW
   FBID: Akileis0163
@@ -1468,7 +1478,7 @@
   Cycle: '0.00'
   Swim: '11.00'
   Walk: '6.29'
-- Rank: '148'
+- Rank: '149'
   Name: 'Beatbox '
   Group: ABM
   FBID: Beatbox0202
@@ -1478,7 +1488,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '7.54'
-- Rank: '149'
+- Rank: '150'
   Name: Chin Yong
   Group: ADSS/ADWS/ADWO
   FBID: Relaxing1234
@@ -1488,7 +1498,7 @@
   Cycle: '55.45'
   Swim: '0.00'
   Walk: '44.84'
-- Rank: '150'
+- Rank: '151'
   Name: Kelvin
   Group: ADSS/ADWS/ADWO
   FBID: Kelvin1111
@@ -1498,16 +1508,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '151'
-  Name: spirit
-  Group: ATC
-  FBID: spirit5555
-  Total_Mileage: '67.14'
-  Badges: '3'
-  Run: '67.14'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '3.37'
 - Rank: '152'
   Name: Eddie Chua
   Group: AFE
