@@ -769,6 +769,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '78'
+  Name: Weng
+  Group: ADSS/ADWS/ADWO
+  FBID: Weng8238
+  Total_Mileage: '136.30'
+  Badges: '6'
+  Run: '51.91'
+  Cycle: '337.57'
+  Swim: '0.00'
+  Walk: '13.86'
+- Rank: '79'
   Name: Sean Chua
   Group: ADSS/ADWS/ADWO
   FBID: Stop0001
@@ -778,7 +788,7 @@
   Cycle: '103.15'
   Swim: '0.00'
   Walk: '1.04'
-- Rank: '79'
+- Rank: '80'
   Name: wyh
   Group: ADW
   FBID: ljt2059
@@ -788,7 +798,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '80'
+- Rank: '81'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -798,7 +808,7 @@
   Cycle: '129.87'
   Swim: '10.65'
   Walk: '0.00'
-- Rank: '81'
+- Rank: '82'
   Name: Jeremy Tan
   Group: ATC
   FBID: Scavenge1601
@@ -808,7 +818,7 @@
   Cycle: '0.00'
   Swim: '0.80'
   Walk: '4.02'
-- Rank: '82'
+- Rank: '83'
   Name: QUENCHER
   Group: ABM
   FBID: quencher2020
@@ -818,16 +828,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '83'
-  Name: Weng
-  Group: ADSS/ADWS/ADWO
-  FBID: Weng8238
-  Total_Mileage: '129.09'
-  Badges: '6'
-  Run: '51.91'
-  Cycle: '308.70'
-  Swim: '0.00'
-  Walk: '13.86'
 - Rank: '84'
   Name: Weaver
   Group: ADW
