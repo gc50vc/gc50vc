@@ -1569,6 +1569,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '158'
+  Name: Kelvis
+  Group: ADSS/ADWS/ADWO
+  FBID: Kelvis2000
+  Total_Mileage: '65.46'
+  Badges: '4'
+  Run: '46.23'
+  Cycle: '76.90'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '159'
   Name: batu
   Group: ABM
   FBID: batu1984
@@ -1578,7 +1588,7 @@
   Cycle: '46.36'
   Swim: '0.00'
   Walk: '2.50'
-- Rank: '159'
+- Rank: '160'
   Name: 'Crystal '
   Group: ABM
   FBID: Crystal1101
@@ -1588,7 +1598,7 @@
   Cycle: '9.48'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '160'
+- Rank: '161'
   Name: Barter
   Group: ATC
   FBID: Reload0203
@@ -1598,7 +1608,7 @@
   Cycle: '203.00'
   Swim: '1.50'
   Walk: '13.50'
-- Rank: '161'
+- Rank: '162'
   Name: Shawn Chia
   Group: ADW
   FBID: SCWE9595
@@ -1608,7 +1618,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '162'
+- Rank: '163'
   Name: Saturn
   Group: ADW
   FBID: Saturn1501
@@ -1618,7 +1628,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '163'
+- Rank: '164'
   Name: lcheeleo
   Group: ADW
   FBID: Lcheeleo3347
@@ -1628,7 +1638,7 @@
   Cycle: '30.17'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '164'
+- Rank: '165'
   Name: POR KB
   Group: AFE
   FBID: AP0316
@@ -1638,7 +1648,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '165'
+- Rank: '166'
   Name: Penguin
   Group: ABM
   FBID: Penguin1234
@@ -1648,7 +1658,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '166'
+- Rank: '167'
   Name: Chee Yong
   Group: ABM
   FBID: TCY1234
@@ -1658,7 +1668,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '167'
+- Rank: '168'
   Name: Matrix
   Group: ABM
   FBID: Matrix3280
@@ -1668,7 +1678,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '4.68'
-- Rank: '168'
+- Rank: '169'
   Name: Junan
   Group: ADW
   FBID: Junan1111
@@ -1678,7 +1688,7 @@
   Cycle: '73.43'
   Swim: '0.00'
   Walk: '19.16'
-- Rank: '169'
+- Rank: '170'
   Name: Jon Thia
   Group: ADW
   FBID: Penguin3812
@@ -1688,7 +1698,7 @@
   Cycle: '10.00'
   Swim: '0.00'
   Walk: '7.31'
-- Rank: '170'
+- Rank: '171'
   Name: Clover
   Group: ABM
   FBID: Clover1234
@@ -1698,7 +1708,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '171'
+- Rank: '172'
   Name: Waffles
   Group: ATC
   FBID: Waffles3567
@@ -1708,7 +1718,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.57'
-- Rank: '172'
+- Rank: '173'
   Name: Zacchaeus
   Group: ADSS/ADWS/ADWO
   FBID: ZjSc9588
@@ -1718,7 +1728,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '173'
+- Rank: '174'
   Name: Jamie Chen
   Group: ADSS/ADWS/ADWO
   FBID: FLASH2911
@@ -1728,7 +1738,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '174'
+- Rank: '175'
   Name: Malice
   Group: ABM
   FBID: Malice2323
@@ -1738,7 +1748,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '130.33'
-- Rank: '175'
+- Rank: '176'
   Name: Pixel EQ
   Group: AOSX/AOS
   FBID: Pixel0323
@@ -1748,7 +1758,7 @@
   Cycle: '7.17'
   Swim: '0.00'
   Walk: '9.82'
-- Rank: '176'
+- Rank: '177'
   Name: Zhi Hao
   Group: ADSS/ADWS/ADWO
   FBID: ZhiHao_R0160
@@ -1756,16 +1766,6 @@
   Badges: '3'
   Run: '56.70'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '177'
-  Name: Kelvis
-  Group: ADSS/ADWS/ADWO
-  FBID: Kelvis2000
-  Total_Mileage: '56.41'
-  Badges: '3'
-  Run: '46.23'
-  Cycle: '40.73'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '178'
