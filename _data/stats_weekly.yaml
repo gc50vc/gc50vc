@@ -89,6 +89,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '10'
+  Name: Nicholas Lian
+  Group: ADW
+  FBID: horsepower2001
+  Total_Mileage: '63.70'
+  Badges: '0'
+  Run: '63.70'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '11'
   Name: yapoh
   Group: ADW
   FBID: Yapoh0304
@@ -98,7 +108,7 @@
   Cycle: '90.19'
   Swim: '4.50'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: jheng
   Group: ADSS/ADWS/ADWO
   FBID: jheng0000
@@ -108,7 +118,7 @@
   Cycle: '69.62'
   Swim: '3.30'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -118,7 +128,7 @@
   Cycle: '140.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -127,16 +137,6 @@
   Run: '11.01'
   Cycle: '0.00'
   Swim: '7.35'
-  Walk: '0.00'
-- Rank: '14'
-  Name: Nicholas Lian
-  Group: ADW
-  FBID: horsepower2001
-  Total_Mileage: '51.42'
-  Badges: '0'
-  Run: '51.42'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '15'
   Name: LWY
