@@ -259,6 +259,16 @@
   Swim: '19.94'
   Walk: '7.97'
 - Rank: '27'
+  Name: jheng
+  Group: ADSS/ADWS/ADWO
+  FBID: jheng0000
+  Total_Mileage: '265.84'
+  Badges: '11'
+  Run: '73.22'
+  Cycle: '202.41'
+  Swim: '23.67'
+  Walk: '0.00'
+- Rank: '28'
   Name: Coral
   Group: ABM
   FBID: Coral5050
@@ -268,16 +278,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '9.48'
-- Rank: '28'
-  Name: jheng
-  Group: ADSS/ADWS/ADWO
-  FBID: jheng0000
-  Total_Mileage: '260.14'
-  Badges: '9'
-  Run: '73.22'
-  Cycle: '179.60'
-  Swim: '23.67'
-  Walk: '0.00'
 - Rank: '29'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
@@ -299,6 +299,16 @@
   Swim: '6.90'
   Walk: '14.39'
 - Rank: '31'
+  Name: Bronson
+  Group: ADW
+  FBID: Bronze1234
+  Total_Mileage: '252.25'
+  Badges: '10'
+  Run: '61.25'
+  Cycle: '189.81'
+  Swim: '23.93'
+  Walk: '0.00'
+- Rank: '32'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -308,7 +318,7 @@
   Cycle: '575.28'
   Swim: '9.15'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '33'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -317,16 +327,6 @@
   Run: '55.00'
   Cycle: '703.50'
   Swim: '3.10'
-  Walk: '0.00'
-- Rank: '33'
-  Name: Bronson
-  Group: ADW
-  FBID: Bronze1234
-  Total_Mileage: '246.87'
-  Badges: '10'
-  Run: '55.87'
-  Cycle: '189.81'
-  Swim: '23.93'
   Walk: '0.00'
 - Rank: '34'
   Name: David Xu
@@ -1299,6 +1299,16 @@
   Swim: '0.00'
   Walk: '20.24'
 - Rank: '131'
+  Name: Owyong
+  Group: ATC
+  FBID: Owyong251088
+  Total_Mileage: '78.58'
+  Badges: '3'
+  Run: '78.58'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '132'
   Name: KevinKKW
   Group: ADSS/ADWS/ADWO
   FBID: Kkkw0165
@@ -1308,7 +1318,7 @@
   Cycle: '117.90'
   Swim: '0.00'
   Walk: '11.85'
-- Rank: '132'
+- Rank: '133'
   Name: 'Sengie '
   Group: ADW
   FBID: ARIAL0160
@@ -1318,7 +1328,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '21.08'
-- Rank: '133'
+- Rank: '134'
   Name: Darius Ng
   Group: ADSS/ADWS/ADWO
   FBID: bobo1234
@@ -1328,7 +1338,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '134'
+- Rank: '135'
   Name: Lin Weili
   Group: AOSX/AOS
   FBID: Michelin5052
@@ -1338,7 +1348,7 @@
   Cycle: '45.08'
   Swim: '0.00'
   Walk: '1.00'
-- Rank: '135'
+- Rank: '136'
   Name: Pravin
   Group: ADSS/ADWS/ADWO
   FBID: Pravin8938
@@ -1348,7 +1358,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '136'
+- Rank: '137'
   Name: Starbucks
   Group: ABM
   FBID: Starbucks3756
@@ -1358,7 +1368,7 @@
   Cycle: '9.23'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '137'
+- Rank: '138'
   Name: Kent Zeng
   Group: ADSS/ADWS/ADWO
   FBID: Stonks69420
@@ -1368,7 +1378,7 @@
   Cycle: '75.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '138'
+- Rank: '139'
   Name: OLAF
   Group: ADW
   FBID: OLAF2156
@@ -1378,7 +1388,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '139'
+- Rank: '140'
   Name: JonChen
   Group: ADW
   FBID: JonChen0000
@@ -1388,7 +1398,7 @@
   Cycle: '270.53'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '140'
+- Rank: '141'
   Name: Dominic
   Group: ATC
   FBID: Nickel1191
@@ -1398,23 +1408,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '141'
+- Rank: '142'
   Name: Jefferson
   Group: AFE
   FBID: VolvoJeff1985
   Total_Mileage: '73.07'
   Badges: '3'
   Run: '73.07'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '142'
-  Name: Owyong
-  Group: ATC
-  FBID: Owyong251088
-  Total_Mileage: '72.73'
-  Badges: '3'
-  Run: '72.73'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
