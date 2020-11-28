@@ -519,6 +519,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '53'
+  Name: Lia
+  Group: ADSS/ADWS/ADWO
+  FBID: Lia1116
+  Total_Mileage: '177.59'
+  Badges: '9'
+  Run: '99.41'
+  Cycle: '190.33'
+  Swim: '5.10'
+  Walk: '0.00'
+- Rank: '54'
   Name: GN
   Group: ADSS/ADWS/ADWO
   FBID: GN8282
@@ -528,7 +538,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '54'
+- Rank: '55'
   Name: LWY
   Group: AFE
   FBID: LWY3137
@@ -538,7 +548,7 @@
   Cycle: '665.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '55'
+- Rank: '56'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -548,7 +558,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '51.00'
-- Rank: '56'
+- Rank: '57'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -558,7 +568,7 @@
   Cycle: '18.27'
   Swim: '0.00'
   Walk: '3.42'
-- Rank: '57'
+- Rank: '58'
   Name: Slong
   Group: ADW
   FBID: Slong1234
@@ -567,16 +577,6 @@
   Run: '107.85'
   Cycle: '0.00'
   Swim: '10.72'
-  Walk: '0.00'
-- Rank: '58'
-  Name: Lia
-  Group: ADSS/ADWS/ADWO
-  FBID: Lia1116
-  Total_Mileage: '167.32'
-  Badges: '8'
-  Run: '99.41'
-  Cycle: '149.22'
-  Swim: '5.10'
   Walk: '0.00'
 - Rank: '59'
   Name: Viking
