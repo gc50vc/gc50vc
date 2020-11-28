@@ -179,6 +179,16 @@
   Swim: '0.85'
   Walk: '2.19'
 - Rank: '19'
+  Name: 'Tan Swee Kiat '
+  Group: ADW
+  FBID: Eskay0077
+  Total_Mileage: '344.74'
+  Badges: '4'
+  Run: '344.74'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '11.68'
+- Rank: '20'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -188,7 +198,7 @@
   Cycle: '159.02'
   Swim: '35.87'
   Walk: '109.94'
-- Rank: '20'
+- Rank: '21'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -198,7 +208,7 @@
   Cycle: '670.00'
   Swim: '5.46'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: Tony Foo
   Group: ADW
   FBID: tonyfoo0165
@@ -208,16 +218,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '22'
-  Name: 'Tan Swee Kiat '
-  Group: ADW
-  FBID: Eskay0077
-  Total_Mileage: '333.34'
-  Badges: '4'
-  Run: '333.34'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '11.68'
 - Rank: '23'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
