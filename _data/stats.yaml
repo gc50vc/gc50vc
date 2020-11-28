@@ -469,6 +469,16 @@
   Swim: '0.00'
   Walk: '1.57'
 - Rank: '48'
+  Name: Lia
+  Group: ADSS/ADWS/ADWO
+  FBID: Lia1116
+  Total_Mileage: '187.87'
+  Badges: '10'
+  Run: '99.41'
+  Cycle: '231.44'
+  Swim: '5.10'
+  Walk: '0.00'
+- Rank: '49'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -478,7 +488,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '4.73'
-- Rank: '49'
+- Rank: '50'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -488,7 +498,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '50'
+- Rank: '51'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -498,7 +508,7 @@
   Cycle: '204.95'
   Swim: '9.90'
   Walk: '3.15'
-- Rank: '51'
+- Rank: '52'
   Name: Andrew
   Group: ADW
   FBID: Hammer1990
@@ -508,7 +518,7 @@
   Cycle: '295.12'
   Swim: '4.00'
   Walk: '0.00'
-- Rank: '52'
+- Rank: '53'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -517,16 +527,6 @@
   Run: '178.40'
   Cycle: '8.76'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '53'
-  Name: Lia
-  Group: ADSS/ADWS/ADWO
-  FBID: Lia1116
-  Total_Mileage: '177.59'
-  Badges: '9'
-  Run: '99.41'
-  Cycle: '190.33'
-  Swim: '5.10'
   Walk: '0.00'
 - Rank: '54'
   Name: GN
