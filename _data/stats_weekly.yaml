@@ -169,6 +169,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '18'
+  Name: Cookie
+  Group: ATC
+  FBID: Cookie3rdWSO1975
+  Total_Mileage: '40.67'
+  Badges: '0'
+  Run: '32.18'
+  Cycle: '33.97'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '19'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -178,7 +188,7 @@
   Cycle: '0.00'
   Swim: '4.80'
   Walk: '0.00'
-- Rank: '19'
+- Rank: '20'
   Name: Tony Foo
   Group: ADW
   FBID: tonyfoo0165
@@ -188,7 +198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '21'
   Name: Adrian
   Group: ADSS/ADWS/ADWO
   FBID: Adrian9888
@@ -198,7 +208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: Cosmo
   Group: ABM
   FBID: cosmo6306
@@ -208,7 +218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: errick1991
@@ -218,7 +228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: Nana
   Group: AFE
   FBID: Chris1166
@@ -228,7 +238,7 @@
   Cycle: '68.21'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -238,7 +248,7 @@
   Cycle: '119.68'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: BY
   Group: ADSS/ADWS/ADWO
   FBID: Charlie3579
@@ -248,7 +258,7 @@
   Cycle: '54.74'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: Pravin
   Group: ADSS/ADWS/ADWO
   FBID: Pravin8938
@@ -258,7 +268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -268,7 +278,7 @@
   Cycle: '40.95'
   Swim: '0.85'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: Hector
   Group: ADW
   FBID: Hector0911
@@ -278,7 +288,7 @@
   Cycle: '0.00'
   Swim: '1.05'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -288,7 +298,7 @@
   Cycle: '102.00'
   Swim: '0.50'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '31'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -298,7 +308,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '32'
   Name: Benson
   Group: ADW
   FBID: Benoi1234
@@ -308,7 +318,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '33'
   Name: Prem
   Group: ADW
   FBID: Premium6687
@@ -318,7 +328,7 @@
   Cycle: '0.00'
   Swim: '2.05'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '34'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -328,7 +338,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '34'
+- Rank: '35'
   Name: Vapor
   Group: ADW
   FBID: Vapor6148
@@ -336,16 +346,6 @@
   Badges: '0'
   Run: '25.05'
   Cycle: '18.66'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '35'
-  Name: Cookie
-  Group: ATC
-  FBID: Cookie3rdWSO1975
-  Total_Mileage: '29.67'
-  Badges: '0'
-  Run: '21.18'
-  Cycle: '33.97'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '36'
