@@ -19,6 +19,16 @@
   Swim: '1.60'
   Walk: '0.00'
 - Rank: '3'
+  Name: Ektar
+  Group: ABM
+  FBID: Ektar1971
+  Total_Mileage: '115.33'
+  Badges: '0'
+  Run: '0.00'
+  Cycle: '212.90'
+  Swim: '10.35'
+  Walk: '0.00'
+- Rank: '4'
   Name: Extreme
   Group: ATC
   FBID: Extreme8123
@@ -27,16 +37,6 @@
   Run: '38.01'
   Cycle: '162.30'
   Swim: '6.10'
-  Walk: '0.00'
-- Rank: '4'
-  Name: Ektar
-  Group: ABM
-  FBID: Ektar1971
-  Total_Mileage: '97.30'
-  Badges: '0'
-  Run: '0.00'
-  Cycle: '140.80'
-  Swim: '10.35'
   Walk: '0.00'
 - Rank: '5'
   Name: Sloh
