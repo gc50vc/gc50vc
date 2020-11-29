@@ -1127,7 +1127,7 @@
   Run: '12.45'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '2.67'
+  Walk: '7.76'
 - Rank: '114'
   Name: Alloy
   Group: ABM
@@ -2168,6 +2168,16 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '2.07'
+- Rank: '211'
+  Name: Chrispian
+  Group: AFE
+  FBID: Chrispian1979
+  Total_Mileage: '0.00'
+  Badges: '0'
+  Run: '0.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '14.33'
 - Rank: '211'
   Name: Saravanan
   Group: AOSX/AOS
