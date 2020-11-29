@@ -519,6 +519,16 @@
   Swim: '0.00'
   Walk: '4.73'
 - Rank: '53'
+  Name: Homeboy
+  Group: AOSX/AOS
+  FBID: Home5116
+  Total_Mileage: '186.63'
+  Badges: '4'
+  Run: '186.63'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '51.00'
+- Rank: '54'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -528,7 +538,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '54'
+- Rank: '55'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: Errick1991
@@ -538,7 +548,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '55'
+- Rank: '56'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -548,7 +558,17 @@
   Cycle: '204.95'
   Swim: '9.90'
   Walk: '3.15'
-- Rank: '56'
+- Rank: '57'
+  Name: GN
+  Group: ADSS/ADWS/ADWO
+  FBID: GN8282
+  Total_Mileage: '183.69'
+  Badges: '4'
+  Run: '183.69'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '58'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -558,7 +578,7 @@
   Cycle: '18.27'
   Swim: '0.00'
   Walk: '3.42'
-- Rank: '57'
+- Rank: '59'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -568,17 +588,7 @@
   Cycle: '8.76'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '58'
-  Name: GN
-  Group: ADSS/ADWS/ADWO
-  FBID: GN8282
-  Total_Mileage: '177.50'
-  Badges: '4'
-  Run: '177.50'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '59'
+- Rank: '60'
   Name: Iggy
   Group: ADSS/ADWS/ADWO
   FBID: Iggy7900
@@ -588,16 +598,6 @@
   Cycle: '422.85'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '60'
-  Name: Homeboy
-  Group: AOSX/AOS
-  FBID: Home5116
-  Total_Mileage: '174.56'
-  Badges: '4'
-  Run: '174.56'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '51.00'
 - Rank: '61'
   Name: Viking
   Group: ADW
@@ -5967,7 +5967,7 @@
   Run: '0.00'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '300.43'
+  Walk: '311.77'
 - Rank: '573'
   Name: Yi cheng
   Group: ADSS/ADWS/ADWO
