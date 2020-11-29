@@ -192,9 +192,9 @@
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
-  Total_Mileage: '344.74'
+  Total_Mileage: '356.34'
   Badges: '4'
-  Run: '344.74'
+  Run: '356.34'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.68'
@@ -409,6 +409,16 @@
   Swim: '15.00'
   Walk: '11.07'
 - Rank: '42'
+  Name: Slong
+  Group: ADW
+  FBID: Slong1234
+  Total_Mileage: '206.46'
+  Badges: '8'
+  Run: '125.86'
+  Cycle: '65.19'
+  Swim: '10.72'
+  Walk: '0.00'
+- Rank: '43'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -418,7 +428,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '43'
+- Rank: '44'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -428,7 +438,7 @@
   Cycle: '178.72'
   Swim: '0.00'
   Walk: '1.57'
-- Rank: '44'
+- Rank: '45'
   Name: AdolphusJJ
   Group: AOSX/AOS
   FBID: Bamboo1234
@@ -437,16 +447,6 @@
   Run: '197.75'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '45'
-  Name: Slong
-  Group: ADW
-  FBID: Slong1234
-  Total_Mileage: '197.45'
-  Badges: '8'
-  Run: '116.85'
-  Cycle: '65.19'
-  Swim: '10.72'
   Walk: '0.00'
 - Rank: '46'
   Name: 'Jack eng '
