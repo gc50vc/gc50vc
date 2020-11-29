@@ -39,6 +39,16 @@
   Swim: '12.15'
   Walk: '0.00'
 - Rank: '5'
+  Name: aH-MuNs-Ge
+  Group: AFE
+  FBID: ahmuns9861
+  Total_Mileage: '150.39'
+  Badges: '1'
+  Run: '150.39'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '6'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -48,7 +58,7 @@
   Cycle: '303.10'
   Swim: '12.35'
   Walk: '0.00'
-- Rank: '6'
+- Rank: '7'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -58,7 +68,7 @@
   Cycle: '284.46'
   Swim: '1.60'
   Walk: '0.00'
-- Rank: '7'
+- Rank: '8'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -67,8 +77,8 @@
   Run: '46.86'
   Cycle: '0.00'
   Swim: '11.85'
-  Walk: '0.60'
-- Rank: '8'
+  Walk: '3.62'
+- Rank: '9'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -78,7 +88,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '9'
+- Rank: '10'
   Name: LWY
   Group: AFE
   FBID: LWY3137
@@ -88,23 +98,13 @@
   Cycle: '331.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '10'
+- Rank: '11'
   Name: Tony Foo
   Group: ADW
   FBID: tonyfoo0165
   Total_Mileage: '71.80'
   Badges: '0'
   Run: '71.80'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '11'
-  Name: aH-MuNs-Ge
-  Group: AFE
-  FBID: ahmuns9861
-  Total_Mileage: '69.34'
-  Badges: '0'
-  Run: '69.34'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
