@@ -459,6 +459,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '47'
+  Name: Ah Bing
+  Group: ADW
+  FBID: Bingo0507
+  Total_Mileage: '30.63'
+  Badges: '2'
+  Run: '25.53'
+  Cycle: '0.00'
+  Swim: '0.85'
+  Walk: '0.00'
+- Rank: '48'
   Name: Vapor
   Group: ADW
   FBID: Vapor6148
@@ -468,7 +478,7 @@
   Cycle: '18.66'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '48'
+- Rank: '49'
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
@@ -478,7 +488,7 @@
   Cycle: '0.00'
   Swim: '1.25'
   Walk: '0.00'
-- Rank: '49'
+- Rank: '50'
   Name: Ming Feng
   Group: ADW
   FBID: Tonic1630
@@ -488,7 +498,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '50'
+- Rank: '51'
   Name: GN
   Group: ADSS/ADWS/ADWO
   FBID: GN8282
@@ -498,7 +508,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '51'
+- Rank: '52'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -508,7 +518,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '52'
+- Rank: '53'
   Name: Engine
   Group: ATC
   FBID: Engine1990
@@ -517,16 +527,6 @@
   Run: '27.20'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '53'
-  Name: Ah Bing
-  Group: ADW
-  FBID: Bingo0507
-  Total_Mileage: '26.73'
-  Badges: '0'
-  Run: '25.53'
-  Cycle: '0.00'
-  Swim: '0.20'
   Walk: '0.00'
 - Rank: '54'
   Name: Irwin Chua
