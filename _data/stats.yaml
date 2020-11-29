@@ -92,21 +92,21 @@
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
-  Total_Mileage: '573.53'
+  Total_Mileage: '597.53'
   Badges: '12'
   Run: '94.67'
   Cycle: '236.62'
-  Swim: '69.95'
+  Swim: '73.95'
   Walk: '0.00'
 - Rank: '11'
   Name: Prem
   Group: ADW
   FBID: Premium6687
-  Total_Mileage: '557.64'
+  Total_Mileage: '582.54'
   Badges: '9'
   Run: '133.29'
   Cycle: '42.58'
-  Swim: '68.95'
+  Swim: '73.10'
   Walk: '1.32'
 - Rank: '12'
   Name: Slimer
@@ -239,6 +239,16 @@
   Swim: '3.85'
   Walk: '0.00'
 - Rank: '25'
+  Name: Coral
+  Group: ABM
+  FBID: Coral5050
+  Total_Mileage: '301.43'
+  Badges: '4'
+  Run: '301.43'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '9.48'
+- Rank: '26'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -248,7 +258,7 @@
   Cycle: '40.64'
   Swim: '20.95'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
@@ -258,7 +268,7 @@
   Cycle: '0.00'
   Swim: '19.94'
   Walk: '7.97'
-- Rank: '27'
+- Rank: '28'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -268,7 +278,7 @@
   Cycle: '676.60'
   Swim: '9.15'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -278,7 +288,7 @@
   Cycle: '599.22'
   Swim: '4.00'
   Walk: '24.83'
-- Rank: '29'
+- Rank: '30'
   Name: jheng
   Group: ADSS/ADWS/ADWO
   FBID: jheng0000
@@ -288,16 +298,6 @@
   Cycle: '202.41'
   Swim: '23.67'
   Walk: '0.00'
-- Rank: '30'
-  Name: Coral
-  Group: ABM
-  FBID: Coral5050
-  Total_Mileage: '261.50'
-  Badges: '4'
-  Run: '261.50'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '9.48'
 - Rank: '31'
   Name: Rycel Wong
   Group: AOSX/AOS
@@ -2927,7 +2927,7 @@
   Run: '26.22'
   Cycle: '25.68'
   Swim: '0.00'
-  Walk: '403.48'
+  Walk: '421.77'
 - Rank: '294'
   Name: Duster
   Group: ABM
