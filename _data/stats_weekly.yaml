@@ -19,6 +19,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '3'
+  Name: Extreme
+  Group: ATC
+  FBID: Extreme8123
+  Total_Mileage: '151.49'
+  Badges: '0'
+  Run: '38.01'
+  Cycle: '162.30'
+  Swim: '12.15'
+  Walk: '0.00'
+- Rank: '4'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -28,7 +38,7 @@
   Cycle: '284.46'
   Swim: '1.60'
   Walk: '0.00'
-- Rank: '4'
+- Rank: '5'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -37,16 +47,6 @@
   Run: '0.00'
   Cycle: '212.90'
   Swim: '10.35'
-  Walk: '0.00'
-- Rank: '5'
-  Name: Extreme
-  Group: ATC
-  FBID: Extreme8123
-  Total_Mileage: '115.19'
-  Badges: '0'
-  Run: '38.01'
-  Cycle: '162.30'
-  Swim: '6.10'
   Walk: '0.00'
 - Rank: '6'
   Name: Slimer
