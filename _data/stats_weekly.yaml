@@ -29,6 +29,16 @@
   Swim: '12.15'
   Walk: '0.00'
 - Rank: '4'
+  Name: Ektar
+  Group: ABM
+  FBID: Ektar1971
+  Total_Mileage: '137.88'
+  Badges: '0'
+  Run: '0.00'
+  Cycle: '303.10'
+  Swim: '10.35'
+  Walk: '0.00'
+- Rank: '5'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -37,16 +47,6 @@
   Run: '39.27'
   Cycle: '284.46'
   Swim: '1.60'
-  Walk: '0.00'
-- Rank: '5'
-  Name: Ektar
-  Group: ABM
-  FBID: Ektar1971
-  Total_Mileage: '115.33'
-  Badges: '0'
-  Run: '0.00'
-  Cycle: '212.90'
-  Swim: '10.35'
   Walk: '0.00'
 - Rank: '6'
   Name: Slimer
