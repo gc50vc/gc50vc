@@ -649,6 +649,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '66'
+  Name: PCK
+  Group: ADW
+  FBID: PCK2205
+  Total_Mileage: '162.71'
+  Badges: '4'
+  Run: '162.71'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '67'
   Name: Tan Chee Wee
   Group: ATC
   FBID: tancw1974
@@ -658,7 +668,7 @@
   Cycle: '29.50'
   Swim: '0.00'
   Walk: '21.68'
-- Rank: '67'
+- Rank: '68'
   Name: 'Tay Wen Hao '
   Group: ADW
   FBID: Wh8295
@@ -668,7 +678,7 @@
   Cycle: '37.93'
   Swim: '0.00'
   Walk: '4.94'
-- Rank: '68'
+- Rank: '69'
   Name: RainmanCYK
   Group: ADW
   FBID: Rainman0000
@@ -678,7 +688,7 @@
   Cycle: '0.00'
   Swim: '19.50'
   Walk: '0.00'
-- Rank: '69'
+- Rank: '70'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
   FBID: Ahbye1234
@@ -688,16 +698,6 @@
   Cycle: '200.00'
   Swim: '5.50'
   Walk: '6.00'
-- Rank: '70'
-  Name: PCK
-  Group: ADW
-  FBID: PCK2205
-  Total_Mileage: '147.91'
-  Badges: '4'
-  Run: '147.91'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '71'
   Name: AP
   Group: ADW
