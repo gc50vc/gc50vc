@@ -142,9 +142,9 @@
   Name: Nicholas Lian
   Group: ADW
   FBID: Horsepower2001
-  Total_Mileage: '436.90'
+  Total_Mileage: '440.10'
   Badges: '7'
-  Run: '341.13'
+  Run: '344.33'
   Cycle: '30.26'
   Swim: '14.70'
   Walk: '5.89'
@@ -529,6 +529,26 @@
   Swim: '9.90'
   Walk: '3.15'
 - Rank: '54'
+  Name: Steyr
+  Group: ABM
+  FBID: Steyr9693
+  Total_Mileage: '181.69'
+  Badges: '4'
+  Run: '177.12'
+  Cycle: '18.27'
+  Swim: '0.00'
+  Walk: '3.42'
+- Rank: '55'
+  Name: Slong
+  Group: ADW
+  FBID: Slong1234
+  Total_Mileage: '181.15'
+  Badges: '7'
+  Run: '116.85'
+  Cycle: '0.00'
+  Swim: '10.72'
+  Walk: '0.00'
+- Rank: '56'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -538,7 +558,7 @@
   Cycle: '8.76'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '55'
+- Rank: '57'
   Name: GN
   Group: ADSS/ADWS/ADWO
   FBID: GN8282
@@ -548,7 +568,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '56'
+- Rank: '58'
   Name: Iggy
   Group: ADSS/ADWS/ADWO
   FBID: Iggy7900
@@ -558,7 +578,7 @@
   Cycle: '422.85'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '57'
+- Rank: '59'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -568,26 +588,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '51.00'
-- Rank: '58'
-  Name: Steyr
-  Group: ABM
-  FBID: Steyr9693
-  Total_Mileage: '172.45'
-  Badges: '4'
-  Run: '167.88'
-  Cycle: '18.27'
-  Swim: '0.00'
-  Walk: '3.42'
-- Rank: '59'
-  Name: Slong
-  Group: ADW
-  FBID: Slong1234
-  Total_Mileage: '172.15'
-  Badges: '7'
-  Run: '107.85'
-  Cycle: '0.00'
-  Swim: '10.72'
-  Walk: '0.00'
 - Rank: '60'
   Name: Viking
   Group: ADW
