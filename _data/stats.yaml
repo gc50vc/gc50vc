@@ -1799,6 +1799,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '181'
+  Name: CSM
+  Group: ADSS/ADWS/ADWO
+  FBID: CSM8189
+  Total_Mileage: '56.46'
+  Badges: '3'
+  Run: '47.38'
+  Cycle: '36.30'
+  Swim: '0.00'
+  Walk: '12.30'
+- Rank: '182'
   Name: LC
   Group: AFE
   FBID: LC0809
@@ -1808,7 +1818,7 @@
   Cycle: '136.88'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '182'
+- Rank: '183'
   Name: Jj
   Group: ADSS/ADWS/ADWO
   FBID: TaroQ5061
@@ -1818,7 +1828,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '183'
+- Rank: '184'
   Name: JOLLY
   Group: ADW
   FBID: Jolly8178
@@ -1828,7 +1838,7 @@
   Cycle: '42.68'
   Swim: '2.50'
   Walk: '0.00'
-- Rank: '184'
+- Rank: '185'
   Name: BENteo
   Group: AFE
   FBID: BEN7452
@@ -1838,7 +1848,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '185'
+- Rank: '186'
   Name: Kian Seng
   Group: ADW
   FBID: KianSeng0170
@@ -1848,7 +1858,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '185'
+- Rank: '186'
   Name: JR
   Group: ADW
   FBID: JR1986
@@ -1858,7 +1868,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '187'
+- Rank: '188'
   Name: Pterlek
   Group: ATC
   FBID: Conman7361
@@ -1868,7 +1878,7 @@
   Cycle: '0.00'
   Swim: '8.00'
   Walk: '14.22'
-- Rank: '188'
+- Rank: '189'
   Name: Mondane
   Group: ADW
   FBID: Mondane9669
@@ -1878,7 +1888,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '189'
+- Rank: '190'
   Name: Chan Wei Siang
   Group: AFE
   FBID: ws1234
@@ -1888,7 +1898,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '190'
+- Rank: '191'
   Name: Karma
   Group: ATC
   FBID: karma2790
@@ -1898,7 +1908,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '191'
+- Rank: '192'
   Name: Cactus
   Group: ADSS/ADWS/ADWO
   FBID: Daphne1234
@@ -1908,7 +1918,7 @@
   Cycle: '0.00'
   Swim: '9.00'
   Walk: '0.00'
-- Rank: '192'
+- Rank: '193'
   Name: Eric
   Group: AOSX/AOS
   FBID: RelacRunner0011
@@ -1918,7 +1928,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '193'
+- Rank: '194'
   Name: Andre
   Group: ADSS/ADWS/ADWO
   FBID: Wagon6190
@@ -1928,16 +1938,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '194'
-  Name: CSM
-  Group: ADSS/ADWS/ADWO
-  FBID: CSM8189
-  Total_Mileage: '53.16'
-  Badges: '3'
-  Run: '47.38'
-  Cycle: '23.10'
-  Swim: '0.00'
-  Walk: '12.30'
 - Rank: '195'
   Name: Andrew Ng
   Group: ADW
