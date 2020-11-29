@@ -1219,6 +1219,16 @@
   Swim: '0.00'
   Walk: '5.65'
 - Rank: '123'
+  Name: Wan Yuan
+  Group: ADW
+  FBID: Lost1908
+  Total_Mileage: '90.04'
+  Badges: '3'
+  Run: '90.04'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '20.24'
+- Rank: '124'
   Name: Rocky
   Group: AOSX/AOS
   FBID: ZeRo7113
@@ -1228,7 +1238,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '57.30'
-- Rank: '124'
+- Rank: '125'
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
@@ -1238,7 +1248,7 @@
   Cycle: '24.16'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '125'
+- Rank: '126'
   Name: Der Siang
   Group: ATC
   FBID: Aku1234
@@ -1248,7 +1258,7 @@
   Cycle: '95.06'
   Swim: '3.95'
   Walk: '0.00'
-- Rank: '126'
+- Rank: '127'
   Name: Chan Howe
   Group: AOSX/AOS
   FBID: IceCube3008
@@ -1258,7 +1268,7 @@
   Cycle: '341.74'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '127'
+- Rank: '128'
   Name: Alloy
   Group: ABM
   FBID: alloy8585
@@ -1268,7 +1278,7 @@
   Cycle: '0.00'
   Swim: '3.40'
   Walk: '0.00'
-- Rank: '128'
+- Rank: '129'
   Name: Sunray
   Group: ABM
   FBID: Sunray0909
@@ -1278,7 +1288,7 @@
   Cycle: '201.00'
   Swim: '1.71'
   Walk: '0.00'
-- Rank: '129'
+- Rank: '130'
   Name: Manu
   Group: ABM
   FBID: Manu7894
@@ -1288,7 +1298,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '130'
+- Rank: '131'
   Name: Joey Lee Jian Wei
   Group: AFE
   FBID: Joey3811
@@ -1298,7 +1308,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '596.67'
-- Rank: '131'
+- Rank: '132'
   Name: COVID
   Group: ADSS/ADWS/ADWO
   FBID: COVID9999
@@ -1308,16 +1318,6 @@
   Cycle: '101.05'
   Swim: '0.00'
   Walk: '21.50'
-- Rank: '132'
-  Name: Wan Yuan
-  Group: ADW
-  FBID: Lost1908
-  Total_Mileage: '79.12'
-  Badges: '3'
-  Run: '79.12'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '20.24'
 - Rank: '133'
   Name: Owyong
   Group: ATC
