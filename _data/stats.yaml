@@ -989,6 +989,16 @@
   Swim: '0.00'
   Walk: '19.25'
 - Rank: '100'
+  Name: BY
+  Group: ADSS/ADWS/ADWO
+  FBID: Charlie3579
+  Total_Mileage: '108.01'
+  Badges: '5'
+  Run: '82.96'
+  Cycle: '100.20'
+  Swim: '0.00'
+  Walk: '5.06'
+- Rank: '101'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -998,7 +1008,7 @@
   Cycle: '221.29'
   Swim: '5.10'
   Walk: '0.00'
-- Rank: '101'
+- Rank: '102'
   Name: Irwin Chua
   Group: AOSX/AOS
   FBID: irwin2482
@@ -1008,7 +1018,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '102'
+- Rank: '103'
   Name: Quainapz
   Group: ADSS/ADWS/ADWO
   FBID: Quainapz8585
@@ -1018,7 +1028,7 @@
   Cycle: '0.00'
   Swim: '3.10'
   Walk: '2.30'
-- Rank: '103'
+- Rank: '104'
   Name: Legend
   Group: ADW
   FBID: Legend2512
@@ -1028,7 +1038,7 @@
   Cycle: '191.27'
   Swim: '0.00'
   Walk: '13.11'
-- Rank: '104'
+- Rank: '105'
   Name: Sze Tein
   Group: ATC
   FBID: Topaz1327
@@ -1038,7 +1048,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '105'
+- Rank: '106'
   Name: Gwyn
   Group: ADW
   FBID: Magma1201
@@ -1048,7 +1058,7 @@
   Cycle: '46.60'
   Swim: '0.00'
   Walk: '8.93'
-- Rank: '106'
+- Rank: '107'
   Name: ARROW
   Group: ADW
   FBID: Tee1980
@@ -1058,7 +1068,7 @@
   Cycle: '92.57'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '107'
+- Rank: '108'
   Name: Rubiks
   Group: ABM
   FBID: Rubiks1234
@@ -1068,7 +1078,7 @@
   Cycle: '41.78'
   Swim: '4.10'
   Walk: '0.00'
-- Rank: '108'
+- Rank: '109'
   Name: Jenny
   Group: AFE
   FBID: Jenny7373
@@ -1078,7 +1088,7 @@
   Cycle: '11.67'
   Swim: '0.00'
   Walk: '83.11'
-- Rank: '109'
+- Rank: '110'
   Name: Maj Lim
   Group: ABM
   FBID: Legoz1000
@@ -1088,16 +1098,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '16.48'
-- Rank: '110'
-  Name: BY
-  Group: ADSS/ADWS/ADWO
-  FBID: Charlie3579
-  Total_Mileage: '100.55'
-  Badges: '5'
-  Run: '75.50'
-  Cycle: '100.20'
-  Swim: '0.00'
-  Walk: '5.06'
 - Rank: '111'
   Name: Ram
   Group: ADW
