@@ -22,9 +22,9 @@
   Name: LZX
   Group: ADSS/ADWS/ADWO
   FBID: leezx1337
-  Total_Mileage: '934.35'
+  Total_Mileage: '983.80'
   Badges: '8'
-  Run: '265.26'
+  Run: '314.71'
   Cycle: '2676.35'
   Swim: '0.00'
   Walk: '2.18'
@@ -99,6 +99,16 @@
   Swim: '68.95'
   Walk: '1.32'
 - Rank: '11'
+  Name: Tommy Tham
+  Group: ADSS/ADWS/ADWO
+  FBID: Tommy1976
+  Total_Mileage: '545.27'
+  Badges: '12'
+  Run: '94.67'
+  Cycle: '219.58'
+  Swim: '65.95'
+  Walk: '0.00'
+- Rank: '12'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -108,16 +118,6 @@
   Cycle: '209.50'
   Swim: '53.55'
   Walk: '17.51'
-- Rank: '12'
-  Name: Tommy Tham
-  Group: ADSS/ADWS/ADWO
-  FBID: Tommy1976
-  Total_Mileage: '540.82'
-  Badges: '12'
-  Run: '90.22'
-  Cycle: '219.58'
-  Swim: '65.95'
-  Walk: '0.00'
 - Rank: '13'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
@@ -139,16 +139,6 @@
   Swim: '13.90'
   Walk: '0.00'
 - Rank: '15'
-  Name: aH-MuNs-Ge
-  Group: AFE
-  FBID: ahmuns9861
-  Total_Mileage: '459.19'
-  Badges: '5'
-  Run: '459.19'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '79.15'
-- Rank: '16'
   Name: Nicholas Lian
   Group: ADW
   FBID: Horsepower2001
@@ -158,6 +148,16 @@
   Cycle: '30.26'
   Swim: '14.70'
   Walk: '5.89'
+- Rank: '16'
+  Name: aH-MuNs-Ge
+  Group: AFE
+  FBID: ahmuns9861
+  Total_Mileage: '389.85'
+  Badges: '4'
+  Run: '389.85'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '79.15'
 - Rank: '17'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
@@ -469,6 +469,16 @@
   Swim: '18.80'
   Walk: '0.00'
 - Rank: '48'
+  Name: Mouth
+  Group: ABM
+  FBID: Mouth2570
+  Total_Mileage: '194.93'
+  Badges: '4'
+  Run: '194.93'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '49'
   Name: Andrew
   Group: ADW
   FBID: Hammer1990
@@ -478,7 +488,7 @@
   Cycle: '295.12'
   Swim: '4.00'
   Walk: '0.00'
-- Rank: '49'
+- Rank: '50'
   Name: bok ong
   Group: ADSS/ADWS/ADWO
   FBID: bok2903
@@ -488,7 +498,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '50'
+- Rank: '51'
   Name: LWY
   Group: AFE
   FBID: LWY3137
@@ -498,7 +508,7 @@
   Cycle: '709.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '51'
+- Rank: '52'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -508,7 +518,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '4.73'
-- Rank: '52'
+- Rank: '53'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -518,16 +528,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '51.00'
-- Rank: '53'
-  Name: Mouth
-  Group: ABM
-  FBID: Mouth2570
-  Total_Mileage: '184.91'
-  Badges: '4'
-  Run: '184.91'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '54'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
