@@ -12,13 +12,23 @@
   Name: Ben
   Group: ADW
   FBID: BY8362
-  Total_Mileage: '185.60'
+  Total_Mileage: '220.60'
   Badges: '0'
   Run: '16.00'
-  Cycle: '640.00'
+  Cycle: '780.00'
   Swim: '1.60'
   Walk: '0.00'
 - Rank: '3'
+  Name: T-rex
+  Group: ABM
+  FBID: Trex1406
+  Total_Mileage: '152.49'
+  Badges: '0'
+  Run: '6.01'
+  Cycle: '585.92'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '4'
   Name: Extreme
   Group: ATC
   FBID: Extreme8123
@@ -28,7 +38,7 @@
   Cycle: '162.30'
   Swim: '12.15'
   Walk: '0.00'
-- Rank: '4'
+- Rank: '5'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -38,7 +48,7 @@
   Cycle: '303.10'
   Swim: '12.35'
   Walk: '0.00'
-- Rank: '5'
+- Rank: '6'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -48,7 +58,7 @@
   Cycle: '284.46'
   Swim: '1.60'
   Walk: '0.00'
-- Rank: '6'
+- Rank: '7'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -58,7 +68,7 @@
   Cycle: '0.00'
   Swim: '11.85'
   Walk: '0.60'
-- Rank: '7'
+- Rank: '8'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -68,7 +78,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '8'
+- Rank: '9'
   Name: LWY
   Group: AFE
   FBID: LWY3137
@@ -78,7 +88,7 @@
   Cycle: '331.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '9'
+- Rank: '10'
   Name: Tony Foo
   Group: ADW
   FBID: tonyfoo0165
@@ -88,7 +98,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '10'
+- Rank: '11'
   Name: aH-MuNs-Ge
   Group: AFE
   FBID: ahmuns9861
@@ -96,16 +106,6 @@
   Badges: '0'
   Run: '69.34'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '11'
-  Name: T-rex
-  Group: ABM
-  FBID: Trex1406
-  Total_Mileage: '68.89'
-  Badges: '0'
-  Run: '0.00'
-  Cycle: '275.57'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '12'
