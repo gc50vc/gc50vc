@@ -89,6 +89,16 @@
   Swim: '15.55'
   Walk: '3.02'
 - Rank: '10'
+  Name: Tommy Tham
+  Group: ADSS/ADWS/ADWO
+  FBID: Tommy1976
+  Total_Mileage: '569.27'
+  Badges: '12'
+  Run: '94.67'
+  Cycle: '219.58'
+  Swim: '69.95'
+  Walk: '0.00'
+- Rank: '11'
   Name: Prem
   Group: ADW
   FBID: Premium6687
@@ -98,16 +108,6 @@
   Cycle: '42.58'
   Swim: '68.95'
   Walk: '1.32'
-- Rank: '11'
-  Name: Tommy Tham
-  Group: ADSS/ADWS/ADWO
-  FBID: Tommy1976
-  Total_Mileage: '545.27'
-  Badges: '12'
-  Run: '94.67'
-  Cycle: '219.58'
-  Swim: '65.95'
-  Walk: '0.00'
 - Rank: '12'
   Name: Slimer
   Group: ABM
@@ -5737,7 +5737,7 @@
   Run: '0.00'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '153.73'
+  Walk: '89.33'
 - Rank: '574'
   Name: Tok
   Group: AFE
