@@ -489,6 +489,16 @@
   Swim: '0.00'
   Walk: '1.57'
 - Rank: '50'
+  Name: LWY
+  Group: AFE
+  FBID: LWY3137
+  Total_Mileage: '187.25'
+  Badges: '5'
+  Run: '10.00'
+  Cycle: '709.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '51'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -498,7 +508,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '4.73'
-- Rank: '51'
+- Rank: '52'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -508,7 +518,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '52'
+- Rank: '53'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -518,7 +528,7 @@
   Cycle: '204.95'
   Swim: '9.90'
   Walk: '3.15'
-- Rank: '53'
+- Rank: '54'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -528,7 +538,7 @@
   Cycle: '8.76'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '54'
+- Rank: '55'
   Name: GN
   Group: ADSS/ADWS/ADWO
   FBID: GN8282
@@ -538,7 +548,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '55'
+- Rank: '56'
   Name: Iggy
   Group: ADSS/ADWS/ADWO
   FBID: Iggy7900
@@ -546,16 +556,6 @@
   Badges: '6'
   Run: '70.86'
   Cycle: '422.85'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '56'
-  Name: LWY
-  Group: AFE
-  FBID: LWY3137
-  Total_Mileage: '176.25'
-  Badges: '5'
-  Run: '10.00'
-  Cycle: '665.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '57'
