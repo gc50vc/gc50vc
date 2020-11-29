@@ -39,6 +39,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '5'
+  Name: Sloh
+  Group: ADW
+  FBID: Sloh0121
+  Total_Mileage: '770.37'
+  Badges: '13'
+  Run: '250.08'
+  Cycle: '1673.17'
+  Swim: '17.00'
+  Walk: '0.00'
+- Rank: '6'
   Name: T-rex
   Group: ABM
   FBID: Trex1406
@@ -47,16 +57,6 @@
   Run: '152.58'
   Cycle: '1667.75'
   Swim: '32.50'
-  Walk: '0.00'
-- Rank: '6'
-  Name: Sloh
-  Group: ADW
-  FBID: Sloh0121
-  Total_Mileage: '738.63'
-  Badges: '13'
-  Run: '240.07'
-  Cycle: '1586.25'
-  Swim: '17.00'
   Walk: '0.00'
 - Rank: '7'
   Name: Ektar
@@ -439,6 +439,16 @@
   Swim: '18.80'
   Walk: '0.00'
 - Rank: '45'
+  Name: Andrew
+  Group: ADW
+  FBID: Hammer1990
+  Total_Mileage: '190.81'
+  Badges: '10'
+  Run: '93.03'
+  Cycle: '295.12'
+  Swim: '4.00'
+  Walk: '0.00'
+- Rank: '46'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
@@ -448,7 +458,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '46'
+- Rank: '47'
   Name: Lia
   Group: ADSS/ADWS/ADWO
   FBID: Lia1116
@@ -458,7 +468,7 @@
   Cycle: '237.26'
   Swim: '5.10'
   Walk: '0.00'
-- Rank: '47'
+- Rank: '48'
   Name: bok ong
   Group: ADSS/ADWS/ADWO
   FBID: bok2903
@@ -468,7 +478,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '48'
+- Rank: '49'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -478,7 +488,7 @@
   Cycle: '134.59'
   Swim: '0.00'
   Walk: '1.57'
-- Rank: '49'
+- Rank: '50'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -488,7 +498,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '4.73'
-- Rank: '50'
+- Rank: '51'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -498,7 +508,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '51'
+- Rank: '52'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -508,16 +518,6 @@
   Cycle: '204.95'
   Swim: '9.90'
   Walk: '3.15'
-- Rank: '52'
-  Name: Andrew
-  Group: ADW
-  FBID: Hammer1990
-  Total_Mileage: '181.26'
-  Badges: '10'
-  Run: '83.48'
-  Cycle: '295.12'
-  Swim: '4.00'
-  Walk: '0.00'
 - Rank: '53'
   Name: Anson Chiu
   Group: ATC
