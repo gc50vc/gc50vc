@@ -1269,6 +1269,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '128'
+  Name: Sunray
+  Group: ABM
+  FBID: Sunray0909
+  Total_Mileage: '82.41'
+  Badges: '6'
+  Run: '20.10'
+  Cycle: '201.00'
+  Swim: '2.01'
+  Walk: '0.00'
+- Rank: '129'
   Name: Alloy
   Group: ABM
   FBID: alloy8585
@@ -1277,16 +1287,6 @@
   Run: '60.70'
   Cycle: '0.00'
   Swim: '3.40'
-  Walk: '0.00'
-- Rank: '129'
-  Name: Sunray
-  Group: ABM
-  FBID: Sunray0909
-  Total_Mileage: '80.61'
-  Badges: '6'
-  Run: '20.10'
-  Cycle: '201.00'
-  Swim: '1.71'
   Walk: '0.00'
 - Rank: '130'
   Name: Manu
