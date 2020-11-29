@@ -92,10 +92,10 @@
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
-  Total_Mileage: '83.68'
+  Total_Mileage: '92.00'
   Badges: '0'
   Run: '11.62'
-  Cycle: '17.04'
+  Cycle: '50.32'
   Swim: '11.30'
   Walk: '0.00'
 - Rank: '11'
@@ -419,6 +419,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '43'
+  Name: Irwin Chua
+  Group: AOSX/AOS
+  FBID: irwin2482
+  Total_Mileage: '35.60'
+  Badges: '1'
+  Run: '26.00'
+  Cycle: '0.00'
+  Swim: '1.60'
+  Walk: '0.00'
+- Rank: '44'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -428,7 +438,7 @@
   Cycle: '97.73'
   Swim: '1.70'
   Walk: '0.00'
-- Rank: '44'
+- Rank: '45'
   Name: Fu Hao Wei
   Group: ADW
   FBID: fuhaowei8435
@@ -438,7 +448,7 @@
   Cycle: '138.15'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '45'
+- Rank: '46'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -448,7 +458,7 @@
   Cycle: '102.00'
   Swim: '0.50'
   Walk: '0.00'
-- Rank: '46'
+- Rank: '47'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -458,7 +468,7 @@
   Cycle: '44.13'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '47'
+- Rank: '48'
   Name: loanshark
   Group: ATC
   FBID: loanshark9356
@@ -468,7 +478,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '48'
+- Rank: '49'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -478,7 +488,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '49'
+- Rank: '50'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -488,7 +498,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '50'
+- Rank: '51'
   Name: Ah Bing
   Group: ADW
   FBID: Bingo0507
@@ -498,7 +508,7 @@
   Cycle: '0.00'
   Swim: '0.85'
   Walk: '0.00'
-- Rank: '51'
+- Rank: '52'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -508,7 +518,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '52'
+- Rank: '53'
   Name: Vapor
   Group: ADW
   FBID: Vapor6148
@@ -518,7 +528,7 @@
   Cycle: '18.66'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '53'
+- Rank: '54'
   Name: Glenn
   Group: ADW
   FBID: Garfield3110
@@ -528,7 +538,7 @@
   Cycle: '9.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '54'
+- Rank: '55'
   Name: Hector
   Group: ADW
   FBID: Hector0911
@@ -538,7 +548,7 @@
   Cycle: '0.00'
   Swim: '1.05'
   Walk: '0.00'
-- Rank: '55'
+- Rank: '56'
   Name: Ming Feng
   Group: ADW
   FBID: Tonic1630
@@ -548,7 +558,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '56'
+- Rank: '57'
   Name: GN
   Group: ADSS/ADWS/ADWO
   FBID: GN8282
@@ -558,7 +568,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '57'
+- Rank: '58'
   Name: Bronson
   Group: ADW
   FBID: Bronze1234
@@ -567,16 +577,6 @@
   Run: '10.49'
   Cycle: '42.88'
   Swim: '1.00'
-  Walk: '0.00'
-- Rank: '58'
-  Name: Irwin Chua
-  Group: AOSX/AOS
-  FBID: irwin2482
-  Total_Mileage: '26.00'
-  Badges: '0'
-  Run: '26.00'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '59'
   Name: lcheeleo
