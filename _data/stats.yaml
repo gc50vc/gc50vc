@@ -272,9 +272,9 @@
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
-  Total_Mileage: '270.59'
-  Badges: '10'
-  Run: '96.78'
+  Total_Mileage: '276.10'
+  Badges: '11'
+  Run: '102.29'
   Cycle: '599.22'
   Swim: '4.00'
   Walk: '24.83'
@@ -1219,6 +1219,16 @@
   Swim: '0.00'
   Walk: '5.65'
 - Rank: '123'
+  Name: Alloy
+  Group: ABM
+  FBID: alloy8585
+  Total_Mileage: '90.40'
+  Badges: '5'
+  Run: '60.70'
+  Cycle: '0.00'
+  Swim: '4.95'
+  Walk: '0.00'
+- Rank: '124'
   Name: Wan Yuan
   Group: ADW
   FBID: Lost1908
@@ -1228,7 +1238,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '20.24'
-- Rank: '124'
+- Rank: '125'
   Name: Rocky
   Group: AOSX/AOS
   FBID: ZeRo7113
@@ -1238,7 +1248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '57.30'
-- Rank: '125'
+- Rank: '126'
   Name: Der Siang
   Group: ATC
   FBID: Aku1234
@@ -1248,7 +1258,7 @@
   Cycle: '95.06'
   Swim: '3.95'
   Walk: '0.00'
-- Rank: '126'
+- Rank: '127'
   Name: Yew Choong
   Group: ADSS/ADWS/ADWO
   FBID: GGXC0160
@@ -1258,7 +1268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '19.25'
-- Rank: '127'
+- Rank: '128'
   Name: Chan Howe
   Group: AOSX/AOS
   FBID: IceCube3008
@@ -1268,7 +1278,7 @@
   Cycle: '341.74'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '128'
+- Rank: '129'
   Name: Sunray
   Group: ABM
   FBID: Sunray0909
@@ -1277,16 +1287,6 @@
   Run: '20.10'
   Cycle: '201.00'
   Swim: '2.01'
-  Walk: '0.00'
-- Rank: '129'
-  Name: Alloy
-  Group: ABM
-  FBID: alloy8585
-  Total_Mileage: '81.10'
-  Badges: '4'
-  Run: '60.70'
-  Cycle: '0.00'
-  Swim: '3.40'
   Walk: '0.00'
 - Rank: '130'
   Name: Manu
