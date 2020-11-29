@@ -1239,6 +1239,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '125'
+  Name: Der Siang
+  Group: ATC
+  FBID: Aku1234
+  Total_Mileage: '87.47'
+  Badges: '6'
+  Run: '40.00'
+  Cycle: '95.06'
+  Swim: '3.95'
+  Walk: '0.00'
+- Rank: '126'
   Name: Chan Howe
   Group: AOSX/AOS
   FBID: IceCube3008
@@ -1247,16 +1257,6 @@
   Run: '0.00'
   Cycle: '341.74'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '126'
-  Name: Der Siang
-  Group: ATC
-  FBID: Aku1234
-  Total_Mileage: '82.49'
-  Badges: '6'
-  Run: '35.02'
-  Cycle: '95.06'
-  Swim: '3.95'
   Walk: '0.00'
 - Rank: '127'
   Name: Alloy
