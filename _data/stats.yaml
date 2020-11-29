@@ -679,6 +679,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '69'
+  Name: AP
+  Group: ADW
+  FBID: APHRMC0207
+  Total_Mileage: '146.62'
+  Badges: '8'
+  Run: '35.35'
+  Cycle: '189.49'
+  Swim: '10.65'
+  Walk: '0.00'
+- Rank: '70'
   Name: Yun Jie (Rhythm)
   Group: ADW
   FBID: Jabez8686
@@ -688,7 +698,7 @@
   Cycle: '0.00'
   Swim: '18.11'
   Walk: '4.80'
-- Rank: '70'
+- Rank: '71'
   Name: Nana
   Group: AFE
   FBID: Chris1166
@@ -698,7 +708,7 @@
   Cycle: '241.57'
   Swim: '7.10'
   Walk: '70.00'
-- Rank: '71'
+- Rank: '72'
   Name: loanshark
   Group: ATC
   FBID: loanshark9356
@@ -708,7 +718,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.64'
-- Rank: '72'
+- Rank: '73'
   Name: RainmanCYK
   Group: ADW
   FBID: Rainman0000
@@ -718,7 +728,7 @@
   Cycle: '0.00'
   Swim: '19.50'
   Walk: '0.00'
-- Rank: '73'
+- Rank: '74'
   Name: Steroid
   Group: ATC
   FBID: Steroid1007
@@ -728,7 +738,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '74'
+- Rank: '75'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -738,7 +748,7 @@
   Cycle: '101.02'
   Swim: '3.50'
   Walk: '1.63'
-- Rank: '75'
+- Rank: '76'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
   FBID: Ahbye1234
@@ -748,7 +758,7 @@
   Cycle: '200.00'
   Swim: '5.50'
   Walk: '6.00'
-- Rank: '76'
+- Rank: '77'
   Name: Bgtan
   Group: ADSS/ADWS/ADWO
   FBID: Kenny9889
@@ -758,7 +768,7 @@
   Cycle: '570.77'
   Swim: '0.00'
   Walk: '11.44'
-- Rank: '77'
+- Rank: '78'
   Name: Sen Kiat
   Group: ATC
   FBID: HSK7777
@@ -768,7 +778,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '78'
+- Rank: '79'
   Name: Weng
   Group: ADSS/ADWS/ADWO
   FBID: Weng8238
@@ -778,7 +788,7 @@
   Cycle: '337.57'
   Swim: '0.00'
   Walk: '13.86'
-- Rank: '79'
+- Rank: '80'
   Name: Sean Chua
   Group: ADSS/ADWS/ADWO
   FBID: Stop0001
@@ -788,7 +798,7 @@
   Cycle: '103.15'
   Swim: '0.00'
   Walk: '1.04'
-- Rank: '80'
+- Rank: '81'
   Name: wyh
   Group: ADW
   FBID: ljt2059
@@ -797,16 +807,6 @@
   Run: '131.87'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '81'
-  Name: AP
-  Group: ADW
-  FBID: APHRMC0207
-  Total_Mileage: '131.72'
-  Badges: '8'
-  Run: '35.35'
-  Cycle: '129.87'
-  Swim: '10.65'
   Walk: '0.00'
 - Rank: '82'
   Name: Jeremy Tan
