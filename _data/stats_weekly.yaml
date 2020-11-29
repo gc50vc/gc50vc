@@ -159,6 +159,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '17'
+  Name: 'TiGeR3 '
+  Group: ADSS/ADWS/ADWO
+  FBID: TiGeR2876
+  Total_Mileage: '59.16'
+  Badges: '0'
+  Run: '59.16'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '18'
   Name: jheng
   Group: ADSS/ADWS/ADWO
   FBID: jheng0000
@@ -168,7 +178,7 @@
   Cycle: '69.62'
   Swim: '3.30'
   Walk: '0.00'
-- Rank: '18'
+- Rank: '19'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -178,7 +188,7 @@
   Cycle: '150.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '19'
+- Rank: '20'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -188,7 +198,7 @@
   Cycle: '0.00'
   Swim: '7.35'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '21'
   Name: Prem
   Group: ADW
   FBID: Premium6687
@@ -197,16 +207,6 @@
   Run: '26.88'
   Cycle: '0.00'
   Swim: '4.50'
-  Walk: '0.00'
-- Rank: '21'
-  Name: 'TiGeR3 '
-  Group: ADSS/ADWS/ADWO
-  FBID: TiGeR2876
-  Total_Mileage: '47.65'
-  Badges: '0'
-  Run: '47.65'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '22'
   Name: Steroid
