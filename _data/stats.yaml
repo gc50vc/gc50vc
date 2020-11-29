@@ -1739,6 +1739,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '175'
+  Name: CSM
+  Group: ADSS/ADWS/ADWO
+  FBID: CSM8189
+  Total_Mileage: '58.93'
+  Badges: '4'
+  Run: '47.38'
+  Cycle: '46.20'
+  Swim: '0.00'
+  Walk: '12.30'
+- Rank: '176'
   Name: Zacchaeus
   Group: ADSS/ADWS/ADWO
   FBID: ZjSc9588
@@ -1748,7 +1758,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '176'
+- Rank: '177'
   Name: EQ
   Group: ADSS/ADWS/ADWO
   FBID: eequan1234
@@ -1758,7 +1768,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '223.30'
-- Rank: '177'
+- Rank: '178'
   Name: Jamie Chen
   Group: ADSS/ADWS/ADWO
   FBID: FLASH2911
@@ -1768,7 +1778,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '178'
+- Rank: '179'
   Name: Malice
   Group: ABM
   FBID: Malice2323
@@ -1778,7 +1788,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '130.33'
-- Rank: '179'
+- Rank: '180'
   Name: Pixel EQ
   Group: AOSX/AOS
   FBID: Pixel0323
@@ -1788,7 +1798,7 @@
   Cycle: '7.17'
   Swim: '0.00'
   Walk: '9.82'
-- Rank: '180'
+- Rank: '181'
   Name: Zhi Hao
   Group: ADSS/ADWS/ADWO
   FBID: ZhiHao_R0160
@@ -1798,16 +1808,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '181'
-  Name: CSM
-  Group: ADSS/ADWS/ADWO
-  FBID: CSM8189
-  Total_Mileage: '56.46'
-  Badges: '3'
-  Run: '47.38'
-  Cycle: '36.30'
-  Swim: '0.00'
-  Walk: '12.30'
 - Rank: '182'
   Name: LC
   Group: AFE
