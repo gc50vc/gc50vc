@@ -69,6 +69,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '8'
+  Name: Tony Foo
+  Group: ADW
+  FBID: tonyfoo0165
+  Total_Mileage: '71.80'
+  Badges: '0'
+  Run: '71.80'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '9'
   Name: aH-MuNs-Ge
   Group: AFE
   FBID: ahmuns9861
@@ -78,7 +88,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '9'
+- Rank: '10'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -88,7 +98,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '10'
+- Rank: '11'
   Name: Nicholas Lian
   Group: ADW
   FBID: horsepower2001
@@ -98,7 +108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -108,7 +118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -118,7 +128,7 @@
   Cycle: '138.41'
   Swim: '1.70'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: yapoh
   Group: ADW
   FBID: Yapoh0304
@@ -128,7 +138,7 @@
   Cycle: '90.19'
   Swim: '4.50'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '15'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -138,7 +148,7 @@
   Cycle: '63.89'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '15'
+- Rank: '16'
   Name: jheng
   Group: ADSS/ADWS/ADWO
   FBID: jheng0000
@@ -148,7 +158,7 @@
   Cycle: '69.62'
   Swim: '3.30'
   Walk: '0.00'
-- Rank: '16'
+- Rank: '17'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -158,7 +168,7 @@
   Cycle: '140.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '17'
+- Rank: '18'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -168,7 +178,7 @@
   Cycle: '0.00'
   Swim: '7.35'
   Walk: '0.00'
-- Rank: '18'
+- Rank: '19'
   Name: Prem
   Group: ADW
   FBID: Premium6687
@@ -178,7 +188,7 @@
   Cycle: '0.00'
   Swim: '4.50'
   Walk: '0.00'
-- Rank: '19'
+- Rank: '20'
   Name: Steroid
   Group: ATC
   FBID: Steroid1007
@@ -188,7 +198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '21'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -198,7 +208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: BY
   Group: ADSS/ADWS/ADWO
   FBID: Charlie3579
@@ -208,7 +218,7 @@
   Cycle: '54.74'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: You Rong
   Group: ADW
   FBID: Audi1987
@@ -218,7 +228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: Iggy
   Group: ADSS/ADWS/ADWO
   FBID: Iggy7900
@@ -228,7 +238,7 @@
   Cycle: '136.28'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: Yew Choong
   Group: ADSS/ADWS/ADWO
   FBID: GGXC0160
@@ -238,7 +248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: Wang0165
@@ -248,7 +258,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: Cookie
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -258,23 +268,13 @@
   Cycle: '33.97'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
   Total_Mileage: '40.66'
   Badges: '0'
   Run: '40.66'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '28'
-  Name: Tony Foo
-  Group: ADW
-  FBID: tonyfoo0165
-  Total_Mileage: '39.80'
-  Badges: '0'
-  Run: '39.80'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
