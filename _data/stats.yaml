@@ -229,6 +229,16 @@
   Swim: '3.85'
   Walk: '0.00'
 - Rank: '24'
+  Name: 'TiGeR3 '
+  Group: ADSS/ADWS/ADWO
+  FBID: TiGeR2876
+  Total_Mileage: '325.69'
+  Badges: '4'
+  Run: '325.69'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '25'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -238,7 +248,7 @@
   Cycle: '40.64'
   Swim: '20.95'
   Walk: '0.00'
-- Rank: '25'
+- Rank: '26'
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
@@ -248,16 +258,6 @@
   Cycle: '0.00'
   Swim: '19.94'
   Walk: '7.97'
-- Rank: '26'
-  Name: 'TiGeR3 '
-  Group: ADSS/ADWS/ADWO
-  FBID: TiGeR2876
-  Total_Mileage: '278.04'
-  Badges: '4'
-  Run: '278.04'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '27'
   Name: Jade
   Group: ABM
