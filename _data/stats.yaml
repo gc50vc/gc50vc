@@ -12,10 +12,10 @@
   Name: Ben
   Group: ADW
   FBID: BY8362
-  Total_Mileage: '1337.90'
+  Total_Mileage: '1402.90'
   Badges: '13'
   Run: '342.86'
-  Cycle: '3405.37'
+  Cycle: '3665.37'
   Swim: '23.95'
   Walk: '5.05'
 - Rank: '3'
@@ -1239,6 +1239,16 @@
   Swim: '0.00'
   Walk: '20.24'
 - Rank: '125'
+  Name: Waffles
+  Group: ATC
+  FBID: Waffles3567
+  Total_Mileage: '90.00'
+  Badges: '3'
+  Run: '90.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '3.57'
+- Rank: '126'
   Name: Rocky
   Group: AOSX/AOS
   FBID: ZeRo7113
@@ -1248,7 +1258,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '57.30'
-- Rank: '126'
+- Rank: '127'
   Name: Der Siang
   Group: ATC
   FBID: Aku1234
@@ -1258,7 +1268,7 @@
   Cycle: '95.06'
   Swim: '3.95'
   Walk: '0.00'
-- Rank: '127'
+- Rank: '128'
   Name: Yew Choong
   Group: ADSS/ADWS/ADWO
   FBID: GGXC0160
@@ -1268,7 +1278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '19.25'
-- Rank: '128'
+- Rank: '129'
   Name: Chan Howe
   Group: AOSX/AOS
   FBID: IceCube3008
@@ -1278,7 +1288,7 @@
   Cycle: '341.74'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '129'
+- Rank: '130'
   Name: Owyong
   Group: ATC
   FBID: Owyong251088
@@ -1288,7 +1298,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '130'
+- Rank: '131'
   Name: Lin Weili
   Group: AOSX/AOS
   FBID: Michelin5052
@@ -1298,7 +1308,7 @@
   Cycle: '45.08'
   Swim: '0.00'
   Walk: '1.00'
-- Rank: '131'
+- Rank: '132'
   Name: Sunray
   Group: ABM
   FBID: Sunray0909
@@ -1308,16 +1318,6 @@
   Cycle: '201.00'
   Swim: '2.01'
   Walk: '0.00'
-- Rank: '132'
-  Name: Waffles
-  Group: ATC
-  FBID: Waffles3567
-  Total_Mileage: '80.50'
-  Badges: '3'
-  Run: '80.50'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '3.57'
 - Rank: '133'
   Name: Manu
   Group: ABM
