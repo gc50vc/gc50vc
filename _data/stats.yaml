@@ -449,6 +449,16 @@
   Swim: '10.72'
   Walk: '0.00'
 - Rank: '46'
+  Name: 'Jack eng '
+  Group: AOSX/AOS
+  FBID: Jackpot6967
+  Total_Mileage: '196.79'
+  Badges: '4'
+  Run: '196.79'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '47'
   Name: Daniel Tay
   Group: AOSX/AOS
   FBID: Corrupt2705
@@ -458,7 +468,7 @@
   Cycle: '0.00'
   Swim: '18.80'
   Walk: '0.00'
-- Rank: '47'
+- Rank: '48'
   Name: Andrew
   Group: ADW
   FBID: Hammer1990
@@ -467,16 +477,6 @@
   Run: '93.03'
   Cycle: '295.12'
   Swim: '4.00'
-  Walk: '0.00'
-- Rank: '48'
-  Name: 'Jack eng '
-  Group: AOSX/AOS
-  FBID: Jackpot6967
-  Total_Mileage: '189.58'
-  Badges: '4'
-  Run: '189.58'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '49'
   Name: Lia
