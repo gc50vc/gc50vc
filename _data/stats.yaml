@@ -102,9 +102,9 @@
   Name: Prem
   Group: ADW
   FBID: Premium6687
-  Total_Mileage: '554.47'
+  Total_Mileage: '557.64'
   Badges: '9'
-  Run: '130.12'
+  Run: '133.29'
   Cycle: '42.58'
   Swim: '68.95'
   Walk: '1.32'
@@ -1029,6 +1029,16 @@
   Swim: '3.10'
   Walk: '2.30'
 - Rank: '104'
+  Name: Leon Yeo
+  Group: ADSS/ADWS/ADWO
+  FBID: LeonYeo2590
+  Total_Mileage: '106.00'
+  Badges: '4'
+  Run: '106.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '105'
   Name: Legend
   Group: ADW
   FBID: Legend2512
@@ -1038,7 +1048,7 @@
   Cycle: '191.27'
   Swim: '0.00'
   Walk: '13.11'
-- Rank: '105'
+- Rank: '106'
   Name: Sze Tein
   Group: ATC
   FBID: Topaz1327
@@ -1048,7 +1058,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '106'
+- Rank: '107'
   Name: Gwyn
   Group: ADW
   FBID: Magma1201
@@ -1058,7 +1068,7 @@
   Cycle: '46.60'
   Swim: '0.00'
   Walk: '8.93'
-- Rank: '107'
+- Rank: '108'
   Name: ARROW
   Group: ADW
   FBID: Tee1980
@@ -1068,7 +1078,7 @@
   Cycle: '92.57'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '108'
+- Rank: '109'
   Name: Rubiks
   Group: ABM
   FBID: Rubiks1234
@@ -1078,7 +1088,7 @@
   Cycle: '41.78'
   Swim: '4.10'
   Walk: '0.00'
-- Rank: '109'
+- Rank: '110'
   Name: Jenny
   Group: AFE
   FBID: Jenny7373
@@ -1088,7 +1098,7 @@
   Cycle: '11.67'
   Swim: '0.00'
   Walk: '88.20'
-- Rank: '110'
+- Rank: '111'
   Name: Maj Lim
   Group: ABM
   FBID: Legoz1000
@@ -1098,7 +1108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '16.48'
-- Rank: '111'
+- Rank: '112'
   Name: Ram
   Group: ADW
   FBID: ram7267
@@ -1107,16 +1117,6 @@
   Run: '56.61'
   Cycle: '0.00'
   Swim: '7.30'
-  Walk: '0.00'
-- Rank: '112'
-  Name: Leon Yeo
-  Group: ADSS/ADWS/ADWO
-  FBID: LeonYeo2590
-  Total_Mileage: '100.00'
-  Badges: '4'
-  Run: '100.00'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '113'
   Name: Lim Kian Hock
@@ -5798,6 +5798,16 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '168.78'
+- Rank: '575'
+  Name: Sirius
+  Group: ABM
+  FBID: Sirius1234
+  Total_Mileage: '0.00'
+  Badges: '1'
+  Run: '0.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '12.87'
 - Rank: '575'
   Name: Wilson
   Group: ADW
