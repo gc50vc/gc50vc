@@ -1139,6 +1139,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '115'
+  Name: Camper
+  Group: ADW
+  FBID: tanht1968
+  Total_Mileage: '95.01'
+  Badges: '3'
+  Run: '95.01'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '116'
   Name: Poon
   Group: ADSS/ADWS/ADWO
   FBID: Poon3636
@@ -1148,7 +1158,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '116'
+- Rank: '117'
   Name: HCM
   Group: ABM
   FBID: HCM1234
@@ -1158,7 +1168,7 @@
   Cycle: '34.01'
   Swim: '0.00'
   Walk: '40.49'
-- Rank: '117'
+- Rank: '118'
   Name: Vernon Lim
   Group: AFE
   FBID: Vernon7070
@@ -1168,7 +1178,7 @@
   Cycle: '376.95'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '118'
+- Rank: '119'
   Name: 'Windy '
   Group: ABM
   FBID: Windy4444
@@ -1178,7 +1188,7 @@
   Cycle: '0.00'
   Swim: '15.70'
   Walk: '0.00'
-- Rank: '119'
+- Rank: '120'
   Name: SARATH
   Group: ADW
   FBID: SARATH2311
@@ -1188,7 +1198,7 @@
   Cycle: '66.37'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '120'
+- Rank: '121'
   Name: TRIPS
   Group: ATC
   FBID: TRIPS_0000
@@ -1198,7 +1208,7 @@
   Cycle: '161.87'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '121'
+- Rank: '122'
   Name: Zinc
   Group: ADW
   FBID: zinc1997
@@ -1208,16 +1218,6 @@
   Cycle: '24.40'
   Swim: '0.00'
   Walk: '5.65'
-- Rank: '122'
-  Name: Camper
-  Group: ADW
-  FBID: tanht1968
-  Total_Mileage: '89.44'
-  Badges: '3'
-  Run: '89.44'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '123'
   Name: Rocky
   Group: AOSX/AOS
