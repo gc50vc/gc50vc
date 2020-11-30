@@ -112,11 +112,11 @@
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
-  Total_Mileage: '542.46'
+  Total_Mileage: '566.56'
   Badges: '13'
-  Run: '168.77'
+  Run: '177.87'
   Cycle: '209.50'
-  Swim: '53.55'
+  Swim: '56.05'
   Walk: '17.51'
 - Rank: '13'
   Name: K Y Leong
@@ -459,6 +459,16 @@
   Swim: '0.00'
   Walk: '1.57'
 - Rank: '47'
+  Name: LWY
+  Group: AFE
+  FBID: LWY3137
+  Total_Mileage: '197.25'
+  Badges: '5'
+  Run: '10.00'
+  Cycle: '749.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '48'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
@@ -468,7 +478,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '48'
+- Rank: '49'
   Name: Daniel Tay
   Group: AOSX/AOS
   FBID: Corrupt2705
@@ -478,7 +488,7 @@
   Cycle: '0.00'
   Swim: '18.80'
   Walk: '0.00'
-- Rank: '49'
+- Rank: '50'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -488,7 +498,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '50'
+- Rank: '51'
   Name: Andrew
   Group: ADW
   FBID: Hammer1990
@@ -498,7 +508,7 @@
   Cycle: '295.12'
   Swim: '4.00'
   Walk: '0.00'
-- Rank: '51'
+- Rank: '52'
   Name: bok ong
   Group: ADSS/ADWS/ADWO
   FBID: bok2903
@@ -508,7 +518,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '52'
+- Rank: '53'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -518,16 +528,6 @@
   Cycle: '18.27'
   Swim: '0.00'
   Walk: '3.42'
-- Rank: '53'
-  Name: LWY
-  Group: AFE
-  FBID: LWY3137
-  Total_Mileage: '187.25'
-  Badges: '5'
-  Run: '10.00'
-  Cycle: '709.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '54'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
