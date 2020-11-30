@@ -9,6 +9,16 @@
   Swim: '4.90'
   Walk: '0.00'
 - Rank: '2'
+  Name: Slimer
+  Group: ABM
+  FBID: Slimer1234
+  Total_Mileage: '33.51'
+  Badges: '0'
+  Run: '18.51'
+  Cycle: '0.00'
+  Swim: '2.50'
+  Walk: '0.00'
+- Rank: '3'
   Name: Ben
   Group: ADW
   FBID: BY8362
@@ -18,7 +28,7 @@
   Cycle: '80.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '3'
+- Rank: '4'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: Wang0165
@@ -28,7 +38,7 @@
   Cycle: '43.51'
   Swim: '1.25'
   Walk: '0.00'
-- Rank: '4'
+- Rank: '5'
   Name: Extreme
   Group: ATC
   FBID: Extreme8123
@@ -37,16 +47,6 @@
   Run: '0.00'
   Cycle: '101.40'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '5'
-  Name: Slimer
-  Group: ABM
-  FBID: Slimer1234
-  Total_Mileage: '24.10'
-  Badges: '0'
-  Run: '9.10'
-  Cycle: '0.00'
-  Swim: '2.50'
   Walk: '0.00'
 - Rank: '6'
   Name: Kian Seng
