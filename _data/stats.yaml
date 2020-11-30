@@ -319,6 +319,16 @@
   Swim: '6.90'
   Walk: '14.39'
 - Rank: '33'
+  Name: Dan
+  Group: ADSS/ADWS/ADWO
+  FBID: Dan1234
+  Total_Mileage: '251.21'
+  Badges: '4'
+  Run: '251.21'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '34'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -328,7 +338,7 @@
   Cycle: '703.50'
   Swim: '3.10'
   Walk: '0.00'
-- Rank: '34'
+- Rank: '35'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -338,7 +348,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -346,16 +356,6 @@
   Badges: '5'
   Run: '10.36'
   Cycle: '924.30'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '36'
-  Name: Dan
-  Group: ADSS/ADWS/ADWO
-  FBID: Dan1234
-  Total_Mileage: '240.20'
-  Badges: '4'
-  Run: '240.20'
-  Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '37'
