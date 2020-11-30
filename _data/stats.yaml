@@ -509,6 +509,16 @@
   Swim: '4.00'
   Walk: '0.00'
 - Rank: '52'
+  Name: Cosmo
+  Group: ABM
+  FBID: Cosmo6306
+  Total_Mileage: '189.78'
+  Badges: '4'
+  Run: '186.78'
+  Cycle: '0.00'
+  Swim: '0.50'
+  Walk: '10.51'
+- Rank: '53'
   Name: bok ong
   Group: ADSS/ADWS/ADWO
   FBID: bok2903
@@ -518,7 +528,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '53'
+- Rank: '54'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -528,7 +538,7 @@
   Cycle: '18.27'
   Swim: '0.00'
   Walk: '3.42'
-- Rank: '54'
+- Rank: '55'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -538,7 +548,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '4.73'
-- Rank: '55'
+- Rank: '56'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -548,7 +558,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '51.00'
-- Rank: '56'
+- Rank: '57'
   Name: Iggy
   Group: ADSS/ADWS/ADWO
   FBID: Iggy7900
@@ -558,7 +568,7 @@
   Cycle: '422.85'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '57'
+- Rank: '58'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: Errick1991
@@ -568,7 +578,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '58'
+- Rank: '59'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -578,7 +588,7 @@
   Cycle: '204.95'
   Swim: '9.90'
   Walk: '3.15'
-- Rank: '59'
+- Rank: '60'
   Name: GN
   Group: ADSS/ADWS/ADWO
   FBID: GN8282
@@ -588,7 +598,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '60'
+- Rank: '61'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -598,16 +608,6 @@
   Cycle: '8.76'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '61'
-  Name: Cosmo
-  Group: ABM
-  FBID: Cosmo6306
-  Total_Mileage: '179.18'
-  Badges: '4'
-  Run: '176.18'
-  Cycle: '0.00'
-  Swim: '0.50'
-  Walk: '10.51'
 - Rank: '62'
   Name: Lia
   Group: ADSS/ADWS/ADWO
@@ -1129,6 +1129,16 @@
   Swim: '7.30'
   Walk: '0.00'
 - Rank: '114'
+  Name: Alloy
+  Group: ABM
+  FBID: alloy8585
+  Total_Mileage: '100.41'
+  Badges: '5'
+  Run: '70.71'
+  Cycle: '0.00'
+  Swim: '4.95'
+  Walk: '0.00'
+- Rank: '115'
   Name: Lim Kian Hock
   Group: AFE
   FBID: Jon3445
@@ -1138,7 +1148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '115'
+- Rank: '116'
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
@@ -1148,7 +1158,7 @@
   Cycle: '24.16'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '116'
+- Rank: '117'
   Name: Poon
   Group: ADSS/ADWS/ADWO
   FBID: Poon3636
@@ -1158,7 +1168,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '117'
+- Rank: '118'
   Name: HCM
   Group: ABM
   FBID: HCM1234
@@ -1168,7 +1178,7 @@
   Cycle: '34.01'
   Swim: '0.00'
   Walk: '40.49'
-- Rank: '118'
+- Rank: '119'
   Name: Zinc
   Group: ADW
   FBID: zinc1997
@@ -1178,7 +1188,7 @@
   Cycle: '24.40'
   Swim: '0.00'
   Walk: '5.65'
-- Rank: '119'
+- Rank: '120'
   Name: Vernon Lim
   Group: AFE
   FBID: Vernon7070
@@ -1188,7 +1198,7 @@
   Cycle: '376.95'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '120'
+- Rank: '121'
   Name: 'Windy '
   Group: ABM
   FBID: Windy4444
@@ -1198,7 +1208,7 @@
   Cycle: '0.00'
   Swim: '15.70'
   Walk: '0.00'
-- Rank: '121'
+- Rank: '122'
   Name: SARATH
   Group: ADW
   FBID: SARATH2311
@@ -1208,7 +1218,7 @@
   Cycle: '66.37'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '122'
+- Rank: '123'
   Name: TRIPS
   Group: ATC
   FBID: TRIPS_0000
@@ -1217,16 +1227,6 @@
   Run: '52.84'
   Cycle: '161.87'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '123'
-  Name: Alloy
-  Group: ABM
-  FBID: alloy8585
-  Total_Mileage: '90.40'
-  Badges: '5'
-  Run: '60.70'
-  Cycle: '0.00'
-  Swim: '4.95'
   Walk: '0.00'
 - Rank: '124'
   Name: Waffles
