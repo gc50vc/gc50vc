@@ -2309,6 +2309,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '232'
+  Name: JIN
+  Group: ADSS/ADWS/ADWO
+  FBID: JIN1999
+  Total_Mileage: '46.06'
+  Badges: '3'
+  Run: '46.06'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '233'
   Name: Xerox
   Group: ABM
   FBID: Xerox1739
@@ -2318,7 +2328,7 @@
   Cycle: '0.00'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '233'
+- Rank: '234'
   Name: Eric Kwok
   Group: ABM
   FBID: Villain1111
@@ -2328,7 +2338,7 @@
   Cycle: '125.14'
   Swim: '1.30'
   Walk: '0.00'
-- Rank: '234'
+- Rank: '235'
   Name: johngn
   Group: ADSS/ADWS/ADWO
   FBID: john1234
@@ -2337,16 +2347,6 @@
   Run: '7.57'
   Cycle: '0.00'
   Swim: '6.25'
-  Walk: '0.00'
-- Rank: '235'
-  Name: JIN
-  Group: ADSS/ADWS/ADWO
-  FBID: JIN1999
-  Total_Mileage: '45.06'
-  Badges: '3'
-  Run: '45.06'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '236'
   Name: Nicholas
