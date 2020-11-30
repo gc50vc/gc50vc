@@ -679,6 +679,16 @@
   Swim: '0.00'
   Walk: '4.94'
 - Rank: '69'
+  Name: AP
+  Group: ADW
+  FBID: APHRMC0207
+  Total_Mileage: '151.12'
+  Badges: '8'
+  Run: '39.85'
+  Cycle: '189.49'
+  Swim: '10.65'
+  Walk: '0.00'
+- Rank: '70'
   Name: RainmanCYK
   Group: ADW
   FBID: Rainman0000
@@ -688,7 +698,7 @@
   Cycle: '0.00'
   Swim: '19.50'
   Walk: '0.00'
-- Rank: '70'
+- Rank: '71'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
   FBID: Ahbye1234
@@ -698,16 +708,6 @@
   Cycle: '200.00'
   Swim: '5.50'
   Walk: '6.00'
-- Rank: '71'
-  Name: AP
-  Group: ADW
-  FBID: APHRMC0207
-  Total_Mileage: '146.62'
-  Badges: '8'
-  Run: '35.35'
-  Cycle: '189.49'
-  Swim: '10.65'
-  Walk: '0.00'
 - Rank: '72'
   Name: Ying Tat
   Group: ADW
