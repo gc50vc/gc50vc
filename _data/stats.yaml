@@ -509,6 +509,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '52'
+  Name: Steyr
+  Group: ABM
+  FBID: Steyr9693
+  Total_Mileage: '187.92'
+  Badges: '4'
+  Run: '183.35'
+  Cycle: '18.27'
+  Swim: '0.00'
+  Walk: '3.42'
+- Rank: '53'
   Name: LWY
   Group: AFE
   FBID: LWY3137
@@ -518,7 +528,7 @@
   Cycle: '709.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '53'
+- Rank: '54'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -528,7 +538,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '4.73'
-- Rank: '54'
+- Rank: '55'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -538,7 +548,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '51.00'
-- Rank: '55'
+- Rank: '56'
   Name: Iggy
   Group: ADSS/ADWS/ADWO
   FBID: Iggy7900
@@ -548,7 +558,7 @@
   Cycle: '422.85'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '56'
+- Rank: '57'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: Errick1991
@@ -558,7 +568,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '57'
+- Rank: '58'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -568,7 +578,7 @@
   Cycle: '204.95'
   Swim: '9.90'
   Walk: '3.15'
-- Rank: '58'
+- Rank: '59'
   Name: GN
   Group: ADSS/ADWS/ADWO
   FBID: GN8282
@@ -578,16 +588,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '59'
-  Name: Steyr
-  Group: ABM
-  FBID: Steyr9693
-  Total_Mileage: '181.69'
-  Badges: '4'
-  Run: '177.12'
-  Cycle: '18.27'
-  Swim: '0.00'
-  Walk: '3.42'
 - Rank: '60'
   Name: Anson Chiu
   Group: ATC
