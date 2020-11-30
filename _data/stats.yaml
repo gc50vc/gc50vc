@@ -152,11 +152,11 @@
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: WANG0165
-  Total_Mileage: '406.53'
-  Badges: '5'
+  Total_Mileage: '414.03'
+  Badges: '6'
   Run: '385.05'
   Cycle: '24.00'
-  Swim: '2.58'
+  Swim: '3.83'
   Walk: '1.00'
 - Rank: '17'
   Name: aH-MuNs-Ge
@@ -999,6 +999,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '101'
+  Name: ARROW
+  Group: ADW
+  FBID: Tee1980
+  Total_Mileage: '108.90'
+  Badges: '4'
+  Run: '85.76'
+  Cycle: '92.57'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '102'
   Name: BY
   Group: ADSS/ADWS/ADWO
   FBID: Charlie3579
@@ -1008,7 +1018,7 @@
   Cycle: '100.20'
   Swim: '0.00'
   Walk: '5.06'
-- Rank: '102'
+- Rank: '103'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -1018,7 +1028,7 @@
   Cycle: '221.29'
   Swim: '5.10'
   Walk: '0.00'
-- Rank: '103'
+- Rank: '104'
   Name: Quainapz
   Group: ADSS/ADWS/ADWO
   FBID: Quainapz8585
@@ -1028,7 +1038,7 @@
   Cycle: '0.00'
   Swim: '3.10'
   Walk: '2.30'
-- Rank: '104'
+- Rank: '105'
   Name: 'Windy '
   Group: ABM
   FBID: Windy4444
@@ -1038,7 +1048,7 @@
   Cycle: '0.00'
   Swim: '17.70'
   Walk: '0.00'
-- Rank: '105'
+- Rank: '106'
   Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
   FBID: LeonYeo2590
@@ -1048,7 +1058,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '106'
+- Rank: '107'
   Name: Legend
   Group: ADW
   FBID: Legend2512
@@ -1058,7 +1068,7 @@
   Cycle: '191.27'
   Swim: '0.00'
   Walk: '13.11'
-- Rank: '107'
+- Rank: '108'
   Name: Sze Tein
   Group: ATC
   FBID: Topaz1327
@@ -1068,7 +1078,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '108'
+- Rank: '109'
   Name: Gwyn
   Group: ADW
   FBID: Magma1201
@@ -1078,16 +1088,6 @@
   Cycle: '46.60'
   Swim: '0.00'
   Walk: '8.93'
-- Rank: '109'
-  Name: ARROW
-  Group: ADW
-  FBID: Tee1980
-  Total_Mileage: '103.06'
-  Badges: '4'
-  Run: '79.92'
-  Cycle: '92.57'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '110'
   Name: Rubiks
   Group: ABM
