@@ -289,16 +289,6 @@
   Swim: '4.00'
   Walk: '24.83'
 - Rank: '30'
-  Name: jheng
-  Group: ADSS/ADWS/ADWO
-  FBID: jheng0000
-  Total_Mileage: '265.84'
-  Badges: '11'
-  Run: '73.22'
-  Cycle: '202.41'
-  Swim: '23.67'
-  Walk: '0.00'
-- Rank: '31'
   Name: Bronson
   Group: ADW
   FBID: Bronze1234
@@ -307,6 +297,16 @@
   Run: '61.25'
   Cycle: '232.69'
   Swim: '23.93'
+  Walk: '0.00'
+- Rank: '31'
+  Name: jheng
+  Group: ADSS/ADWS/ADWO
+  FBID: jheng0000
+  Total_Mileage: '255.33'
+  Badges: '11'
+  Run: '62.71'
+  Cycle: '202.41'
+  Swim: '23.67'
   Walk: '0.00'
 - Rank: '32'
   Name: Rycel Wong
