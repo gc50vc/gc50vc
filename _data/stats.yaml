@@ -2559,6 +2559,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '257'
+  Name: Russh
+  Group: ADSS/ADWS/ADWO
+  FBID: Rhor1234
+  Total_Mileage: '43.14'
+  Badges: '3'
+  Run: '19.84'
+  Cycle: '93.20'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '258'
   Name: USwiftO
   Group: ADW
   FBID: Swift1010
@@ -2568,7 +2578,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '258'
+- Rank: '259'
   Name: Pat160A
   Group: ADSS/ADWS/ADWO
   FBID: Pat1991
@@ -2578,7 +2588,7 @@
   Cycle: '0.00'
   Swim: '3.68'
   Walk: '0.00'
-- Rank: '259'
+- Rank: '260'
   Name: Pock xuan
   Group: ADSS/ADWS/ADWO
   FBID: Bravoadws0000
@@ -2588,7 +2598,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.60'
-- Rank: '260'
+- Rank: '261'
   Name: Cupid
   Group: AOSX/AOS
   FBID: Cupid2711
@@ -2598,7 +2608,7 @@
   Cycle: '159.10'
   Swim: '0.00'
   Walk: '2.40'
-- Rank: '261'
+- Rank: '262'
   Name: JOVAN
   Group: ADW
   FBID: NIGHTOWL1303
@@ -2608,7 +2618,7 @@
   Cycle: '43.65'
   Swim: '0.00'
   Walk: '26.05'
-- Rank: '262'
+- Rank: '263'
   Name: Leeg
   Group: ADW
   FBID: Leeg9475
@@ -2618,7 +2628,7 @@
   Cycle: '79.90'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '263'
+- Rank: '264'
   Name: Andreas
   Group: ADW
   FBID: Andreas1003
@@ -2628,7 +2638,7 @@
   Cycle: '89.30'
   Swim: '0.00'
   Walk: '6.23'
-- Rank: '264'
+- Rank: '265'
   Name: Jun Jia
   Group: ADSS/ADWS/ADWO
   FBID: JJTAN1507
@@ -2638,7 +2648,7 @@
   Cycle: '4.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '265'
+- Rank: '266'
   Name: Vincent See
   Group: AOSX/AOS
   FBID: Vincentsee8888
@@ -2647,16 +2657,6 @@
   Run: '0.00'
   Cycle: '79.00'
   Swim: '3.50'
-  Walk: '0.00'
-- Rank: '266'
-  Name: Russh
-  Group: ADSS/ADWS/ADWO
-  FBID: Rhor1234
-  Total_Mileage: '40.74'
-  Badges: '3'
-  Run: '17.44'
-  Cycle: '93.20'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '267'
   Name: Yan Ting
