@@ -199,6 +199,16 @@
   Swim: '0.00'
   Walk: '11.68'
 - Rank: '21'
+  Name: PIXAR
+  Group: ABM
+  FBID: PIXAR0001
+  Total_Mileage: '350.43'
+  Badges: '11'
+  Run: '136.67'
+  Cycle: '724.00'
+  Swim: '5.46'
+  Walk: '0.00'
+- Rank: '22'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -208,16 +218,6 @@
   Cycle: '159.02'
   Swim: '35.87'
   Walk: '109.94'
-- Rank: '22'
-  Name: PIXAR
-  Group: ABM
-  FBID: PIXAR0001
-  Total_Mileage: '339.43'
-  Badges: '11'
-  Run: '136.67'
-  Cycle: '680.00'
-  Swim: '5.46'
-  Walk: '0.00'
 - Rank: '23'
   Name: 'TiGeR3 '
   Group: ADSS/ADWS/ADWO
