@@ -1229,16 +1229,6 @@
   Swim: '4.95'
   Walk: '0.00'
 - Rank: '124'
-  Name: Wan Yuan
-  Group: ADW
-  FBID: Lost1908
-  Total_Mileage: '90.04'
-  Badges: '3'
-  Run: '90.04'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '20.24'
-- Rank: '125'
   Name: Waffles
   Group: ATC
   FBID: Waffles3567
@@ -1248,7 +1238,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.57'
-- Rank: '126'
+- Rank: '125'
   Name: Rocky
   Group: AOSX/AOS
   FBID: ZeRo7113
@@ -1258,7 +1248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '57.30'
-- Rank: '127'
+- Rank: '126'
   Name: Joey Lee Jian Wei
   Group: AFE
   FBID: Joey3811
@@ -1268,7 +1258,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '596.67'
-- Rank: '128'
+- Rank: '127'
   Name: Der Siang
   Group: ATC
   FBID: Aku1234
@@ -1278,7 +1268,7 @@
   Cycle: '95.06'
   Swim: '3.95'
   Walk: '0.00'
-- Rank: '129'
+- Rank: '128'
   Name: Yew Choong
   Group: ADSS/ADWS/ADWO
   FBID: GGXC0160
@@ -1288,6 +1278,16 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '19.25'
+- Rank: '129'
+  Name: Wan Yuan
+  Group: ADW
+  FBID: Lost1908
+  Total_Mileage: '86.63'
+  Badges: '3'
+  Run: '86.63'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '20.24'
 - Rank: '130'
   Name: Chan Howe
   Group: AOSX/AOS
