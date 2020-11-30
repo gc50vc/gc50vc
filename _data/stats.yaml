@@ -859,6 +859,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '87'
+  Name: Rock
+  Group: ADW
+  FBID: Rock0165
+  Total_Mileage: '129.16'
+  Badges: '4'
+  Run: '123.16'
+  Cycle: '0.00'
+  Swim: '1.00'
+  Walk: '6.00'
+- Rank: '88'
   Name: Gabriel Low
   Group: ADSS/ADWS/ADWO
   FBID: gabrieltried1234
@@ -868,16 +878,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '88'
-  Name: Rock
-  Group: ADW
-  FBID: Rock0165
-  Total_Mileage: '125.94'
-  Badges: '4'
-  Run: '119.94'
-  Cycle: '0.00'
-  Swim: '1.00'
-  Walk: '6.00'
 - Rank: '89'
   Name: Glenn
   Group: ADW
