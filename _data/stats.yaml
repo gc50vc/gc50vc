@@ -359,6 +359,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '37'
+  Name: Cookie
+  Group: ATC
+  FBID: Cookie3rdWSO1975
+  Total_Mileage: '231.20'
+  Badges: '6'
+  Run: '196.69'
+  Cycle: '138.03'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '38'
   Name: Ah Bing
   Group: ADW
   FBID: Bingo0507
@@ -368,7 +378,7 @@
   Cycle: '222.73'
   Swim: '4.05'
   Walk: '0.00'
-- Rank: '38'
+- Rank: '39'
   Name: Benson
   Group: ADW
   FBID: benoi1234
@@ -378,7 +388,7 @@
   Cycle: '95.28'
   Swim: '2.20'
   Walk: '1.80'
-- Rank: '39'
+- Rank: '40'
   Name: Vapor
   Group: ADW
   FBID: Vapor6148
@@ -386,16 +396,6 @@
   Badges: '4'
   Run: '211.88'
   Cycle: '36.75'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '40'
-  Name: Cookie
-  Group: ATC
-  FBID: Cookie3rdWSO1975
-  Total_Mileage: '220.65'
-  Badges: '6'
-  Run: '186.14'
-  Cycle: '138.03'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '41'
