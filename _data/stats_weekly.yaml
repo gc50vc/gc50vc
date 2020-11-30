@@ -1,4 +1,14 @@
 - Rank: '1'
+  Name: Ektar
+  Group: ABM
+  FBID: Ektar1971
+  Total_Mileage: '19.20'
+  Badges: '0'
+  Run: '6.60'
+  Cycle: '0.00'
+  Swim: '2.10'
+  Walk: '0.00'
+- Rank: '2'
   Name: PCK
   Group: ADW
   FBID: PCK2205
@@ -7,16 +17,6 @@
   Run: '14.80'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '2'
-  Name: Ektar
-  Group: ABM
-  FBID: Ektar1971
-  Total_Mileage: '12.60'
-  Badges: '0'
-  Run: '0.00'
-  Cycle: '0.00'
-  Swim: '2.10'
   Walk: '0.00'
 - Rank: '3'
   Name: Nicholas
