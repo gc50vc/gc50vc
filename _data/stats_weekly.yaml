@@ -29,6 +29,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '4'
+  Name: Essay
+  Group: ADW
+  FBID: Essay7696
+  Total_Mileage: '8.49'
+  Badges: '1'
+  Run: '8.49'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '5'
   Name: Iggy
   Group: ADSS/ADWS/ADWO
   FBID: Iggy7900
@@ -38,23 +48,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '5'
+- Rank: '6'
   Name: 'Yee Hsien '
   Group: ADSS/ADWS/ADWO
   FBID: Yeehsien1234
   Total_Mileage: '4.94'
   Badges: '0'
   Run: '4.94'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '6'
-  Name: Essay
-  Group: ADW
-  FBID: Essay7697
-  Total_Mileage: '4.85'
-  Badges: '0'
-  Run: '4.85'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
@@ -89,16 +89,6 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '10'
-  Name: Essay
-  Group: ADW
-  FBID: Essay7696
-  Total_Mileage: '3.64'
-  Badges: '1'
-  Run: '3.64'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '11'
   Name: Bryan Tan GJ
   Group: ADW
   FBID: Bryan2727
@@ -108,7 +98,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '11'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -118,7 +108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '12'
   Name: Darius Ng
   Group: ADSS/ADWS/ADWO
   FBID: bobo1234
@@ -128,7 +118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '13'
   Name: JIN
   Group: ADSS/ADWS/ADWO
   FBID: JIN1999
@@ -138,7 +128,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '15'
+- Rank: '14'
   Name: 'Joanne '
   Group: AFE
   FBID: Jojo2210
@@ -148,7 +138,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '25.66'
-- Rank: '15'
+- Rank: '14'
   Name: Eddie Chua
   Group: AFE
   FBID: EddieChua1973
