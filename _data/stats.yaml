@@ -689,6 +689,16 @@
   Swim: '19.50'
   Walk: '0.00'
 - Rank: '70'
+  Name: loanshark
+  Group: ATC
+  FBID: loanshark9356
+  Total_Mileage: '156.48'
+  Badges: '4'
+  Run: '156.48'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '1.64'
+- Rank: '71'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -698,7 +708,7 @@
   Cycle: '189.49'
   Swim: '10.65'
   Walk: '0.00'
-- Rank: '71'
+- Rank: '72'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
   FBID: Ahbye1234
@@ -708,7 +718,7 @@
   Cycle: '200.00'
   Swim: '5.50'
   Walk: '6.00'
-- Rank: '72'
+- Rank: '73'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -718,7 +728,7 @@
   Cycle: '101.02'
   Swim: '3.50'
   Walk: '1.63'
-- Rank: '73'
+- Rank: '74'
   Name: Yun Jie (Rhythm)
   Group: ADW
   FBID: Jabez8686
@@ -728,7 +738,7 @@
   Cycle: '0.00'
   Swim: '18.11'
   Walk: '4.80'
-- Rank: '74'
+- Rank: '75'
   Name: Nana
   Group: AFE
   FBID: Chris1166
@@ -738,16 +748,6 @@
   Cycle: '241.57'
   Swim: '7.10'
   Walk: '70.00'
-- Rank: '75'
-  Name: loanshark
-  Group: ATC
-  FBID: loanshark9356
-  Total_Mileage: '145.87'
-  Badges: '4'
-  Run: '145.87'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '1.64'
 - Rank: '76'
   Name: Steroid
   Group: ATC
