@@ -69,6 +69,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '8'
+  Name: ''
+  Group: AOSX/AOS
+  FBID: Scar2000
+  Total_Mileage: '32.30'
+  Badges: '3'
+  Run: '11.07'
+  Cycle: '84.92'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '9'
   Name: EG
   Group: ADSS/ADWS/ADWO
   FBID: EG3211
@@ -78,7 +88,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '9'
+- Rank: '10'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -88,7 +98,7 @@
   Cycle: '76.13'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '10'
+- Rank: '11'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -98,7 +108,7 @@
   Cycle: '91.60'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: LWY
   Group: AFE
   FBID: LWY3137
@@ -108,7 +118,7 @@
   Cycle: '110.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -118,7 +128,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: Extreme
   Group: ATC
   FBID: Extreme8123
@@ -128,7 +138,7 @@
   Cycle: '101.40'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '15'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -136,16 +146,6 @@
   Badges: '0'
   Run: '23.05'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '15'
-  Name: ''
-  Group: AOSX/AOS
-  FBID: Scar2000
-  Total_Mileage: '21.23'
-  Badges: '2'
-  Run: '0.00'
-  Cycle: '84.92'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '16'
