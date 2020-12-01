@@ -1049,6 +1049,16 @@
   Swim: '0.00'
   Walk: '5.06'
 - Rank: '106'
+  Name: Camper
+  Group: ADW
+  FBID: tanht1968
+  Total_Mileage: '106.95'
+  Badges: '4'
+  Run: '106.95'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '107'
   Name: Quainapz
   Group: ADSS/ADWS/ADWO
   FBID: Quainapz8585
@@ -1058,7 +1068,7 @@
   Cycle: '0.00'
   Swim: '3.10'
   Walk: '2.30'
-- Rank: '107'
+- Rank: '108'
   Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
   FBID: LeonYeo2590
@@ -1068,7 +1078,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '108'
+- Rank: '109'
   Name: Legend
   Group: ADW
   FBID: Legend2512
@@ -1078,7 +1088,7 @@
   Cycle: '191.27'
   Swim: '0.00'
   Walk: '13.11'
-- Rank: '109'
+- Rank: '110'
   Name: Sze Tein
   Group: ATC
   FBID: Topaz1327
@@ -1088,7 +1098,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '110'
+- Rank: '111'
   Name: Gwyn
   Group: ADW
   FBID: Magma1201
@@ -1098,7 +1108,7 @@
   Cycle: '46.60'
   Swim: '0.00'
   Walk: '8.93'
-- Rank: '111'
+- Rank: '112'
   Name: Rubiks
   Group: ABM
   FBID: Rubiks1234
@@ -1108,7 +1118,7 @@
   Cycle: '41.78'
   Swim: '4.10'
   Walk: '0.00'
-- Rank: '112'
+- Rank: '113'
   Name: Jenny
   Group: AFE
   FBID: Jenny7373
@@ -1118,7 +1128,7 @@
   Cycle: '11.67'
   Swim: '0.00'
   Walk: '88.20'
-- Rank: '113'
+- Rank: '114'
   Name: Maj Lim
   Group: ABM
   FBID: Legoz1000
@@ -1128,16 +1138,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '16.48'
-- Rank: '114'
-  Name: Camper
-  Group: ADW
-  FBID: tanht1968
-  Total_Mileage: '100.56'
-  Badges: '4'
-  Run: '100.56'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '115'
   Name: Ram
   Group: ADW
