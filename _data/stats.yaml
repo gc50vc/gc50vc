@@ -1979,6 +1979,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '199'
+  Name: johngn
+  Group: ADSS/ADWS/ADWO
+  FBID: john1234
+  Total_Mileage: '52.97'
+  Badges: '4'
+  Run: '15.47'
+  Cycle: '0.00'
+  Swim: '6.25'
+  Walk: '0.00'
+- Rank: '200'
   Name: Andrew Ng
   Group: ADW
   FBID: Maxcap2103
@@ -1988,7 +1998,7 @@
   Cycle: '42.60'
   Swim: '0.85'
   Walk: '0.98'
-- Rank: '200'
+- Rank: '201'
   Name: Nigel Tan
   Group: ADW
   FBID: lavahound0404
@@ -1998,7 +2008,7 @@
   Cycle: '58.18'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '201'
+- Rank: '202'
   Name: Logan
   Group: ABM
   FBID: Logan0001
@@ -2008,7 +2018,7 @@
   Cycle: '64.62'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '202'
+- Rank: '203'
   Name: Songbird
   Group: ABM
   FBID: Songbird1904
@@ -2018,7 +2028,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '203'
+- Rank: '204'
   Name: 3sg Charlie
   Group: ADSS/ADWS/ADWO
   FBID: Charlie2539
@@ -2028,7 +2038,7 @@
   Cycle: '0.00'
   Swim: '2.45'
   Walk: '0.00'
-- Rank: '204'
+- Rank: '205'
   Name: JTZH
   Group: ADSS/ADWS/ADWO
   FBID: Joshua2209
@@ -2038,7 +2048,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '205'
+- Rank: '206'
   Name: jAmEs h.
   Group: ADSS/ADWS/ADWO
   FBID: jAmEsh0007
@@ -2048,7 +2058,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '206'
+- Rank: '207'
   Name: Jing Wee
   Group: ADSS/ADWS/ADWO
   FBID: Pork2070
@@ -2058,7 +2068,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '207'
+- Rank: '208'
   Name: Beyblade
   Group: ATC
   FBID: Beyblade9999
@@ -2068,7 +2078,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.07'
-- Rank: '208'
+- Rank: '209'
   Name: Rambo
   Group: AOSX/AOS
   FBID: Rambo0113
@@ -2078,7 +2088,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '209'
+- Rank: '210'
   Name: junhui
   Group: ADW
   FBID: junhui2301
@@ -2088,7 +2098,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '89.75'
-- Rank: '210'
+- Rank: '211'
   Name: francisyap
   Group: AFE
   FBID: francis7373
@@ -2098,7 +2108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '211'
+- Rank: '212'
   Name: Max160A
   Group: ADSS/ADWS/ADWO
   FBID: Max2310
@@ -2108,7 +2118,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '15.28'
-- Rank: '212'
+- Rank: '213'
   Name: Bryan Tan GJ
   Group: ADW
   FBID: Bryan2727
@@ -2118,7 +2128,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '23.28'
-- Rank: '213'
+- Rank: '214'
   Name: l0ng live the beard
   Group: ADSS/ADWS/ADWO
   FBID: Rovin0787
@@ -2128,7 +2138,7 @@
   Cycle: '141.04'
   Swim: '0.00'
   Walk: '5.07'
-- Rank: '214'
+- Rank: '215'
   Name: 'Yong Liang '
   Group: AFE
   FBID: Yl0408
@@ -2138,7 +2148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '215'
+- Rank: '216'
   Name: Kenneth
   Group: ADSS/ADWS/ADWO
   FBID: Cat0407
@@ -2148,7 +2158,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '216'
+- Rank: '217'
   Name: Yew Ming
   Group: ADW
   FBID: Weefie8869
@@ -2158,7 +2168,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '216'
+- Rank: '217'
   Name: Jiongwei
   Group: ADSS/ADWS/ADWO
   FBID: Jiongwei1234
@@ -2167,16 +2177,6 @@
   Run: '50.00'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '218'
-  Name: johngn
-  Group: ADSS/ADWS/ADWO
-  FBID: john1234
-  Total_Mileage: '49.97'
-  Badges: '4'
-  Run: '12.47'
-  Cycle: '0.00'
-  Swim: '6.25'
   Walk: '0.00'
 - Rank: '219'
   Name: aH Hui
