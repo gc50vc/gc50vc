@@ -419,6 +419,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '43'
+  Name: Slong
+  Group: ADW
+  FBID: Slong1234
+  Total_Mileage: '220.26'
+  Badges: '8'
+  Run: '125.86'
+  Cycle: '65.19'
+  Swim: '13.02'
+  Walk: '0.00'
+- Rank: '44'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
@@ -428,7 +438,7 @@
   Cycle: '218.38'
   Swim: '15.00'
   Walk: '11.07'
-- Rank: '44'
+- Rank: '45'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -437,16 +447,6 @@
   Run: '211.43'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '45'
-  Name: Slong
-  Group: ADW
-  FBID: Slong1234
-  Total_Mileage: '206.46'
-  Badges: '8'
-  Run: '125.86'
-  Cycle: '65.19'
-  Swim: '10.72'
   Walk: '0.00'
 - Rank: '46'
   Name: Mouth
