@@ -99,6 +99,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '11'
+  Name: LWY
+  Group: AFE
+  FBID: LWY3137
+  Total_Mileage: '27.50'
+  Badges: '0'
+  Run: '0.00'
+  Cycle: '110.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '12'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -108,7 +118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: Extreme
   Group: ATC
   FBID: Extreme8123
@@ -118,7 +128,7 @@
   Cycle: '101.40'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -128,7 +138,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '15'
   Name: 'Windy '
   Group: ABM
   FBID: Windy4444
@@ -138,7 +148,7 @@
   Cycle: '0.00'
   Swim: '3.50'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '15'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -148,7 +158,7 @@
   Cycle: '84.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '15'
   Name: Kian Seng
   Group: ADW
   FBID: Kianseng0170
@@ -158,7 +168,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '17'
+- Rank: '18'
   Name: Kai Yi
   Group: ADW
   FBID: KaiYi1234
@@ -168,7 +178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '18'
+- Rank: '19'
   Name: sw
   Group: ADSS/ADWS/ADWO
   FBID: shaunwwx1504
@@ -176,16 +186,6 @@
   Badges: '2'
   Run: '18.88'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '19'
-  Name: LWY
-  Group: AFE
-  FBID: LWY3137
-  Total_Mileage: '17.50'
-  Badges: '0'
-  Run: '0.00'
-  Cycle: '70.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '20'
