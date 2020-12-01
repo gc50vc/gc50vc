@@ -19,6 +19,16 @@
   Swim: '4.90'
   Walk: '0.00'
 - Rank: '3'
+  Name: Slimer
+  Group: ABM
+  FBID: Slimer1234
+  Total_Mileage: '48.51'
+  Badges: '0'
+  Run: '18.51'
+  Cycle: '0.00'
+  Swim: '5.00'
+  Walk: '0.00'
+- Rank: '4'
   Name: Btee
   Group: AFE
   FBID: Brian0307
@@ -27,16 +37,6 @@
   Run: '34.73'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '4'
-  Name: Slimer
-  Group: ABM
-  FBID: Slimer1234
-  Total_Mileage: '33.51'
-  Badges: '0'
-  Run: '18.51'
-  Cycle: '0.00'
-  Swim: '2.50'
   Walk: '0.00'
 - Rank: '5'
   Name: EG
