@@ -122,9 +122,9 @@
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
-  Total_Mileage: '522.95'
+  Total_Mileage: '543.81'
   Badges: '5'
-  Run: '522.95'
+  Run: '543.81'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
@@ -449,6 +449,16 @@
   Swim: '10.72'
   Walk: '0.00'
 - Rank: '46'
+  Name: Mouth
+  Group: ABM
+  FBID: Mouth2570
+  Total_Mileage: '204.95'
+  Badges: '4'
+  Run: '204.95'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '47'
   Name: LWY
   Group: AFE
   FBID: LWY3137
@@ -458,7 +468,7 @@
   Cycle: '779.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '47'
+- Rank: '48'
   Name: AdolphusJJ
   Group: AOSX/AOS
   FBID: Bamboo1234
@@ -468,7 +478,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '48'
+- Rank: '49'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -478,23 +488,13 @@
   Cycle: '178.72'
   Swim: '0.00'
   Walk: '1.57'
-- Rank: '49'
+- Rank: '50'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
   Total_Mileage: '196.79'
   Badges: '4'
   Run: '196.79'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '50'
-  Name: Mouth
-  Group: ABM
-  FBID: Mouth2570
-  Total_Mileage: '194.93'
-  Badges: '4'
-  Run: '194.93'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
@@ -919,6 +919,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '93'
+  Name: Lightyear
+  Group: ADW
+  FBID: Lightyear2020
+  Total_Mileage: '126.23'
+  Badges: '4'
+  Run: '124.75'
+  Cycle: '5.90'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '94'
   Name: Glenn
   Group: ADW
   FBID: Garfield3110
@@ -928,7 +938,7 @@
   Cycle: '26.20'
   Swim: '0.00'
   Walk: '13.84'
-- Rank: '94'
+- Rank: '95'
   Name: Rats
   Group: ABM
   FBID: Rats1500
@@ -938,7 +948,7 @@
   Cycle: '0.00'
   Swim: '0.55'
   Walk: '0.00'
-- Rank: '95'
+- Rank: '96'
   Name: Xiaolow3344
   Group: ADSS/ADWS/ADWO
   FBID: Xiaolow3344
@@ -948,7 +958,7 @@
   Cycle: '0.00'
   Swim: '20.00'
   Walk: '71.88'
-- Rank: '96'
+- Rank: '97'
   Name: TT
   Group: ABM
   FBID: jiawei1989
@@ -958,16 +968,6 @@
   Cycle: '10.83'
   Swim: '0.00'
   Walk: '1.89'
-- Rank: '97'
-  Name: Lightyear
-  Group: ADW
-  FBID: Lightyear2020
-  Total_Mileage: '118.31'
-  Badges: '4'
-  Run: '116.83'
-  Cycle: '5.90'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '98'
   Name: 'Windy '
   Group: ABM
