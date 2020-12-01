@@ -399,6 +399,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '41'
+  Name: LWY
+  Group: AFE
+  FBID: LWY3137
+  Total_Mileage: '234.75'
+  Badges: '5'
+  Run: '10.00'
+  Cycle: '899.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '42'
   Name: Benson
   Group: ADW
   FBID: benoi1234
@@ -408,7 +418,7 @@
   Cycle: '95.28'
   Swim: '2.20'
   Walk: '1.80'
-- Rank: '42'
+- Rank: '43'
   Name: Vapor
   Group: ADW
   FBID: Vapor6148
@@ -418,7 +428,7 @@
   Cycle: '36.75'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '43'
+- Rank: '44'
   Name: Slong
   Group: ADW
   FBID: Slong1234
@@ -428,7 +438,7 @@
   Cycle: '65.19'
   Swim: '13.02'
   Walk: '0.00'
-- Rank: '44'
+- Rank: '45'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
@@ -438,16 +448,6 @@
   Cycle: '218.38'
   Swim: '15.00'
   Walk: '11.07'
-- Rank: '45'
-  Name: LWY
-  Group: AFE
-  FBID: LWY3137
-  Total_Mileage: '214.75'
-  Badges: '5'
-  Run: '10.00'
-  Cycle: '819.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '46'
   Name: Hanyong
   Group: ADW
