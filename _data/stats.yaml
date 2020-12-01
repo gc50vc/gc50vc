@@ -202,10 +202,10 @@
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
-  Total_Mileage: '350.43'
+  Total_Mileage: '360.43'
   Badges: '11'
   Run: '136.67'
-  Cycle: '724.00'
+  Cycle: '764.00'
   Swim: '5.46'
   Walk: '0.00'
 - Rank: '22'
@@ -3129,6 +3129,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '314'
+  Name: SquarePants
+  Group: AOSX/AOS
+  FBID: SquarePants5882
+  Total_Mileage: '30.44'
+  Badges: '2'
+  Run: '25.32'
+  Cycle: '20.49'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '315'
   Name: 'Chiang Meng '
   Group: AOSX/AOS
   FBID: ccm1116
@@ -3138,7 +3148,7 @@
   Cycle: '8.84'
   Swim: '1.80'
   Walk: '4.05'
-- Rank: '315'
+- Rank: '316'
   Name: Hoa Chong Xian
   Group: ADSS/ADWS/ADWO
   FBID: ADWS2415
@@ -3148,7 +3158,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '316'
+- Rank: '317'
   Name: Fam
   Group: ADSS/ADWS/ADWO
   FBID: Phantom1997
@@ -3158,7 +3168,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '317'
+- Rank: '318'
   Name: Kong
   Group: ADW
   FBID: Kong1609
@@ -3168,7 +3178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '318'
+- Rank: '319'
   Name: Guojie
   Group: ADSS/ADWS/ADWO
   FBID: Thug2107
@@ -3178,7 +3188,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '319'
+- Rank: '320'
   Name: Spear
   Group: ATC
   FBID: Spear0213
@@ -3188,7 +3198,7 @@
   Cycle: '0.00'
   Swim: '2.50'
   Walk: '0.00'
-- Rank: '320'
+- Rank: '321'
   Name: Evan
   Group: ADSS/ADWS/ADWO
   FBID: Meliodas4545
@@ -3198,7 +3208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '321'
+- Rank: '322'
   Name: Dino
   Group: ABM
   FBID: Dino1234
@@ -3208,7 +3218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '21.26'
-- Rank: '322'
+- Rank: '323'
   Name: JB Ong
   Group: AOSX/AOS
   FBID: tango8456
@@ -3218,7 +3228,7 @@
   Cycle: '25.14'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '323'
+- Rank: '324'
   Name: Ivan Tan Xuan Hao
   Group: ADW
   FBID: bravo7245
@@ -3228,7 +3238,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '324'
+- Rank: '325'
   Name: Psycho
   Group: ADW
   FBID: Psycho0165
@@ -3238,7 +3248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '325'
+- Rank: '326'
   Name: Poh Liong Wui
   Group: AFE
   FBID: Pohlw7878
@@ -3248,16 +3258,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '167.84'
-- Rank: '326'
-  Name: SquarePants
-  Group: AOSX/AOS
-  FBID: SquarePants5882
-  Total_Mileage: '27.07'
-  Badges: '2'
-  Run: '25.32'
-  Cycle: '6.99'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '327'
   Name: Ryan Yong
   Group: ADSS/ADWS/ADWO
