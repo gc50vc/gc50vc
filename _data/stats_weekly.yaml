@@ -39,6 +39,16 @@
   Swim: '5.00'
   Walk: '0.00'
 - Rank: '5'
+  Name: LWY
+  Group: AFE
+  FBID: LWY3137
+  Total_Mileage: '47.50'
+  Badges: '0'
+  Run: '0.00'
+  Cycle: '190.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '6'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: Wang0165
@@ -48,7 +58,7 @@
   Cycle: '68.29'
   Swim: '2.45'
   Walk: '0.00'
-- Rank: '6'
+- Rank: '7'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -58,7 +68,7 @@
   Cycle: '0.00'
   Swim: '4.10'
   Walk: '0.00'
-- Rank: '7'
+- Rank: '8'
   Name: Btee
   Group: AFE
   FBID: Brian0307
@@ -68,7 +78,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '8'
+- Rank: '9'
   Name: ''
   Group: AOSX/AOS
   FBID: Scar2000
@@ -78,7 +88,7 @@
   Cycle: '84.92'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '9'
+- Rank: '10'
   Name: EG
   Group: ADSS/ADWS/ADWO
   FBID: EG3211
@@ -88,7 +98,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '10'
+- Rank: '11'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -98,7 +108,7 @@
   Cycle: '76.13'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -106,16 +116,6 @@
   Badges: '0'
   Run: '4.98'
   Cycle: '91.60'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '12'
-  Name: LWY
-  Group: AFE
-  FBID: LWY3137
-  Total_Mileage: '27.50'
-  Badges: '0'
-  Run: '0.00'
-  Cycle: '110.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '13'
