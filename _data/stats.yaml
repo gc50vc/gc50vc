@@ -379,6 +379,16 @@
   Swim: '4.05'
   Walk: '0.00'
 - Rank: '39'
+  Name: Cookie
+  Group: ATC
+  FBID: Cookie3rdWSO1975
+  Total_Mileage: '235.75'
+  Badges: '6'
+  Run: '196.69'
+  Cycle: '156.22'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '40'
   Name: Btee
   Group: AFE
   FBID: Brian0307
@@ -386,16 +396,6 @@
   Badges: '4'
   Run: '235.46'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '40'
-  Name: Cookie
-  Group: ATC
-  FBID: Cookie3rdWSO1975
-  Total_Mileage: '231.20'
-  Badges: '6'
-  Run: '196.69'
-  Cycle: '138.03'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '41'
