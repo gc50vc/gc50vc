@@ -212,9 +212,9 @@
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
-  Total_Mileage: '343.62'
+  Total_Mileage: '356.16'
   Badges: '9'
-  Run: '288.00'
+  Run: '300.54'
   Cycle: '130.06'
   Swim: '3.85'
   Walk: '0.00'
@@ -829,6 +829,16 @@
   Swim: '5.10'
   Walk: '0.00'
 - Rank: '84'
+  Name: Rats
+  Group: ABM
+  FBID: Rats1500
+  Total_Mileage: '134.51'
+  Badges: '4'
+  Run: '131.21'
+  Cycle: '0.00'
+  Swim: '0.55'
+  Walk: '0.00'
+- Rank: '85'
   Name: Sean Chua
   Group: ADSS/ADWS/ADWO
   FBID: Stop0001
@@ -838,7 +848,7 @@
   Cycle: '103.15'
   Swim: '0.00'
   Walk: '1.04'
-- Rank: '85'
+- Rank: '86'
   Name: Rock
   Group: ADW
   FBID: Rock0165
@@ -848,7 +858,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '6.00'
-- Rank: '86'
+- Rank: '87'
   Name: wyh
   Group: ADW
   FBID: ljt2059
@@ -858,7 +868,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '87'
+- Rank: '88'
   Name: Jeremy Tan
   Group: ATC
   FBID: Scavenge1601
@@ -868,7 +878,7 @@
   Cycle: '0.00'
   Swim: '0.80'
   Walk: '4.02'
-- Rank: '88'
+- Rank: '89'
   Name: Fu Hao Wei
   Group: ADW
   FBID: fuhaowei8435
@@ -878,7 +888,7 @@
   Cycle: '491.10'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '89'
+- Rank: '90'
   Name: QUENCHER
   Group: ABM
   FBID: quencher2020
@@ -888,7 +898,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '90'
+- Rank: '91'
   Name: Geeky
   Group: ADW
   FBID: Geeky1989
@@ -898,7 +908,7 @@
   Cycle: '0.00'
   Swim: '9.00'
   Walk: '46.00'
-- Rank: '91'
+- Rank: '92'
   Name: Irwin Chua
   Group: AOSX/AOS
   FBID: irwin2482
@@ -908,7 +918,7 @@
   Cycle: '0.00'
   Swim: '3.60'
   Walk: '0.00'
-- Rank: '92'
+- Rank: '93'
   Name: Gabriel Low
   Group: ADSS/ADWS/ADWO
   FBID: gabrieltried1234
@@ -918,7 +928,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '93'
+- Rank: '94'
   Name: Lightyear
   Group: ADW
   FBID: Lightyear2020
@@ -928,7 +938,7 @@
   Cycle: '5.90'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '94'
+- Rank: '95'
   Name: Glenn
   Group: ADW
   FBID: Garfield3110
@@ -938,16 +948,6 @@
   Cycle: '26.20'
   Swim: '0.00'
   Walk: '13.84'
-- Rank: '95'
-  Name: Rats
-  Group: ABM
-  FBID: Rats1500
-  Total_Mileage: '122.49'
-  Badges: '4'
-  Run: '119.19'
-  Cycle: '0.00'
-  Swim: '0.55'
-  Walk: '0.00'
 - Rank: '96'
   Name: Xiaolow3344
   Group: ADSS/ADWS/ADWO
