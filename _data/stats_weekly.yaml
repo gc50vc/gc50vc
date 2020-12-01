@@ -19,6 +19,16 @@
   Swim: '4.90'
   Walk: '0.00'
 - Rank: '3'
+  Name: Ben
+  Group: ADW
+  FBID: BY8362
+  Total_Mileage: '57.10'
+  Badges: '0'
+  Run: '17.10'
+  Cycle: '160.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '4'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -28,7 +38,7 @@
   Cycle: '0.00'
   Swim: '5.00'
   Walk: '0.00'
-- Rank: '4'
+- Rank: '5'
   Name: Btee
   Group: AFE
   FBID: Brian0307
@@ -38,7 +48,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '5'
+- Rank: '6'
   Name: EG
   Group: ADSS/ADWS/ADWO
   FBID: EG3211
@@ -46,16 +56,6 @@
   Badges: '1'
   Run: '30.60'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '6'
-  Name: Ben
-  Group: ADW
-  FBID: BY8362
-  Total_Mileage: '30.10'
-  Badges: '0'
-  Run: '10.10'
-  Cycle: '80.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '7'
