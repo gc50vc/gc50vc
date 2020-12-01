@@ -439,6 +439,16 @@
   Swim: '15.00'
   Walk: '11.07'
 - Rank: '45'
+  Name: LWY
+  Group: AFE
+  FBID: LWY3137
+  Total_Mileage: '214.75'
+  Badges: '5'
+  Run: '10.00'
+  Cycle: '819.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '46'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -448,7 +458,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '46'
+- Rank: '47'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -456,16 +466,6 @@
   Badges: '4'
   Run: '204.95'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '47'
-  Name: LWY
-  Group: AFE
-  FBID: LWY3137
-  Total_Mileage: '204.75'
-  Badges: '5'
-  Run: '10.00'
-  Cycle: '779.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '48'
