@@ -349,6 +349,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '36'
+  Name: LWY
+  Group: AFE
+  FBID: LWY3137
+  Total_Mileage: '250.25'
+  Badges: '5'
+  Run: '10.00'
+  Cycle: '961.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '37'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -358,7 +368,7 @@
   Cycle: '703.50'
   Swim: '3.10'
   Walk: '0.00'
-- Rank: '37'
+- Rank: '38'
   Name: Cookie
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -368,7 +378,7 @@
   Cycle: '156.22'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '38'
+- Rank: '39'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -378,7 +388,7 @@
   Cycle: '924.30'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '39'
+- Rank: '40'
   Name: Ah Bing
   Group: ADW
   FBID: Bingo0507
@@ -388,7 +398,7 @@
   Cycle: '222.73'
   Swim: '4.05'
   Walk: '0.00'
-- Rank: '40'
+- Rank: '41'
   Name: Btee
   Group: AFE
   FBID: Brian0307
@@ -396,16 +406,6 @@
   Badges: '4'
   Run: '235.46'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '41'
-  Name: LWY
-  Group: AFE
-  FBID: LWY3137
-  Total_Mileage: '234.75'
-  Badges: '5'
-  Run: '10.00'
-  Cycle: '899.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '42'
@@ -829,6 +829,16 @@
   Swim: '5.10'
   Walk: '0.00'
 - Rank: '84'
+  Name: QUENCHER
+  Group: ABM
+  FBID: quencher2020
+  Total_Mileage: '135.46'
+  Badges: '4'
+  Run: '135.46'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '85'
   Name: Rats
   Group: ABM
   FBID: Rats1500
@@ -838,7 +848,7 @@
   Cycle: '0.00'
   Swim: '0.55'
   Walk: '0.00'
-- Rank: '85'
+- Rank: '86'
   Name: Sean Chua
   Group: ADSS/ADWS/ADWO
   FBID: Stop0001
@@ -848,7 +858,7 @@
   Cycle: '103.15'
   Swim: '0.00'
   Walk: '1.04'
-- Rank: '86'
+- Rank: '87'
   Name: Rock
   Group: ADW
   FBID: Rock0165
@@ -858,7 +868,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '6.00'
-- Rank: '87'
+- Rank: '88'
   Name: wyh
   Group: ADW
   FBID: ljt2059
@@ -868,7 +878,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '88'
+- Rank: '89'
   Name: Jeremy Tan
   Group: ATC
   FBID: Scavenge1601
@@ -878,7 +888,7 @@
   Cycle: '0.00'
   Swim: '0.80'
   Walk: '4.02'
-- Rank: '89'
+- Rank: '90'
   Name: Fu Hao Wei
   Group: ADW
   FBID: fuhaowei8435
@@ -886,16 +896,6 @@
   Badges: '4'
   Run: '7.76'
   Cycle: '491.10'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '90'
-  Name: QUENCHER
-  Group: ABM
-  FBID: quencher2020
-  Total_Mileage: '129.21'
-  Badges: '4'
-  Run: '129.21'
-  Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '91'
@@ -1009,6 +1009,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '102'
+  Name: Gwyn
+  Group: ADW
+  FBID: Magma1201
+  Total_Mileage: '115.51'
+  Badges: '5'
+  Run: '103.86'
+  Cycle: '46.60'
+  Swim: '0.00'
+  Walk: '8.93'
+- Rank: '103'
   Name: Keith low
   Group: ADSS/ADWS/ADWO
   FBID: Keithlow1998
@@ -1018,7 +1028,7 @@
   Cycle: '421.73'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '103'
+- Rank: '104'
   Name: Zena
   Group: ABM
   FBID: Zena2107
@@ -1028,7 +1038,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '104'
+- Rank: '105'
   Name: Camper
   Group: ADW
   FBID: tanht1968
@@ -1038,7 +1048,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '105'
+- Rank: '106'
   Name: Silver
   Group: ABM
   FBID: Silver5117
@@ -1048,7 +1058,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.10'
-- Rank: '106'
+- Rank: '107'
   Name: Warren Chua
   Group: ADSS/ADWS/ADWO
   FBID: Warren9588
@@ -1058,7 +1068,7 @@
   Cycle: '401.26'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '107'
+- Rank: '108'
   Name: BY
   Group: ADSS/ADWS/ADWO
   FBID: Charlie3579
@@ -1068,7 +1078,7 @@
   Cycle: '100.20'
   Swim: '0.00'
   Walk: '5.06'
-- Rank: '108'
+- Rank: '109'
   Name: Quainapz
   Group: ADSS/ADWS/ADWO
   FBID: Quainapz8585
@@ -1078,7 +1088,7 @@
   Cycle: '0.00'
   Swim: '3.10'
   Walk: '2.30'
-- Rank: '109'
+- Rank: '110'
   Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
   FBID: LeonYeo2590
@@ -1088,7 +1098,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '110'
+- Rank: '111'
   Name: Legend
   Group: ADW
   FBID: Legend2512
@@ -1098,7 +1108,7 @@
   Cycle: '191.27'
   Swim: '0.00'
   Walk: '13.11'
-- Rank: '111'
+- Rank: '112'
   Name: Sze Tein
   Group: ATC
   FBID: Topaz1327
@@ -1108,16 +1118,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '112'
-  Name: Gwyn
-  Group: ADW
-  FBID: Magma1201
-  Total_Mileage: '103.41'
-  Badges: '4'
-  Run: '91.76'
-  Cycle: '46.60'
-  Swim: '0.00'
-  Walk: '8.93'
 - Rank: '113'
   Name: Rubiks
   Group: ABM
