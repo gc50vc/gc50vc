@@ -338,7 +338,7 @@
   Cycle: '0.00'
   Swim: '2.30'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: Lia
   Group: ADSS/ADWS/ADWO
   FBID: Lia1116
@@ -348,7 +348,17 @@
   Cycle: '0.00'
   Swim: '2.25'
   Walk: '0.00'
-- Rank: '36'
+- Rank: '35'
+  Name: Hector
+  Group: ADW
+  FBID: Hector0911
+  Total_Mileage: '13.50'
+  Badges: '0'
+  Run: '0.00'
+  Cycle: '0.00'
+  Swim: '2.25'
+  Walk: '3.89'
+- Rank: '37'
   Name: Jiongwei
   Group: ADSS/ADWS/ADWO
   FBID: Jiongwei1234
@@ -358,7 +368,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '37'
+- Rank: '38'
   Name: You Rong
   Group: ADW
   FBID: Audi1987
@@ -368,16 +378,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '38'
-  Name: Hector
-  Group: ADW
-  FBID: Hector0911
-  Total_Mileage: '12.60'
-  Badges: '0'
-  Run: '0.00'
-  Cycle: '0.00'
-  Swim: '2.10'
-  Walk: '1.57'
 - Rank: '39'
   Name: Rats
   Group: ABM
