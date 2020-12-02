@@ -699,6 +699,16 @@
   Swim: '0.00'
   Walk: '1.64'
 - Rank: '71'
+  Name: Ah Bye
+  Group: ADSS/ADWS/ADWO
+  FBID: Ahbye1234
+  Total_Mileage: '154.00'
+  Badges: '10'
+  Run: '65.00'
+  Cycle: '200.00'
+  Swim: '6.50'
+  Walk: '6.00'
+- Rank: '72'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -708,16 +718,6 @@
   Cycle: '189.49'
   Swim: '10.65'
   Walk: '0.00'
-- Rank: '72'
-  Name: Ah Bye
-  Group: ADSS/ADWS/ADWO
-  FBID: Ahbye1234
-  Total_Mileage: '148.00'
-  Badges: '10'
-  Run: '65.00'
-  Cycle: '200.00'
-  Swim: '5.50'
-  Walk: '6.00'
 - Rank: '73'
   Name: Ying Tat
   Group: ADW
