@@ -849,6 +849,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '86'
+  Name: SquarePants
+  Group: AOSX/AOS
+  FBID: SQUAREPANTS5882
+  Total_Mileage: '4.76'
+  Badges: '0'
+  Run: '0.00'
+  Cycle: '19.02'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '87'
   Name: USwiftO
   Group: ADW
   FBID: Swift1010
@@ -858,7 +868,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '87'
+- Rank: '88'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -868,7 +878,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '88'
+- Rank: '89'
   Name: Kenneth
   Group: ADSS/ADWS/ADWO
   FBID: Cat0407
@@ -878,7 +888,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '89'
+- Rank: '90'
   Name: Yiheng
   Group: AOSX/AOS
   FBID: aosx4411
@@ -888,7 +898,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '90'
+- Rank: '91'
   Name: Wei Jun
   Group: ADSS/ADWS/ADWO
   FBID: khiew2345
@@ -896,16 +906,6 @@
   Badges: '0'
   Run: '3.66'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '91'
-  Name: SquarePants
-  Group: AOSX/AOS
-  FBID: SQUAREPANTS5882
-  Total_Mileage: '3.38'
-  Badges: '0'
-  Run: '0.00'
-  Cycle: '13.50'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '92'
