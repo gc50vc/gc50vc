@@ -3109,6 +3109,16 @@
   Swim: '0.00'
   Walk: '13.58'
 - Rank: '312'
+  Name: SquarePants
+  Group: AOSX/AOS
+  FBID: SquarePants5882
+  Total_Mileage: '31.82'
+  Badges: '2'
+  Run: '25.32'
+  Cycle: '26.01'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '313'
   Name: Simon Tan
   Group: ADW
   FBID: Simon1996
@@ -3118,7 +3128,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '313'
+- Rank: '314'
   Name: Kush
   Group: AFE
   FBID: KM1695
@@ -3128,7 +3138,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '188.73'
-- Rank: '314'
+- Rank: '315'
   Name: ''
   Group: AOSX/AOS
   FBID: Buffet8888
@@ -3138,7 +3148,7 @@
   Cycle: '45.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '315'
+- Rank: '316'
   Name: Gabriel Tay Kai Xian
   Group: ADW
   FBID: Blueeyeswhitedragon2901
@@ -3148,7 +3158,7 @@
   Cycle: '45.48'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '316'
+- Rank: '317'
   Name: ZhengXi
   Group: ADSS/ADWS/ADWO
   FBID: ZhengXiR0160
@@ -3158,7 +3168,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '317'
+- Rank: '318'
   Name: Ganesan
   Group: AFE
   FBID: Guinness2512
@@ -3168,7 +3178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '318'
+- Rank: '319'
   Name: Wildboar
   Group: ABM
   FBID: Wildboar1234
@@ -3176,16 +3186,6 @@
   Badges: '2'
   Run: '30.57'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '319'
-  Name: SquarePants
-  Group: AOSX/AOS
-  FBID: SquarePants5882
-  Total_Mileage: '30.44'
-  Badges: '2'
-  Run: '25.32'
-  Cycle: '20.49'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '320'
