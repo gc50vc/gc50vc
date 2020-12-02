@@ -2198,7 +2198,17 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '221'
+- Rank: '220'
+  Name: bsim
+  Group: ADSS/ADWS/ADWO
+  FBID: bsim8420
+  Total_Mileage: '50.06'
+  Badges: '2'
+  Run: '39.96'
+  Cycle: '32.00'
+  Swim: '0.35'
+  Walk: '2.87'
+- Rank: '222'
   Name: Yew Ming
   Group: ADW
   FBID: Weefie8869
@@ -2208,7 +2218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '221'
+- Rank: '222'
   Name: Jiongwei
   Group: ADSS/ADWS/ADWO
   FBID: Jiongwei1234
@@ -2218,7 +2228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '223'
+- Rank: '224'
   Name: aH Hui
   Group: ADSS/ADWS/ADWO
   FBID: Edgar0409
@@ -2228,7 +2238,7 @@
   Cycle: '82.02'
   Swim: '0.00'
   Walk: '9.07'
-- Rank: '224'
+- Rank: '225'
   Name: Winson
   Group: ADSS/ADWS/ADWO
   FBID: Winson1999
@@ -2238,7 +2248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '225'
+- Rank: '226'
   Name: Andreas
   Group: ADW
   FBID: Andreas1003
@@ -2248,7 +2258,7 @@
   Cycle: '89.30'
   Swim: '0.00'
   Walk: '6.23'
-- Rank: '226'
+- Rank: '227'
   Name: Blizzard
   Group: ATC
   FBID: blizzard1979
@@ -2258,7 +2268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '227'
+- Rank: '228'
   Name: NG Eng Ming
   Group: ADSS/ADWS/ADWO
   FBID: NgEM1858
@@ -2268,7 +2278,7 @@
   Cycle: '186.82'
   Swim: '0.00'
   Walk: '56.62'
-- Rank: '228'
+- Rank: '229'
   Name: Yi Kuang
   Group: ADW
   FBID: rocket1999
@@ -2278,7 +2288,7 @@
   Cycle: '48.82'
   Swim: '0.00'
   Walk: '1.03'
-- Rank: '229'
+- Rank: '230'
   Name: ASHWIN1234
   Group: ADW
   FBID: ASHWIN1234
@@ -2288,7 +2298,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '2.47'
-- Rank: '230'
+- Rank: '231'
   Name: Hsien Rong
   Group: ADSS/ADWS/ADWO
   FBID: xian1108
@@ -2298,7 +2308,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '231'
+- Rank: '232'
   Name: KW
   Group: ADW
   FBID: ccey9191
@@ -2308,7 +2318,7 @@
   Cycle: '162.26'
   Swim: '0.00'
   Walk: '1.78'
-- Rank: '232'
+- Rank: '233'
   Name: Essay
   Group: ADW
   FBID: Essay7696
@@ -2318,7 +2328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '5.16'
-- Rank: '233'
+- Rank: '234'
   Name: Desmond Ong
   Group: ADSS/ADWS/ADWO
   FBID: Desmondowx1992
@@ -2328,7 +2338,7 @@
   Cycle: '82.52'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '234'
+- Rank: '235'
   Name: JIAYONG
   Group: ADSS/ADWS/ADWO
   FBID: Jaywhy0309
@@ -2338,7 +2348,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '6.00'
-- Rank: '235'
+- Rank: '236'
   Name: USwiftO
   Group: ADW
   FBID: Swift1010
@@ -2348,7 +2358,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '236'
+- Rank: '237'
   Name: 'HK '
   Group: ADSS/ADWS/ADWO
   FBID: HK4812
@@ -2358,7 +2368,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '237'
+- Rank: '238'
   Name: Psychic
   Group: ATC
   FBID: psychic2204
@@ -2378,16 +2388,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '238'
-  Name: bsim
-  Group: ADSS/ADWS/ADWO
-  FBID: bsim8420
-  Total_Mileage: '46.94'
-  Badges: '2'
-  Run: '36.84'
-  Cycle: '32.00'
-  Swim: '0.35'
-  Walk: '2.87'
 - Rank: '240'
   Name: Ming Feng
   Group: ADW
