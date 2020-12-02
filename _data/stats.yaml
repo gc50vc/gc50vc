@@ -979,6 +979,16 @@
   Swim: '0.00'
   Walk: '1.89'
 - Rank: '99'
+  Name: ARROW
+  Group: ADW
+  FBID: Tee1980
+  Total_Mileage: '119.14'
+  Badges: '4'
+  Run: '96.00'
+  Cycle: '92.57'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '100'
   Name: Alloy
   Group: ABM
   FBID: alloy8585
@@ -988,7 +998,7 @@
   Cycle: '26.34'
   Swim: '4.95'
   Walk: '0.00'
-- Rank: '100'
+- Rank: '101'
   Name: 'Windy '
   Group: ABM
   FBID: Windy4444
@@ -998,7 +1008,7 @@
   Cycle: '0.00'
   Swim: '19.20'
   Walk: '0.00'
-- Rank: '101'
+- Rank: '102'
   Name: Keith low
   Group: ADSS/ADWS/ADWO
   FBID: Keithlow1998
@@ -1008,7 +1018,7 @@
   Cycle: '421.73'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '102'
+- Rank: '103'
   Name: Zena
   Group: ABM
   FBID: Zena2107
@@ -1018,7 +1028,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '103'
+- Rank: '104'
   Name: Camper
   Group: ADW
   FBID: tanht1968
@@ -1028,7 +1038,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '104'
+- Rank: '105'
   Name: Silver
   Group: ABM
   FBID: Silver5117
@@ -1038,7 +1048,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.10'
-- Rank: '105'
+- Rank: '106'
   Name: Warren Chua
   Group: ADSS/ADWS/ADWO
   FBID: Warren9588
@@ -1046,16 +1056,6 @@
   Badges: '5'
   Run: '10.49'
   Cycle: '401.26'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '106'
-  Name: ARROW
-  Group: ADW
-  FBID: Tee1980
-  Total_Mileage: '108.90'
-  Badges: '4'
-  Run: '85.76'
-  Cycle: '92.57'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '107'
