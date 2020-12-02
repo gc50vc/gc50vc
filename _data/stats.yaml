@@ -909,6 +909,16 @@
   Swim: '9.00'
   Walk: '46.00'
 - Rank: '92'
+  Name: Hector
+  Group: ADW
+  FBID: Hector0911
+  Total_Mileage: '127.23'
+  Badges: '6'
+  Run: '66.03'
+  Cycle: '0.00'
+  Swim: '10.20'
+  Walk: '8.15'
+- Rank: '93'
   Name: Irwin Chua
   Group: AOSX/AOS
   FBID: irwin2482
@@ -918,16 +928,6 @@
   Cycle: '0.00'
   Swim: '3.60'
   Walk: '0.00'
-- Rank: '93'
-  Name: Hector
-  Group: ADW
-  FBID: Hector0911
-  Total_Mileage: '126.33'
-  Badges: '6'
-  Run: '66.03'
-  Cycle: '0.00'
-  Swim: '10.05'
-  Walk: '5.83'
 - Rank: '94'
   Name: Gabriel Low
   Group: ADSS/ADWS/ADWO
