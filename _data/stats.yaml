@@ -409,6 +409,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '42'
+  Name: Vapor
+  Group: ADW
+  FBID: Vapor6148
+  Total_Mileage: '234.33'
+  Badges: '5'
+  Run: '222.94'
+  Cycle: '45.57'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '43'
   Name: Benson
   Group: ADW
   FBID: benoi1234
@@ -418,16 +428,6 @@
   Cycle: '95.28'
   Swim: '2.20'
   Walk: '1.80'
-- Rank: '43'
-  Name: Vapor
-  Group: ADW
-  FBID: Vapor6148
-  Total_Mileage: '223.27'
-  Badges: '5'
-  Run: '211.88'
-  Cycle: '45.57'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '44'
   Name: Slong
   Group: ADW
