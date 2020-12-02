@@ -359,6 +359,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '37'
+  Name: Cookie
+  Group: ATC
+  FBID: Cookie3rdWSO1975
+  Total_Mileage: '249.97'
+  Badges: '6'
+  Run: '207.20'
+  Cycle: '171.08'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '38'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -367,16 +377,6 @@
   Run: '55.00'
   Cycle: '703.50'
   Swim: '3.10'
-  Walk: '0.00'
-- Rank: '38'
-  Name: Cookie
-  Group: ATC
-  FBID: Cookie3rdWSO1975
-  Total_Mileage: '246.26'
-  Badges: '6'
-  Run: '207.20'
-  Cycle: '156.22'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '39'
   Name: David Xu
