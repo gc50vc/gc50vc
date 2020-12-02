@@ -29,6 +29,16 @@
   Swim: '8.50'
   Walk: '0.00'
 - Rank: '4'
+  Name: LWY
+  Group: AFE
+  FBID: LWY3137
+  Total_Mileage: '72.25'
+  Badges: '0'
+  Run: '0.00'
+  Cycle: '289.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '5'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -38,7 +48,7 @@
   Cycle: '0.00'
   Swim: '5.00'
   Walk: '0.00'
-- Rank: '5'
+- Rank: '6'
   Name: Daniel Tay
   Group: AOSX/AOS
   FBID: Corrupt2705
@@ -48,7 +58,7 @@
   Cycle: '0.00'
   Swim: '4.90'
   Walk: '0.00'
-- Rank: '6'
+- Rank: '7'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: Wang0165
@@ -57,16 +67,6 @@
   Run: '20.79'
   Cycle: '88.59'
   Swim: '3.40'
-  Walk: '0.00'
-- Rank: '7'
-  Name: LWY
-  Group: AFE
-  FBID: LWY3137
-  Total_Mileage: '63.00'
-  Badges: '0'
-  Run: '0.00'
-  Cycle: '252.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '8'
   Name: Sloh
