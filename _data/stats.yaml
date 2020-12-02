@@ -39,6 +39,16 @@
   Swim: '32.50'
   Walk: '0.00'
 - Rank: '5'
+  Name: Sloh
+  Group: ADW
+  FBID: Sloh0121
+  Total_Mileage: '812.17'
+  Badges: '13'
+  Run: '272.84'
+  Cycle: '1749.30'
+  Swim: '17.00'
+  Walk: '0.00'
+- Rank: '6'
   Name: Lee Wen Yang
   Group: AFE
   FBID: LWY3942
@@ -47,16 +57,6 @@
   Run: '47.51'
   Cycle: '3045.94'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '6'
-  Name: Sloh
-  Group: ADW
-  FBID: Sloh0121
-  Total_Mileage: '799.57'
-  Badges: '13'
-  Run: '260.24'
-  Cycle: '1749.30'
-  Swim: '17.00'
   Walk: '0.00'
 - Rank: '7'
   Name: Ektar
