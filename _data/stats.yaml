@@ -179,6 +179,16 @@
   Swim: '1.70'
   Walk: '2.19'
 - Rank: '19'
+  Name: PIXAR
+  Group: ABM
+  FBID: PIXAR0001
+  Total_Mileage: '375.43'
+  Badges: '11'
+  Run: '136.67'
+  Cycle: '824.00'
+  Swim: '5.46'
+  Walk: '0.00'
+- Rank: '20'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -188,7 +198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.68'
-- Rank: '20'
+- Rank: '21'
   Name: Tony Foo
   Group: ADW
   FBID: tonyfoo0165
@@ -197,16 +207,6 @@
   Run: '367.90'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '21'
-  Name: PIXAR
-  Group: ABM
-  FBID: PIXAR0001
-  Total_Mileage: '360.43'
-  Badges: '11'
-  Run: '136.67'
-  Cycle: '764.00'
-  Swim: '5.46'
   Walk: '0.00'
 - Rank: '22'
   Name: YuenG
