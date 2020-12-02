@@ -359,6 +359,16 @@
   Swim: '3.10'
   Walk: '0.00'
 - Rank: '37'
+  Name: Cookie
+  Group: ATC
+  FBID: Cookie3rdWSO1975
+  Total_Mileage: '246.26'
+  Badges: '6'
+  Run: '207.20'
+  Cycle: '156.22'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '38'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -368,7 +378,7 @@
   Cycle: '924.30'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '38'
+- Rank: '39'
   Name: Ah Bing
   Group: ADW
   FBID: Bingo0507
@@ -377,16 +387,6 @@
   Run: '156.13'
   Cycle: '222.73'
   Swim: '4.05'
-  Walk: '0.00'
-- Rank: '39'
-  Name: Cookie
-  Group: ATC
-  FBID: Cookie3rdWSO1975
-  Total_Mileage: '235.75'
-  Badges: '6'
-  Run: '196.69'
-  Cycle: '156.22'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '40'
   Name: Btee
