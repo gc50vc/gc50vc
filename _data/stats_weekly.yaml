@@ -99,6 +99,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '11'
+  Name: ''
+  Group: AOSX/AOS
+  FBID: Buffet8888
+  Total_Mileage: '31.25'
+  Badges: '3'
+  Run: '20.00'
+  Cycle: '45.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '12'
   Name: EG
   Group: ADSS/ADWS/ADWO
   FBID: EG3211
@@ -108,7 +118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -118,7 +128,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -128,7 +138,7 @@
   Cycle: '91.60'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '15'
   Name: Alloy
   Group: ABM
   FBID: alloy8585
@@ -138,7 +148,7 @@
   Cycle: '26.34'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '15'
+- Rank: '16'
   Name: Extreme
   Group: ATC
   FBID: Extreme8123
@@ -148,7 +158,7 @@
   Cycle: '101.40'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '16'
+- Rank: '17'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -158,7 +168,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '17'
+- Rank: '18'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -168,7 +178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '18'
+- Rank: '19'
   Name: 'Windy '
   Group: ABM
   FBID: Windy4444
@@ -178,7 +188,7 @@
   Cycle: '0.00'
   Swim: '3.50'
   Walk: '0.00'
-- Rank: '18'
+- Rank: '19'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -188,7 +198,7 @@
   Cycle: '84.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '18'
+- Rank: '19'
   Name: Kian Seng
   Group: ADW
   FBID: Kianseng0170
@@ -198,7 +208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: Malcolm Taong
   Group: ADSS/ADWS/ADWO
   FBID: TAONG8070
@@ -208,7 +218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: Shawn Lim
   Group: ADW
   FBID: bison2609
@@ -218,7 +228,7 @@
   Cycle: '0.00'
   Swim: '3.40'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: Coral
   Group: ABM
   FBID: Coral5050
@@ -228,23 +238,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: Kai Yi
   Group: ADW
   FBID: KaiYi1234
   Total_Mileage: '20.14'
   Badges: '0'
   Run: '20.14'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '25'
-  Name: ''
-  Group: AOSX/AOS
-  FBID: Buffet8888
-  Total_Mileage: '20.00'
-  Badges: '2'
-  Run: '20.00'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
