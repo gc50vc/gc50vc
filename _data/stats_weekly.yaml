@@ -9,6 +9,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '2'
+  Name: Ben
+  Group: ADW
+  FBID: BY8362
+  Total_Mileage: '85.05'
+  Badges: '0'
+  Run: '25.14'
+  Cycle: '239.63'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '3'
   Name: Daniel Tay
   Group: AOSX/AOS
   FBID: Corrupt2705
@@ -18,7 +28,7 @@
   Cycle: '0.00'
   Swim: '4.90'
   Walk: '0.00'
-- Rank: '3'
+- Rank: '4'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -27,16 +37,6 @@
   Run: '28.72'
   Cycle: '0.00'
   Swim: '5.00'
-  Walk: '0.00'
-- Rank: '4'
-  Name: Ben
-  Group: ADW
-  FBID: BY8362
-  Total_Mileage: '57.10'
-  Badges: '0'
-  Run: '17.10'
-  Cycle: '160.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '5'
   Name: Ektar
