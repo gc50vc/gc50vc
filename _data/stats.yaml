@@ -449,6 +449,16 @@
   Swim: '15.00'
   Walk: '11.07'
 - Rank: '46'
+  Name: Viking
+  Group: ADW
+  FBID: Viking1987
+  Total_Mileage: '215.98'
+  Badges: '7'
+  Run: '111.05'
+  Cycle: '395.72'
+  Swim: '1.00'
+  Walk: '4.00'
+- Rank: '47'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -458,7 +468,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '47'
+- Rank: '48'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -468,7 +478,7 @@
   Cycle: '178.72'
   Swim: '0.00'
   Walk: '1.57'
-- Rank: '48'
+- Rank: '49'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -478,7 +488,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '49'
+- Rank: '50'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
@@ -488,7 +498,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '50'
+- Rank: '51'
   Name: AdolphusJJ
   Group: AOSX/AOS
   FBID: Bamboo1234
@@ -498,7 +508,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '51'
+- Rank: '52'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -508,7 +518,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '4.73'
-- Rank: '52'
+- Rank: '53'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -518,7 +528,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '53.40'
-- Rank: '53'
+- Rank: '54'
   Name: Lia
   Group: ADSS/ADWS/ADWO
   FBID: Lia1116
@@ -528,7 +538,7 @@
   Cycle: '193.24'
   Swim: '7.35'
   Walk: '0.00'
-- Rank: '54'
+- Rank: '55'
   Name: Andrew
   Group: ADW
   FBID: Hammer1990
@@ -538,7 +548,7 @@
   Cycle: '295.12'
   Swim: '4.00'
   Walk: '0.00'
-- Rank: '55'
+- Rank: '56'
   Name: Cosmo
   Group: ABM
   FBID: Cosmo6306
@@ -548,7 +558,7 @@
   Cycle: '0.00'
   Swim: '0.50'
   Walk: '10.51'
-- Rank: '56'
+- Rank: '57'
   Name: bok ong
   Group: ADSS/ADWS/ADWO
   FBID: bok2903
@@ -558,7 +568,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '57'
+- Rank: '58'
   Name: GN
   Group: ADSS/ADWS/ADWO
   FBID: GN8282
@@ -568,7 +578,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '58'
+- Rank: '59'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -578,7 +588,7 @@
   Cycle: '18.27'
   Swim: '0.00'
   Walk: '3.42'
-- Rank: '59'
+- Rank: '60'
   Name: Iggy
   Group: ADSS/ADWS/ADWO
   FBID: Iggy7900
@@ -588,7 +598,7 @@
   Cycle: '422.85'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '60'
+- Rank: '61'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: Errick1991
@@ -598,7 +608,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '61'
+- Rank: '62'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -608,7 +618,7 @@
   Cycle: '204.95'
   Swim: '9.90'
   Walk: '3.15'
-- Rank: '62'
+- Rank: '63'
   Name: Malcolm Taong
   Group: ADSS/ADWS/ADWO
   FBID: TAONG8070
@@ -618,7 +628,7 @@
   Cycle: '497.27'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '63'
+- Rank: '64'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -628,16 +638,6 @@
   Cycle: '8.76'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '64'
-  Name: Viking
-  Group: ADW
-  FBID: Viking1987
-  Total_Mileage: '176.58'
-  Badges: '6'
-  Run: '71.65'
-  Cycle: '395.72'
-  Swim: '1.00'
-  Walk: '4.00'
 - Rank: '65'
   Name: You Rong
   Group: ADW
