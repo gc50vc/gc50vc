@@ -779,6 +779,16 @@
   Swim: '0.00'
   Walk: '11.44'
 - Rank: '79'
+  Name: Rock
+  Group: ADW
+  FBID: Rock0165
+  Total_Mileage: '142.11'
+  Badges: '4'
+  Run: '136.11'
+  Cycle: '0.00'
+  Swim: '1.00'
+  Walk: '6.00'
+- Rank: '80'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -788,7 +798,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '80'
+- Rank: '81'
   Name: Andre
   Group: ADW
   FBID: Andre7429
@@ -798,7 +808,7 @@
   Cycle: '485.57'
   Swim: '0.85'
   Walk: '0.00'
-- Rank: '81'
+- Rank: '82'
   Name: Groot
   Group: ADW
   FBID: Groot0163
@@ -808,7 +818,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '82'
+- Rank: '83'
   Name: Sen Kiat
   Group: ATC
   FBID: HSK7777
@@ -818,7 +828,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '83'
+- Rank: '84'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -828,7 +838,7 @@
   Cycle: '312.89'
   Swim: '5.10'
   Walk: '0.00'
-- Rank: '84'
+- Rank: '85'
   Name: QUENCHER
   Group: ABM
   FBID: quencher2020
@@ -838,7 +848,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '85'
+- Rank: '86'
   Name: Rats
   Group: ABM
   FBID: Rats1500
@@ -848,7 +858,7 @@
   Cycle: '0.00'
   Swim: '0.55'
   Walk: '0.00'
-- Rank: '86'
+- Rank: '87'
   Name: Sean Chua
   Group: ADSS/ADWS/ADWO
   FBID: Stop0001
@@ -858,16 +868,6 @@
   Cycle: '103.15'
   Swim: '0.00'
   Walk: '1.04'
-- Rank: '87'
-  Name: Rock
-  Group: ADW
-  FBID: Rock0165
-  Total_Mileage: '132.16'
-  Badges: '4'
-  Run: '126.16'
-  Cycle: '0.00'
-  Swim: '1.00'
-  Walk: '6.00'
 - Rank: '88'
   Name: wyh
   Group: ADW
