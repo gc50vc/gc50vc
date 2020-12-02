@@ -1249,6 +1249,16 @@
   Swim: '0.00'
   Walk: '1.00'
 - Rank: '126'
+  Name: Kelvin
+  Group: ADSS/ADWS/ADWO
+  FBID: Kelvin1111
+  Total_Mileage: '90.30'
+  Badges: '3'
+  Run: '90.30'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '127'
   Name: Waffles
   Group: ATC
   FBID: Waffles3567
@@ -1258,7 +1268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.57'
-- Rank: '127'
+- Rank: '128'
   Name: KevinKKW
   Group: ADSS/ADWS/ADWO
   FBID: Kkkw0165
@@ -1268,7 +1278,7 @@
   Cycle: '162.32'
   Swim: '0.00'
   Walk: '11.85'
-- Rank: '128'
+- Rank: '129'
   Name: Rocky
   Group: AOSX/AOS
   FBID: ZeRo7113
@@ -1278,7 +1288,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '57.30'
-- Rank: '129'
+- Rank: '130'
   Name: Joey Lee Jian Wei
   Group: AFE
   FBID: Joey3811
@@ -1288,7 +1298,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '663.37'
-- Rank: '130'
+- Rank: '131'
   Name: Der Siang
   Group: ATC
   FBID: Aku1234
@@ -1298,7 +1308,7 @@
   Cycle: '95.06'
   Swim: '3.95'
   Walk: '0.00'
-- Rank: '131'
+- Rank: '132'
   Name: Yew Choong
   Group: ADSS/ADWS/ADWO
   FBID: GGXC0160
@@ -1308,7 +1318,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '19.25'
-- Rank: '132'
+- Rank: '133'
   Name: Wan Yuan
   Group: ADW
   FBID: Lost1908
@@ -1318,7 +1328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '20.24'
-- Rank: '133'
+- Rank: '134'
   Name: Chan Howe
   Group: AOSX/AOS
   FBID: IceCube3008
@@ -1328,7 +1338,7 @@
   Cycle: '341.74'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '134'
+- Rank: '135'
   Name: Owyong
   Group: ATC
   FBID: Owyong251088
@@ -1338,7 +1348,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '135'
+- Rank: '136'
   Name: Darius Ng
   Group: ADSS/ADWS/ADWO
   FBID: bobo1234
@@ -1348,7 +1358,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '136'
+- Rank: '137'
   Name: Sunray
   Group: ABM
   FBID: Sunray0909
@@ -1358,7 +1368,7 @@
   Cycle: '201.00'
   Swim: '2.01'
   Walk: '0.00'
-- Rank: '137'
+- Rank: '138'
   Name: Manu
   Group: ABM
   FBID: Manu7894
@@ -1368,7 +1378,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '138'
+- Rank: '139'
   Name: COVID
   Group: ADSS/ADWS/ADWO
   FBID: COVID9999
@@ -1378,7 +1388,7 @@
   Cycle: '101.05'
   Swim: '0.00'
   Walk: '21.50'
-- Rank: '139'
+- Rank: '140'
   Name: 'Sengie '
   Group: ADW
   FBID: ARIAL0160
@@ -1388,7 +1398,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '21.08'
-- Rank: '140'
+- Rank: '141'
   Name: Pravin
   Group: ADSS/ADWS/ADWO
   FBID: Pravin8938
@@ -1398,23 +1408,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '141'
+- Rank: '142'
   Name: Kian Seng
   Group: ADW
   FBID: KianSeng0170
   Total_Mileage: '76.00'
   Badges: '3'
   Run: '76.00'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '142'
-  Name: Kelvin
-  Group: ADSS/ADWS/ADWO
-  FBID: Kelvin1111
-  Total_Mileage: '75.00'
-  Badges: '3'
-  Run: '75.00'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
