@@ -112,9 +112,9 @@
   Name: Prem
   Group: ADW
   FBID: Premium6687
-  Total_Mileage: '582.54'
+  Total_Mileage: '590.38'
   Badges: '9'
-  Run: '133.29'
+  Run: '141.13'
   Cycle: '42.58'
   Swim: '73.10'
   Walk: '1.32'
@@ -1239,6 +1239,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '125'
+  Name: Lin Weili
+  Group: AOSX/AOS
+  FBID: Michelin5052
+  Total_Mileage: '93.15'
+  Badges: '4'
+  Run: '81.88'
+  Cycle: '45.08'
+  Swim: '0.00'
+  Walk: '1.00'
+- Rank: '126'
   Name: Waffles
   Group: ATC
   FBID: Waffles3567
@@ -1248,7 +1258,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.57'
-- Rank: '126'
+- Rank: '127'
   Name: KevinKKW
   Group: ADSS/ADWS/ADWO
   FBID: Kkkw0165
@@ -1258,7 +1268,7 @@
   Cycle: '162.32'
   Swim: '0.00'
   Walk: '11.85'
-- Rank: '127'
+- Rank: '128'
   Name: Rocky
   Group: AOSX/AOS
   FBID: ZeRo7113
@@ -1268,7 +1278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '57.30'
-- Rank: '128'
+- Rank: '129'
   Name: Joey Lee Jian Wei
   Group: AFE
   FBID: Joey3811
@@ -1278,7 +1288,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '642.87'
-- Rank: '129'
+- Rank: '130'
   Name: Der Siang
   Group: ATC
   FBID: Aku1234
@@ -1288,7 +1298,7 @@
   Cycle: '95.06'
   Swim: '3.95'
   Walk: '0.00'
-- Rank: '130'
+- Rank: '131'
   Name: Yew Choong
   Group: ADSS/ADWS/ADWO
   FBID: GGXC0160
@@ -1298,7 +1308,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '19.25'
-- Rank: '131'
+- Rank: '132'
   Name: Wan Yuan
   Group: ADW
   FBID: Lost1908
@@ -1308,7 +1318,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '20.24'
-- Rank: '132'
+- Rank: '133'
   Name: Chan Howe
   Group: AOSX/AOS
   FBID: IceCube3008
@@ -1318,7 +1328,7 @@
   Cycle: '341.74'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '133'
+- Rank: '134'
   Name: Owyong
   Group: ATC
   FBID: Owyong251088
@@ -1328,16 +1338,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '134'
-  Name: Lin Weili
-  Group: AOSX/AOS
-  FBID: Michelin5052
-  Total_Mileage: '83.15'
-  Badges: '4'
-  Run: '71.88'
-  Cycle: '45.08'
-  Swim: '0.00'
-  Walk: '1.00'
 - Rank: '135'
   Name: Darius Ng
   Group: ADSS/ADWS/ADWO
