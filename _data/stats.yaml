@@ -329,6 +329,16 @@
   Swim: '23.70'
   Walk: '0.00'
 - Rank: '34'
+  Name: LWY
+  Group: AFE
+  FBID: LWY3137
+  Total_Mileage: '259.50'
+  Badges: '5'
+  Run: '10.00'
+  Cycle: '998.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '35'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -338,7 +348,7 @@
   Cycle: '560.20'
   Swim: '6.90'
   Walk: '14.39'
-- Rank: '35'
+- Rank: '36'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -346,16 +356,6 @@
   Badges: '4'
   Run: '251.21'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '36'
-  Name: LWY
-  Group: AFE
-  FBID: LWY3137
-  Total_Mileage: '250.25'
-  Badges: '5'
-  Run: '10.00'
-  Cycle: '961.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '37'
