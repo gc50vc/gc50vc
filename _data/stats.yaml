@@ -289,6 +289,16 @@
   Swim: '4.00'
   Walk: '24.83'
 - Rank: '30'
+  Name: Loke Hon Wah
+  Group: ADSS/ADWS/ADWO
+  FBID: HonWah1607
+  Total_Mileage: '268.36'
+  Badges: '4'
+  Run: '268.36'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '31'
   Name: jheng
   Group: ADSS/ADWS/ADWO
   FBID: jheng0000
@@ -298,7 +308,7 @@
   Cycle: '202.41'
   Swim: '23.67'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '32'
   Name: Bronson
   Group: ADW
   FBID: Bronze1234
@@ -308,7 +318,7 @@
   Cycle: '232.69'
   Swim: '23.93'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '33'
   Name: Daniel Tay
   Group: AOSX/AOS
   FBID: Corrupt2705
@@ -318,7 +328,7 @@
   Cycle: '0.00'
   Swim: '23.70'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '34'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -328,7 +338,7 @@
   Cycle: '560.20'
   Swim: '6.90'
   Walk: '14.39'
-- Rank: '34'
+- Rank: '35'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -338,7 +348,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
@@ -347,16 +357,6 @@
   Run: '55.00'
   Cycle: '703.50'
   Swim: '3.10'
-  Walk: '0.00'
-- Rank: '36'
-  Name: Loke Hon Wah
-  Group: ADSS/ADWS/ADWO
-  FBID: HonWah1607
-  Total_Mileage: '247.15'
-  Badges: '4'
-  Run: '247.15'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '37'
   Name: David Xu
