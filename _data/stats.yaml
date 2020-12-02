@@ -1339,6 +1339,16 @@
   Swim: '0.00'
   Walk: '1.00'
 - Rank: '135'
+  Name: Darius Ng
+  Group: ADSS/ADWS/ADWO
+  FBID: bobo1234
+  Total_Mileage: '82.85'
+  Badges: '3'
+  Run: '82.85'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '136'
   Name: Sunray
   Group: ABM
   FBID: Sunray0909
@@ -1348,23 +1358,13 @@
   Cycle: '201.00'
   Swim: '2.01'
   Walk: '0.00'
-- Rank: '136'
+- Rank: '137'
   Name: Manu
   Group: ABM
   FBID: Manu7894
   Total_Mileage: '80.21'
   Badges: '3'
   Run: '80.21'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '137'
-  Name: Darius Ng
-  Group: ADSS/ADWS/ADWO
-  FBID: bobo1234
-  Total_Mileage: '79.85'
-  Badges: '3'
-  Run: '79.85'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
@@ -5967,7 +5967,7 @@
   Run: '0.00'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '855.50'
+  Walk: '957.20'
 - Rank: '567'
   Name: Aura Eric
   Group: AOSX/AOS
