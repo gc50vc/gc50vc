@@ -249,6 +249,16 @@
   Swim: '1.40'
   Walk: '5.33'
 - Rank: '26'
+  Name: Elliot Goodman
+  Group: ADW
+  FBID: Goodman8888
+  Total_Mileage: '15.23'
+  Badges: '0'
+  Run: '15.23'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '27'
   Name: Cookie
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -258,7 +268,7 @@
   Cycle: '18.19'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: Declanmelo
   Group: ADSS/ADWS/ADWO
   FBID: Declan1234
@@ -268,7 +278,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: PCK
   Group: ADW
   FBID: PCK2205
@@ -278,7 +288,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: Nicholas Lian
   Group: ADW
   FBID: horsepower2001
@@ -288,7 +298,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '31'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -298,7 +308,7 @@
   Cycle: '42.27'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '32'
   Name: Slong
   Group: ADW
   FBID: Slong1234
@@ -308,7 +318,7 @@
   Cycle: '0.00'
   Swim: '2.30'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '33'
   Name: Lia
   Group: ADSS/ADWS/ADWO
   FBID: Lia1116
@@ -318,7 +328,7 @@
   Cycle: '0.00'
   Swim: '2.25'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '34'
   Name: Jiongwei
   Group: ADSS/ADWS/ADWO
   FBID: Jiongwei1234
@@ -328,23 +338,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '34'
+- Rank: '35'
   Name: You Rong
   Group: ADW
   FBID: Audi1987
   Total_Mileage: '12.69'
   Badges: '0'
   Run: '12.69'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '35'
-  Name: Elliot Goodman
-  Group: ADW
-  FBID: Goodman8888
-  Total_Mileage: '12.08'
-  Badges: '0'
-  Run: '12.08'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
