@@ -1009,6 +1009,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '102'
+  Name: Sze Tein
+  Group: ATC
+  FBID: Topaz1327
+  Total_Mileage: '116.75'
+  Badges: '4'
+  Run: '116.75'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '103'
   Name: Gwyn
   Group: ADW
   FBID: Magma1201
@@ -1018,7 +1028,7 @@
   Cycle: '46.60'
   Swim: '0.00'
   Walk: '8.93'
-- Rank: '103'
+- Rank: '104'
   Name: Keith low
   Group: ADSS/ADWS/ADWO
   FBID: Keithlow1998
@@ -1028,7 +1038,7 @@
   Cycle: '421.73'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '104'
+- Rank: '105'
   Name: Zena
   Group: ABM
   FBID: Zena2107
@@ -1038,7 +1048,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '105'
+- Rank: '106'
   Name: Camper
   Group: ADW
   FBID: tanht1968
@@ -1048,7 +1058,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '106'
+- Rank: '107'
   Name: Silver
   Group: ABM
   FBID: Silver5117
@@ -1058,7 +1068,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.10'
-- Rank: '107'
+- Rank: '108'
   Name: Warren Chua
   Group: ADSS/ADWS/ADWO
   FBID: Warren9588
@@ -1068,7 +1078,7 @@
   Cycle: '401.26'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '108'
+- Rank: '109'
   Name: BY
   Group: ADSS/ADWS/ADWO
   FBID: Charlie3579
@@ -1078,7 +1088,7 @@
   Cycle: '100.20'
   Swim: '0.00'
   Walk: '5.06'
-- Rank: '109'
+- Rank: '110'
   Name: Quainapz
   Group: ADSS/ADWS/ADWO
   FBID: Quainapz8585
@@ -1088,7 +1098,7 @@
   Cycle: '0.00'
   Swim: '3.10'
   Walk: '2.30'
-- Rank: '110'
+- Rank: '111'
   Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
   FBID: LeonYeo2590
@@ -1098,7 +1108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '111'
+- Rank: '112'
   Name: Legend
   Group: ADW
   FBID: Legend2512
@@ -1108,16 +1118,6 @@
   Cycle: '191.27'
   Swim: '0.00'
   Walk: '13.11'
-- Rank: '112'
-  Name: Sze Tein
-  Group: ATC
-  FBID: Topaz1327
-  Total_Mileage: '103.63'
-  Badges: '4'
-  Run: '103.63'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '113'
   Name: Rubiks
   Group: ABM
