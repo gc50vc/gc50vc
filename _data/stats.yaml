@@ -899,6 +899,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '91'
+  Name: Lightyear
+  Group: ADW
+  FBID: Lightyear2020
+  Total_Mileage: '128.28'
+  Badges: '4'
+  Run: '126.80'
+  Cycle: '5.90'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '92'
   Name: Geeky
   Group: ADW
   FBID: Geeky1989
@@ -908,7 +918,7 @@
   Cycle: '0.00'
   Swim: '9.00'
   Walk: '46.00'
-- Rank: '92'
+- Rank: '93'
   Name: Hector
   Group: ADW
   FBID: Hector0911
@@ -918,7 +928,7 @@
   Cycle: '0.00'
   Swim: '10.20'
   Walk: '8.15'
-- Rank: '93'
+- Rank: '94'
   Name: Irwin Chua
   Group: AOSX/AOS
   FBID: irwin2482
@@ -928,7 +938,7 @@
   Cycle: '0.00'
   Swim: '3.60'
   Walk: '0.00'
-- Rank: '94'
+- Rank: '95'
   Name: Gabriel Low
   Group: ADSS/ADWS/ADWO
   FBID: gabrieltried1234
@@ -936,16 +946,6 @@
   Badges: '4'
   Run: '126.29'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '95'
-  Name: Lightyear
-  Group: ADW
-  FBID: Lightyear2020
-  Total_Mileage: '126.23'
-  Badges: '4'
-  Run: '124.75'
-  Cycle: '5.90'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '96'
