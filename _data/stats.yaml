@@ -349,6 +349,16 @@
   Swim: '6.90'
   Walk: '14.39'
 - Rank: '36'
+  Name: Cookie
+  Group: ATC
+  FBID: Cookie3rdWSO1975
+  Total_Mileage: '252.36'
+  Badges: '6'
+  Run: '207.20'
+  Cycle: '180.62'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '37'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -356,16 +366,6 @@
   Badges: '4'
   Run: '251.21'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '37'
-  Name: Cookie
-  Group: ATC
-  FBID: Cookie3rdWSO1975
-  Total_Mileage: '249.97'
-  Badges: '6'
-  Run: '207.20'
-  Cycle: '171.08'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '38'
