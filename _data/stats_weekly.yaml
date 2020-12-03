@@ -1,4 +1,14 @@
 - Rank: '1'
+  Name: Extreme
+  Group: ATC
+  FBID: Extreme8123
+  Total_Mileage: '112.95'
+  Badges: '0'
+  Run: '0.00'
+  Cycle: '101.40'
+  Swim: '14.60'
+  Walk: '0.00'
+- Rank: '2'
   Name: Groot
   Group: ADW
   FBID: Groot0163
@@ -8,7 +18,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '2'
+- Rank: '3'
   Name: Ben
   Group: ADW
   FBID: BY8362
@@ -17,16 +27,6 @@
   Run: '25.14'
   Cycle: '239.63'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '3'
-  Name: Extreme
-  Group: ATC
-  FBID: Extreme8123
-  Total_Mileage: '76.35'
-  Badges: '0'
-  Run: '0.00'
-  Cycle: '101.40'
-  Swim: '8.50'
   Walk: '0.00'
 - Rank: '4'
   Name: LWY
