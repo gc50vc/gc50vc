@@ -199,6 +199,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '21'
+  Name: Coral
+  Group: ABM
+  FBID: Coral5050
+  Total_Mileage: '29.44'
+  Badges: '0'
+  Run: '24.36'
+  Cycle: '20.31'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '22'
   Name: Tony Foo
   Group: ADW
   FBID: tonyfoo0165
@@ -208,7 +218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: Cookie
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -218,7 +228,7 @@
   Cycle: '33.05'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -228,7 +238,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '24'
+- Rank: '25'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -236,16 +246,6 @@
   Badges: '0'
   Run: '4.98'
   Cycle: '91.60'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '25'
-  Name: Coral
-  Group: ABM
-  FBID: Coral5050
-  Total_Mileage: '24.36'
-  Badges: '0'
-  Run: '24.36'
-  Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '26'
