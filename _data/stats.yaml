@@ -489,6 +489,16 @@
   Swim: '0.00'
   Walk: '1.57'
 - Rank: '50'
+  Name: Liwei
+  Group: ADW
+  FBID: dragongate5270
+  Total_Mileage: '206.44'
+  Badges: '11'
+  Run: '80.80'
+  Cycle: '228.95'
+  Swim: '11.40'
+  Walk: '3.15'
+- Rank: '51'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
@@ -498,7 +508,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '51'
+- Rank: '52'
   Name: AdolphusJJ
   Group: AOSX/AOS
   FBID: Bamboo1234
@@ -508,7 +518,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '52'
+- Rank: '53'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -518,7 +528,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '4.73'
-- Rank: '53'
+- Rank: '54'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -528,7 +538,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '53.40'
-- Rank: '54'
+- Rank: '55'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -538,7 +548,7 @@
   Cycle: '18.27'
   Swim: '0.00'
   Walk: '3.42'
-- Rank: '55'
+- Rank: '56'
   Name: Lia
   Group: ADSS/ADWS/ADWO
   FBID: Lia1116
@@ -548,16 +558,6 @@
   Cycle: '193.24'
   Swim: '7.35'
   Walk: '0.00'
-- Rank: '56'
-  Name: Liwei
-  Group: ADW
-  FBID: dragongate5270
-  Total_Mileage: '191.44'
-  Badges: '11'
-  Run: '80.80'
-  Cycle: '204.95'
-  Swim: '9.90'
-  Walk: '3.15'
 - Rank: '57'
   Name: Andrew
   Group: ADW
@@ -729,6 +729,16 @@
   Swim: '18.11'
   Walk: '4.80'
 - Rank: '74'
+  Name: Weaver
+  Group: ADW
+  FBID: Weaver5275
+  Total_Mileage: '148.53'
+  Badges: '4'
+  Run: '148.53'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '75'
   Name: Weng
   Group: ADSS/ADWS/ADWO
   FBID: Weng8238
@@ -738,7 +748,7 @@
   Cycle: '380.60'
   Swim: '0.00'
   Walk: '13.86'
-- Rank: '75'
+- Rank: '76'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -748,7 +758,7 @@
   Cycle: '101.02'
   Swim: '3.50'
   Walk: '1.63'
-- Rank: '76'
+- Rank: '77'
   Name: Nana
   Group: AFE
   FBID: Chris1166
@@ -758,7 +768,7 @@
   Cycle: '241.57'
   Swim: '7.10'
   Walk: '70.00'
-- Rank: '77'
+- Rank: '78'
   Name: Steroid
   Group: ATC
   FBID: Steroid1007
@@ -768,7 +778,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '78'
+- Rank: '79'
   Name: Andre
   Group: ADW
   FBID: Andre7429
@@ -778,7 +788,7 @@
   Cycle: '485.57'
   Swim: '0.85'
   Walk: '0.00'
-- Rank: '79'
+- Rank: '80'
   Name: Bgtan
   Group: ADSS/ADWS/ADWO
   FBID: Kenny9889
@@ -788,7 +798,7 @@
   Cycle: '570.77'
   Swim: '0.00'
   Walk: '11.44'
-- Rank: '80'
+- Rank: '81'
   Name: Rock
   Group: ADW
   FBID: Rock0165
@@ -798,16 +808,6 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '6.00'
-- Rank: '81'
-  Name: Weaver
-  Group: ADW
-  FBID: Weaver5275
-  Total_Mileage: '139.99'
-  Badges: '4'
-  Run: '139.99'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '82'
   Name: Groot
   Group: ADW
