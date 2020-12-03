@@ -239,6 +239,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '25'
+  Name: Coral
+  Group: ABM
+  FBID: Coral5050
+  Total_Mileage: '24.36'
+  Badges: '0'
+  Run: '24.36'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '26'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -248,7 +258,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '26'
+- Rank: '27'
   Name: Kelvin
   Group: ADSS/ADWS/ADWO
   FBID: Kelvin1111
@@ -258,7 +268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: Andre
   Group: ADW
   FBID: Andre7429
@@ -268,7 +278,7 @@
   Cycle: '41.29'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '29'
   Name: Kian Seng
   Group: ADW
   FBID: Kianseng0170
@@ -278,7 +288,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: Malcolm Taong
   Group: ADSS/ADWS/ADWO
   FBID: TAONG8070
@@ -288,7 +298,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '31'
   Name: Shawn Lim
   Group: ADW
   FBID: bison2609
@@ -297,16 +307,6 @@
   Run: '0.00'
   Cycle: '0.00'
   Swim: '3.40'
-  Walk: '0.00'
-- Rank: '31'
-  Name: Coral
-  Group: ABM
-  FBID: Coral5050
-  Total_Mileage: '20.37'
-  Badges: '0'
-  Run: '20.37'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '32'
   Name: Kai Yi
