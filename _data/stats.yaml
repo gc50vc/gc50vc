@@ -1139,6 +1139,16 @@
   Swim: '0.00'
   Walk: '88.20'
 - Rank: '115'
+  Name: TRIPS
+  Group: ATC
+  FBID: TRIPS_0000
+  Total_Mileage: '101.10'
+  Badges: '5'
+  Run: '60.63'
+  Cycle: '161.87'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '116'
   Name: Maj Lim
   Group: ABM
   FBID: Legoz1000
@@ -1148,7 +1158,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '16.48'
-- Rank: '116'
+- Rank: '117'
   Name: Ram
   Group: ADW
   FBID: ram7267
@@ -1158,7 +1168,7 @@
   Cycle: '0.00'
   Swim: '7.30'
   Walk: '0.00'
-- Rank: '117'
+- Rank: '118'
   Name: Lim Kian Hock
   Group: AFE
   FBID: Jon3445
@@ -1168,7 +1178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '118'
+- Rank: '119'
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
@@ -1178,7 +1188,7 @@
   Cycle: '24.16'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '119'
+- Rank: '120'
   Name: Poon
   Group: ADSS/ADWS/ADWO
   FBID: Poon3636
@@ -1188,7 +1198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '120'
+- Rank: '121'
   Name: HCM
   Group: ABM
   FBID: HCM1234
@@ -1198,7 +1208,7 @@
   Cycle: '34.01'
   Swim: '0.00'
   Walk: '40.49'
-- Rank: '121'
+- Rank: '122'
   Name: Zinc
   Group: ADW
   FBID: zinc1997
@@ -1208,7 +1218,7 @@
   Cycle: '24.40'
   Swim: '0.00'
   Walk: '5.65'
-- Rank: '122'
+- Rank: '123'
   Name: Vernon Lim
   Group: AFE
   FBID: Vernon7070
@@ -1218,7 +1228,7 @@
   Cycle: '376.95'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '123'
+- Rank: '124'
   Name: SARATH
   Group: ADW
   FBID: SARATH2311
@@ -1226,16 +1236,6 @@
   Badges: '4'
   Run: '77.04'
   Cycle: '66.37'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '124'
-  Name: TRIPS
-  Group: ATC
-  FBID: TRIPS_0000
-  Total_Mileage: '93.31'
-  Badges: '5'
-  Run: '52.84'
-  Cycle: '161.87'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '125'
