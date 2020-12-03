@@ -9,6 +9,16 @@
   Swim: '14.60'
   Walk: '0.00'
 - Rank: '2'
+  Name: Ben
+  Group: ADW
+  FBID: BY8362
+  Total_Mileage: '112.10'
+  Badges: '0'
+  Run: '25.14'
+  Cycle: '322.63'
+  Swim: '1.05'
+  Walk: '0.00'
+- Rank: '3'
   Name: Groot
   Group: ADW
   FBID: Groot0163
@@ -16,16 +26,6 @@
   Badges: '2'
   Run: '96.98'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '3'
-  Name: Ben
-  Group: ADW
-  FBID: BY8362
-  Total_Mileage: '85.05'
-  Badges: '0'
-  Run: '25.14'
-  Cycle: '239.63'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '4'
