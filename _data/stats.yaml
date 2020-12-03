@@ -1129,6 +1129,16 @@
   Swim: '4.10'
   Walk: '0.00'
 - Rank: '114'
+  Name: Yew Choong
+  Group: ADSS/ADWS/ADWO
+  FBID: GGXC0160
+  Total_Mileage: '102.59'
+  Badges: '4'
+  Run: '102.59'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '19.25'
+- Rank: '115'
   Name: Jenny
   Group: AFE
   FBID: Jenny7373
@@ -1138,7 +1148,7 @@
   Cycle: '11.67'
   Swim: '0.00'
   Walk: '88.20'
-- Rank: '115'
+- Rank: '116'
   Name: TRIPS
   Group: ATC
   FBID: TRIPS_0000
@@ -1148,7 +1158,7 @@
   Cycle: '161.87'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '116'
+- Rank: '117'
   Name: Maj Lim
   Group: ABM
   FBID: Legoz1000
@@ -1158,7 +1168,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '16.48'
-- Rank: '117'
+- Rank: '118'
   Name: Ram
   Group: ADW
   FBID: ram7267
@@ -1168,7 +1178,7 @@
   Cycle: '0.00'
   Swim: '7.30'
   Walk: '0.00'
-- Rank: '118'
+- Rank: '119'
   Name: Lim Kian Hock
   Group: AFE
   FBID: Jon3445
@@ -1178,7 +1188,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '119'
+- Rank: '120'
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
@@ -1188,7 +1198,7 @@
   Cycle: '24.16'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '120'
+- Rank: '121'
   Name: Poon
   Group: ADSS/ADWS/ADWO
   FBID: Poon3636
@@ -1198,7 +1208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '121'
+- Rank: '122'
   Name: HCM
   Group: ABM
   FBID: HCM1234
@@ -1208,7 +1218,7 @@
   Cycle: '34.01'
   Swim: '0.00'
   Walk: '40.49'
-- Rank: '122'
+- Rank: '123'
   Name: Zinc
   Group: ADW
   FBID: zinc1997
@@ -1218,7 +1228,7 @@
   Cycle: '24.40'
   Swim: '0.00'
   Walk: '5.65'
-- Rank: '123'
+- Rank: '124'
   Name: Vernon Lim
   Group: AFE
   FBID: Vernon7070
@@ -1228,7 +1238,7 @@
   Cycle: '376.95'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '124'
+- Rank: '125'
   Name: SARATH
   Group: ADW
   FBID: SARATH2311
@@ -1238,7 +1248,7 @@
   Cycle: '66.37'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '125'
+- Rank: '126'
   Name: Lin Weili
   Group: AOSX/AOS
   FBID: Michelin5052
@@ -1248,7 +1258,7 @@
   Cycle: '45.08'
   Swim: '0.00'
   Walk: '1.00'
-- Rank: '126'
+- Rank: '127'
   Name: Kelvin
   Group: ADSS/ADWS/ADWO
   FBID: Kelvin1111
@@ -1258,7 +1268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '127'
+- Rank: '128'
   Name: Waffles
   Group: ATC
   FBID: Waffles3567
@@ -1268,7 +1278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.57'
-- Rank: '128'
+- Rank: '129'
   Name: KevinKKW
   Group: ADSS/ADWS/ADWO
   FBID: Kkkw0165
@@ -1278,7 +1288,7 @@
   Cycle: '162.32'
   Swim: '0.00'
   Walk: '11.85'
-- Rank: '129'
+- Rank: '130'
   Name: Rocky
   Group: AOSX/AOS
   FBID: ZeRo7113
@@ -1288,7 +1298,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '57.30'
-- Rank: '130'
+- Rank: '131'
   Name: Joey Lee Jian Wei
   Group: AFE
   FBID: Joey3811
@@ -1298,7 +1308,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '685.87'
-- Rank: '131'
+- Rank: '132'
   Name: Der Siang
   Group: ATC
   FBID: Aku1234
@@ -1308,16 +1318,6 @@
   Cycle: '95.06'
   Swim: '3.95'
   Walk: '0.00'
-- Rank: '132'
-  Name: Yew Choong
-  Group: ADSS/ADWS/ADWO
-  FBID: GGXC0160
-  Total_Mileage: '87.27'
-  Badges: '3'
-  Run: '87.27'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '19.25'
 - Rank: '133'
   Name: Wan Yuan
   Group: ADW
