@@ -1329,6 +1329,16 @@
   Swim: '0.00'
   Walk: '20.24'
 - Rank: '134'
+  Name: COVID
+  Group: ADSS/ADWS/ADWO
+  FBID: COVID9999
+  Total_Mileage: '86.60'
+  Badges: '5'
+  Run: '61.34'
+  Cycle: '101.05'
+  Swim: '0.00'
+  Walk: '21.50'
+- Rank: '135'
   Name: Chan Howe
   Group: AOSX/AOS
   FBID: IceCube3008
@@ -1338,7 +1348,7 @@
   Cycle: '341.74'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '135'
+- Rank: '136'
   Name: Owyong
   Group: ATC
   FBID: Owyong251088
@@ -1348,7 +1358,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '136'
+- Rank: '137'
   Name: Darius Ng
   Group: ADSS/ADWS/ADWO
   FBID: bobo1234
@@ -1358,7 +1368,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '137'
+- Rank: '138'
   Name: Sunray
   Group: ABM
   FBID: Sunray0909
@@ -1368,7 +1378,7 @@
   Cycle: '201.00'
   Swim: '2.01'
   Walk: '0.00'
-- Rank: '138'
+- Rank: '139'
   Name: Manu
   Group: ABM
   FBID: Manu7894
@@ -1378,16 +1388,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '139'
-  Name: COVID
-  Group: ADSS/ADWS/ADWO
-  FBID: COVID9999
-  Total_Mileage: '79.28'
-  Badges: '5'
-  Run: '54.02'
-  Cycle: '101.05'
-  Swim: '0.00'
-  Walk: '21.50'
 - Rank: '140'
   Name: Kent Zeng
   Group: ADSS/ADWS/ADWO
