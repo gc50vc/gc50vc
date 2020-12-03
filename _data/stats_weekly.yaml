@@ -69,6 +69,16 @@
   Swim: '3.40'
   Walk: '0.00'
 - Rank: '8'
+  Name: Ektar
+  Group: ABM
+  FBID: Ektar1971
+  Total_Mileage: '61.79'
+  Badges: '0'
+  Run: '28.06'
+  Cycle: '36.50'
+  Swim: '4.10'
+  Walk: '0.00'
+- Rank: '9'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -77,16 +87,6 @@
   Run: '22.76'
   Cycle: '152.68'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '9'
-  Name: Ektar
-  Group: ABM
-  FBID: Ektar1971
-  Total_Mileage: '52.63'
-  Badges: '0'
-  Run: '18.90'
-  Cycle: '36.50'
-  Swim: '4.10'
   Walk: '0.00'
 - Rank: '10'
   Name: Viking
