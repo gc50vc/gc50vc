@@ -879,6 +879,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '89'
+  Name: Irwin Chua
+  Group: AOSX/AOS
+  FBID: irwin2482
+  Total_Mileage: '131.60'
+  Badges: '6'
+  Run: '110.00'
+  Cycle: '0.00'
+  Swim: '3.60'
+  Walk: '0.00'
+- Rank: '90'
   Name: Jeremy Tan
   Group: ATC
   FBID: Scavenge1601
@@ -888,7 +898,7 @@
   Cycle: '0.00'
   Swim: '0.80'
   Walk: '4.02'
-- Rank: '90'
+- Rank: '91'
   Name: Fu Hao Wei
   Group: ADW
   FBID: fuhaowei8435
@@ -898,7 +908,7 @@
   Cycle: '491.10'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '91'
+- Rank: '92'
   Name: 'Windy '
   Group: ABM
   FBID: Windy4444
@@ -908,7 +918,7 @@
   Cycle: '0.00'
   Swim: '21.40'
   Walk: '0.00'
-- Rank: '92'
+- Rank: '93'
   Name: Lightyear
   Group: ADW
   FBID: Lightyear2020
@@ -918,7 +928,7 @@
   Cycle: '5.90'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '93'
+- Rank: '94'
   Name: Geeky
   Group: ADW
   FBID: Geeky1989
@@ -928,7 +938,7 @@
   Cycle: '0.00'
   Swim: '9.00'
   Walk: '46.00'
-- Rank: '94'
+- Rank: '95'
   Name: Hector
   Group: ADW
   FBID: Hector0911
@@ -938,16 +948,6 @@
   Cycle: '0.00'
   Swim: '10.20'
   Walk: '8.15'
-- Rank: '95'
-  Name: Irwin Chua
-  Group: AOSX/AOS
-  FBID: irwin2482
-  Total_Mileage: '126.60'
-  Badges: '6'
-  Run: '105.00'
-  Cycle: '0.00'
-  Swim: '3.60'
-  Walk: '0.00'
 - Rank: '96'
   Name: Gabriel Low
   Group: ADSS/ADWS/ADWO
@@ -1389,6 +1389,16 @@
   Swim: '0.00'
   Walk: '21.50'
 - Rank: '140'
+  Name: Kent Zeng
+  Group: ADSS/ADWS/ADWO
+  FBID: Stonks69420
+  Total_Mileage: '79.25'
+  Badges: '4'
+  Run: '54.50'
+  Cycle: '75.00'
+  Swim: '1.00'
+  Walk: '0.00'
+- Rank: '141'
   Name: 'Sengie '
   Group: ADW
   FBID: ARIAL0160
@@ -1398,7 +1408,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '21.08'
-- Rank: '141'
+- Rank: '142'
   Name: Pravin
   Group: ADSS/ADWS/ADWO
   FBID: Pravin8938
@@ -1408,7 +1418,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '142'
+- Rank: '143'
   Name: Kian Seng
   Group: ADW
   FBID: KianSeng0170
@@ -1418,7 +1428,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '143'
+- Rank: '144'
   Name: Starbucks
   Group: ABM
   FBID: Starbucks3756
@@ -1427,16 +1437,6 @@
   Run: '72.11'
   Cycle: '9.23'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '144'
-  Name: Kent Zeng
-  Group: ADSS/ADWS/ADWO
-  FBID: Stonks69420
-  Total_Mileage: '74.25'
-  Badges: '4'
-  Run: '49.50'
-  Cycle: '75.00'
-  Swim: '1.00'
   Walk: '0.00'
 - Rank: '145'
   Name: OLAF
