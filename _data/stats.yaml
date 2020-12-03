@@ -229,6 +229,16 @@
   Swim: '35.87'
   Walk: '109.94'
 - Rank: '24'
+  Name: Coral
+  Group: ABM
+  FBID: Coral5050
+  Total_Mileage: '340.88'
+  Badges: '4'
+  Run: '335.80'
+  Cycle: '20.31'
+  Swim: '0.00'
+  Walk: '9.48'
+- Rank: '25'
   Name: 'TiGeR3 '
   Group: ADSS/ADWS/ADWO
   FBID: TiGeR2876
@@ -238,16 +248,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '25'
-  Name: Coral
-  Group: ABM
-  FBID: Coral5050
-  Total_Mileage: '335.80'
-  Badges: '4'
-  Run: '335.80'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '9.48'
 - Rank: '26'
   Name: AngmoATB
   Group: ADW
