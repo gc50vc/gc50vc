@@ -269,6 +269,16 @@
   Swim: '20.95'
   Walk: '0.00'
 - Rank: '28'
+  Name: 'Jonjuay '
+  Group: ADSS/ADWS/ADWO
+  FBID: Jonjuay8822
+  Total_Mileage: '280.15'
+  Badges: '11'
+  Run: '106.34'
+  Cycle: '599.22'
+  Swim: '4.00'
+  Walk: '24.83'
+- Rank: '29'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -278,16 +288,6 @@
   Cycle: '676.60'
   Swim: '9.15'
   Walk: '0.00'
-- Rank: '29'
-  Name: 'Jonjuay '
-  Group: ADSS/ADWS/ADWO
-  FBID: Jonjuay8822
-  Total_Mileage: '276.10'
-  Badges: '11'
-  Run: '102.29'
-  Cycle: '599.22'
-  Swim: '4.00'
-  Walk: '24.83'
 - Rank: '30'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
@@ -1419,6 +1419,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '143'
+  Name: Alan
+  Group: ADSS/ADWS/ADWO
+  FBID: Alan2881
+  Total_Mileage: '76.30'
+  Badges: '5'
+  Run: '48.40'
+  Cycle: '0.00'
+  Swim: '4.65'
+  Walk: '32.00'
+- Rank: '144'
   Name: Kian Seng
   Group: ADW
   FBID: KianSeng0170
@@ -1428,7 +1438,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '144'
+- Rank: '145'
   Name: Starbucks
   Group: ABM
   FBID: Starbucks3756
@@ -1438,7 +1448,7 @@
   Cycle: '9.23'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '145'
+- Rank: '146'
   Name: OLAF
   Group: ADW
   FBID: OLAF2156
@@ -1448,7 +1458,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '146'
+- Rank: '147'
   Name: JonChen
   Group: ADW
   FBID: JonChen0000
@@ -1458,7 +1468,7 @@
   Cycle: '270.53'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '147'
+- Rank: '148'
   Name: Diva
   Group: ADW
   FBID: Delia1234
@@ -1468,7 +1478,7 @@
   Cycle: '100.21'
   Swim: '1.00'
   Walk: '28.59'
-- Rank: '148'
+- Rank: '149'
   Name: Dominic
   Group: ATC
   FBID: Nickel1191
@@ -1478,7 +1488,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '149'
+- Rank: '150'
   Name: Jefferson
   Group: AFE
   FBID: VolvoJeff1985
@@ -1488,7 +1498,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '150'
+- Rank: '151'
   Name: spirit
   Group: ATC
   FBID: spirit5555
@@ -1498,7 +1508,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.37'
-- Rank: '151'
+- Rank: '152'
   Name: Jiajun
   Group: ADSS/ADWS/ADWO
   FBID: Jj2304
@@ -1508,16 +1518,6 @@
   Cycle: '0.00'
   Swim: '10.00'
   Walk: '11.06'
-- Rank: '152'
-  Name: Alan
-  Group: ADSS/ADWS/ADWO
-  FBID: Alan2881
-  Total_Mileage: '71.30'
-  Badges: '5'
-  Run: '43.40'
-  Cycle: '0.00'
-  Swim: '4.65'
-  Walk: '32.00'
 - Rank: '153'
   Name: Yeow Teck
   Group: AOSX/AOS
