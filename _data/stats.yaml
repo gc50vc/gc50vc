@@ -309,6 +309,16 @@
   Swim: '23.67'
   Walk: '0.00'
 - Rank: '32'
+  Name: LWY
+  Group: AFE
+  FBID: LWY3137
+  Total_Mileage: '267.00'
+  Badges: '5'
+  Run: '10.00'
+  Cycle: '1028.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '33'
   Name: Bronson
   Group: ADW
   FBID: Bronze1234
@@ -318,7 +328,7 @@
   Cycle: '232.69'
   Swim: '23.93'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '34'
   Name: Daniel Tay
   Group: AOSX/AOS
   FBID: Corrupt2705
@@ -327,16 +337,6 @@
   Run: '118.90'
   Cycle: '0.00'
   Swim: '23.70'
-  Walk: '0.00'
-- Rank: '34'
-  Name: LWY
-  Group: AFE
-  FBID: LWY3137
-  Total_Mileage: '259.50'
-  Badges: '5'
-  Run: '10.00'
-  Cycle: '998.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '35'
   Name: Rycel Wong
