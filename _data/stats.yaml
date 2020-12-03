@@ -729,6 +729,16 @@
   Swim: '18.11'
   Walk: '4.80'
 - Rank: '74'
+  Name: Andre
+  Group: ADW
+  FBID: Andre7429
+  Total_Mileage: '148.70'
+  Badges: '5'
+  Run: '17.24'
+  Cycle: '505.43'
+  Swim: '0.85'
+  Walk: '0.00'
+- Rank: '75'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -738,7 +748,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '75'
+- Rank: '76'
   Name: Weng
   Group: ADSS/ADWS/ADWO
   FBID: Weng8238
@@ -748,7 +758,7 @@
   Cycle: '380.60'
   Swim: '0.00'
   Walk: '13.86'
-- Rank: '76'
+- Rank: '77'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -758,7 +768,7 @@
   Cycle: '101.02'
   Swim: '3.50'
   Walk: '1.63'
-- Rank: '77'
+- Rank: '78'
   Name: Nana
   Group: AFE
   FBID: Chris1166
@@ -768,7 +778,7 @@
   Cycle: '241.57'
   Swim: '7.10'
   Walk: '70.00'
-- Rank: '78'
+- Rank: '79'
   Name: Steroid
   Group: ATC
   FBID: Steroid1007
@@ -777,16 +787,6 @@
   Run: '144.02'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '79'
-  Name: Andre
-  Group: ADW
-  FBID: Andre7429
-  Total_Mileage: '143.73'
-  Badges: '5'
-  Run: '17.24'
-  Cycle: '485.57'
-  Swim: '0.85'
   Walk: '0.00'
 - Rank: '80'
   Name: Bgtan
