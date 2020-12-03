@@ -169,6 +169,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '18'
+  Name: Cookie
+  Group: ATC
+  FBID: Cookie3rdWSO1975
+  Total_Mileage: '31.71'
+  Badges: '0'
+  Run: '21.06'
+  Cycle: '42.59'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '19'
   Name: ''
   Group: AOSX/AOS
   FBID: Buffet8888
@@ -178,7 +188,7 @@
   Cycle: '45.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '19'
+- Rank: '20'
   Name: EG
   Group: ADSS/ADWS/ADWO
   FBID: EG3211
@@ -188,7 +198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '21'
   Name: sw
   Group: ADSS/ADWS/ADWO
   FBID: shaunwwx1504
@@ -198,7 +208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: Coral
   Group: ABM
   FBID: Coral5050
@@ -208,7 +218,7 @@
   Cycle: '20.31'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: Tony Foo
   Group: ADW
   FBID: tonyfoo0165
@@ -216,16 +226,6 @@
   Badges: '0'
   Run: '29.40'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '23'
-  Name: Cookie
-  Group: ATC
-  FBID: Cookie3rdWSO1975
-  Total_Mileage: '29.32'
-  Badges: '0'
-  Run: '21.06'
-  Cycle: '33.05'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '24'
