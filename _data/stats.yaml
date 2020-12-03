@@ -769,6 +769,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '78'
+  Name: Andre
+  Group: ADW
+  FBID: Andre7429
+  Total_Mileage: '143.73'
+  Badges: '5'
+  Run: '17.24'
+  Cycle: '485.57'
+  Swim: '0.85'
+  Walk: '0.00'
+- Rank: '79'
   Name: Bgtan
   Group: ADSS/ADWS/ADWO
   FBID: Kenny9889
@@ -778,7 +788,7 @@
   Cycle: '570.77'
   Swim: '0.00'
   Walk: '11.44'
-- Rank: '79'
+- Rank: '80'
   Name: Rock
   Group: ADW
   FBID: Rock0165
@@ -788,7 +798,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '6.00'
-- Rank: '80'
+- Rank: '81'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -797,16 +807,6 @@
   Run: '139.99'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '81'
-  Name: Andre
-  Group: ADW
-  FBID: Andre7429
-  Total_Mileage: '138.77'
-  Badges: '5'
-  Run: '12.28'
-  Cycle: '485.57'
-  Swim: '0.85'
   Walk: '0.00'
 - Rank: '82'
   Name: Groot
