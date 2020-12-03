@@ -549,6 +549,16 @@
   Swim: '0.00'
   Walk: '3.42'
 - Rank: '56'
+  Name: GN
+  Group: ADSS/ADWS/ADWO
+  FBID: GN8282
+  Total_Mileage: '193.41'
+  Badges: '4'
+  Run: '193.41'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '57'
   Name: Lia
   Group: ADSS/ADWS/ADWO
   FBID: Lia1116
@@ -558,7 +568,7 @@
   Cycle: '193.24'
   Swim: '7.35'
   Walk: '0.00'
-- Rank: '57'
+- Rank: '58'
   Name: Andrew
   Group: ADW
   FBID: Hammer1990
@@ -568,7 +578,7 @@
   Cycle: '295.12'
   Swim: '4.00'
   Walk: '0.00'
-- Rank: '58'
+- Rank: '59'
   Name: Cosmo
   Group: ABM
   FBID: Cosmo6306
@@ -578,23 +588,13 @@
   Cycle: '0.00'
   Swim: '0.50'
   Walk: '10.51'
-- Rank: '59'
+- Rank: '60'
   Name: bok ong
   Group: ADSS/ADWS/ADWO
   FBID: bok2903
   Total_Mileage: '189.16'
   Badges: '4'
   Run: '189.16'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '60'
-  Name: GN
-  Group: ADSS/ADWS/ADWO
-  FBID: GN8282
-  Total_Mileage: '188.56'
-  Badges: '4'
-  Run: '188.56'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
@@ -652,9 +652,9 @@
   Name: PCK
   Group: ADW
   FBID: PCK2205
-  Total_Mileage: '162.71'
+  Total_Mileage: '168.80'
   Badges: '4'
-  Run: '162.71'
+  Run: '168.80'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
@@ -809,6 +809,16 @@
   Swim: '1.00'
   Walk: '6.00'
 - Rank: '82'
+  Name: Alloy
+  Group: ABM
+  FBID: alloy8585
+  Total_Mileage: '141.50'
+  Badges: '6'
+  Run: '90.27'
+  Cycle: '86.12'
+  Swim: '4.95'
+  Walk: '0.00'
+- Rank: '83'
   Name: 'Windy '
   Group: ABM
   FBID: Windy4444
@@ -818,7 +828,7 @@
   Cycle: '0.00'
   Swim: '23.40'
   Walk: '0.00'
-- Rank: '83'
+- Rank: '84'
   Name: Groot
   Group: ADW
   FBID: Groot0163
@@ -828,7 +838,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '84'
+- Rank: '85'
   Name: Sen Kiat
   Group: ATC
   FBID: HSK7777
@@ -838,7 +848,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '85'
+- Rank: '86'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -848,7 +858,7 @@
   Cycle: '312.89'
   Swim: '5.10'
   Walk: '0.00'
-- Rank: '86'
+- Rank: '87'
   Name: QUENCHER
   Group: ABM
   FBID: quencher2020
@@ -858,7 +868,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '87'
+- Rank: '88'
   Name: Rats
   Group: ABM
   FBID: Rats1500
@@ -868,7 +878,7 @@
   Cycle: '0.00'
   Swim: '0.55'
   Walk: '0.00'
-- Rank: '88'
+- Rank: '89'
   Name: Sean Chua
   Group: ADSS/ADWS/ADWO
   FBID: Stop0001
@@ -878,7 +888,7 @@
   Cycle: '103.15'
   Swim: '0.00'
   Walk: '1.04'
-- Rank: '89'
+- Rank: '90'
   Name: wyh
   Group: ADW
   FBID: ljt2059
@@ -888,7 +898,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '90'
+- Rank: '91'
   Name: Irwin Chua
   Group: AOSX/AOS
   FBID: irwin2482
@@ -898,7 +908,7 @@
   Cycle: '0.00'
   Swim: '3.60'
   Walk: '0.00'
-- Rank: '91'
+- Rank: '92'
   Name: Jeremy Tan
   Group: ATC
   FBID: Scavenge1601
@@ -908,7 +918,7 @@
   Cycle: '0.00'
   Swim: '0.80'
   Walk: '4.02'
-- Rank: '92'
+- Rank: '93'
   Name: Fu Hao Wei
   Group: ADW
   FBID: fuhaowei8435
@@ -918,7 +928,7 @@
   Cycle: '491.10'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '93'
+- Rank: '94'
   Name: Lightyear
   Group: ADW
   FBID: Lightyear2020
@@ -928,7 +938,7 @@
   Cycle: '5.90'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '94'
+- Rank: '95'
   Name: Geeky
   Group: ADW
   FBID: Geeky1989
@@ -938,7 +948,7 @@
   Cycle: '0.00'
   Swim: '9.00'
   Walk: '46.00'
-- Rank: '95'
+- Rank: '96'
   Name: Hector
   Group: ADW
   FBID: Hector0911
@@ -948,7 +958,7 @@
   Cycle: '0.00'
   Swim: '10.20'
   Walk: '8.15'
-- Rank: '96'
+- Rank: '97'
   Name: Gabriel Low
   Group: ADSS/ADWS/ADWO
   FBID: gabrieltried1234
@@ -958,7 +968,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '97'
+- Rank: '98'
   Name: Glenn
   Group: ADW
   FBID: Garfield3110
@@ -968,16 +978,6 @@
   Cycle: '26.20'
   Swim: '0.00'
   Walk: '13.84'
-- Rank: '98'
-  Name: Alloy
-  Group: ABM
-  FBID: alloy8585
-  Total_Mileage: '124.55'
-  Badges: '6'
-  Run: '80.76'
-  Cycle: '56.37'
-  Swim: '4.95'
-  Walk: '0.00'
 - Rank: '99'
   Name: Xiaolow3344
   Group: ADSS/ADWS/ADWO
