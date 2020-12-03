@@ -289,6 +289,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '30'
+  Name: HC
+  Group: ADSS/ADWS/ADWO
+  FBID: hc1234
+  Total_Mileage: '20.93'
+  Badges: '0'
+  Run: '10.36'
+  Cycle: '42.27'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '31'
   Name: Malcolm Taong
   Group: ADSS/ADWS/ADWO
   FBID: TAONG8070
@@ -298,7 +308,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '32'
   Name: Shawn Lim
   Group: ADW
   FBID: bison2609
@@ -308,7 +318,7 @@
   Cycle: '0.00'
   Swim: '3.40'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '33'
   Name: Kai Yi
   Group: ADW
   FBID: KaiYi1234
@@ -318,7 +328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '34'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -328,7 +338,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '34'
+- Rank: '35'
   Name: Elliot Goodman
   Group: ADW
   FBID: Goodman8888
@@ -338,7 +348,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: Camper
   Group: ADW
   FBID: tanht1968
@@ -348,7 +358,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '36'
+- Rank: '37'
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
@@ -358,7 +368,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '37'
+- Rank: '38'
   Name: Rock
   Group: ADW
   FBID: Rock0165
@@ -368,7 +378,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '38'
+- Rank: '39'
   Name: ARROW
   Group: ADW
   FBID: Tee1980
@@ -376,16 +386,6 @@
   Badges: '0'
   Run: '16.08'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '39'
-  Name: HC
-  Group: ADSS/ADWS/ADWO
-  FBID: hc1234
-  Total_Mileage: '15.86'
-  Badges: '0'
-  Run: '5.29'
-  Cycle: '42.27'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '40'
