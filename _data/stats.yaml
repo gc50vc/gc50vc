@@ -49,6 +49,16 @@
   Swim: '17.00'
   Walk: '0.00'
 - Rank: '6'
+  Name: Ektar
+  Group: ABM
+  FBID: ektar1971
+  Total_Mileage: '809.63'
+  Badges: '13'
+  Run: '130.53'
+  Cycle: '1456.40'
+  Swim: '52.50'
+  Walk: '0.00'
+- Rank: '7'
   Name: Lee Wen Yang
   Group: AFE
   FBID: LWY3942
@@ -57,16 +67,6 @@
   Run: '47.51'
   Cycle: '3045.94'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '7'
-  Name: Ektar
-  Group: ABM
-  FBID: ektar1971
-  Total_Mileage: '799.63'
-  Badges: '13'
-  Run: '130.53'
-  Cycle: '1416.40'
-  Swim: '52.50'
   Walk: '0.00'
 - Rank: '8'
   Name: Nicholas
