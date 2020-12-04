@@ -159,6 +159,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '17'
+  Name: Cookie
+  Group: ATC
+  FBID: Cookie3rdWSO1975
+  Total_Mileage: '45.19'
+  Badges: '0'
+  Run: '32.07'
+  Cycle: '52.48'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '18'
   Name: sw
   Group: ADSS/ADWS/ADWO
   FBID: shaunwwx1504
@@ -168,7 +178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '18'
+- Rank: '19'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -176,16 +186,6 @@
   Badges: '0'
   Run: '44.26'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '19'
-  Name: Cookie
-  Group: ATC
-  FBID: Cookie3rdWSO1975
-  Total_Mileage: '42.72'
-  Badges: '0'
-  Run: '32.07'
-  Cycle: '42.59'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '20'
