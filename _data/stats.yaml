@@ -659,16 +659,6 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '67'
-  Name: Weaver
-  Group: ADW
-  FBID: Weaver5275
-  Total_Mileage: '161.01'
-  Badges: '4'
-  Run: '161.01'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '68'
   Name: Tan Chee Wee
   Group: ATC
   FBID: tancw1974
@@ -678,7 +668,7 @@
   Cycle: '29.50'
   Swim: '0.00'
   Walk: '21.68'
-- Rank: '69'
+- Rank: '68'
   Name: 'Tay Wen Hao '
   Group: ADW
   FBID: Wh8295
@@ -688,7 +678,7 @@
   Cycle: '37.93'
   Swim: '0.00'
   Walk: '4.94'
-- Rank: '70'
+- Rank: '69'
   Name: RainmanCYK
   Group: ADW
   FBID: Rainman0000
@@ -698,7 +688,7 @@
   Cycle: '0.00'
   Swim: '19.50'
   Walk: '0.00'
-- Rank: '71'
+- Rank: '70'
   Name: loanshark
   Group: ATC
   FBID: loanshark9356
@@ -708,7 +698,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.64'
-- Rank: '72'
+- Rank: '71'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
   FBID: Ahbye1234
@@ -718,6 +708,16 @@
   Cycle: '200.00'
   Swim: '6.50'
   Walk: '6.00'
+- Rank: '72'
+  Name: Weaver
+  Group: ADW
+  FBID: Weaver5275
+  Total_Mileage: '153.55'
+  Badges: '4'
+  Run: '153.55'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
 - Rank: '73'
   Name: AP
   Group: ADW
