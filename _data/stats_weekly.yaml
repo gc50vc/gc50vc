@@ -59,6 +59,16 @@
   Swim: '4.65'
   Walk: '0.00'
 - Rank: '7'
+  Name: Ektar
+  Group: ABM
+  FBID: Ektar1971
+  Total_Mileage: '73.49'
+  Badges: '0'
+  Run: '28.06'
+  Cycle: '36.50'
+  Swim: '6.05'
+  Walk: '0.00'
+- Rank: '8'
   Name: Daniel Tay
   Group: AOSX/AOS
   FBID: Corrupt2705
@@ -67,16 +77,6 @@
   Run: '36.20'
   Cycle: '0.00'
   Swim: '4.90'
-  Walk: '0.00'
-- Rank: '8'
-  Name: Ektar
-  Group: ABM
-  FBID: Ektar1971
-  Total_Mileage: '61.79'
-  Badges: '0'
-  Run: '28.06'
-  Cycle: '36.50'
-  Swim: '4.10'
   Walk: '0.00'
 - Rank: '9'
   Name: Sloh
