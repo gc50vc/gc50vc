@@ -3479,6 +3479,16 @@
   Swim: '0.00'
   Walk: '13.40'
 - Rank: '349'
+  Name: Shopan
+  Group: ATC
+  FBID: Shopan2000
+  Total_Mileage: '23.49'
+  Badges: '2'
+  Run: '23.49'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '350'
   Name: TEH
   Group: ADW
   FBID: TEH0501
@@ -3488,7 +3498,7 @@
   Cycle: '42.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '350'
+- Rank: '351'
   Name: Chris y
   Group: ATC
   FBID: Cyan0220
@@ -3498,7 +3508,7 @@
   Cycle: '0.00'
   Swim: '2.30'
   Walk: '0.00'
-- Rank: '351'
+- Rank: '352'
   Name: GENGAR
   Group: ADW
   FBID: GENGAR9497
@@ -3508,7 +3518,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '352'
+- Rank: '353'
   Name: Becks
   Group: ADW
   FBID: Gangster7777
@@ -3518,7 +3528,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '15.30'
-- Rank: '353'
+- Rank: '354'
   Name: TCK
   Group: AFE
   FBID: TCK8386
@@ -3528,7 +3538,7 @@
   Cycle: '0.00'
   Swim: '3.80'
   Walk: '0.00'
-- Rank: '354'
+- Rank: '355'
   Name: Jia Yi
   Group: ADW
   FBID: plusone0711
@@ -3538,7 +3548,7 @@
   Cycle: '42.50'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '355'
+- Rank: '356'
   Name: Min Jet
   Group: ADW
   FBID: Filter2174
@@ -3548,7 +3558,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '356'
+- Rank: '357'
   Name: Skipper
   Group: ATC
   FBID: Skipper0619
@@ -3558,7 +3568,7 @@
   Cycle: '0.00'
   Swim: '1.10'
   Walk: '0.00'
-- Rank: '357'
+- Rank: '358'
   Name: bray
   Group: ADSS/ADWS/ADWO
   FBID: BRAY0000
@@ -3568,7 +3578,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '358'
+- Rank: '359'
   Name: Eugene lee
   Group: AOSX/AOS
   FBID: Eug8626
@@ -3578,7 +3588,7 @@
   Cycle: '13.89'
   Swim: '0.00'
   Walk: '11.15'
-- Rank: '359'
+- Rank: '360'
   Name: Pterlek
   Group: ATC
   FBID: Conman7347
@@ -3588,7 +3598,7 @@
   Cycle: '0.00'
   Swim: '3.63'
   Walk: '0.00'
-- Rank: '360'
+- Rank: '361'
   Name: ET
   Group: ADSS/ADWS/ADWO
   FBID: ET_6666
@@ -3598,7 +3608,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '361'
+- Rank: '362'
   Name: Oyster
   Group: ABM
   FBID: Oyster1990
@@ -3608,7 +3618,7 @@
   Cycle: '4.88'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '362'
+- Rank: '363'
   Name: Caden
   Group: ADSS/ADWS/ADWO
   FBID: caden2000
@@ -3618,23 +3628,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '363'
+- Rank: '364'
   Name: Ian Zayne Andre
   Group: ADSS/ADWS/ADWO
   FBID: Black_Santa0311
   Total_Mileage: '21.00'
   Badges: '2'
   Run: '21.00'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '364'
-  Name: Shopan
-  Group: ATC
-  FBID: Shopan2000
-  Total_Mileage: '20.98'
-  Badges: '2'
-  Run: '20.98'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
