@@ -529,6 +529,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '54'
+  Name: Steyr
+  Group: ABM
+  FBID: Steyr9693
+  Total_Mileage: '202.07'
+  Badges: '4'
+  Run: '197.50'
+  Cycle: '18.27'
+  Swim: '0.00'
+  Walk: '3.42'
+- Rank: '55'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -538,7 +548,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '4.73'
-- Rank: '55'
+- Rank: '56'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -548,16 +558,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '53.40'
-- Rank: '56'
-  Name: Steyr
-  Group: ABM
-  FBID: Steyr9693
-  Total_Mileage: '195.03'
-  Badges: '4'
-  Run: '190.46'
-  Cycle: '18.27'
-  Swim: '0.00'
-  Walk: '3.42'
 - Rank: '57'
   Name: GN
   Group: ADSS/ADWS/ADWO
