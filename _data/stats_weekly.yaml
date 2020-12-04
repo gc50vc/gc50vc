@@ -39,6 +39,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '5'
+  Name: Slimer
+  Group: ABM
+  FBID: Slimer1234
+  Total_Mileage: '91.01'
+  Badges: '0'
+  Run: '49.01'
+  Cycle: '0.00'
+  Swim: '7.00'
+  Walk: '0.00'
+- Rank: '6'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: Wang0165
@@ -47,16 +57,6 @@
   Run: '28.12'
   Cycle: '108.66'
   Swim: '4.65'
-  Walk: '0.00'
-- Rank: '6'
-  Name: Slimer
-  Group: ABM
-  FBID: Slimer1234
-  Total_Mileage: '68.83'
-  Badges: '0'
-  Run: '38.83'
-  Cycle: '0.00'
-  Swim: '5.00'
   Walk: '0.00'
 - Rank: '7'
   Name: Daniel Tay
