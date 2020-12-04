@@ -219,6 +219,16 @@
   Swim: '3.85'
   Walk: '0.00'
 - Rank: '23'
+  Name: Coral
+  Group: ABM
+  FBID: Coral5050
+  Total_Mileage: '356.29'
+  Badges: '5'
+  Run: '342.84'
+  Cycle: '53.80'
+  Swim: '0.00'
+  Walk: '9.48'
+- Rank: '24'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -228,16 +238,6 @@
   Cycle: '159.02'
   Swim: '35.87'
   Walk: '109.94'
-- Rank: '24'
-  Name: Coral
-  Group: ABM
-  FBID: Coral5050
-  Total_Mileage: '340.88'
-  Badges: '4'
-  Run: '335.80'
-  Cycle: '20.31'
-  Swim: '0.00'
-  Walk: '9.48'
 - Rank: '25'
   Name: 'TiGeR3 '
   Group: ADSS/ADWS/ADWO
