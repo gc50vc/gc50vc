@@ -319,16 +319,6 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '33'
-  Name: Weaver
-  Group: ADW
-  FBID: Weaver5275
-  Total_Mileage: '21.02'
-  Badges: '0'
-  Run: '21.02'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '34'
   Name: Kian Seng
   Group: ADW
   FBID: Kianseng0170
@@ -338,7 +328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '34'
+- Rank: '33'
   Name: Declanmelo
   Group: ADSS/ADWS/ADWO
   FBID: Declan1234
@@ -348,7 +338,7 @@
   Cycle: '0.00'
   Swim: '3.00'
   Walk: '0.00'
-- Rank: '36'
+- Rank: '35'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -358,7 +348,7 @@
   Cycle: '42.27'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '37'
+- Rank: '36'
   Name: PCK
   Group: ADW
   FBID: PCK2205
@@ -368,7 +358,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '38'
+- Rank: '37'
   Name: Malcolm Taong
   Group: ADSS/ADWS/ADWO
   FBID: TAONG8070
@@ -378,7 +368,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '39'
+- Rank: '38'
   Name: Shawn Lim
   Group: ADW
   FBID: bison2609
@@ -388,7 +378,7 @@
   Cycle: '0.00'
   Swim: '3.40'
   Walk: '0.00'
-- Rank: '40'
+- Rank: '39'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -398,7 +388,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '41'
+- Rank: '40'
   Name: Kai Yi
   Group: ADW
   FBID: KaiYi1234
@@ -408,7 +398,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '42'
+- Rank: '41'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -418,7 +408,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '43'
+- Rank: '42'
   Name: Elliot Goodman
   Group: ADW
   FBID: Goodman8888
@@ -428,7 +418,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '44'
+- Rank: '43'
   Name: Camper
   Group: ADW
   FBID: tanht1968
@@ -438,7 +428,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '45'
+- Rank: '44'
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
@@ -448,7 +438,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '46'
+- Rank: '45'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -458,7 +448,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '47'
+- Rank: '46'
   Name: ARROW
   Group: ADW
   FBID: Tee1980
@@ -468,7 +458,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '48'
+- Rank: '47'
   Name: ''
   Group: ADSS/ADWS/ADWO
   FBID: '01733'
@@ -478,7 +468,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '49'
+- Rank: '48'
   Name: Geeky
   Group: ADW
   FBID: Geeky1989
@@ -488,7 +478,7 @@
   Cycle: '0.00'
   Swim: '1.40'
   Walk: '5.33'
-- Rank: '50'
+- Rank: '49'
   Name: Yew Choong
   Group: ADSS/ADWS/ADWO
   FBID: GGXC0160
@@ -498,7 +488,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '51'
+- Rank: '50'
   Name: Irwin Chua
   Group: AOSX/AOS
   FBID: irwin2482
@@ -508,7 +498,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '52'
+- Rank: '51'
   Name: Nicholas Lian
   Group: ADW
   FBID: horsepower2001
@@ -518,7 +508,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '53'
+- Rank: '52'
   Name: ''
   Group: ADSS/ADWS/ADWO
   FBID: Handy0602
@@ -528,7 +518,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '54'
+- Rank: '53'
   Name: Slong
   Group: ADW
   FBID: Slong1234
@@ -537,6 +527,16 @@
   Run: '0.00'
   Cycle: '0.00'
   Swim: '2.30'
+  Walk: '0.00'
+- Rank: '54'
+  Name: Weaver
+  Group: ADW
+  FBID: Weaver5275
+  Total_Mileage: '13.56'
+  Badges: '0'
+  Run: '13.56'
+  Cycle: '0.00'
+  Swim: '0.00'
   Walk: '0.00'
 - Rank: '55'
   Name: Hector
