@@ -659,6 +659,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '67'
+  Name: Weaver
+  Group: ADW
+  FBID: Weaver5275
+  Total_Mileage: '161.01'
+  Badges: '4'
+  Run: '161.01'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '68'
   Name: Tan Chee Wee
   Group: ATC
   FBID: tancw1974
@@ -668,7 +678,7 @@
   Cycle: '29.50'
   Swim: '0.00'
   Walk: '21.68'
-- Rank: '68'
+- Rank: '69'
   Name: 'Tay Wen Hao '
   Group: ADW
   FBID: Wh8295
@@ -678,7 +688,7 @@
   Cycle: '37.93'
   Swim: '0.00'
   Walk: '4.94'
-- Rank: '69'
+- Rank: '70'
   Name: RainmanCYK
   Group: ADW
   FBID: Rainman0000
@@ -688,7 +698,7 @@
   Cycle: '0.00'
   Swim: '19.50'
   Walk: '0.00'
-- Rank: '70'
+- Rank: '71'
   Name: loanshark
   Group: ATC
   FBID: loanshark9356
@@ -698,7 +708,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.64'
-- Rank: '71'
+- Rank: '72'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
   FBID: Ahbye1234
@@ -708,7 +718,7 @@
   Cycle: '200.00'
   Swim: '6.50'
   Walk: '6.00'
-- Rank: '72'
+- Rank: '73'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -718,7 +728,7 @@
   Cycle: '189.49'
   Swim: '10.65'
   Walk: '0.00'
-- Rank: '73'
+- Rank: '74'
   Name: Yun Jie (Rhythm)
   Group: ADW
   FBID: Jabez8686
@@ -728,7 +738,7 @@
   Cycle: '0.00'
   Swim: '18.11'
   Walk: '4.80'
-- Rank: '74'
+- Rank: '75'
   Name: Andre
   Group: ADW
   FBID: Andre7429
@@ -737,16 +747,6 @@
   Run: '17.24'
   Cycle: '505.43'
   Swim: '0.85'
-  Walk: '0.00'
-- Rank: '75'
-  Name: Weaver
-  Group: ADW
-  FBID: Weaver5275
-  Total_Mileage: '148.53'
-  Badges: '4'
-  Run: '148.53'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '76'
   Name: Rock
