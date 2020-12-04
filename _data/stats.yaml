@@ -989,6 +989,16 @@
   Swim: '0.00'
   Walk: '13.84'
 - Rank: '100'
+  Name: Sze Tein
+  Group: ATC
+  FBID: Topaz1327
+  Total_Mileage: '123.21'
+  Badges: '4'
+  Run: '123.21'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '101'
   Name: Xiaolow3344
   Group: ADSS/ADWS/ADWO
   FBID: Xiaolow3344
@@ -998,7 +1008,7 @@
   Cycle: '0.00'
   Swim: '20.00'
   Walk: '71.88'
-- Rank: '101'
+- Rank: '102'
   Name: ARROW
   Group: ADW
   FBID: Tee1980
@@ -1006,16 +1016,6 @@
   Badges: '4'
   Run: '96.00'
   Cycle: '92.57'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '102'
-  Name: Sze Tein
-  Group: ATC
-  FBID: Topaz1327
-  Total_Mileage: '116.75'
-  Badges: '4'
-  Run: '116.75'
-  Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '103'
@@ -1389,6 +1389,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '140'
+  Name: Alan
+  Group: ADSS/ADWS/ADWO
+  FBID: Alan2881
+  Total_Mileage: '79.30'
+  Badges: '5'
+  Run: '48.40'
+  Cycle: '0.00'
+  Swim: '5.15'
+  Walk: '32.00'
+- Rank: '141'
   Name: Kent Zeng
   Group: ADSS/ADWS/ADWO
   FBID: Stonks69420
@@ -1398,7 +1408,7 @@
   Cycle: '75.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '141'
+- Rank: '142'
   Name: 'Sengie '
   Group: ADW
   FBID: ARIAL0160
@@ -1408,7 +1418,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '21.08'
-- Rank: '142'
+- Rank: '143'
   Name: Pravin
   Group: ADSS/ADWS/ADWO
   FBID: Pravin8938
@@ -1418,16 +1428,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '143'
-  Name: Alan
-  Group: ADSS/ADWS/ADWO
-  FBID: Alan2881
-  Total_Mileage: '76.30'
-  Badges: '5'
-  Run: '48.40'
-  Cycle: '0.00'
-  Swim: '4.65'
-  Walk: '32.00'
 - Rank: '144'
   Name: Kian Seng
   Group: ADW
