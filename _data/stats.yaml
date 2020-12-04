@@ -429,6 +429,16 @@
   Swim: '2.20'
   Walk: '1.80'
 - Rank: '44'
+  Name: Andrew Leong
+  Group: ADSS/ADWS/ADWO
+  FBID: Handy0206
+  Total_Mileage: '222.48'
+  Badges: '6'
+  Run: '177.80'
+  Cycle: '178.72'
+  Swim: '0.00'
+  Walk: '1.57'
+- Rank: '45'
   Name: Slong
   Group: ADW
   FBID: Slong1234
@@ -438,7 +448,7 @@
   Cycle: '65.19'
   Swim: '13.02'
   Walk: '0.00'
-- Rank: '45'
+- Rank: '46'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
@@ -448,7 +458,7 @@
   Cycle: '218.38'
   Swim: '15.00'
   Walk: '11.07'
-- Rank: '46'
+- Rank: '47'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -458,7 +468,7 @@
   Cycle: '395.72'
   Swim: '1.00'
   Walk: '4.00'
-- Rank: '47'
+- Rank: '48'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -468,7 +478,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '48'
+- Rank: '49'
   Name: Lia
   Group: ADSS/ADWS/ADWO
   FBID: Lia1116
@@ -478,7 +488,7 @@
   Cycle: '193.24'
   Swim: '7.35'
   Walk: '0.00'
-- Rank: '49'
+- Rank: '50'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -488,7 +498,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '50'
+- Rank: '51'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -498,16 +508,6 @@
   Cycle: '228.95'
   Swim: '11.40'
   Walk: '3.15'
-- Rank: '51'
-  Name: Andrew Leong
-  Group: ADSS/ADWS/ADWO
-  FBID: Handy0206
-  Total_Mileage: '208.18'
-  Badges: '6'
-  Run: '163.50'
-  Cycle: '178.72'
-  Swim: '0.00'
-  Walk: '1.57'
 - Rank: '52'
   Name: 'Jack eng '
   Group: AOSX/AOS
