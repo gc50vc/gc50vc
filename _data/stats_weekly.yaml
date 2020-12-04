@@ -49,6 +49,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '6'
+  Name: Ektar
+  Group: ABM
+  FBID: Ektar1971
+  Total_Mileage: '91.89'
+  Badges: '0'
+  Run: '28.06'
+  Cycle: '76.50'
+  Swim: '7.45'
+  Walk: '0.00'
+- Rank: '7'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -58,7 +68,7 @@
   Cycle: '0.00'
   Swim: '7.00'
   Walk: '0.00'
-- Rank: '7'
+- Rank: '8'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: Wang0165
@@ -67,16 +77,6 @@
   Run: '28.12'
   Cycle: '137.17'
   Swim: '4.65'
-  Walk: '0.00'
-- Rank: '8'
-  Name: Ektar
-  Group: ABM
-  FBID: Ektar1971
-  Total_Mileage: '81.89'
-  Badges: '0'
-  Run: '28.06'
-  Cycle: '36.50'
-  Swim: '7.45'
   Walk: '0.00'
 - Rank: '9'
   Name: Daniel Tay
