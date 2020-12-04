@@ -119,6 +119,16 @@
   Swim: '7.70'
   Walk: '0.00'
 - Rank: '13'
+  Name: Coral
+  Group: ABM
+  FBID: Coral5050
+  Total_Mileage: '44.85'
+  Badges: '1'
+  Run: '31.40'
+  Cycle: '53.80'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '14'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -128,7 +138,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '15'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -138,7 +148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '15'
+- Rank: '16'
   Name: Lia
   Group: ADSS/ADWS/ADWO
   FBID: Lia1116
@@ -148,7 +158,7 @@
   Cycle: '0.00'
   Swim: '2.25'
   Walk: '0.00'
-- Rank: '16'
+- Rank: '17'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -158,7 +168,7 @@
   Cycle: '144.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '17'
+- Rank: '18'
   Name: Btee
   Group: AFE
   FBID: Brian0307
@@ -168,7 +178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '18'
+- Rank: '19'
   Name: ''
   Group: AOSX/AOS
   FBID: Scar2000
@@ -178,7 +188,7 @@
   Cycle: '84.92'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '19'
+- Rank: '20'
   Name: Cookie
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -188,7 +198,7 @@
   Cycle: '42.59'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '21'
   Name: ''
   Group: AOSX/AOS
   FBID: Buffet8888
@@ -198,7 +208,7 @@
   Cycle: '45.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -208,7 +218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: EG
   Group: ADSS/ADWS/ADWO
   FBID: EG3211
@@ -218,7 +228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '23'
+- Rank: '24'
   Name: sw
   Group: ADSS/ADWS/ADWO
   FBID: shaunwwx1504
@@ -226,16 +236,6 @@
   Badges: '2'
   Run: '30.28'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '24'
-  Name: Coral
-  Group: ABM
-  FBID: Coral5050
-  Total_Mileage: '29.44'
-  Badges: '0'
-  Run: '24.36'
-  Cycle: '20.31'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '25'
