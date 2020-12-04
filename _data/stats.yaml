@@ -719,6 +719,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '73'
+  Name: Weng
+  Group: ADSS/ADWS/ADWO
+  FBID: Weng8238
+  Total_Mileage: '153.07'
+  Badges: '6'
+  Run: '57.92'
+  Cycle: '380.60'
+  Swim: '0.00'
+  Walk: '13.86'
+- Rank: '74'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -728,7 +738,7 @@
   Cycle: '189.49'
   Swim: '10.65'
   Walk: '0.00'
-- Rank: '74'
+- Rank: '75'
   Name: Yun Jie (Rhythm)
   Group: ADW
   FBID: Jabez8686
@@ -738,7 +748,7 @@
   Cycle: '0.00'
   Swim: '18.11'
   Walk: '4.80'
-- Rank: '75'
+- Rank: '76'
   Name: Andre
   Group: ADW
   FBID: Andre7429
@@ -748,7 +758,7 @@
   Cycle: '505.43'
   Swim: '0.85'
   Walk: '0.00'
-- Rank: '76'
+- Rank: '77'
   Name: Rock
   Group: ADW
   FBID: Rock0165
@@ -758,16 +768,6 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '6.00'
-- Rank: '77'
-  Name: Weng
-  Group: ADSS/ADWS/ADWO
-  FBID: Weng8238
-  Total_Mileage: '147.06'
-  Badges: '6'
-  Run: '51.91'
-  Cycle: '380.60'
-  Swim: '0.00'
-  Walk: '13.86'
 - Rank: '78'
   Name: Ying Tat
   Group: ADW
