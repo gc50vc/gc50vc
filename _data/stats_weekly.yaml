@@ -169,6 +169,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '18'
+  Name: Cookie
+  Group: ATC
+  FBID: Cookie3rdWSO1975
+  Total_Mileage: '42.72'
+  Badges: '0'
+  Run: '32.07'
+  Cycle: '42.59'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '19'
   Name: Lia
   Group: ADSS/ADWS/ADWO
   FBID: Lia1116
@@ -178,7 +188,7 @@
   Cycle: '0.00'
   Swim: '2.25'
   Walk: '0.00'
-- Rank: '19'
+- Rank: '20'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -188,7 +198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '21'
   Name: Btee
   Group: AFE
   FBID: Brian0307
@@ -198,7 +208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: ''
   Group: AOSX/AOS
   FBID: Scar2000
@@ -206,16 +216,6 @@
   Badges: '3'
   Run: '11.07'
   Cycle: '84.92'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '22'
-  Name: Cookie
-  Group: ATC
-  FBID: Cookie3rdWSO1975
-  Total_Mileage: '31.71'
-  Badges: '0'
-  Run: '21.06'
-  Cycle: '42.59'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '23'
