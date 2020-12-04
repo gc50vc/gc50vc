@@ -89,6 +89,16 @@
   Swim: '79.15'
   Walk: '0.00'
 - Rank: '10'
+  Name: Slimer
+  Group: ABM
+  FBID: Slimer1234
+  Total_Mileage: '633.47'
+  Badges: '13'
+  Run: '217.78'
+  Cycle: '209.50'
+  Swim: '60.55'
+  Walk: '17.51'
+- Rank: '11'
   Name: Hasty
   Group: ADW
   FBID: Hasty55555
@@ -98,16 +108,6 @@
   Cycle: '193.88'
   Swim: '40.25'
   Walk: '0.00'
-- Rank: '11'
-  Name: Slimer
-  Group: ABM
-  FBID: Slimer1234
-  Total_Mileage: '611.29'
-  Badges: '13'
-  Run: '207.60'
-  Cycle: '209.50'
-  Swim: '58.55'
-  Walk: '17.51'
 - Rank: '12'
   Name: Prem
   Group: ADW
