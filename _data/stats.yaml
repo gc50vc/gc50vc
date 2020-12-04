@@ -469,6 +469,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '48'
+  Name: Lia
+  Group: ADSS/ADWS/ADWO
+  FBID: Lia1116
+  Total_Mileage: '214.90'
+  Badges: '12'
+  Run: '122.49'
+  Cycle: '193.24'
+  Swim: '7.35'
+  Walk: '0.00'
+- Rank: '49'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -478,7 +488,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '49'
+- Rank: '50'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -488,7 +498,7 @@
   Cycle: '228.95'
   Swim: '11.40'
   Walk: '3.15'
-- Rank: '50'
+- Rank: '51'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -498,7 +508,7 @@
   Cycle: '178.72'
   Swim: '0.00'
   Walk: '1.57'
-- Rank: '51'
+- Rank: '52'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
@@ -508,7 +518,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '52'
+- Rank: '53'
   Name: AdolphusJJ
   Group: AOSX/AOS
   FBID: Bamboo1234
@@ -518,7 +528,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '53'
+- Rank: '54'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -528,7 +538,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '4.73'
-- Rank: '54'
+- Rank: '55'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -538,7 +548,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '53.40'
-- Rank: '55'
+- Rank: '56'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -548,7 +558,7 @@
   Cycle: '18.27'
   Swim: '0.00'
   Walk: '3.42'
-- Rank: '56'
+- Rank: '57'
   Name: GN
   Group: ADSS/ADWS/ADWO
   FBID: GN8282
@@ -557,16 +567,6 @@
   Run: '193.41'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '57'
-  Name: Lia
-  Group: ADSS/ADWS/ADWO
-  FBID: Lia1116
-  Total_Mileage: '191.82'
-  Badges: '11'
-  Run: '99.41'
-  Cycle: '193.24'
-  Swim: '7.35'
   Walk: '0.00'
 - Rank: '58'
   Name: Andrew
