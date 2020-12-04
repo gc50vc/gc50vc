@@ -249,6 +249,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '26'
+  Name: LWY
+  Group: AFE
+  FBID: LWY3137
+  Total_Mileage: '312.50'
+  Badges: '5'
+  Run: '10.00'
+  Cycle: '1210.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '27'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -258,7 +268,7 @@
   Cycle: '40.64'
   Swim: '23.10'
   Walk: '0.00'
-- Rank: '27'
+- Rank: '28'
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
@@ -268,16 +278,6 @@
   Cycle: '0.00'
   Swim: '19.94'
   Walk: '7.97'
-- Rank: '28'
-  Name: LWY
-  Group: AFE
-  FBID: LWY3137
-  Total_Mileage: '285.75'
-  Badges: '5'
-  Run: '10.00'
-  Cycle: '1103.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '29'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
