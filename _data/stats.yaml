@@ -1009,6 +1009,16 @@
   Swim: '20.00'
   Walk: '71.88'
 - Rank: '102'
+  Name: BY
+  Group: ADSS/ADWS/ADWO
+  FBID: Charlie3579
+  Total_Mileage: '121.37'
+  Badges: '5'
+  Run: '96.32'
+  Cycle: '100.20'
+  Swim: '0.00'
+  Walk: '5.06'
+- Rank: '103'
   Name: ARROW
   Group: ADW
   FBID: Tee1980
@@ -1018,7 +1028,7 @@
   Cycle: '92.57'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '103'
+- Rank: '104'
   Name: Gwyn
   Group: ADW
   FBID: Magma1201
@@ -1028,16 +1038,6 @@
   Cycle: '46.60'
   Swim: '0.00'
   Walk: '8.93'
-- Rank: '104'
-  Name: BY
-  Group: ADSS/ADWS/ADWO
-  FBID: Charlie3579
-  Total_Mileage: '115.37'
-  Badges: '5'
-  Run: '90.32'
-  Cycle: '100.20'
-  Swim: '0.00'
-  Walk: '5.06'
 - Rank: '105'
   Name: Rubiks
   Group: ABM
