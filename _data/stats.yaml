@@ -229,6 +229,16 @@
   Swim: '0.00'
   Walk: '9.48'
 - Rank: '24'
+  Name: LWY
+  Group: AFE
+  FBID: LWY3137
+  Total_Mileage: '346.25'
+  Badges: '5'
+  Run: '10.00'
+  Cycle: '1345.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '25'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -238,7 +248,7 @@
   Cycle: '159.02'
   Swim: '35.87'
   Walk: '109.94'
-- Rank: '25'
+- Rank: '26'
   Name: 'TiGeR3 '
   Group: ADSS/ADWS/ADWO
   FBID: TiGeR2876
@@ -246,16 +256,6 @@
   Badges: '4'
   Run: '337.20'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '26'
-  Name: LWY
-  Group: AFE
-  FBID: LWY3137
-  Total_Mileage: '330.00'
-  Badges: '5'
-  Run: '10.00'
-  Cycle: '1280.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '27'
