@@ -239,6 +239,16 @@
   Swim: '0.00'
   Walk: '9.48'
 - Rank: '25'
+  Name: Euj
+  Group: ATC
+  FBID: Euj1871
+  Total_Mileage: '348.14'
+  Badges: '10'
+  Run: '87.89'
+  Cycle: '180.12'
+  Swim: '35.87'
+  Walk: '109.94'
+- Rank: '26'
   Name: LWY
   Group: AFE
   FBID: LWY3137
@@ -248,16 +258,6 @@
   Cycle: '1345.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '26'
-  Name: Euj
-  Group: ATC
-  FBID: Euj1871
-  Total_Mileage: '342.87'
-  Badges: '9'
-  Run: '87.89'
-  Cycle: '159.02'
-  Swim: '35.87'
-  Walk: '109.94'
 - Rank: '27'
   Name: AngmoATB
   Group: ADW
@@ -3597,7 +3597,7 @@
   Run: '18.38'
   Cycle: '13.89'
   Swim: '0.00'
-  Walk: '11.15'
+  Walk: '15.88'
 - Rank: '361'
   Name: Pterlek
   Group: ATC
