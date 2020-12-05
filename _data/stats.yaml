@@ -439,6 +439,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '45'
+  Name: Slong
+  Group: ADW
+  FBID: Slong1234
+  Total_Mileage: '230.46'
+  Badges: '8'
+  Run: '136.06'
+  Cycle: '65.19'
+  Swim: '13.02'
+  Walk: '0.00'
+- Rank: '46'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -448,7 +458,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '46'
+- Rank: '47'
   Name: Benson
   Group: ADW
   FBID: benoi1234
@@ -458,7 +468,7 @@
   Cycle: '95.28'
   Swim: '2.20'
   Walk: '1.80'
-- Rank: '47'
+- Rank: '48'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -468,16 +478,6 @@
   Cycle: '414.72'
   Swim: '1.00'
   Walk: '4.00'
-- Rank: '48'
-  Name: Slong
-  Group: ADW
-  FBID: Slong1234
-  Total_Mileage: '220.26'
-  Badges: '8'
-  Run: '125.86'
-  Cycle: '65.19'
-  Swim: '13.02'
-  Walk: '0.00'
 - Rank: '49'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
