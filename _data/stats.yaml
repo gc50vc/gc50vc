@@ -3229,6 +3229,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '324'
+  Name: ''
+  Group: ADSS/ADWS/ADWO
+  FBID: '01733'
+  Total_Mileage: '30.80'
+  Badges: '2'
+  Run: '30.80'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '325'
   Name: Wildboar
   Group: ABM
   FBID: Wildboar1234
@@ -3238,7 +3248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '325'
+- Rank: '326'
   Name: 'Chiang Meng '
   Group: AOSX/AOS
   FBID: ccm1116
@@ -3248,7 +3258,7 @@
   Cycle: '8.84'
   Swim: '1.80'
   Walk: '4.05'
-- Rank: '326'
+- Rank: '327'
   Name: Hoa Chong Xian
   Group: ADSS/ADWS/ADWO
   FBID: ADWS2415
@@ -3258,7 +3268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '327'
+- Rank: '328'
   Name: Kong
   Group: ADW
   FBID: Kong1609
@@ -3268,7 +3278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '328'
+- Rank: '329'
   Name: Guojie
   Group: ADSS/ADWS/ADWO
   FBID: Thug2107
@@ -3278,7 +3288,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '329'
+- Rank: '330'
   Name: Spear
   Group: ATC
   FBID: Spear0213
@@ -3288,7 +3298,7 @@
   Cycle: '0.00'
   Swim: '2.50'
   Walk: '0.00'
-- Rank: '330'
+- Rank: '331'
   Name: Evan
   Group: ADSS/ADWS/ADWO
   FBID: Meliodas4545
@@ -3298,7 +3308,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '331'
+- Rank: '332'
   Name: Dino
   Group: ABM
   FBID: Dino1234
@@ -3308,7 +3318,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '21.26'
-- Rank: '332'
+- Rank: '333'
   Name: JB Ong
   Group: AOSX/AOS
   FBID: tango8456
@@ -3318,7 +3328,7 @@
   Cycle: '25.14'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '333'
+- Rank: '334'
   Name: Ivan Tan Xuan Hao
   Group: ADW
   FBID: bravo7245
@@ -3328,7 +3338,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '334'
+- Rank: '335'
   Name: Psycho
   Group: ADW
   FBID: Psycho0165
@@ -3338,7 +3348,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '335'
+- Rank: '336'
   Name: Poh Liong Wui
   Group: AFE
   FBID: Pohlw7878
@@ -3348,7 +3358,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '173.35'
-- Rank: '336'
+- Rank: '337'
   Name: Sirius
   Group: ABM
   FBID: Sirius1320
@@ -3358,7 +3368,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '64.36'
-- Rank: '337'
+- Rank: '338'
   Name: Gregg
   Group: ADSS/ADWS/ADWO
   FBID: Hoodini2112
@@ -3368,23 +3378,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '338'
+- Rank: '339'
   Name: Besson
   Group: ATC
   FBID: Besson9898
   Total_Mileage: '26.17'
   Badges: '2'
   Run: '26.17'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '339'
-  Name: ''
-  Group: ADSS/ADWS/ADWO
-  FBID: '01733'
-  Total_Mileage: '26.00'
-  Badges: '2'
-  Run: '26.00'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
