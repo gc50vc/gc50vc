@@ -759,6 +759,16 @@
   Swim: '6.50'
   Walk: '6.00'
 - Rank: '77'
+  Name: Ying Tat
+  Group: ADW
+  FBID: thumbs8599
+  Total_Mileage: '148.98'
+  Badges: '9'
+  Run: '102.72'
+  Cycle: '101.02'
+  Swim: '3.50'
+  Walk: '1.63'
+- Rank: '78'
   Name: Yun Jie (Rhythm)
   Group: ADW
   FBID: Jabez8686
@@ -768,7 +778,7 @@
   Cycle: '0.00'
   Swim: '18.11'
   Walk: '4.80'
-- Rank: '78'
+- Rank: '79'
   Name: Andre
   Group: ADW
   FBID: Andre7429
@@ -778,7 +788,7 @@
   Cycle: '505.43'
   Swim: '0.85'
   Walk: '0.00'
-- Rank: '79'
+- Rank: '80'
   Name: Rock
   Group: ADW
   FBID: Rock0165
@@ -788,16 +798,6 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '6.00'
-- Rank: '80'
-  Name: Ying Tat
-  Group: ADW
-  FBID: thumbs8599
-  Total_Mileage: '146.33'
-  Badges: '9'
-  Run: '100.07'
-  Cycle: '101.02'
-  Swim: '3.50'
-  Walk: '1.63'
 - Rank: '81'
   Name: Nana
   Group: AFE
