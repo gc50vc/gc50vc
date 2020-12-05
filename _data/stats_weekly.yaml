@@ -99,6 +99,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '11'
+  Name: Coral
+  Group: ABM
+  FBID: Coral5050
+  Total_Mileage: '63.85'
+  Badges: '1'
+  Run: '50.40'
+  Cycle: '53.80'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '12'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -108,7 +118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -118,7 +128,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -128,7 +138,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '15'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -137,16 +147,6 @@
   Run: '45.40'
   Cycle: '19.00'
   Swim: '1.00'
-  Walk: '0.00'
-- Rank: '15'
-  Name: Coral
-  Group: ABM
-  FBID: Coral5050
-  Total_Mileage: '51.89'
-  Badges: '1'
-  Run: '38.44'
-  Cycle: '53.80'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '16'
   Name: Andrew Leong
