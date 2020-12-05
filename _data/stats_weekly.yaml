@@ -79,6 +79,16 @@
   Swim: '5.90'
   Walk: '0.00'
 - Rank: '9'
+  Name: Prem
+  Group: ADW
+  FBID: Premium6687
+  Total_Mileage: '65.91'
+  Badges: '0'
+  Run: '20.71'
+  Cycle: '8.00'
+  Swim: '7.20'
+  Walk: '0.00'
+- Rank: '10'
   Name: Alloy
   Group: ABM
   FBID: alloy8585
@@ -88,7 +98,7 @@
   Cycle: '138.22'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '10'
+- Rank: '11'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -98,7 +108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -108,7 +118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -118,7 +128,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: Coral
   Group: ABM
   FBID: Coral5050
@@ -128,7 +138,7 @@
   Cycle: '53.80'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '15'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -138,7 +148,7 @@
   Cycle: '46.06'
   Swim: '2.78'
   Walk: '0.00'
-- Rank: '15'
+- Rank: '16'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -148,7 +158,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '16'
+- Rank: '17'
   Name: Tony Foo
   Group: ADW
   FBID: tonyfoo0165
@@ -158,7 +168,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '17'
+- Rank: '18'
   Name: 'Windy '
   Group: ABM
   FBID: Windy4444
@@ -168,7 +178,7 @@
   Cycle: '0.00'
   Swim: '7.70'
   Walk: '0.00'
-- Rank: '18'
+- Rank: '19'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -178,7 +188,7 @@
   Cycle: '184.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '19'
+- Rank: '20'
   Name: Cookie
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -188,7 +198,7 @@
   Cycle: '52.48'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '20'
+- Rank: '21'
   Name: sw
   Group: ADSS/ADWS/ADWO
   FBID: shaunwwx1504
@@ -198,7 +208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '21'
+- Rank: '22'
   Name: PCK
   Group: ADW
   FBID: PCK2205
@@ -207,16 +217,6 @@
   Run: '36.90'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '22'
-  Name: Prem
-  Group: ADW
-  FBID: Premium6687
-  Total_Mileage: '35.21'
-  Badges: '0'
-  Run: '16.71'
-  Cycle: '8.00'
-  Swim: '2.75'
   Walk: '0.00'
 - Rank: '23'
   Name: Btee
