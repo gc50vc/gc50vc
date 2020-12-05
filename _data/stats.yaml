@@ -309,6 +309,16 @@
   Swim: '9.15'
   Walk: '0.00'
 - Rank: '32'
+  Name: Bronson
+  Group: ADW
+  FBID: Bronze1234
+  Total_Mileage: '273.02'
+  Badges: '11'
+  Run: '64.47'
+  Cycle: '260.01'
+  Swim: '23.93'
+  Walk: '0.00'
+- Rank: '33'
   Name: jheng
   Group: ADSS/ADWS/ADWO
   FBID: jheng0000
@@ -317,16 +327,6 @@
   Run: '74.73'
   Cycle: '202.41'
   Swim: '23.67'
-  Walk: '0.00'
-- Rank: '33'
-  Name: Bronson
-  Group: ADW
-  FBID: Bronze1234
-  Total_Mileage: '266.19'
-  Badges: '11'
-  Run: '64.47'
-  Cycle: '232.69'
-  Swim: '23.93'
   Walk: '0.00'
 - Rank: '34'
   Name: Cookie
@@ -1389,6 +1389,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '140'
+  Name: Diva
+  Group: ADW
+  FBID: Delia1234
+  Total_Mileage: '79.43'
+  Badges: '7'
+  Run: '42.38'
+  Cycle: '100.21'
+  Swim: '2.00'
+  Walk: '28.59'
+- Rank: '141'
   Name: Alan
   Group: ADSS/ADWS/ADWO
   FBID: Alan2881
@@ -1398,7 +1408,7 @@
   Cycle: '0.00'
   Swim: '5.15'
   Walk: '32.00'
-- Rank: '141'
+- Rank: '142'
   Name: Kent Zeng
   Group: ADSS/ADWS/ADWO
   FBID: Stonks69420
@@ -1408,7 +1418,7 @@
   Cycle: '75.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '142'
+- Rank: '143'
   Name: 'Sengie '
   Group: ADW
   FBID: ARIAL0160
@@ -1418,7 +1428,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '21.08'
-- Rank: '143'
+- Rank: '144'
   Name: Pravin
   Group: ADSS/ADWS/ADWO
   FBID: Pravin8938
@@ -1428,7 +1438,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '144'
+- Rank: '145'
   Name: Kian Seng
   Group: ADW
   FBID: KianSeng0170
@@ -1438,7 +1448,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '145'
+- Rank: '146'
   Name: Starbucks
   Group: ABM
   FBID: Starbucks3756
@@ -1448,7 +1458,7 @@
   Cycle: '9.23'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '146'
+- Rank: '147'
   Name: OLAF
   Group: ADW
   FBID: OLAF2156
@@ -1458,7 +1468,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '147'
+- Rank: '148'
   Name: JonChen
   Group: ADW
   FBID: JonChen0000
@@ -1468,16 +1478,6 @@
   Cycle: '270.53'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '148'
-  Name: Diva
-  Group: ADW
-  FBID: Delia1234
-  Total_Mileage: '73.43'
-  Badges: '5'
-  Run: '42.38'
-  Cycle: '100.21'
-  Swim: '1.00'
-  Walk: '28.59'
 - Rank: '149'
   Name: Dominic
   Group: ATC
