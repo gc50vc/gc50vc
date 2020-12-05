@@ -1269,6 +1269,16 @@
   Swim: '0.00'
   Walk: '1.00'
 - Rank: '128'
+  Name: Wan Yuan
+  Group: ADW
+  FBID: Lost1908
+  Total_Mileage: '92.15'
+  Badges: '3'
+  Run: '92.15'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '20.24'
+- Rank: '129'
   Name: Kelvin
   Group: ADSS/ADWS/ADWO
   FBID: Kelvin1111
@@ -1278,7 +1288,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '129'
+- Rank: '130'
   Name: Waffles
   Group: ATC
   FBID: Waffles3567
@@ -1288,7 +1298,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.57'
-- Rank: '130'
+- Rank: '131'
   Name: KevinKKW
   Group: ADSS/ADWS/ADWO
   FBID: Kkkw0165
@@ -1298,7 +1308,7 @@
   Cycle: '162.32'
   Swim: '0.00'
   Walk: '11.85'
-- Rank: '131'
+- Rank: '132'
   Name: Rocky
   Group: AOSX/AOS
   FBID: ZeRo7113
@@ -1308,7 +1318,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '57.30'
-- Rank: '132'
+- Rank: '133'
   Name: Der Siang
   Group: ATC
   FBID: Aku1234
@@ -1318,16 +1328,6 @@
   Cycle: '95.06'
   Swim: '3.95'
   Walk: '0.00'
-- Rank: '133'
-  Name: Wan Yuan
-  Group: ADW
-  FBID: Lost1908
-  Total_Mileage: '86.63'
-  Badges: '3'
-  Run: '86.63'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '20.24'
 - Rank: '134'
   Name: COVID
   Group: ADSS/ADWS/ADWO
