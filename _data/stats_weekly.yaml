@@ -89,6 +89,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '10'
+  Name: Alloy
+  Group: ABM
+  FBID: alloy8585
+  Total_Mileage: '59.61'
+  Badges: '3'
+  Run: '29.57'
+  Cycle: '120.16'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '11'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -98,7 +108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: Coral
   Group: ABM
   FBID: Coral5050
@@ -108,7 +118,7 @@
   Cycle: '53.80'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -117,16 +127,6 @@
   Run: '45.40'
   Cycle: '0.00'
   Swim: '1.00'
-  Walk: '0.00'
-- Rank: '13'
-  Name: Alloy
-  Group: ABM
-  FBID: alloy8585
-  Total_Mileage: '51.10'
-  Badges: '1'
-  Run: '29.57'
-  Cycle: '86.12'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '14'
   Name: Tony Foo
