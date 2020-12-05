@@ -449,6 +449,16 @@
   Swim: '1.50'
   Walk: '0.00'
 - Rank: '46'
+  Name: Weng
+  Group: ADSS/ADWS/ADWO
+  FBID: Weng8238
+  Total_Mileage: '23.73'
+  Badges: '0'
+  Run: '6.01'
+  Cycle: '70.89'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '47'
   Name: Elliot Goodman
   Group: ADW
   FBID: Goodman8888
@@ -458,7 +468,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '47'
+- Rank: '48'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -468,7 +478,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '48'
+- Rank: '49'
   Name: Rock
   Group: ADW
   FBID: Rock0165
@@ -478,7 +488,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '49'
+- Rank: '50'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -488,7 +498,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '50'
+- Rank: '51'
   Name: Kian Seng
   Group: ADW
   FBID: Kianseng0170
@@ -498,7 +508,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '50'
+- Rank: '51'
   Name: Declanmelo
   Group: ADSS/ADWS/ADWO
   FBID: Declan1234
@@ -508,7 +518,7 @@
   Cycle: '0.00'
   Swim: '3.00'
   Walk: '0.00'
-- Rank: '52'
+- Rank: '53'
   Name: Camper
   Group: ADW
   FBID: tanht1968
@@ -518,7 +528,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '53'
+- Rank: '54'
   Name: Malcolm Taong
   Group: ADSS/ADWS/ADWO
   FBID: TAONG8070
@@ -528,7 +538,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '54'
+- Rank: '55'
   Name: Shawn Lim
   Group: ADW
   FBID: bison2609
@@ -538,7 +548,7 @@
   Cycle: '0.00'
   Swim: '3.40'
   Walk: '0.00'
-- Rank: '55'
+- Rank: '56'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -548,7 +558,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '56'
+- Rank: '57'
   Name: Kai Yi
   Group: ADW
   FBID: KaiYi1234
@@ -558,7 +568,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '57'
+- Rank: '58'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -568,7 +578,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '58'
+- Rank: '59'
   Name: Seow Jian Wei
   Group: ADSS/ADWS/ADWO
   FBID: Iwaneji1999
@@ -578,7 +588,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '59'
+- Rank: '60'
   Name: TRIPS
   Group: ATC
   FBID: TRIPS_0000
@@ -588,7 +598,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '60'
+- Rank: '61'
   Name: Rats
   Group: ABM
   FBID: Rats1500
@@ -598,7 +608,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '61'
+- Rank: '62'
   Name: bray
   Group: ADSS/ADWS/ADWO
   FBID: BRAY0000
@@ -608,7 +618,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '62'
+- Rank: '63'
   Name: Hejie
   Group: ADSS/ADWS/ADWO
   FBID: Ulc0165
@@ -618,7 +628,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '63'
+- Rank: '64'
   Name: Julian
   Group: ADW
   FBID: Echo9694
@@ -628,7 +638,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '64'
+- Rank: '65'
   Name: Aik Phan
   Group: ADSS/ADWS/ADWO
   FBID: aikphan1234
@@ -637,16 +647,6 @@
   Run: '5.10'
   Cycle: '0.00'
   Swim: '2.00'
-  Walk: '0.00'
-- Rank: '65'
-  Name: Weng
-  Group: ADSS/ADWS/ADWO
-  FBID: Weng8238
-  Total_Mileage: '16.77'
-  Badges: '0'
-  Run: '6.01'
-  Cycle: '43.03'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '66'
   Name: Gbear
