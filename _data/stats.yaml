@@ -699,6 +699,16 @@
   Swim: '0.00'
   Walk: '1.64'
 - Rank: '71'
+  Name: AP
+  Group: ADW
+  FBID: APHRMC0207
+  Total_Mileage: '155.54'
+  Badges: '11'
+  Run: '42.85'
+  Cycle: '195.15'
+  Swim: '10.65'
+  Walk: '0.00'
+- Rank: '72'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
   FBID: Ahbye1234
@@ -708,7 +718,7 @@
   Cycle: '200.00'
   Swim: '6.50'
   Walk: '6.00'
-- Rank: '72'
+- Rank: '73'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -718,7 +728,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '73'
+- Rank: '74'
   Name: Weng
   Group: ADSS/ADWS/ADWO
   FBID: Weng8238
@@ -728,16 +738,6 @@
   Cycle: '380.60'
   Swim: '0.00'
   Walk: '13.86'
-- Rank: '74'
-  Name: AP
-  Group: ADW
-  FBID: APHRMC0207
-  Total_Mileage: '151.12'
-  Badges: '8'
-  Run: '39.85'
-  Cycle: '189.49'
-  Swim: '10.65'
-  Walk: '0.00'
 - Rank: '75'
   Name: Yun Jie (Rhythm)
   Group: ADW
