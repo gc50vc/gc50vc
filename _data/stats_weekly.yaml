@@ -509,6 +509,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '52'
+  Name: TRIPS
+  Group: ATC
+  FBID: TRIPS_0000
+  Total_Mileage: '19.23'
+  Badges: '0'
+  Run: '19.23'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '53'
   Name: bray
   Group: ADSS/ADWS/ADWO
   FBID: BRAY0000
@@ -518,7 +528,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '53'
+- Rank: '54'
   Name: Hejie
   Group: ADSS/ADWS/ADWO
   FBID: Ulc0165
@@ -528,23 +538,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '54'
+- Rank: '55'
   Name: Julian
   Group: ADW
   FBID: Echo9694
   Total_Mileage: '17.60'
   Badges: '1'
   Run: '17.60'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '55'
-  Name: TRIPS
-  Group: ATC
-  FBID: TRIPS_0000
-  Total_Mileage: '17.22'
-  Badges: '0'
-  Run: '17.22'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
