@@ -1029,6 +1029,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '104'
+  Name: Legend
+  Group: ADW
+  FBID: Legend2512
+  Total_Mileage: '115.94'
+  Badges: '5'
+  Run: '68.12'
+  Cycle: '191.27'
+  Swim: '0.00'
+  Walk: '13.11'
+- Rank: '105'
   Name: Gwyn
   Group: ADW
   FBID: Magma1201
@@ -1038,7 +1048,7 @@
   Cycle: '46.60'
   Swim: '0.00'
   Walk: '8.93'
-- Rank: '105'
+- Rank: '106'
   Name: Camper
   Group: ADW
   FBID: tanht1968
@@ -1048,7 +1058,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '106'
+- Rank: '107'
   Name: Rubiks
   Group: ABM
   FBID: Rubiks1234
@@ -1058,7 +1068,7 @@
   Cycle: '41.78'
   Swim: '6.15'
   Walk: '0.00'
-- Rank: '107'
+- Rank: '108'
   Name: Keith low
   Group: ADSS/ADWS/ADWO
   FBID: Keithlow1998
@@ -1068,7 +1078,7 @@
   Cycle: '421.73'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '108'
+- Rank: '109'
   Name: Zena
   Group: ABM
   FBID: Zena2107
@@ -1078,7 +1088,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '109'
+- Rank: '110'
   Name: TRIPS
   Group: ATC
   FBID: TRIPS_0000
@@ -1088,7 +1098,7 @@
   Cycle: '161.87'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '110'
+- Rank: '111'
   Name: Silver
   Group: ABM
   FBID: Silver5117
@@ -1098,7 +1108,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.10'
-- Rank: '111'
+- Rank: '112'
   Name: Warren Chua
   Group: ADSS/ADWS/ADWO
   FBID: Warren9588
@@ -1108,7 +1118,7 @@
   Cycle: '401.26'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '112'
+- Rank: '113'
   Name: Quainapz
   Group: ADSS/ADWS/ADWO
   FBID: Quainapz8585
@@ -1118,7 +1128,7 @@
   Cycle: '0.00'
   Swim: '3.10'
   Walk: '2.30'
-- Rank: '113'
+- Rank: '114'
   Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
   FBID: LeonYeo2590
@@ -1128,16 +1138,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '114'
-  Name: Legend
-  Group: ADW
-  FBID: Legend2512
-  Total_Mileage: '104.88'
-  Badges: '5'
-  Run: '57.06'
-  Cycle: '191.27'
-  Swim: '0.00'
-  Walk: '13.11'
 - Rank: '115'
   Name: Yew Choong
   Group: ADSS/ADWS/ADWO
