@@ -209,6 +209,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '22'
+  Name: Prem
+  Group: ADW
+  FBID: Premium6687
+  Total_Mileage: '35.21'
+  Badges: '0'
+  Run: '16.71'
+  Cycle: '8.00'
+  Swim: '2.75'
+  Walk: '0.00'
+- Rank: '23'
   Name: Btee
   Group: AFE
   FBID: Brian0307
@@ -217,16 +227,6 @@
   Run: '34.73'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '23'
-  Name: Prem
-  Group: ADW
-  FBID: Premium6687
-  Total_Mileage: '33.21'
-  Badges: '0'
-  Run: '16.71'
-  Cycle: '0.00'
-  Swim: '2.75'
   Walk: '0.00'
 - Rank: '24'
   Name: ''
