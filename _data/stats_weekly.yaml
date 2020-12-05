@@ -99,6 +99,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '11'
+  Name: 'Tan Swee Kiat '
+  Group: ADW
+  FBID: Eskay0077
+  Total_Mileage: '59.66'
+  Badges: '0'
+  Run: '59.66'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '12'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -108,7 +118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: Coral
   Group: ABM
   FBID: Coral5050
@@ -118,7 +128,7 @@
   Cycle: '53.80'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '13'
+- Rank: '14'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -128,7 +138,7 @@
   Cycle: '46.06'
   Swim: '2.78'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '15'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -138,7 +148,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '15'
+- Rank: '16'
   Name: Tony Foo
   Group: ADW
   FBID: tonyfoo0165
@@ -148,7 +158,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '16'
+- Rank: '17'
   Name: 'Windy '
   Group: ABM
   FBID: Windy4444
@@ -158,7 +168,7 @@
   Cycle: '0.00'
   Swim: '7.70'
   Walk: '0.00'
-- Rank: '17'
+- Rank: '18'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -168,7 +178,7 @@
   Cycle: '184.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '18'
+- Rank: '19'
   Name: Cookie
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -176,16 +186,6 @@
   Badges: '0'
   Run: '32.07'
   Cycle: '52.48'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '19'
-  Name: 'Tan Swee Kiat '
-  Group: ADW
-  FBID: Eskay0077
-  Total_Mileage: '44.26'
-  Badges: '0'
-  Run: '44.26'
-  Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '20'
@@ -399,6 +399,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '41'
+  Name: Kelvin
+  Group: ADSS/ADWS/ADWO
+  FBID: Kelvin1111
+  Total_Mileage: '25.40'
+  Badges: '0'
+  Run: '25.40'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '42'
   Name: Hector
   Group: ADW
   FBID: Hector0911
@@ -408,7 +418,7 @@
   Cycle: '0.00'
   Swim: '4.20'
   Walk: '6.13'
-- Rank: '42'
+- Rank: '43'
   Name: Lia
   Group: ADSS/ADWS/ADWO
   FBID: Lia1116
@@ -418,7 +428,7 @@
   Cycle: '0.00'
   Swim: '2.25'
   Walk: '0.00'
-- Rank: '43'
+- Rank: '44'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -428,7 +438,7 @@
   Cycle: '24.00'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '44'
+- Rank: '45'
   Name: Elliot Goodman
   Group: ADW
   FBID: Goodman8888
@@ -438,23 +448,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '45'
+- Rank: '46'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
   Total_Mileage: '23.58'
   Badges: '0'
   Run: '23.58'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '46'
-  Name: Kelvin
-  Group: ADSS/ADWS/ADWO
-  FBID: Kelvin1111
-  Total_Mileage: '23.00'
-  Badges: '0'
-  Run: '23.00'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
