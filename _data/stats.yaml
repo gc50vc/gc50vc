@@ -899,6 +899,16 @@
   Swim: '5.10'
   Walk: '0.00'
 - Rank: '91'
+  Name: TT
+  Group: ABM
+  FBID: jiawei1989
+  Total_Mileage: '135.51'
+  Badges: '4'
+  Run: '132.80'
+  Cycle: '10.83'
+  Swim: '0.00'
+  Walk: '1.89'
+- Rank: '92'
   Name: Rats
   Group: ABM
   FBID: Rats1500
@@ -908,7 +918,7 @@
   Cycle: '0.00'
   Swim: '0.55'
   Walk: '0.00'
-- Rank: '92'
+- Rank: '93'
   Name: Sean Chua
   Group: ADSS/ADWS/ADWO
   FBID: Stop0001
@@ -918,7 +928,7 @@
   Cycle: '103.15'
   Swim: '0.00'
   Walk: '1.04'
-- Rank: '93'
+- Rank: '94'
   Name: wyh
   Group: ADW
   FBID: ljt2059
@@ -928,7 +938,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '94'
+- Rank: '95'
   Name: Irwin Chua
   Group: AOSX/AOS
   FBID: irwin2482
@@ -938,7 +948,7 @@
   Cycle: '0.00'
   Swim: '3.60'
   Walk: '0.00'
-- Rank: '95'
+- Rank: '96'
   Name: Sze Tein
   Group: ATC
   FBID: Topaz1327
@@ -948,7 +958,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '96'
+- Rank: '97'
   Name: Fu Hao Wei
   Group: ADW
   FBID: fuhaowei8435
@@ -958,16 +968,6 @@
   Cycle: '491.10'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '97'
-  Name: TT
-  Group: ABM
-  FBID: jiawei1989
-  Total_Mileage: '130.01'
-  Badges: '4'
-  Run: '127.30'
-  Cycle: '10.83'
-  Swim: '0.00'
-  Walk: '1.89'
 - Rank: '98'
   Name: Lightyear
   Group: ADW
