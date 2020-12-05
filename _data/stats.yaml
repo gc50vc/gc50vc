@@ -939,6 +939,16 @@
   Swim: '3.60'
   Walk: '0.00'
 - Rank: '95'
+  Name: Sze Tein
+  Group: ATC
+  FBID: Topaz1327
+  Total_Mileage: '130.61'
+  Badges: '4'
+  Run: '130.61'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '96'
   Name: Fu Hao Wei
   Group: ADW
   FBID: fuhaowei8435
@@ -948,7 +958,7 @@
   Cycle: '491.10'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '96'
+- Rank: '97'
   Name: TT
   Group: ABM
   FBID: jiawei1989
@@ -958,7 +968,7 @@
   Cycle: '10.83'
   Swim: '0.00'
   Walk: '1.89'
-- Rank: '97'
+- Rank: '98'
   Name: Lightyear
   Group: ADW
   FBID: Lightyear2020
@@ -968,7 +978,7 @@
   Cycle: '5.90'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '98'
+- Rank: '99'
   Name: Gabriel Low
   Group: ADSS/ADWS/ADWO
   FBID: gabrieltried1234
@@ -978,7 +988,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '99'
+- Rank: '100'
   Name: Glenn
   Group: ADW
   FBID: Garfield3110
@@ -988,16 +998,6 @@
   Cycle: '26.20'
   Swim: '0.00'
   Walk: '13.84'
-- Rank: '100'
-  Name: Sze Tein
-  Group: ATC
-  FBID: Topaz1327
-  Total_Mileage: '123.21'
-  Badges: '4'
-  Run: '123.21'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '101'
   Name: Xiaolow3344
   Group: ADSS/ADWS/ADWO
