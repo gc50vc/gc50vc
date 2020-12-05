@@ -2,10 +2,10 @@
   Name: Extreme
   Group: ATC
   FBID: Extreme8123
-  Total_Mileage: '1596.56'
+  Total_Mileage: '1607.71'
   Badges: '13'
   Run: '470.71'
-  Cycle: '761.80'
+  Cycle: '806.40'
   Swim: '155.90'
   Walk: '3.10'
 - Rank: '2'
@@ -1449,6 +1449,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '146'
+  Name: spirit
+  Group: ATC
+  FBID: spirit5555
+  Total_Mileage: '75.60'
+  Badges: '3'
+  Run: '75.60'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '3.37'
+- Rank: '147'
   Name: Starbucks
   Group: ABM
   FBID: Starbucks3756
@@ -1458,7 +1468,7 @@
   Cycle: '9.23'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '147'
+- Rank: '148'
   Name: OLAF
   Group: ADW
   FBID: OLAF2156
@@ -1468,7 +1478,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '148'
+- Rank: '149'
   Name: JonChen
   Group: ADW
   FBID: JonChen0000
@@ -1478,7 +1488,7 @@
   Cycle: '270.53'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '149'
+- Rank: '150'
   Name: Dominic
   Group: ATC
   FBID: Nickel1191
@@ -1488,7 +1498,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '150'
+- Rank: '151'
   Name: Jefferson
   Group: AFE
   FBID: VolvoJeff1985
@@ -1498,16 +1508,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '151'
-  Name: spirit
-  Group: ATC
-  FBID: spirit5555
-  Total_Mileage: '72.47'
-  Badges: '3'
-  Run: '72.47'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '3.37'
 - Rank: '152'
   Name: Jiajun
   Group: ADSS/ADWS/ADWO
