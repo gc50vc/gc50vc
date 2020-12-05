@@ -449,6 +449,16 @@
   Swim: '2.20'
   Walk: '1.80'
 - Rank: '46'
+  Name: Viking
+  Group: ADW
+  FBID: Viking1987
+  Total_Mileage: '220.73'
+  Badges: '7'
+  Run: '111.05'
+  Cycle: '414.72'
+  Swim: '1.00'
+  Walk: '4.00'
+- Rank: '47'
   Name: Slong
   Group: ADW
   FBID: Slong1234
@@ -458,7 +468,7 @@
   Cycle: '65.19'
   Swim: '13.02'
   Walk: '0.00'
-- Rank: '47'
+- Rank: '48'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
@@ -468,7 +478,7 @@
   Cycle: '218.38'
   Swim: '15.00'
   Walk: '11.07'
-- Rank: '48'
+- Rank: '49'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -478,16 +488,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '53.40'
-- Rank: '49'
-  Name: Viking
-  Group: ADW
-  FBID: Viking1987
-  Total_Mileage: '215.98'
-  Badges: '7'
-  Run: '111.05'
-  Cycle: '395.72'
-  Swim: '1.00'
-  Walk: '4.00'
 - Rank: '50'
   Name: Mouth
   Group: ABM
@@ -839,6 +839,16 @@
   Swim: '0.00'
   Walk: '11.44'
 - Rank: '85'
+  Name: Rats
+  Group: ABM
+  FBID: Rats1500
+  Total_Mileage: '141.60'
+  Badges: '4'
+  Run: '138.30'
+  Cycle: '0.00'
+  Swim: '0.55'
+  Walk: '0.00'
+- Rank: '86'
   Name: 'Windy '
   Group: ABM
   FBID: Windy4444
@@ -848,7 +858,7 @@
   Cycle: '0.00'
   Swim: '23.40'
   Walk: '0.00'
-- Rank: '86'
+- Rank: '87'
   Name: Geeky
   Group: ADW
   FBID: Geeky1989
@@ -858,7 +868,7 @@
   Cycle: '4.18'
   Swim: '9.00'
   Walk: '58.68'
-- Rank: '87'
+- Rank: '88'
   Name: Hector
   Group: ADW
   FBID: Hector0911
@@ -868,7 +878,7 @@
   Cycle: '0.00'
   Swim: '12.15'
   Walk: '10.39'
-- Rank: '88'
+- Rank: '89'
   Name: Groot
   Group: ADW
   FBID: Groot0163
@@ -878,7 +888,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '89'
+- Rank: '90'
   Name: Sen Kiat
   Group: ATC
   FBID: HSK7777
@@ -888,7 +898,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '90'
+- Rank: '91'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -898,7 +908,7 @@
   Cycle: '312.89'
   Swim: '5.10'
   Walk: '0.00'
-- Rank: '91'
+- Rank: '92'
   Name: TT
   Group: ABM
   FBID: jiawei1989
@@ -908,16 +918,6 @@
   Cycle: '10.83'
   Swim: '0.00'
   Walk: '1.89'
-- Rank: '92'
-  Name: Rats
-  Group: ABM
-  FBID: Rats1500
-  Total_Mileage: '134.51'
-  Badges: '4'
-  Run: '131.21'
-  Cycle: '0.00'
-  Swim: '0.55'
-  Walk: '0.00'
 - Rank: '93'
   Name: Sean Chua
   Group: ADSS/ADWS/ADWO
@@ -1139,6 +1139,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '115'
+  Name: Kelvin
+  Group: ADSS/ADWS/ADWO
+  FBID: Kelvin1111
+  Total_Mileage: '103.70'
+  Badges: '4'
+  Run: '103.70'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '116'
   Name: Yew Choong
   Group: ADSS/ADWS/ADWO
   FBID: GGXC0160
@@ -1148,7 +1158,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '19.25'
-- Rank: '116'
+- Rank: '117'
   Name: Jenny
   Group: AFE
   FBID: Jenny7373
@@ -1158,7 +1168,7 @@
   Cycle: '11.67'
   Swim: '0.00'
   Walk: '88.20'
-- Rank: '117'
+- Rank: '118'
   Name: Maj Lim
   Group: ABM
   FBID: Legoz1000
@@ -1168,7 +1178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '16.48'
-- Rank: '118'
+- Rank: '119'
   Name: Ram
   Group: ADW
   FBID: ram7267
@@ -1178,7 +1188,17 @@
   Cycle: '0.00'
   Swim: '7.30'
   Walk: '0.00'
-- Rank: '119'
+- Rank: '120'
+  Name: Joey Lee Jian Wei
+  Group: AFE
+  FBID: Joey3811
+  Total_Mileage: '100.00'
+  Badges: '5'
+  Run: '100.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '685.87'
+- Rank: '121'
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
@@ -1188,7 +1208,7 @@
   Cycle: '36.63'
   Swim: '0.00'
   Walk: '18.96'
-- Rank: '120'
+- Rank: '122'
   Name: Lim Kian Hock
   Group: AFE
   FBID: Jon3445
@@ -1198,7 +1218,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '121'
+- Rank: '123'
   Name: Poon
   Group: ADSS/ADWS/ADWO
   FBID: Poon3636
@@ -1208,7 +1228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '122'
+- Rank: '124'
   Name: HCM
   Group: ABM
   FBID: HCM1234
@@ -1218,7 +1238,7 @@
   Cycle: '34.01'
   Swim: '0.00'
   Walk: '40.49'
-- Rank: '123'
+- Rank: '125'
   Name: Zinc
   Group: ADW
   FBID: zinc1997
@@ -1228,7 +1248,7 @@
   Cycle: '24.40'
   Swim: '0.00'
   Walk: '5.65'
-- Rank: '124'
+- Rank: '126'
   Name: Vernon Lim
   Group: AFE
   FBID: Vernon7070
@@ -1238,17 +1258,7 @@
   Cycle: '376.95'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '125'
-  Name: Joey Lee Jian Wei
-  Group: AFE
-  FBID: Joey3811
-  Total_Mileage: '94.00'
-  Badges: '4'
-  Run: '94.00'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '685.87'
-- Rank: '126'
+- Rank: '127'
   Name: SARATH
   Group: ADW
   FBID: SARATH2311
@@ -1258,7 +1268,7 @@
   Cycle: '66.37'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '127'
+- Rank: '128'
   Name: Lin Weili
   Group: AOSX/AOS
   FBID: Michelin5052
@@ -1268,16 +1278,6 @@
   Cycle: '45.08'
   Swim: '0.00'
   Walk: '1.00'
-- Rank: '128'
-  Name: Kelvin
-  Group: ADSS/ADWS/ADWO
-  FBID: Kelvin1111
-  Total_Mileage: '92.70'
-  Badges: '3'
-  Run: '92.70'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '129'
   Name: Wan Yuan
   Group: ADW
@@ -6007,7 +6007,7 @@
   Run: '0.00'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '957.20'
+  Walk: '1060.10'
 - Rank: '570'
   Name: Aura Eric
   Group: AOSX/AOS
