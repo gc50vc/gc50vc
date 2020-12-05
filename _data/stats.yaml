@@ -282,9 +282,9 @@
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
-  Total_Mileage: '282.43'
+  Total_Mileage: '303.74'
   Badges: '4'
-  Run: '282.43'
+  Run: '303.74'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
@@ -669,6 +669,16 @@
   Swim: '0.00'
   Walk: '21.68'
 - Rank: '68'
+  Name: QUENCHER
+  Group: ABM
+  FBID: quencher2020
+  Total_Mileage: '157.59'
+  Badges: '4'
+  Run: '157.59'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '69'
   Name: 'Tay Wen Hao '
   Group: ADW
   FBID: Wh8295
@@ -678,7 +688,7 @@
   Cycle: '37.93'
   Swim: '0.00'
   Walk: '4.94'
-- Rank: '69'
+- Rank: '70'
   Name: RainmanCYK
   Group: ADW
   FBID: Rainman0000
@@ -688,7 +698,7 @@
   Cycle: '0.00'
   Swim: '19.50'
   Walk: '0.00'
-- Rank: '70'
+- Rank: '71'
   Name: loanshark
   Group: ATC
   FBID: loanshark9356
@@ -698,7 +708,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.64'
-- Rank: '71'
+- Rank: '72'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -708,7 +718,7 @@
   Cycle: '195.15'
   Swim: '10.65'
   Walk: '0.00'
-- Rank: '72'
+- Rank: '73'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
   FBID: Ahbye1234
@@ -718,7 +728,7 @@
   Cycle: '200.00'
   Swim: '6.50'
   Walk: '6.00'
-- Rank: '73'
+- Rank: '74'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -728,7 +738,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '74'
+- Rank: '75'
   Name: Weng
   Group: ADSS/ADWS/ADWO
   FBID: Weng8238
@@ -738,7 +748,7 @@
   Cycle: '380.60'
   Swim: '0.00'
   Walk: '13.86'
-- Rank: '75'
+- Rank: '76'
   Name: Yun Jie (Rhythm)
   Group: ADW
   FBID: Jabez8686
@@ -748,7 +758,7 @@
   Cycle: '0.00'
   Swim: '18.11'
   Walk: '4.80'
-- Rank: '76'
+- Rank: '77'
   Name: Andre
   Group: ADW
   FBID: Andre7429
@@ -758,7 +768,7 @@
   Cycle: '505.43'
   Swim: '0.85'
   Walk: '0.00'
-- Rank: '77'
+- Rank: '78'
   Name: Rock
   Group: ADW
   FBID: Rock0165
@@ -768,7 +778,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '6.00'
-- Rank: '78'
+- Rank: '79'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -778,7 +788,7 @@
   Cycle: '101.02'
   Swim: '3.50'
   Walk: '1.63'
-- Rank: '79'
+- Rank: '80'
   Name: Nana
   Group: AFE
   FBID: Chris1166
@@ -788,7 +798,7 @@
   Cycle: '241.57'
   Swim: '7.10'
   Walk: '81.07'
-- Rank: '80'
+- Rank: '81'
   Name: Jeremy Tan
   Group: ATC
   FBID: Scavenge1601
@@ -798,7 +808,7 @@
   Cycle: '0.00'
   Swim: '0.80'
   Walk: '4.02'
-- Rank: '81'
+- Rank: '82'
   Name: Steroid
   Group: ATC
   FBID: Steroid1007
@@ -808,7 +818,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '82'
+- Rank: '83'
   Name: Bgtan
   Group: ADSS/ADWS/ADWO
   FBID: Kenny9889
@@ -818,7 +828,7 @@
   Cycle: '570.77'
   Swim: '0.00'
   Walk: '11.44'
-- Rank: '83'
+- Rank: '84'
   Name: Alloy
   Group: ABM
   FBID: alloy8585
@@ -827,16 +837,6 @@
   Run: '90.27'
   Cycle: '86.12'
   Swim: '4.95'
-  Walk: '0.00'
-- Rank: '84'
-  Name: QUENCHER
-  Group: ABM
-  FBID: quencher2020
-  Total_Mileage: '141.49'
-  Badges: '4'
-  Run: '141.49'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '85'
   Name: 'Windy '
@@ -967,7 +967,7 @@
   Run: '66.03'
   Cycle: '0.00'
   Swim: '10.20'
-  Walk: '8.15'
+  Walk: '9.71'
 - Rank: '98'
   Name: Gabriel Low
   Group: ADSS/ADWS/ADWO
