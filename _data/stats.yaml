@@ -2,9 +2,9 @@
   Name: Extreme
   Group: ATC
   FBID: Extreme8123
-  Total_Mileage: '1614.16'
+  Total_Mileage: '1580.66'
   Badges: '13'
-  Run: '504.21'
+  Run: '470.71'
   Cycle: '761.80'
   Swim: '153.25'
   Walk: '3.10'
@@ -2289,6 +2289,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '230'
+  Name: Yi Kuang
+  Group: ADW
+  FBID: rocket1999
+  Total_Mileage: '49.61'
+  Badges: '3'
+  Run: '37.40'
+  Cycle: '48.82'
+  Swim: '0.00'
+  Walk: '1.03'
+- Rank: '231'
   Name: Pock xuan
   Group: ADSS/ADWS/ADWO
   FBID: Bravoadws0000
@@ -2298,7 +2308,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.50'
-- Rank: '231'
+- Rank: '232'
   Name: Andreas
   Group: ADW
   FBID: Andreas1003
@@ -2308,7 +2318,7 @@
   Cycle: '89.30'
   Swim: '0.00'
   Walk: '6.23'
-- Rank: '232'
+- Rank: '233'
   Name: JOVAN
   Group: ADW
   FBID: NIGHTOWL1303
@@ -2318,7 +2328,7 @@
   Cycle: '43.65'
   Swim: '0.00'
   Walk: '26.05'
-- Rank: '233'
+- Rank: '234'
   Name: Pat160A
   Group: ADSS/ADWS/ADWO
   FBID: Pat1991
@@ -2328,7 +2338,7 @@
   Cycle: '0.00'
   Swim: '3.68'
   Walk: '0.00'
-- Rank: '234'
+- Rank: '235'
   Name: NG Eng Ming
   Group: ADSS/ADWS/ADWO
   FBID: NgEM1858
@@ -2338,7 +2348,7 @@
   Cycle: '186.82'
   Swim: '0.00'
   Walk: '56.62'
-- Rank: '235'
+- Rank: '236'
   Name: Aik Phan
   Group: ADSS/ADWS/ADWO
   FBID: aikphan1234
@@ -2348,16 +2358,6 @@
   Cycle: '0.00'
   Swim: '5.00'
   Walk: '0.00'
-- Rank: '236'
-  Name: Yi Kuang
-  Group: ADW
-  FBID: rocket1999
-  Total_Mileage: '48.31'
-  Badges: '3'
-  Run: '36.10'
-  Cycle: '48.82'
-  Swim: '0.00'
-  Walk: '1.03'
 - Rank: '237'
   Name: ASHWIN1234
   Group: ADW
