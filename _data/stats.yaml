@@ -29,6 +29,16 @@
   Swim: '0.00'
   Walk: '2.18'
 - Rank: '4'
+  Name: Sloh
+  Group: ADW
+  FBID: Sloh0121
+  Total_Mileage: '918.43'
+  Badges: '13'
+  Run: '315.22'
+  Cycle: '2004.83'
+  Swim: '17.00'
+  Walk: '0.00'
+- Rank: '5'
   Name: T-rex
   Group: ABM
   FBID: Trex1406
@@ -37,16 +47,6 @@
   Run: '158.59'
   Cycle: '2253.67'
   Swim: '32.50'
-  Walk: '0.00'
-- Rank: '5'
-  Name: Sloh
-  Group: ADW
-  FBID: Sloh0121
-  Total_Mileage: '873.68'
-  Badges: '13'
-  Run: '315.22'
-  Cycle: '1825.85'
-  Swim: '17.00'
   Walk: '0.00'
 - Rank: '6'
   Name: Ektar
@@ -469,6 +469,16 @@
   Swim: '15.00'
   Walk: '11.07'
 - Rank: '48'
+  Name: Homeboy
+  Group: AOSX/AOS
+  FBID: Home5116
+  Total_Mileage: '217.73'
+  Badges: '4'
+  Run: '217.73'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '53.40'
+- Rank: '49'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -478,7 +488,7 @@
   Cycle: '395.72'
   Swim: '1.00'
   Walk: '4.00'
-- Rank: '49'
+- Rank: '50'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -488,7 +498,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '50'
+- Rank: '51'
   Name: Lia
   Group: ADSS/ADWS/ADWO
   FBID: Lia1116
@@ -498,7 +508,7 @@
   Cycle: '193.24'
   Swim: '7.35'
   Walk: '0.00'
-- Rank: '51'
+- Rank: '52'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -508,7 +518,7 @@
   Cycle: '228.95'
   Swim: '11.40'
   Walk: '3.15'
-- Rank: '52'
+- Rank: '53'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
@@ -518,7 +528,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '53'
+- Rank: '54'
   Name: AdolphusJJ
   Group: AOSX/AOS
   FBID: Bamboo1234
@@ -528,7 +538,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '54'
+- Rank: '55'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -538,7 +548,7 @@
   Cycle: '18.27'
   Swim: '0.00'
   Walk: '3.42'
-- Rank: '55'
+- Rank: '56'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -548,16 +558,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '4.73'
-- Rank: '56'
-  Name: Homeboy
-  Group: AOSX/AOS
-  FBID: Home5116
-  Total_Mileage: '196.63'
-  Badges: '4'
-  Run: '196.63'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '53.40'
 - Rank: '57'
   Name: GN
   Group: ADSS/ADWS/ADWO
