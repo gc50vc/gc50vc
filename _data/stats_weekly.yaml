@@ -79,6 +79,16 @@
   Swim: '4.90'
   Walk: '0.00'
 - Rank: '9'
+  Name: Alloy
+  Group: ABM
+  FBID: alloy8585
+  Total_Mileage: '64.13'
+  Badges: '3'
+  Run: '29.57'
+  Cycle: '138.22'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '10'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
@@ -86,16 +96,6 @@
   Badges: '0'
   Run: '60.69'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '10'
-  Name: Alloy
-  Group: ABM
-  FBID: alloy8585
-  Total_Mileage: '59.61'
-  Badges: '3'
-  Run: '29.57'
-  Cycle: '120.16'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '11'
