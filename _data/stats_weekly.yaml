@@ -2,11 +2,11 @@
   Name: Extreme
   Group: ATC
   FBID: Extreme8123
-  Total_Mileage: '157.45'
+  Total_Mileage: '173.35'
   Badges: '0'
   Run: '33.50'
   Cycle: '145.40'
-  Swim: '14.60'
+  Swim: '17.25'
   Walk: '0.00'
 - Rank: '2'
   Name: Ben
@@ -49,6 +49,16 @@
   Swim: '9.50'
   Walk: '0.00'
 - Rank: '6'
+  Name: Ektar
+  Group: ABM
+  FBID: Ektar1971
+  Total_Mileage: '102.90'
+  Badges: '0'
+  Run: '39.07'
+  Cycle: '76.50'
+  Swim: '7.45'
+  Walk: '0.00'
+- Rank: '7'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: Wang0165
@@ -57,16 +67,6 @@
   Run: '28.12'
   Cycle: '172.37'
   Swim: '4.65'
-  Walk: '0.00'
-- Rank: '7'
-  Name: Ektar
-  Group: ABM
-  FBID: Ektar1971
-  Total_Mileage: '91.89'
-  Badges: '0'
-  Run: '28.06'
-  Cycle: '76.50'
-  Swim: '7.45'
   Walk: '0.00'
 - Rank: '8'
   Name: Daniel Tay
