@@ -519,6 +519,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '53'
+  Name: Geeky
+  Group: ADW
+  FBID: Geeky1989
+  Total_Mileage: '16.45'
+  Badges: '0'
+  Run: '7.00'
+  Cycle: '4.18'
+  Swim: '1.40'
+  Walk: '5.33'
+- Rank: '54'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -528,7 +538,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '54'
+- Rank: '55'
   Name: ARROW
   Group: ADW
   FBID: Tee1980
@@ -538,16 +548,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '55'
-  Name: Geeky
-  Group: ADW
-  FBID: Geeky1989
-  Total_Mileage: '15.40'
-  Badges: '0'
-  Run: '7.00'
-  Cycle: '0.00'
-  Swim: '1.40'
-  Walk: '5.33'
 - Rank: '56'
   Name: Yew Choong
   Group: ADSS/ADWS/ADWO
