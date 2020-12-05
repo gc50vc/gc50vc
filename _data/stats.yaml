@@ -319,6 +319,16 @@
   Swim: '23.93'
   Walk: '0.00'
 - Rank: '33'
+  Name: Dan
+  Group: ADSS/ADWS/ADWO
+  FBID: Dan1234
+  Total_Mileage: '267.58'
+  Badges: '4'
+  Run: '267.58'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '34'
   Name: jheng
   Group: ADSS/ADWS/ADWO
   FBID: jheng0000
@@ -328,7 +338,7 @@
   Cycle: '202.41'
   Swim: '23.67'
   Walk: '0.00'
-- Rank: '34'
+- Rank: '35'
   Name: Cookie
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -338,7 +348,7 @@
   Cycle: '190.51'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: Daniel Tay
   Group: AOSX/AOS
   FBID: Corrupt2705
@@ -347,16 +357,6 @@
   Run: '118.90'
   Cycle: '0.00'
   Swim: '23.70'
-  Walk: '0.00'
-- Rank: '36'
-  Name: Dan
-  Group: ADSS/ADWS/ADWO
-  FBID: Dan1234
-  Total_Mileage: '256.35'
-  Badges: '4'
-  Run: '256.35'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '37'
   Name: Rycel Wong
