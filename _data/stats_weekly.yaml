@@ -319,6 +319,16 @@
   Swim: '1.40'
   Walk: '5.33'
 - Rank: '33'
+  Name: Sze Tein
+  Group: ATC
+  FBID: Topaz1327
+  Total_Mileage: '26.98'
+  Badges: '0'
+  Run: '26.98'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '34'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -328,7 +338,7 @@
   Cycle: '42.27'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '34'
   Name: Andre
   Group: ADW
   FBID: Andre7429
@@ -338,7 +348,7 @@
   Cycle: '61.15'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: ''
   Group: ADSS/ADWS/ADWO
   FBID: '01733'
@@ -348,7 +358,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '36'
+- Rank: '37'
   Name: Hector
   Group: ADW
   FBID: Hector0911
@@ -358,7 +368,7 @@
   Cycle: '0.00'
   Swim: '4.20'
   Walk: '6.13'
-- Rank: '37'
+- Rank: '38'
   Name: Lia
   Group: ADSS/ADWS/ADWO
   FBID: Lia1116
@@ -368,7 +378,7 @@
   Cycle: '0.00'
   Swim: '2.25'
   Walk: '0.00'
-- Rank: '38'
+- Rank: '39'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -378,7 +388,7 @@
   Cycle: '24.00'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '39'
+- Rank: '40'
   Name: Elliot Goodman
   Group: ADW
   FBID: Goodman8888
@@ -388,7 +398,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '40'
+- Rank: '41'
   Name: Kelvin
   Group: ADSS/ADWS/ADWO
   FBID: Kelvin1111
@@ -398,7 +408,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '41'
+- Rank: '42'
   Name: Rock
   Group: ADW
   FBID: Rock0165
@@ -408,7 +418,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '42'
+- Rank: '43'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -418,7 +428,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '43'
+- Rank: '44'
   Name: Kian Seng
   Group: ADW
   FBID: Kianseng0170
@@ -428,7 +438,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '43'
+- Rank: '44'
   Name: Declanmelo
   Group: ADSS/ADWS/ADWO
   FBID: Declan1234
@@ -438,7 +448,7 @@
   Cycle: '0.00'
   Swim: '3.00'
   Walk: '0.00'
-- Rank: '45'
+- Rank: '46'
   Name: Malcolm Taong
   Group: ADSS/ADWS/ADWO
   FBID: TAONG8070
@@ -448,7 +458,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '46'
+- Rank: '47'
   Name: Shawn Lim
   Group: ADW
   FBID: bison2609
@@ -458,7 +468,7 @@
   Cycle: '0.00'
   Swim: '3.40'
   Walk: '0.00'
-- Rank: '47'
+- Rank: '48'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -468,7 +478,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '48'
+- Rank: '49'
   Name: Kai Yi
   Group: ADW
   FBID: KaiYi1234
@@ -478,7 +488,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '49'
+- Rank: '50'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -488,23 +498,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '50'
+- Rank: '51'
   Name: Seow Jian Wei
   Group: ADSS/ADWS/ADWO
   FBID: Iwaneji1999
   Total_Mileage: '20.00'
   Badges: '0'
   Run: '20.00'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '51'
-  Name: Sze Tein
-  Group: ATC
-  FBID: Topaz1327
-  Total_Mileage: '19.58'
-  Badges: '0'
-  Run: '19.58'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
