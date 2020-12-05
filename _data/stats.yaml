@@ -729,6 +729,16 @@
   Swim: '10.65'
   Walk: '0.00'
 - Rank: '74'
+  Name: Alloy
+  Group: ABM
+  FBID: alloy8585
+  Total_Mileage: '154.53'
+  Badges: '8'
+  Run: '90.27'
+  Cycle: '138.22'
+  Swim: '4.95'
+  Walk: '0.00'
+- Rank: '75'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
   FBID: Ahbye1234
@@ -738,7 +748,7 @@
   Cycle: '200.00'
   Swim: '6.50'
   Walk: '6.00'
-- Rank: '75'
+- Rank: '76'
   Name: Weng
   Group: ADSS/ADWS/ADWO
   FBID: Weng8238
@@ -748,7 +758,7 @@
   Cycle: '380.60'
   Swim: '0.00'
   Walk: '13.86'
-- Rank: '76'
+- Rank: '77'
   Name: Yun Jie (Rhythm)
   Group: ADW
   FBID: Jabez8686
@@ -758,7 +768,7 @@
   Cycle: '0.00'
   Swim: '18.11'
   Walk: '4.80'
-- Rank: '77'
+- Rank: '78'
   Name: Andre
   Group: ADW
   FBID: Andre7429
@@ -768,7 +778,7 @@
   Cycle: '505.43'
   Swim: '0.85'
   Walk: '0.00'
-- Rank: '78'
+- Rank: '79'
   Name: Rock
   Group: ADW
   FBID: Rock0165
@@ -778,16 +788,6 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '6.00'
-- Rank: '79'
-  Name: Alloy
-  Group: ABM
-  FBID: alloy8585
-  Total_Mileage: '146.75'
-  Badges: '8'
-  Run: '90.27'
-  Cycle: '107.13'
-  Swim: '4.95'
-  Walk: '0.00'
 - Rank: '80'
   Name: Ying Tat
   Group: ADW
