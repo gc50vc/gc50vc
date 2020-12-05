@@ -599,6 +599,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '61'
+  Name: PCK
+  Group: ADW
+  FBID: PCK2205
+  Total_Mileage: '184.81'
+  Badges: '4'
+  Run: '184.81'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '62'
   Name: Iggy
   Group: ADSS/ADWS/ADWO
   FBID: Iggy7900
@@ -608,7 +618,7 @@
   Cycle: '422.85'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '62'
+- Rank: '63'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: Errick1991
@@ -618,7 +628,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '63'
+- Rank: '64'
   Name: Malcolm Taong
   Group: ADSS/ADWS/ADWO
   FBID: TAONG8070
@@ -628,7 +638,7 @@
   Cycle: '497.27'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '64'
+- Rank: '65'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -638,23 +648,13 @@
   Cycle: '8.76'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '65'
+- Rank: '66'
   Name: You Rong
   Group: ADW
   FBID: Audi1987
   Total_Mileage: '175.91'
   Badges: '4'
   Run: '175.91'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '66'
-  Name: PCK
-  Group: ADW
-  FBID: PCK2205
-  Total_Mileage: '168.80'
-  Badges: '4'
-  Run: '168.80'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
@@ -1349,6 +1349,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '136'
+  Name: Diva
+  Group: ADW
+  FBID: Delia1234
+  Total_Mileage: '85.43'
+  Badges: '7'
+  Run: '42.38'
+  Cycle: '100.21'
+  Swim: '3.00'
+  Walk: '28.59'
+- Rank: '137'
   Name: Owyong
   Group: ATC
   FBID: Owyong251088
@@ -1358,7 +1368,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '137'
+- Rank: '138'
   Name: Darius Ng
   Group: ADSS/ADWS/ADWO
   FBID: bobo1234
@@ -1368,7 +1378,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '138'
+- Rank: '139'
   Name: Sunray
   Group: ABM
   FBID: Sunray0909
@@ -1378,7 +1388,7 @@
   Cycle: '201.00'
   Swim: '2.01'
   Walk: '0.00'
-- Rank: '139'
+- Rank: '140'
   Name: Manu
   Group: ABM
   FBID: Manu7894
@@ -1388,16 +1398,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '140'
-  Name: Diva
-  Group: ADW
-  FBID: Delia1234
-  Total_Mileage: '79.43'
-  Badges: '7'
-  Run: '42.38'
-  Cycle: '100.21'
-  Swim: '2.00'
-  Walk: '28.59'
 - Rank: '141'
   Name: Alan
   Group: ADSS/ADWS/ADWO
@@ -5847,7 +5847,7 @@
   Run: '0.00'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '26.30'
+  Walk: '42.30'
 - Rank: '570'
   Name: Jchong
   Group: AFE
