@@ -159,6 +159,16 @@
   Swim: '14.70'
   Walk: '5.89'
 - Rank: '17'
+  Name: 'Tan Swee Kiat '
+  Group: ADW
+  FBID: Eskay0077
+  Total_Mileage: '416.00'
+  Badges: '4'
+  Run: '416.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '11.68'
+- Rank: '18'
   Name: Tony Foo
   Group: ADW
   FBID: tonyfoo0165
@@ -168,7 +178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '18'
+- Rank: '19'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -178,16 +188,6 @@
   Cycle: '1331.42'
   Swim: '1.70'
   Walk: '2.19'
-- Rank: '19'
-  Name: 'Tan Swee Kiat '
-  Group: ADW
-  FBID: Eskay0077
-  Total_Mileage: '400.60'
-  Badges: '4'
-  Run: '400.60'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '11.68'
 - Rank: '20'
   Name: aH-MuNs-Ge
   Group: AFE
@@ -1269,6 +1269,16 @@
   Swim: '0.00'
   Walk: '1.00'
 - Rank: '128'
+  Name: Kelvin
+  Group: ADSS/ADWS/ADWO
+  FBID: Kelvin1111
+  Total_Mileage: '92.70'
+  Badges: '3'
+  Run: '92.70'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '129'
   Name: Wan Yuan
   Group: ADW
   FBID: Lost1908
@@ -1278,16 +1288,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '20.24'
-- Rank: '129'
-  Name: Kelvin
-  Group: ADSS/ADWS/ADWO
-  FBID: Kelvin1111
-  Total_Mileage: '90.30'
-  Badges: '3'
-  Run: '90.30'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '130'
   Name: Waffles
   Group: ATC
