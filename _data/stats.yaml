@@ -1039,6 +1039,16 @@
   Swim: '0.00'
   Walk: '8.93'
 - Rank: '105'
+  Name: Camper
+  Group: ADW
+  FBID: tanht1968
+  Total_Mileage: '115.43'
+  Badges: '4'
+  Run: '115.43'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '106'
   Name: Rubiks
   Group: ABM
   FBID: Rubiks1234
@@ -1048,7 +1058,7 @@
   Cycle: '41.78'
   Swim: '6.15'
   Walk: '0.00'
-- Rank: '106'
+- Rank: '107'
   Name: Keith low
   Group: ADSS/ADWS/ADWO
   FBID: Keithlow1998
@@ -1058,7 +1068,7 @@
   Cycle: '421.73'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '107'
+- Rank: '108'
   Name: Zena
   Group: ABM
   FBID: Zena2107
@@ -1068,7 +1078,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '108'
+- Rank: '109'
   Name: TRIPS
   Group: ATC
   FBID: TRIPS_0000
@@ -1076,16 +1086,6 @@
   Badges: '5'
   Run: '72.07'
   Cycle: '161.87'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '109'
-  Name: Camper
-  Group: ADW
-  FBID: tanht1968
-  Total_Mileage: '111.99'
-  Badges: '4'
-  Run: '111.99'
-  Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '110'
