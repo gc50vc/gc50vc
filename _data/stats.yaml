@@ -259,6 +259,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '27'
+  Name: AngmoATB
+  Group: ADW
+  FBID: Angmo1984
+  Total_Mileage: '316.12'
+  Badges: '7'
+  Run: '196.51'
+  Cycle: '0.00'
+  Swim: '19.94'
+  Walk: '7.97'
+- Rank: '28'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -268,16 +278,6 @@
   Cycle: '40.64'
   Swim: '23.10'
   Walk: '0.00'
-- Rank: '28'
-  Name: AngmoATB
-  Group: ADW
-  FBID: Angmo1984
-  Total_Mileage: '304.58'
-  Badges: '7'
-  Run: '184.97'
-  Cycle: '0.00'
-  Swim: '19.94'
-  Walk: '7.97'
 - Rank: '29'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
