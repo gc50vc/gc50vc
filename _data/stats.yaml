@@ -79,6 +79,16 @@
   Swim: '15.55'
   Walk: '3.02'
 - Rank: '9'
+  Name: Slimer
+  Group: ABM
+  FBID: Slimer1234
+  Total_Mileage: '658.50'
+  Badges: '13'
+  Run: '227.81'
+  Cycle: '209.50'
+  Swim: '63.05'
+  Walk: '17.51'
+- Rank: '10'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -88,16 +98,6 @@
   Cycle: '269.90'
   Swim: '79.15'
   Walk: '0.00'
-- Rank: '10'
-  Name: Slimer
-  Group: ABM
-  FBID: Slimer1234
-  Total_Mileage: '643.50'
-  Badges: '13'
-  Run: '227.81'
-  Cycle: '209.50'
-  Swim: '60.55'
-  Walk: '17.51'
 - Rank: '11'
   Name: Hasty
   Group: ADW
