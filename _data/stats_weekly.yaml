@@ -139,6 +139,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '15'
+  Name: Alloy
+  Group: ABM
+  FBID: alloy8585
+  Total_Mileage: '72.53'
+  Badges: '3'
+  Run: '29.57'
+  Cycle: '138.22'
+  Swim: '1.40'
+  Walk: '0.00'
+- Rank: '16'
   Name: Tony Foo
   Group: ADW
   FBID: tonyfoo0165
@@ -148,7 +158,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '16'
+- Rank: '17'
   Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
@@ -157,16 +167,6 @@
   Run: '23.31'
   Cycle: '46.06'
   Swim: '5.28'
-  Walk: '0.00'
-- Rank: '17'
-  Name: Alloy
-  Group: ABM
-  FBID: alloy8585
-  Total_Mileage: '64.13'
-  Badges: '3'
-  Run: '29.57'
-  Cycle: '138.22'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '18'
   Name: K Y Leong
@@ -1947,7 +1947,7 @@
   Run: '0.00'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '63.93'
+  Walk: '123.17'
 - Rank: '194'
   Name: Siew Boon Choy
   Group: AFE
