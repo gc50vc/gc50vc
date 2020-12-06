@@ -22,9 +22,9 @@
   Name: LWY
   Group: AFE
   FBID: LWY3137
-  Total_Mileage: '179.00'
+  Total_Mileage: '184.00'
   Badges: '0'
-  Run: '0.00'
+  Run: '5.00'
   Cycle: '716.00'
   Swim: '0.00'
   Walk: '0.00'
@@ -119,6 +119,16 @@
   Swim: '8.35'
   Walk: '0.28'
 - Rank: '13'
+  Name: Tommy Tham
+  Group: ADSS/ADWS/ADWO
+  FBID: Tommy1976
+  Total_Mileage: '71.43'
+  Badges: '0'
+  Run: '22.90'
+  Cycle: '26.11'
+  Swim: '7.00'
+  Walk: '0.00'
+- Rank: '14'
   Name: Tony Foo
   Group: ADW
   FBID: tonyfoo0165
@@ -128,7 +138,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '15'
   Name: Alloy
   Group: ABM
   FBID: alloy8585
@@ -137,16 +147,6 @@
   Run: '29.57'
   Cycle: '138.22'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '15'
-  Name: Tommy Tham
-  Group: ADSS/ADWS/ADWO
-  FBID: Tommy1976
-  Total_Mileage: '61.08'
-  Badges: '0'
-  Run: '12.55'
-  Cycle: '26.11'
-  Swim: '7.00'
   Walk: '0.00'
 - Rank: '16'
   Name: K Y Leong
