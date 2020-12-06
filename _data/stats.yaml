@@ -107,7 +107,7 @@
   Run: '154.00'
   Cycle: '50.58'
   Swim: '80.30'
-  Walk: '1.32'
+  Walk: '1.60'
 - Rank: '12'
   Name: Hasty
   Group: ADW
@@ -239,6 +239,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '25'
+  Name: LWY
+  Group: AFE
+  FBID: LWY3137
+  Total_Mileage: '366.25'
+  Badges: '5'
+  Run: '10.00'
+  Cycle: '1425.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '26'
   Name: Euj
   Group: ATC
   FBID: Euj1871
@@ -248,16 +258,6 @@
   Cycle: '180.12'
   Swim: '35.87'
   Walk: '109.94'
-- Rank: '26'
-  Name: LWY
-  Group: AFE
-  FBID: LWY3137
-  Total_Mileage: '346.25'
-  Badges: '5'
-  Run: '10.00'
-  Cycle: '1345.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '27'
   Name: AngmoATB
   Group: ADW
@@ -529,6 +529,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '54'
+  Name: Steyr
+  Group: ABM
+  FBID: Steyr9693
+  Total_Mileage: '209.79'
+  Badges: '4'
+  Run: '205.22'
+  Cycle: '18.27'
+  Swim: '0.00'
+  Walk: '3.42'
+- Rank: '55'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -538,7 +548,7 @@
   Cycle: '228.95'
   Swim: '11.40'
   Walk: '3.15'
-- Rank: '55'
+- Rank: '56'
   Name: AdolphusJJ
   Group: AOSX/AOS
   FBID: Bamboo1234
@@ -548,7 +558,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '56'
+- Rank: '57'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
@@ -558,16 +568,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '57'
-  Name: Steyr
-  Group: ABM
-  FBID: Steyr9693
-  Total_Mileage: '202.07'
-  Badges: '4'
-  Run: '197.50'
-  Cycle: '18.27'
-  Swim: '0.00'
-  Walk: '3.42'
 - Rank: '58'
   Name: You Rong
   Group: ADW
@@ -589,6 +589,16 @@
   Swim: '0.00'
   Walk: '4.73'
 - Rank: '60'
+  Name: GN
+  Group: ADSS/ADWS/ADWO
+  FBID: GN8282
+  Total_Mileage: '198.42'
+  Badges: '4'
+  Run: '198.42'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '61'
   Name: Iggy
   Group: ADSS/ADWS/ADWO
   FBID: Iggy7900
@@ -598,7 +608,7 @@
   Cycle: '422.85'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '61'
+- Rank: '62'
   Name: Malcolm Taong
   Group: ADSS/ADWS/ADWO
   FBID: TAONG8070
@@ -606,16 +616,6 @@
   Badges: '6'
   Run: '70.09'
   Cycle: '497.27'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '62'
-  Name: GN
-  Group: ADSS/ADWS/ADWO
-  FBID: GN8282
-  Total_Mileage: '193.41'
-  Badges: '4'
-  Run: '193.41'
-  Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '63'
