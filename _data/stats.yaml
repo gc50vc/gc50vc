@@ -79,6 +79,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '9'
+  Name: Tommy Tham
+  Group: ADSS/ADWS/ADWO
+  FBID: Tommy1976
+  Total_Mileage: '692.51'
+  Badges: '13'
+  Run: '124.62'
+  Cycle: '275.97'
+  Swim: '83.15'
+  Walk: '0.00'
+- Rank: '10'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -88,16 +98,6 @@
   Cycle: '209.50'
   Swim: '65.80'
   Walk: '17.51'
-- Rank: '10'
-  Name: Tommy Tham
-  Group: ADSS/ADWS/ADWO
-  FBID: Tommy1976
-  Total_Mileage: '685.03'
-  Badges: '13'
-  Run: '117.14'
-  Cycle: '275.97'
-  Swim: '83.15'
-  Walk: '0.00'
 - Rank: '11'
   Name: Prem
   Group: ADW
@@ -469,16 +469,6 @@
   Swim: '2.20'
   Walk: '1.80'
 - Rank: '48'
-  Name: Lia
-  Group: ADSS/ADWS/ADWO
-  FBID: Lia1116
-  Total_Mileage: '222.04'
-  Badges: '12'
-  Run: '129.63'
-  Cycle: '193.24'
-  Swim: '7.35'
-  Walk: '0.00'
-- Rank: '49'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -488,7 +478,7 @@
   Cycle: '414.72'
   Swim: '1.00'
   Walk: '4.00'
-- Rank: '50'
+- Rank: '49'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
@@ -498,7 +488,7 @@
   Cycle: '218.38'
   Swim: '15.00'
   Walk: '11.07'
-- Rank: '51'
+- Rank: '50'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -508,7 +498,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '64.62'
-- Rank: '52'
+- Rank: '51'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -517,6 +507,16 @@
   Run: '214.97'
   Cycle: '0.00'
   Swim: '0.00'
+  Walk: '0.00'
+- Rank: '52'
+  Name: Lia
+  Group: ADSS/ADWS/ADWO
+  FBID: Lia1116
+  Total_Mileage: '212.70'
+  Badges: '12'
+  Run: '120.29'
+  Cycle: '193.24'
+  Swim: '7.35'
   Walk: '0.00'
 - Rank: '53'
   Name: Liwei
@@ -702,9 +702,9 @@
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
-  Total_Mileage: '163.57'
+  Total_Mileage: '165.00'
   Badges: '4'
-  Run: '163.57'
+  Run: '165.00'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
