@@ -79,6 +79,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '9'
+  Name: Prem
+  Group: ADW
+  FBID: Premium6687
+  Total_Mileage: '105.88'
+  Badges: '0'
+  Run: '24.21'
+  Cycle: '24.29'
+  Swim: '12.60'
+  Walk: '0.28'
+- Rank: '10'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: Wang0165
@@ -88,7 +98,7 @@
   Cycle: '172.37'
   Swim: '4.65'
   Walk: '0.00'
-- Rank: '10'
+- Rank: '11'
   Name: Daniel Tay
   Group: AOSX/AOS
   FBID: Corrupt2705
@@ -98,7 +108,7 @@
   Cycle: '0.00'
   Swim: '5.90'
   Walk: '0.00'
-- Rank: '11'
+- Rank: '12'
   Name: LZX
   Group: ADSS/ADWS/ADWO
   FBID: leezx1337
@@ -108,7 +118,7 @@
   Cycle: '212.55'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '12'
+- Rank: '13'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -118,16 +128,6 @@
   Cycle: '26.11'
   Swim: '10.00'
   Walk: '0.00'
-- Rank: '13'
-  Name: Prem
-  Group: ADW
-  FBID: Premium6687
-  Total_Mileage: '86.08'
-  Badges: '0'
-  Run: '24.21'
-  Cycle: '24.29'
-  Swim: '9.30'
-  Walk: '0.28'
 - Rank: '14'
   Name: 'Tan Swee Kiat '
   Group: ADW
@@ -682,9 +682,9 @@
   Name: Liang
   Group: ADW
   FBID: Foodislyfe091098
-  Total_Mileage: '22.81'
+  Total_Mileage: '23.18'
   Badges: '1'
-  Run: '22.81'
+  Run: '23.18'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.06'
