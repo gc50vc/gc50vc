@@ -209,16 +209,6 @@
   Swim: '5.46'
   Walk: '0.00'
 - Rank: '22'
-  Name: Coral
-  Group: ABM
-  FBID: Coral5050
-  Total_Mileage: '375.29'
-  Badges: '5'
-  Run: '361.84'
-  Cycle: '53.80'
-  Swim: '0.00'
-  Walk: '9.48'
-- Rank: '23'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -228,6 +218,16 @@
   Cycle: '130.06'
   Swim: '3.85'
   Walk: '0.00'
+- Rank: '23'
+  Name: Coral
+  Group: ABM
+  FBID: Coral5050
+  Total_Mileage: '368.68'
+  Badges: '5'
+  Run: '355.23'
+  Cycle: '53.80'
+  Swim: '0.00'
+  Walk: '9.48'
 - Rank: '24'
   Name: 'TiGeR3 '
   Group: ADSS/ADWS/ADWO
@@ -3219,6 +3219,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '323'
+  Name: Gregg
+  Group: ADSS/ADWS/ADWO
+  FBID: Hoodini2112
+  Total_Mileage: '31.60'
+  Badges: '2'
+  Run: '31.60'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '324'
   Name: Kush
   Group: AFE
   FBID: KM1695
@@ -3228,7 +3238,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '218.57'
-- Rank: '324'
+- Rank: '325'
   Name: ''
   Group: AOSX/AOS
   FBID: Buffet8888
@@ -3238,7 +3248,7 @@
   Cycle: '45.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '325'
+- Rank: '326'
   Name: ZhengXi
   Group: ADSS/ADWS/ADWO
   FBID: ZhengXiR0160
@@ -3248,7 +3258,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '326'
+- Rank: '327'
   Name: Ganesan
   Group: AFE
   FBID: Guinness2512
@@ -3258,7 +3268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '327'
+- Rank: '328'
   Name: Wildboar
   Group: ABM
   FBID: Wildboar1234
@@ -3268,7 +3278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '328'
+- Rank: '329'
   Name: 'Chiang Meng '
   Group: AOSX/AOS
   FBID: ccm1116
@@ -3278,7 +3288,7 @@
   Cycle: '8.84'
   Swim: '1.80'
   Walk: '4.05'
-- Rank: '329'
+- Rank: '330'
   Name: Hoa Chong Xian
   Group: ADSS/ADWS/ADWO
   FBID: ADWS2415
@@ -3288,7 +3298,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '330'
+- Rank: '331'
   Name: Kong
   Group: ADW
   FBID: Kong1609
@@ -3298,7 +3308,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '331'
+- Rank: '332'
   Name: Guojie
   Group: ADSS/ADWS/ADWO
   FBID: Thug2107
@@ -3308,7 +3318,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '332'
+- Rank: '333'
   Name: Spear
   Group: ATC
   FBID: Spear0213
@@ -3318,7 +3328,7 @@
   Cycle: '0.00'
   Swim: '2.50'
   Walk: '0.00'
-- Rank: '333'
+- Rank: '334'
   Name: Evan
   Group: ADSS/ADWS/ADWO
   FBID: Meliodas4545
@@ -3328,7 +3338,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '334'
+- Rank: '335'
   Name: Dino
   Group: ABM
   FBID: Dino1234
@@ -3338,7 +3348,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '21.26'
-- Rank: '335'
+- Rank: '336'
   Name: JB Ong
   Group: AOSX/AOS
   FBID: tango8456
@@ -3348,7 +3358,7 @@
   Cycle: '25.14'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '336'
+- Rank: '337'
   Name: Ivan Tan Xuan Hao
   Group: ADW
   FBID: bravo7245
@@ -3358,7 +3368,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '337'
+- Rank: '338'
   Name: Psycho
   Group: ADW
   FBID: Psycho0165
@@ -3368,7 +3378,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '338'
+- Rank: '339'
   Name: Poh Liong Wui
   Group: AFE
   FBID: Pohlw7878
@@ -3378,7 +3388,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '173.35'
-- Rank: '339'
+- Rank: '340'
   Name: Sirius
   Group: ABM
   FBID: Sirius1320
@@ -3388,16 +3398,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '64.36'
-- Rank: '340'
-  Name: Gregg
-  Group: ADSS/ADWS/ADWO
-  FBID: Hoodini2112
-  Total_Mileage: '26.60'
-  Badges: '2'
-  Run: '26.60'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '341'
   Name: Besson
   Group: ATC
