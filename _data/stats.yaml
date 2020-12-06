@@ -689,6 +689,16 @@
   Swim: '11.35'
   Walk: '0.00'
 - Rank: '70'
+  Name: Weng
+  Group: ADSS/ADWS/ADWO
+  FBID: Weng8238
+  Total_Mileage: '170.06'
+  Badges: '6'
+  Run: '67.94'
+  Cycle: '408.46'
+  Swim: '0.00'
+  Walk: '13.86'
+- Rank: '71'
   Name: QUENCHER
   Group: ABM
   FBID: quencher2020
@@ -698,7 +708,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '71'
+- Rank: '72'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -708,7 +718,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '72'
+- Rank: '73'
   Name: loanshark
   Group: ATC
   FBID: loanshark9356
@@ -718,7 +728,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.64'
-- Rank: '73'
+- Rank: '74'
   Name: Alloy
   Group: ABM
   FBID: alloy8585
@@ -728,7 +738,7 @@
   Cycle: '138.22'
   Swim: '6.35'
   Walk: '0.00'
-- Rank: '74'
+- Rank: '75'
   Name: Glenn
   Group: ADW
   FBID: Garfield3110
@@ -738,7 +748,7 @@
   Cycle: '26.20'
   Swim: '1.10'
   Walk: '13.84'
-- Rank: '75'
+- Rank: '76'
   Name: Tan Chee Wee
   Group: ATC
   FBID: tancw1974
@@ -748,16 +758,6 @@
   Cycle: '29.50'
   Swim: '0.00'
   Walk: '21.68'
-- Rank: '76'
-  Name: Weng
-  Group: ADSS/ADWS/ADWO
-  FBID: Weng8238
-  Total_Mileage: '160.04'
-  Badges: '6'
-  Run: '57.92'
-  Cycle: '408.46'
-  Swim: '0.00'
-  Walk: '13.86'
 - Rank: '77'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
