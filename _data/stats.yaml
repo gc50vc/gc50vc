@@ -89,6 +89,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '10'
+  Name: Slimer
+  Group: ABM
+  FBID: Slimer1234
+  Total_Mileage: '695.47'
+  Badges: '13'
+  Run: '248.28'
+  Cycle: '209.50'
+  Swim: '65.80'
+  Walk: '17.51'
+- Rank: '11'
   Name: Prem
   Group: ADW
   FBID: Premium6687
@@ -98,16 +108,6 @@
   Cycle: '66.87'
   Swim: '85.70'
   Walk: '1.60'
-- Rank: '11'
-  Name: Slimer
-  Group: ABM
-  FBID: Slimer1234
-  Total_Mileage: '685.25'
-  Badges: '13'
-  Run: '238.06'
-  Cycle: '209.50'
-  Swim: '65.80'
-  Walk: '17.51'
 - Rank: '12'
   Name: Hasty
   Group: ADW
@@ -199,6 +199,16 @@
   Swim: '1.70'
   Walk: '2.19'
 - Rank: '21'
+  Name: LWY
+  Group: AFE
+  FBID: LWY3137
+  Total_Mileage: '391.25'
+  Badges: '5'
+  Run: '15.00'
+  Cycle: '1505.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '22'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -208,7 +218,7 @@
   Cycle: '864.00'
   Swim: '5.46'
   Walk: '0.00'
-- Rank: '22'
+- Rank: '23'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -217,16 +227,6 @@
   Run: '319.60'
   Cycle: '130.06'
   Swim: '3.85'
-  Walk: '0.00'
-- Rank: '23'
-  Name: LWY
-  Group: AFE
-  FBID: LWY3137
-  Total_Mileage: '371.25'
-  Badges: '5'
-  Run: '15.00'
-  Cycle: '1425.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '24'
   Name: 'TiGeR3 '
