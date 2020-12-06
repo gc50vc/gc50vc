@@ -82,10 +82,10 @@
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
-  Total_Mileage: '710.51'
+  Total_Mileage: '715.52'
   Badges: '13'
   Run: '124.62'
-  Cycle: '275.97'
+  Cycle: '296.01'
   Swim: '86.15'
   Walk: '0.00'
 - Rank: '10'
@@ -1029,6 +1029,16 @@
   Swim: '20.00'
   Walk: '71.88'
 - Rank: '104'
+  Name: Camper
+  Group: ADW
+  FBID: tanht1968
+  Total_Mileage: '122.12'
+  Badges: '4'
+  Run: '122.12'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '105'
   Name: Legend
   Group: ADW
   FBID: Legend2512
@@ -1038,7 +1048,7 @@
   Cycle: '191.27'
   Swim: '0.00'
   Walk: '13.11'
-- Rank: '105'
+- Rank: '106'
   Name: Gwyn
   Group: ADW
   FBID: Magma1201
@@ -1048,16 +1058,6 @@
   Cycle: '46.60'
   Swim: '0.00'
   Walk: '8.93'
-- Rank: '106'
-  Name: Camper
-  Group: ADW
-  FBID: tanht1968
-  Total_Mileage: '115.43'
-  Badges: '4'
-  Run: '115.43'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '107'
   Name: Rubiks
   Group: ABM
