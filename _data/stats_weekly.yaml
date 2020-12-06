@@ -119,6 +119,16 @@
   Swim: '8.35'
   Walk: '0.28'
 - Rank: '13'
+  Name: 'Tan Swee Kiat '
+  Group: ADW
+  FBID: Eskay0077
+  Total_Mileage: '75.06'
+  Badges: '0'
+  Run: '75.06'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '14'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -128,7 +138,7 @@
   Cycle: '26.11'
   Swim: '7.00'
   Walk: '0.00'
-- Rank: '14'
+- Rank: '15'
   Name: Tony Foo
   Group: ADW
   FBID: tonyfoo0165
@@ -138,7 +148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '15'
+- Rank: '16'
   Name: Alloy
   Group: ABM
   FBID: alloy8585
@@ -148,23 +158,13 @@
   Cycle: '138.22'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '16'
+- Rank: '17'
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
   Total_Mileage: '60.69'
   Badges: '0'
   Run: '60.69'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '17'
-  Name: 'Tan Swee Kiat '
-  Group: ADW
-  FBID: Eskay0077
-  Total_Mileage: '59.66'
-  Badges: '0'
-  Run: '59.66'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
@@ -269,6 +269,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '28'
+  Name: Geeky
+  Group: ADW
+  FBID: Geeky1989
+  Total_Mileage: '38.84'
+  Badges: '0'
+  Run: '18.00'
+  Cycle: '20.00'
+  Swim: '2.64'
+  Walk: '18.01'
+- Rank: '29'
   Name: QUENCHER
   Group: ABM
   FBID: quencher2020
@@ -278,7 +288,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: You Rong
   Group: ADW
   FBID: Audi1987
@@ -288,7 +298,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '31'
   Name: sw
   Group: ADSS/ADWS/ADWO
   FBID: shaunwwx1504
@@ -298,7 +308,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '32'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -308,7 +318,7 @@
   Cycle: '76.88'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '32'
+- Rank: '33'
   Name: PCK
   Group: ADW
   FBID: PCK2205
@@ -318,7 +328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '33'
+- Rank: '34'
   Name: ''
   Group: ADSS/ADWS/ADWO
   FBID: '01733'
@@ -328,7 +338,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '34'
+- Rank: '35'
   Name: Kelvin
   Group: ADSS/ADWS/ADWO
   FBID: Kelvin1111
@@ -338,7 +348,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: Irwin Chua
   Group: AOSX/AOS
   FBID: irwin2482
@@ -348,7 +358,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '36'
+- Rank: '37'
   Name: Btee
   Group: AFE
   FBID: Brian0307
@@ -358,7 +368,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '37'
+- Rank: '38'
   Name: Lia
   Group: ADSS/ADWS/ADWO
   FBID: Lia1116
@@ -368,7 +378,7 @@
   Cycle: '0.00'
   Swim: '2.25'
   Walk: '0.00'
-- Rank: '38'
+- Rank: '39'
   Name: Steroid
   Group: ATC
   FBID: Steroid1007
@@ -378,7 +388,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '39'
+- Rank: '40'
   Name: ''
   Group: AOSX/AOS
   FBID: Scar2000
@@ -388,16 +398,6 @@
   Cycle: '84.92'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '40'
-  Name: Geeky
-  Group: ADW
-  FBID: Geeky1989
-  Total_Mileage: '31.40'
-  Badges: '0'
-  Run: '18.00'
-  Cycle: '20.00'
-  Swim: '1.40'
-  Walk: '18.01'
 - Rank: '41'
   Name: Kai Yi
   Group: ADW
