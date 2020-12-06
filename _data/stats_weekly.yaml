@@ -59,6 +59,16 @@
   Swim: '12.25'
   Walk: '0.00'
 - Rank: '7'
+  Name: Ektar
+  Group: ABM
+  FBID: Ektar1971
+  Total_Mileage: '140.00'
+  Badges: '0'
+  Run: '39.07'
+  Cycle: '156.50'
+  Swim: '10.30'
+  Walk: '0.00'
+- Rank: '8'
   Name: T-rex
   Group: ABM
   FBID: Trex1406
@@ -67,16 +77,6 @@
   Run: '0.00'
   Cycle: '549.45'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '8'
-  Name: Ektar
-  Group: ABM
-  FBID: Ektar1971
-  Total_Mileage: '132.80'
-  Badges: '0'
-  Run: '39.07'
-  Cycle: '156.50'
-  Swim: '9.10'
   Walk: '0.00'
 - Rank: '9'
   Name: Leonard ong
@@ -122,11 +122,11 @@
   Name: Prem
   Group: ADW
   FBID: Premium6687
-  Total_Mileage: '80.38'
+  Total_Mileage: '86.08'
   Badges: '0'
   Run: '24.21'
   Cycle: '24.29'
-  Swim: '8.35'
+  Swim: '9.30'
   Walk: '0.28'
 - Rank: '14'
   Name: 'Tan Swee Kiat '
@@ -399,6 +399,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '41'
+  Name: AngmoATB
+  Group: ADW
+  FBID: Angmo1984
+  Total_Mileage: '32.44'
+  Badges: '0'
+  Run: '32.44'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '42'
   Name: ''
   Group: AOSX/AOS
   FBID: Scar2000
@@ -408,7 +418,7 @@
   Cycle: '84.92'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '42'
+- Rank: '43'
   Name: Kai Yi
   Group: ADW
   FBID: KaiYi1234
@@ -418,7 +428,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '43'
+- Rank: '44'
   Name: ''
   Group: AOSX/AOS
   FBID: Buffet8888
@@ -428,7 +438,7 @@
   Cycle: '45.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '45'
+- Rank: '46'
   Name: Malcolm Taong
   Group: ADSS/ADWS/ADWO
   FBID: TAONG8070
@@ -438,7 +448,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '44'
+- Rank: '45'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -448,7 +458,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '13.62'
-- Rank: '46'
+- Rank: '47'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -458,7 +468,7 @@
   Cycle: '124.17'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '47'
+- Rank: '48'
   Name: EG
   Group: ADSS/ADWS/ADWO
   FBID: EG3211
@@ -468,7 +478,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '48'
+- Rank: '49'
   Name: JYFS
   Group: ADSS/ADWS/ADWO
   FBID: Golddigger6449
@@ -478,7 +488,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '49'
+- Rank: '50'
   Name: 'Tay Wen Hao '
   Group: ADW
   FBID: Wh8295
@@ -488,7 +498,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '50'
+- Rank: '51'
   Name: 'TiGeR3 '
   Group: ADSS/ADWS/ADWO
   FBID: TiGeR2876
@@ -498,7 +508,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '51'
+- Rank: '52'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -508,23 +518,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '52'
+- Rank: '53'
   Name: ARROW
   Group: ADW
   FBID: Tee1980
   Total_Mileage: '29.00'
   Badges: '1'
   Run: '29.00'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '53'
-  Name: AngmoATB
-  Group: ADW
-  FBID: Angmo1984
-  Total_Mileage: '28.44'
-  Badges: '0'
-  Run: '28.44'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
@@ -2067,7 +2067,7 @@
   Run: '0.00'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '24.13'
+  Walk: '25.26'
 - Rank: '191'
   Name: Austin Law
   Group: AFE
