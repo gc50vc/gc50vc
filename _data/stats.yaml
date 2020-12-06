@@ -1409,6 +1409,16 @@
   Swim: '2.00'
   Walk: '28.59'
 - Rank: '142'
+  Name: spirit
+  Group: ATC
+  FBID: spirit5555
+  Total_Mileage: '79.30'
+  Badges: '3'
+  Run: '79.30'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '3.37'
+- Rank: '143'
   Name: Alan
   Group: ADSS/ADWS/ADWO
   FBID: Alan2881
@@ -1418,7 +1428,7 @@
   Cycle: '0.00'
   Swim: '5.15'
   Walk: '32.00'
-- Rank: '143'
+- Rank: '144'
   Name: Kent Zeng
   Group: ADSS/ADWS/ADWO
   FBID: Stonks69420
@@ -1428,7 +1438,7 @@
   Cycle: '75.00'
   Swim: '1.00'
   Walk: '0.00'
-- Rank: '144'
+- Rank: '145'
   Name: 'Sengie '
   Group: ADW
   FBID: ARIAL0160
@@ -1438,7 +1448,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '21.08'
-- Rank: '145'
+- Rank: '146'
   Name: Pravin
   Group: ADSS/ADWS/ADWO
   FBID: Pravin8938
@@ -1448,7 +1458,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '146'
+- Rank: '147'
   Name: Kian Seng
   Group: ADW
   FBID: KianSeng0170
@@ -1458,16 +1468,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '147'
-  Name: spirit
-  Group: ATC
-  FBID: spirit5555
-  Total_Mileage: '75.60'
-  Badges: '3'
-  Run: '75.60'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '3.37'
 - Rank: '148'
   Name: Philip Tan
   Group: ATC
