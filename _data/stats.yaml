@@ -89,6 +89,16 @@
   Swim: '89.15'
   Walk: '0.00'
 - Rank: '10'
+  Name: Prem
+  Group: ADW
+  FBID: Premium6687
+  Total_Mileage: '688.42'
+  Badges: '9'
+  Run: '157.50'
+  Cycle: '66.87'
+  Swim: '85.70'
+  Walk: '1.60'
+- Rank: '11'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -98,16 +108,6 @@
   Cycle: '209.50'
   Swim: '65.80'
   Walk: '17.51'
-- Rank: '11'
-  Name: Prem
-  Group: ADW
-  FBID: Premium6687
-  Total_Mileage: '668.62'
-  Badges: '9'
-  Run: '157.50'
-  Cycle: '66.87'
-  Swim: '82.40'
-  Walk: '1.60'
 - Rank: '12'
   Name: Hasty
   Group: ADW
@@ -2719,6 +2719,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '273'
+  Name: Liang
+  Group: ADW
+  FBID: Foodislyfe091098
+  Total_Mileage: '43.95'
+  Badges: '3'
+  Run: '43.95'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '6.06'
+- Rank: '274'
   Name: cheehao
   Group: ADSS/ADWS/ADWO
   FBID: 165sloth1999
@@ -2728,7 +2738,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '5.99'
-- Rank: '274'
+- Rank: '275'
   Name: Jeremy Ang
   Group: AFE
   FBID: Jayyleemee1993
@@ -2738,16 +2748,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '275'
-  Name: Liang
-  Group: ADW
-  FBID: Foodislyfe091098
-  Total_Mileage: '43.58'
-  Badges: '3'
-  Run: '43.58'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '6.06'
 - Rank: '276'
   Name: Yuhang
   Group: AOSX/AOS
