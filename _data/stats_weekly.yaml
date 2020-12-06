@@ -112,11 +112,11 @@
   Name: Prem
   Group: ADW
   FBID: Premium6687
-  Total_Mileage: '73.48'
+  Total_Mileage: '80.38'
   Badges: '0'
   Run: '24.21'
   Cycle: '24.29'
-  Swim: '7.20'
+  Swim: '8.35'
   Walk: '0.28'
 - Rank: '13'
   Name: Tony Foo
@@ -1699,6 +1699,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '171'
+  Name: Nat Wong
+  Group: ADW
+  FBID: nyat8784
+  Total_Mileage: '4.82'
+  Badges: '0'
+  Run: '4.82'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '172'
   Name: SquarePants
   Group: AOSX/AOS
   FBID: SQUAREPANTS5882
@@ -1708,7 +1718,7 @@
   Cycle: '19.02'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '172'
+- Rank: '173'
   Name: Adrian
   Group: ADSS/ADWS/ADWO
   FBID: Adrian9888
@@ -1718,7 +1728,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '173'
+- Rank: '174'
   Name: aH Hui
   Group: ADSS/ADWS/ADWO
   FBID: Edgar0409
@@ -1728,7 +1738,7 @@
   Cycle: '18.22'
   Swim: '0.00'
   Walk: '2.78'
-- Rank: '174'
+- Rank: '175'
   Name: Jamie Chen
   Group: ADSS/ADWS/ADWO
   FBID: FLASH2911
@@ -1738,7 +1748,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '175'
+- Rank: '176'
   Name: Ham
   Group: ADSS/ADWS/ADWO
   FBID: Ham1234
@@ -1748,7 +1758,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '176'
+- Rank: '177'
   Name: Kenneth
   Group: ADSS/ADWS/ADWO
   FBID: Cat0407
@@ -1758,7 +1768,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '177'
+- Rank: '178'
   Name: batu
   Group: ABM
   FBID: batu1984
@@ -1768,7 +1778,7 @@
   Cycle: '15.18'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '178'
+- Rank: '179'
   Name: JIAYONG
   Group: ADSS/ADWS/ADWO
   FBID: Jaywhy0309
@@ -1778,7 +1788,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '179'
+- Rank: '180'
   Name: spirit
   Group: ATC
   FBID: spirit5555
@@ -1788,7 +1798,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '180'
+- Rank: '181'
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
@@ -1798,7 +1808,7 @@
   Cycle: '12.47'
   Swim: '0.00'
   Walk: '18.96'
-- Rank: '181'
+- Rank: '182'
   Name: Yun Jie (Rhythm)
   Group: ADW
   FBID: Jabez8686
@@ -1808,7 +1818,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '182'
+- Rank: '183'
   Name: J L
   Group: ADSS/ADWS/ADWO
   FBID: syke8890
@@ -1818,7 +1828,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '182'
+- Rank: '183'
   Name: Pravin
   Group: ADSS/ADWS/ADWO
   FBID: Pravin8938
@@ -1828,7 +1838,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '182'
+- Rank: '183'
   Name: 160ACHESTNUT
   Group: ADSS/ADWS/ADWO
   FBID: CHESTNUT2303
@@ -1838,7 +1848,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '185'
+- Rank: '186'
   Name: Volley
   Group: ADW
   FBID: Volley1543
@@ -1848,23 +1858,13 @@
   Cycle: '0.00'
   Swim: '0.50'
   Walk: '0.00'
-- Rank: '185'
+- Rank: '186'
   Name: ''
   Group: ADSS/ADWS/ADWO
   FBID: Meliodas0000
   Total_Mileage: '3.00'
   Badges: '0'
   Run: '3.00'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '187'
-  Name: Nat Wong
-  Group: ADW
-  FBID: nyat8784
-  Total_Mileage: '2.62'
-  Badges: '0'
-  Run: '2.62'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
