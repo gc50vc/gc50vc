@@ -52,11 +52,11 @@
   Name: Ektar
   Group: ABM
   FBID: ektar1971
-  Total_Mileage: '850.54'
+  Total_Mileage: '857.74'
   Badges: '13'
   Run: '141.54'
   Cycle: '1536.40'
-  Swim: '54.15'
+  Swim: '55.35'
   Walk: '0.00'
 - Rank: '7'
   Name: Nicholas
@@ -262,9 +262,9 @@
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
-  Total_Mileage: '316.12'
+  Total_Mileage: '320.12'
   Badges: '7'
-  Run: '196.51'
+  Run: '200.51'
   Cycle: '0.00'
   Swim: '19.94'
   Walk: '7.97'
@@ -319,6 +319,16 @@
   Swim: '24.70'
   Walk: '0.00'
 - Rank: '33'
+  Name: Dan
+  Group: ADSS/ADWS/ADWO
+  FBID: Dan1234
+  Total_Mileage: '278.71'
+  Badges: '4'
+  Run: '278.71'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '34'
   Name: Cookie
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -328,7 +338,7 @@
   Cycle: '190.51'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '34'
+- Rank: '35'
   Name: Bronson
   Group: ADW
   FBID: Bronze1234
@@ -338,7 +348,7 @@
   Cycle: '260.01'
   Swim: '23.93'
   Walk: '0.00'
-- Rank: '35'
+- Rank: '36'
   Name: jheng
   Group: ADSS/ADWS/ADWO
   FBID: jheng0000
@@ -347,16 +357,6 @@
   Run: '74.73'
   Cycle: '222.41'
   Swim: '23.67'
-  Walk: '0.00'
-- Rank: '36'
-  Name: Dan
-  Group: ADSS/ADWS/ADWO
-  FBID: Dan1234
-  Total_Mileage: '267.58'
-  Badges: '4'
-  Run: '267.58'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '37'
   Name: Rycel Wong
@@ -837,7 +837,7 @@
   Run: '42.89'
   Cycle: '241.57'
   Swim: '7.10'
-  Walk: '81.07'
+  Walk: '95.26'
 - Rank: '85'
   Name: Jeremy Tan
   Group: ATC
