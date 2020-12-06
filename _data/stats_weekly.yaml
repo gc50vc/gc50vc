@@ -249,16 +249,6 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '26'
-  Name: Lia
-  Group: ADSS/ADWS/ADWO
-  FBID: Lia1116
-  Total_Mileage: '43.72'
-  Badges: '2'
-  Run: '30.22'
-  Cycle: '0.00'
-  Swim: '2.25'
-  Walk: '0.00'
-- Rank: '27'
   Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
@@ -268,7 +258,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '28'
+- Rank: '27'
   Name: QUENCHER
   Group: ABM
   FBID: quencher2020
@@ -278,7 +268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '28'
   Name: You Rong
   Group: ADW
   FBID: Audi1987
@@ -287,6 +277,16 @@
   Run: '38.08'
   Cycle: '0.00'
   Swim: '0.00'
+  Walk: '0.00'
+- Rank: '29'
+  Name: Tommy Tham
+  Group: ADSS/ADWS/ADWO
+  FBID: Tommy1976
+  Total_Mileage: '38.07'
+  Badges: '0'
+  Run: '12.55'
+  Cycle: '6.07'
+  Swim: '4.00'
   Walk: '0.00'
 - Rank: '30'
   Name: sw
@@ -359,6 +359,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '37'
+  Name: Lia
+  Group: ADSS/ADWS/ADWO
+  FBID: Lia1116
+  Total_Mileage: '34.38'
+  Badges: '2'
+  Run: '20.88'
+  Cycle: '0.00'
+  Swim: '2.25'
+  Walk: '0.00'
+- Rank: '38'
   Name: Steroid
   Group: ATC
   FBID: Steroid1007
@@ -368,7 +378,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '38'
+- Rank: '39'
   Name: ''
   Group: AOSX/AOS
   FBID: Scar2000
@@ -378,7 +388,7 @@
   Cycle: '84.92'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '39'
+- Rank: '40'
   Name: Geeky
   Group: ADW
   FBID: Geeky1989
@@ -388,7 +398,7 @@
   Cycle: '20.00'
   Swim: '1.40'
   Walk: '18.01'
-- Rank: '40'
+- Rank: '41'
   Name: Kai Yi
   Group: ADW
   FBID: KaiYi1234
@@ -398,7 +408,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '41'
+- Rank: '42'
   Name: ''
   Group: AOSX/AOS
   FBID: Buffet8888
@@ -408,7 +418,7 @@
   Cycle: '45.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '43'
+- Rank: '44'
   Name: Malcolm Taong
   Group: ADSS/ADWS/ADWO
   FBID: TAONG8070
@@ -418,7 +428,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '42'
+- Rank: '43'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -428,7 +438,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '13.62'
-- Rank: '44'
+- Rank: '45'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -438,7 +448,7 @@
   Cycle: '124.17'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '45'
+- Rank: '46'
   Name: EG
   Group: ADSS/ADWS/ADWO
   FBID: EG3211
@@ -447,16 +457,6 @@
   Run: '30.60'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '46'
-  Name: Tommy Tham
-  Group: ADSS/ADWS/ADWO
-  FBID: Tommy1976
-  Total_Mileage: '30.59'
-  Badges: '0'
-  Run: '5.07'
-  Cycle: '6.07'
-  Swim: '4.00'
   Walk: '0.00'
 - Rank: '47'
   Name: JYFS
@@ -619,6 +619,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '63'
+  Name: Weaver
+  Group: ADW
+  FBID: Weaver5275
+  Total_Mileage: '25.01'
+  Badges: '0'
+  Run: '25.01'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '64'
   Name: Slong
   Group: ADW
   FBID: Slong1234
@@ -628,7 +638,7 @@
   Cycle: '0.00'
   Swim: '2.30'
   Walk: '0.00'
-- Rank: '64'
+- Rank: '65'
   Name: Weng
   Group: ADSS/ADWS/ADWO
   FBID: Weng8238
@@ -638,23 +648,13 @@
   Cycle: '70.89'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '65'
+- Rank: '66'
   Name: Elliot Goodman
   Group: ADW
   FBID: Goodman8888
   Total_Mileage: '23.70'
   Badges: '1'
   Run: '23.70'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '66'
-  Name: Weaver
-  Group: ADW
-  FBID: Weaver5275
-  Total_Mileage: '23.58'
-  Badges: '0'
-  Run: '23.58'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
