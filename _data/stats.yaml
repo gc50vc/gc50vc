@@ -82,9 +82,9 @@
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
-  Total_Mileage: '715.52'
+  Total_Mileage: '725.87'
   Badges: '13'
-  Run: '124.62'
+  Run: '134.97'
   Cycle: '296.01'
   Swim: '86.15'
   Walk: '0.00'
@@ -102,11 +102,11 @@
   Name: Prem
   Group: ADW
   FBID: Premium6687
-  Total_Mileage: '656.02'
+  Total_Mileage: '662.92'
   Badges: '9'
   Run: '157.50'
   Cycle: '66.87'
-  Swim: '80.30'
+  Swim: '81.45'
   Walk: '1.60'
 - Rank: '12'
   Name: Hasty
@@ -182,9 +182,9 @@
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
-  Total_Mileage: '416.00'
+  Total_Mileage: '431.40'
   Badges: '4'
-  Run: '416.00'
+  Run: '431.40'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.68'
@@ -219,6 +219,16 @@
   Swim: '3.85'
   Walk: '0.00'
 - Rank: '23'
+  Name: LWY
+  Group: AFE
+  FBID: LWY3137
+  Total_Mileage: '371.25'
+  Badges: '5'
+  Run: '15.00'
+  Cycle: '1425.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '24'
   Name: 'TiGeR3 '
   Group: ADSS/ADWS/ADWO
   FBID: TiGeR2876
@@ -226,16 +236,6 @@
   Badges: '4'
   Run: '367.24'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '24'
-  Name: LWY
-  Group: AFE
-  FBID: LWY3137
-  Total_Mileage: '366.25'
-  Badges: '5'
-  Run: '10.00'
-  Cycle: '1425.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '25'
@@ -779,6 +779,16 @@
   Swim: '3.60'
   Walk: '0.00'
 - Rank: '79'
+  Name: Geeky
+  Group: ADW
+  FBID: Geeky1989
+  Total_Mileage: '151.44'
+  Badges: '6'
+  Run: '85.00'
+  Cycle: '20.00'
+  Swim: '10.24'
+  Walk: '58.68'
+- Rank: '80'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -788,7 +798,7 @@
   Cycle: '101.02'
   Swim: '3.50'
   Walk: '1.63'
-- Rank: '80'
+- Rank: '81'
   Name: Yun Jie (Rhythm)
   Group: ADW
   FBID: Jabez8686
@@ -798,7 +808,7 @@
   Cycle: '0.00'
   Swim: '18.11'
   Walk: '4.80'
-- Rank: '81'
+- Rank: '82'
   Name: Andre
   Group: ADW
   FBID: Andre7429
@@ -808,7 +818,7 @@
   Cycle: '505.43'
   Swim: '0.85'
   Walk: '0.00'
-- Rank: '82'
+- Rank: '83'
   Name: Rock
   Group: ADW
   FBID: Rock0165
@@ -818,7 +828,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '6.00'
-- Rank: '83'
+- Rank: '84'
   Name: Nana
   Group: AFE
   FBID: Chris1166
@@ -828,7 +838,7 @@
   Cycle: '241.57'
   Swim: '7.10'
   Walk: '81.07'
-- Rank: '84'
+- Rank: '85'
   Name: Jeremy Tan
   Group: ATC
   FBID: Scavenge1601
@@ -838,16 +848,6 @@
   Cycle: '0.00'
   Swim: '0.80'
   Walk: '4.02'
-- Rank: '85'
-  Name: Geeky
-  Group: ADW
-  FBID: Geeky1989
-  Total_Mileage: '144.00'
-  Badges: '6'
-  Run: '85.00'
-  Cycle: '20.00'
-  Swim: '9.00'
-  Walk: '58.68'
 - Rank: '86'
   Name: Bgtan
   Group: ADSS/ADWS/ADWO
@@ -4059,6 +4059,16 @@
   Swim: '0.00'
   Walk: '1.54'
 - Rank: '407'
+  Name: Nat Wong
+  Group: ADW
+  FBID: nyat8784
+  Total_Mileage: '15.48'
+  Badges: '2'
+  Run: '15.48'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '408'
   Name: sikai
   Group: ADSS/ADWS/ADWO
   FBID: skng3215
@@ -4068,7 +4078,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '408'
+- Rank: '409'
   Name: Nitsuji
   Group: AFE
   FBID: Nitsuji0475
@@ -4078,7 +4088,7 @@
   Cycle: '60.29'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '409'
+- Rank: '410'
   Name: Chrissng
   Group: AOSX/AOS
   FBID: Sour1234
@@ -4088,7 +4098,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '410'
+- Rank: '411'
   Name: Tham Yong Jun
   Group: AOSX/AOS
   FBID: Jun1996
@@ -4098,7 +4108,7 @@
   Cycle: '18.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '412'
+- Rank: '413'
   Name: Jia Heng
   Group: ADW
   FBID: z_jiaheng1998
@@ -4108,7 +4118,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '411'
+- Rank: '412'
   Name: Engine
   Group: ATC
   FBID: Engine1990
@@ -4118,7 +4128,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '413'
+- Rank: '414'
   Name: Saw
   Group: ABM
   FBID: Saw1818
@@ -4128,7 +4138,7 @@
   Cycle: '4.70'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '414'
+- Rank: '415'
   Name: TAN
   Group: ADSS/ADWS/ADWO
   FBID: Number1111
@@ -4138,7 +4148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '415'
+- Rank: '416'
   Name: Joseph Chua
   Group: ADSS/ADWS/ADWO
   FBID: RadarJoe0160
@@ -4148,7 +4158,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '416'
+- Rank: '417'
   Name: ''
   Group: ADSS/ADWS/ADWO
   FBID: Handy0602
@@ -4158,7 +4168,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '417'
+- Rank: '418'
   Name: 'Siyi '
   Group: ADW
   FBID: Siyi1993
@@ -4168,7 +4178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '418'
+- Rank: '419'
   Name: Carol
   Group: ABM
   FBID: Carol1234
@@ -4178,7 +4188,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '419'
+- Rank: '420'
   Name: Boonwee
   Group: AOSX/AOS
   FBID: Boon1950
@@ -4188,7 +4198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '420'
+- Rank: '421'
   Name: Brendan
   Group: ADSS/ADWS/ADWO
   FBID: xIAOchu0000
@@ -4198,7 +4208,7 @@
   Cycle: '40.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '421'
+- Rank: '422'
   Name: Wenhua
   Group: ADW
   FBID: Chimney1111
@@ -4208,7 +4218,7 @@
   Cycle: '0.00'
   Swim: '0.70'
   Walk: '0.00'
-- Rank: '422'
+- Rank: '423'
   Name: JT
   Group: ADSS/ADWS/ADWO
   FBID: TC1657
@@ -4218,23 +4228,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '423'
+- Rank: '424'
   Name: Bboy
   Group: AOSX/AOS
   FBID: Bboy1993
   Total_Mileage: '13.29'
   Badges: '2'
   Run: '13.29'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '424'
-  Name: Nat Wong
-  Group: ADW
-  FBID: nyat8784
-  Total_Mileage: '13.28'
-  Badges: '2'
-  Run: '13.28'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
