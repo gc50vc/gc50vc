@@ -669,6 +669,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '68'
+  Name: Steroid
+  Group: ATC
+  FBID: Steroid1007
+  Total_Mileage: '178.22'
+  Badges: '4'
+  Run: '178.22'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '69'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -678,7 +688,7 @@
   Cycle: '255.20'
   Swim: '11.35'
   Walk: '0.00'
-- Rank: '69'
+- Rank: '70'
   Name: QUENCHER
   Group: ABM
   FBID: quencher2020
@@ -688,7 +698,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '70'
+- Rank: '71'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -698,7 +708,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '71'
+- Rank: '72'
   Name: Tan Chee Wee
   Group: ATC
   FBID: tancw1974
@@ -708,7 +718,7 @@
   Cycle: '29.50'
   Swim: '0.00'
   Walk: '21.68'
-- Rank: '72'
+- Rank: '73'
   Name: Weng
   Group: ADSS/ADWS/ADWO
   FBID: Weng8238
@@ -718,7 +728,7 @@
   Cycle: '408.46'
   Swim: '0.00'
   Walk: '13.86'
-- Rank: '73'
+- Rank: '74'
   Name: RainmanCYK
   Group: ADW
   FBID: Rainman0000
@@ -728,7 +738,7 @@
   Cycle: '0.00'
   Swim: '19.50'
   Walk: '0.00'
-- Rank: '74'
+- Rank: '75'
   Name: loanshark
   Group: ATC
   FBID: loanshark9356
@@ -738,7 +748,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.64'
-- Rank: '75'
+- Rank: '76'
   Name: Alloy
   Group: ABM
   FBID: alloy8585
@@ -748,7 +758,7 @@
   Cycle: '138.22'
   Swim: '4.95'
   Walk: '0.00'
-- Rank: '76'
+- Rank: '77'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
   FBID: Ahbye1234
@@ -758,7 +768,7 @@
   Cycle: '200.00'
   Swim: '6.50'
   Walk: '6.00'
-- Rank: '77'
+- Rank: '78'
   Name: Irwin Chua
   Group: AOSX/AOS
   FBID: irwin2482
@@ -768,7 +778,7 @@
   Cycle: '0.00'
   Swim: '3.60'
   Walk: '0.00'
-- Rank: '78'
+- Rank: '79'
   Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
@@ -778,7 +788,7 @@
   Cycle: '101.02'
   Swim: '3.50'
   Walk: '1.63'
-- Rank: '79'
+- Rank: '80'
   Name: Yun Jie (Rhythm)
   Group: ADW
   FBID: Jabez8686
@@ -788,7 +798,7 @@
   Cycle: '0.00'
   Swim: '18.11'
   Walk: '4.80'
-- Rank: '80'
+- Rank: '81'
   Name: Andre
   Group: ADW
   FBID: Andre7429
@@ -798,7 +808,7 @@
   Cycle: '505.43'
   Swim: '0.85'
   Walk: '0.00'
-- Rank: '81'
+- Rank: '82'
   Name: Rock
   Group: ADW
   FBID: Rock0165
@@ -808,7 +818,7 @@
   Cycle: '0.00'
   Swim: '1.00'
   Walk: '6.00'
-- Rank: '82'
+- Rank: '83'
   Name: Nana
   Group: AFE
   FBID: Chris1166
@@ -818,7 +828,7 @@
   Cycle: '241.57'
   Swim: '7.10'
   Walk: '81.07'
-- Rank: '83'
+- Rank: '84'
   Name: Jeremy Tan
   Group: ATC
   FBID: Scavenge1601
@@ -828,16 +838,6 @@
   Cycle: '0.00'
   Swim: '0.80'
   Walk: '4.02'
-- Rank: '84'
-  Name: Steroid
-  Group: ATC
-  FBID: Steroid1007
-  Total_Mileage: '144.02'
-  Badges: '4'
-  Run: '144.02'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '85'
   Name: Bgtan
   Group: ADSS/ADWS/ADWO
