@@ -39,6 +39,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '5'
+  Name: Ektar
+  Group: ABM
+  FBID: Ektar1971
+  Total_Mileage: '132.80'
+  Badges: '0'
+  Run: '39.07'
+  Cycle: '156.50'
+  Swim: '9.10'
+  Walk: '0.00'
+- Rank: '6'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -47,16 +57,6 @@
   Run: '69.29'
   Cycle: '0.00'
   Swim: '9.50'
-  Walk: '0.00'
-- Rank: '6'
-  Name: Ektar
-  Group: ABM
-  FBID: Ektar1971
-  Total_Mileage: '112.80'
-  Badges: '0'
-  Run: '39.07'
-  Cycle: '76.50'
-  Swim: '9.10'
   Walk: '0.00'
 - Rank: '7'
   Name: Leonard ong
