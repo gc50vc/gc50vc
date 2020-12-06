@@ -569,16 +569,6 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '58'
-  Name: Sze Tein
-  Group: ATC
-  FBID: Topaz1327
-  Total_Mileage: '26.98'
-  Badges: '0'
-  Run: '26.98'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '59'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -588,7 +578,7 @@
   Cycle: '42.27'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '59'
+- Rank: '58'
   Name: Andre
   Group: ADW
   FBID: Andre7429
@@ -598,7 +588,7 @@
   Cycle: '61.15'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '61'
+- Rank: '60'
   Name: Hector
   Group: ADW
   FBID: Hector0911
@@ -608,7 +598,7 @@
   Cycle: '0.00'
   Swim: '4.20'
   Walk: '6.13'
-- Rank: '62'
+- Rank: '61'
   Name: Nicholas
   Group: ADW
   FBID: 165Canon1998
@@ -618,7 +608,7 @@
   Cycle: '31.37'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '63'
+- Rank: '62'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -628,7 +618,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '64'
+- Rank: '63'
   Name: Slong
   Group: ADW
   FBID: Slong1234
@@ -638,7 +628,7 @@
   Cycle: '0.00'
   Swim: '2.30'
   Walk: '0.00'
-- Rank: '65'
+- Rank: '64'
   Name: Weng
   Group: ADSS/ADWS/ADWO
   FBID: Weng8238
@@ -648,7 +638,7 @@
   Cycle: '70.89'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '66'
+- Rank: '65'
   Name: Elliot Goodman
   Group: ADW
   FBID: Goodman8888
@@ -658,7 +648,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '67'
+- Rank: '66'
   Name: Liang
   Group: ADW
   FBID: Foodislyfe091098
@@ -668,7 +658,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '68'
+- Rank: '67'
   Name: Rock
   Group: ADW
   FBID: Rock0165
@@ -678,7 +668,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '69'
+- Rank: '68'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -688,7 +678,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '70'
+- Rank: '69'
   Name: Kian Seng
   Group: ADW
   FBID: Kianseng0170
@@ -698,7 +688,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '70'
+- Rank: '69'
   Name: Declanmelo
   Group: ADSS/ADWS/ADWO
   FBID: Declan1234
@@ -708,7 +698,7 @@
   Cycle: '0.00'
   Swim: '3.00'
   Walk: '0.00'
-- Rank: '72'
+- Rank: '71'
   Name: Essay
   Group: ADW
   FBID: Essay7696
@@ -718,7 +708,17 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '73'
+- Rank: '72'
+  Name: Sze Tein
+  Group: ATC
+  FBID: Topaz1327
+  Total_Mileage: '20.42'
+  Badges: '0'
+  Run: '20.42'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '72'
   Name: Camper
   Group: ADW
   FBID: tanht1968
