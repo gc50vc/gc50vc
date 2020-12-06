@@ -689,6 +689,16 @@
   Swim: '11.35'
   Walk: '0.00'
 - Rank: '70'
+  Name: Alloy
+  Group: ABM
+  FBID: alloy8585
+  Total_Mileage: '170.80'
+  Badges: '8'
+  Run: '90.27'
+  Cycle: '169.70'
+  Swim: '6.35'
+  Walk: '0.00'
+- Rank: '71'
   Name: Weng
   Group: ADSS/ADWS/ADWO
   FBID: Weng8238
@@ -698,7 +708,7 @@
   Cycle: '408.46'
   Swim: '0.00'
   Walk: '13.86'
-- Rank: '71'
+- Rank: '72'
   Name: QUENCHER
   Group: ABM
   FBID: quencher2020
@@ -708,7 +718,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '72'
+- Rank: '73'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -718,7 +728,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '73'
+- Rank: '74'
   Name: loanshark
   Group: ATC
   FBID: loanshark9356
@@ -728,16 +738,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.64'
-- Rank: '74'
-  Name: Alloy
-  Group: ABM
-  FBID: alloy8585
-  Total_Mileage: '162.93'
-  Badges: '8'
-  Run: '90.27'
-  Cycle: '138.22'
-  Swim: '6.35'
-  Walk: '0.00'
 - Rank: '75'
   Name: Glenn
   Group: ADW
