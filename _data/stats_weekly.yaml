@@ -39,6 +39,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '5'
+  Name: Nicholas
+  Group: ADSS/ADWS/ADWO
+  FBID: Nn1974
+  Total_Mileage: '144.06'
+  Badges: '0'
+  Run: '0.00'
+  Cycle: '552.23'
+  Swim: '1.00'
+  Walk: '0.00'
+- Rank: '6'
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
@@ -48,7 +58,7 @@
   Cycle: '0.00'
   Swim: '12.25'
   Walk: '0.00'
-- Rank: '6'
+- Rank: '7'
   Name: Ektar
   Group: ABM
   FBID: Ektar1971
@@ -58,7 +68,7 @@
   Cycle: '156.50'
   Swim: '9.10'
   Walk: '0.00'
-- Rank: '7'
+- Rank: '8'
   Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: Wang0165
@@ -68,7 +78,7 @@
   Cycle: '172.37'
   Swim: '4.65'
   Walk: '0.00'
-- Rank: '8'
+- Rank: '9'
   Name: Daniel Tay
   Group: AOSX/AOS
   FBID: Corrupt2705
@@ -77,16 +87,6 @@
   Run: '59.40'
   Cycle: '0.00'
   Swim: '5.90'
-  Walk: '0.00'
-- Rank: '9'
-  Name: Nicholas
-  Group: ADSS/ADWS/ADWO
-  FBID: Nn1974
-  Total_Mileage: '93.79'
-  Badges: '0'
-  Run: '0.00'
-  Cycle: '351.14'
-  Swim: '1.00'
   Walk: '0.00'
 - Rank: '10'
   Name: LZX
@@ -112,10 +112,10 @@
   Name: Prem
   Group: ADW
   FBID: Premium6687
-  Total_Mileage: '68.12'
+  Total_Mileage: '69.98'
   Badges: '0'
   Run: '20.71'
-  Cycle: '16.85'
+  Cycle: '24.29'
   Swim: '7.20'
   Walk: '0.28'
 - Rank: '13'
