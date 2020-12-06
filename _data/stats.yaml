@@ -259,6 +259,16 @@
   Swim: '35.87'
   Walk: '109.94'
 - Rank: '27'
+  Name: 'Jonjuay '
+  Group: ADSS/ADWS/ADWO
+  FBID: Jonjuay8822
+  Total_Mileage: '321.47'
+  Badges: '11'
+  Run: '120.14'
+  Cycle: '709.32'
+  Swim: '4.00'
+  Walk: '24.83'
+- Rank: '28'
   Name: AngmoATB
   Group: ADW
   FBID: Angmo1984
@@ -268,7 +278,7 @@
   Cycle: '0.00'
   Swim: '19.94'
   Walk: '7.97'
-- Rank: '28'
+- Rank: '29'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -278,7 +288,7 @@
   Cycle: '40.64'
   Swim: '23.10'
   Walk: '0.00'
-- Rank: '29'
+- Rank: '30'
   Name: Jade
   Group: ABM
   FBID: Jade9669
@@ -288,7 +298,7 @@
   Cycle: '800.77'
   Swim: '9.15'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '31'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -298,7 +308,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '32'
   Name: Daniel Tay
   Group: AOSX/AOS
   FBID: Corrupt2705
@@ -308,16 +318,6 @@
   Cycle: '0.00'
   Swim: '24.70'
   Walk: '0.00'
-- Rank: '32'
-  Name: 'Jonjuay '
-  Group: ADSS/ADWS/ADWO
-  FBID: Jonjuay8822
-  Total_Mileage: '287.45'
-  Badges: '11'
-  Run: '113.64'
-  Cycle: '599.22'
-  Swim: '4.00'
-  Walk: '24.83'
 - Rank: '33'
   Name: Bronson
   Group: ADW
