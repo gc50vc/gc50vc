@@ -29,6 +29,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '4'
+  Name: Tommy Tham
+  Group: ADSS/ADWS/ADWO
+  FBID: Tommy1976
+  Total_Mileage: '174.15'
+  Badges: '0'
+  Run: '46.72'
+  Cycle: '26.11'
+  Swim: '20.15'
+  Walk: '0.00'
+- Rank: '5'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -37,16 +47,6 @@
   Run: '65.14'
   Cycle: '418.55'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '5'
-  Name: Tommy Tham
-  Group: ADSS/ADWS/ADWO
-  FBID: Tommy1976
-  Total_Mileage: '165.85'
-  Badges: '0'
-  Run: '38.42'
-  Cycle: '26.11'
-  Swim: '20.15'
   Walk: '0.00'
 - Rank: '6'
   Name: Nicholas
@@ -1987,7 +1987,7 @@
   Run: '0.00'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '51.02'
+  Walk: '63.62'
 - Rank: '195'
   Name: ''
   Group: ADSS/ADWS/ADWO
