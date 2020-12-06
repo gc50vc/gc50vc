@@ -89,6 +89,16 @@
   Swim: '65.80'
   Walk: '17.51'
 - Rank: '10'
+  Name: Prem
+  Group: ADW
+  FBID: Premium6687
+  Total_Mileage: '656.02'
+  Badges: '9'
+  Run: '157.50'
+  Cycle: '66.87'
+  Swim: '80.30'
+  Walk: '1.60'
+- Rank: '11'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
@@ -98,16 +108,6 @@
   Cycle: '269.90'
   Swim: '79.15'
   Walk: '0.00'
-- Rank: '11'
-  Name: Prem
-  Group: ADW
-  FBID: Premium6687
-  Total_Mileage: '652.52'
-  Badges: '9'
-  Run: '154.00'
-  Cycle: '66.87'
-  Swim: '80.30'
-  Walk: '1.60'
 - Rank: '12'
   Name: Hasty
   Group: ADW
