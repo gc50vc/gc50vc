@@ -32,10 +32,10 @@
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
-  Total_Mileage: '918.43'
+  Total_Mileage: '940.15'
   Badges: '13'
   Run: '315.22'
-  Cycle: '2004.83'
+  Cycle: '2091.72'
   Swim: '17.00'
   Walk: '0.00'
 - Rank: '5'
@@ -279,6 +279,16 @@
   Swim: '23.10'
   Walk: '0.00'
 - Rank: '29'
+  Name: Jade
+  Group: ABM
+  FBID: Jade9669
+  Total_Mileage: '307.69'
+  Badges: '11'
+  Run: '52.60'
+  Cycle: '800.77'
+  Swim: '9.15'
+  Walk: '0.00'
+- Rank: '30'
   Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
@@ -288,7 +298,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '30'
+- Rank: '31'
   Name: Daniel Tay
   Group: AOSX/AOS
   FBID: Corrupt2705
@@ -298,7 +308,7 @@
   Cycle: '0.00'
   Swim: '24.70'
   Walk: '0.00'
-- Rank: '31'
+- Rank: '32'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
@@ -308,16 +318,6 @@
   Cycle: '599.22'
   Swim: '4.00'
   Walk: '24.83'
-- Rank: '32'
-  Name: Jade
-  Group: ABM
-  FBID: Jade9669
-  Total_Mileage: '276.65'
-  Badges: '11'
-  Run: '52.60'
-  Cycle: '676.60'
-  Swim: '9.15'
-  Walk: '0.00'
 - Rank: '33'
   Name: Bronson
   Group: ADW
@@ -569,6 +569,16 @@
   Swim: '0.00'
   Walk: '3.42'
 - Rank: '58'
+  Name: You Rong
+  Group: ADW
+  FBID: Audi1987
+  Total_Mileage: '201.30'
+  Badges: '4'
+  Run: '201.30'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '59'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -578,7 +588,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '4.73'
-- Rank: '59'
+- Rank: '60'
   Name: Iggy
   Group: ADSS/ADWS/ADWO
   FBID: Iggy7900
@@ -588,7 +598,7 @@
   Cycle: '422.85'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '60'
+- Rank: '61'
   Name: Malcolm Taong
   Group: ADSS/ADWS/ADWO
   FBID: TAONG8070
@@ -598,7 +608,7 @@
   Cycle: '497.27'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '61'
+- Rank: '62'
   Name: GN
   Group: ADSS/ADWS/ADWO
   FBID: GN8282
@@ -608,7 +618,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '62'
+- Rank: '63'
   Name: Cosmo
   Group: ABM
   FBID: Cosmo6306
@@ -618,7 +628,7 @@
   Cycle: '0.00'
   Swim: '0.50'
   Walk: '10.51'
-- Rank: '63'
+- Rank: '64'
   Name: bok ong
   Group: ADSS/ADWS/ADWO
   FBID: bok2903
@@ -628,7 +638,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '64'
+- Rank: '65'
   Name: 'Tay Wen Hao '
   Group: ADW
   FBID: Wh8295
@@ -638,7 +648,7 @@
   Cycle: '37.93'
   Swim: '0.00'
   Walk: '4.94'
-- Rank: '65'
+- Rank: '66'
   Name: PCK
   Group: ADW
   FBID: PCK2205
@@ -648,23 +658,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '66'
+- Rank: '67'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: Errick1991
   Total_Mileage: '184.54'
   Badges: '4'
   Run: '184.54'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '67'
-  Name: You Rong
-  Group: ADW
-  FBID: Audi1987
-  Total_Mileage: '175.91'
-  Badges: '4'
-  Run: '175.91'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
