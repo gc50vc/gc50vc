@@ -99,6 +99,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '11'
+  Name: Prem
+  Group: ADW
+  FBID: Premium6687
+  Total_Mileage: '73.48'
+  Badges: '0'
+  Run: '24.21'
+  Cycle: '24.29'
+  Swim: '7.20'
+  Walk: '0.28'
+- Rank: '12'
   Name: Tony Foo
   Group: ADW
   FBID: tonyfoo0165
@@ -108,16 +118,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '12'
-  Name: Prem
-  Group: ADW
-  FBID: Premium6687
-  Total_Mileage: '69.98'
-  Badges: '0'
-  Run: '20.71'
-  Cycle: '24.29'
-  Swim: '7.20'
-  Walk: '0.28'
 - Rank: '13'
   Name: Alloy
   Group: ABM
