@@ -359,6 +359,16 @@
   Swim: '23.67'
   Walk: '0.00'
 - Rank: '37'
+  Name: Andrew Leong
+  Group: ADSS/ADWS/ADWO
+  FBID: Handy0206
+  Total_Mileage: '265.68'
+  Badges: '11'
+  Run: '177.80'
+  Cycle: '224.78'
+  Swim: '5.28'
+  Walk: '1.57'
+- Rank: '38'
   Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
@@ -368,16 +378,6 @@
   Cycle: '560.20'
   Swim: '6.90'
   Walk: '14.39'
-- Rank: '38'
-  Name: Andrew Leong
-  Group: ADSS/ADWS/ADWO
-  FBID: Handy0206
-  Total_Mileage: '250.68'
-  Badges: '9'
-  Run: '177.80'
-  Cycle: '224.78'
-  Swim: '2.78'
-  Walk: '1.57'
 - Rank: '39'
   Name: Andrew
   Group: ADW
@@ -1289,6 +1289,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '130'
+  Name: lcheeleo
+  Group: ADW
+  FBID: Lcheeleo3347
+  Total_Mileage: '92.34'
+  Badges: '3'
+  Run: '84.80'
+  Cycle: '30.17'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '131'
   Name: Wan Yuan
   Group: ADW
   FBID: Lost1908
@@ -1298,7 +1308,17 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '20.24'
-- Rank: '131'
+- Rank: '132'
+  Name: Owyong
+  Group: ATC
+  FBID: Owyong251088
+  Total_Mileage: '90.80'
+  Badges: '3'
+  Run: '90.80'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '133'
   Name: Waffles
   Group: ATC
   FBID: Waffles3567
@@ -1308,7 +1328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.57'
-- Rank: '132'
+- Rank: '134'
   Name: Rocky
   Group: AOSX/AOS
   FBID: ZeRo7113
@@ -1318,7 +1338,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '57.30'
-- Rank: '133'
+- Rank: '135'
   Name: Der Siang
   Group: ATC
   FBID: Aku1234
@@ -1328,7 +1348,7 @@
   Cycle: '95.06'
   Swim: '3.95'
   Walk: '0.00'
-- Rank: '134'
+- Rank: '136'
   Name: COVID
   Group: ADSS/ADWS/ADWO
   FBID: COVID9999
@@ -1338,7 +1358,7 @@
   Cycle: '101.05'
   Swim: '0.00'
   Walk: '21.50'
-- Rank: '135'
+- Rank: '137'
   Name: Chan Howe
   Group: AOSX/AOS
   FBID: IceCube3008
@@ -1348,17 +1368,7 @@
   Cycle: '341.74'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '136'
-  Name: Owyong
-  Group: ATC
-  FBID: Owyong251088
-  Total_Mileage: '84.64'
-  Badges: '3'
-  Run: '84.64'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '137'
+- Rank: '138'
   Name: Darius Ng
   Group: ADSS/ADWS/ADWO
   FBID: bobo1234
@@ -1368,7 +1378,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '138'
+- Rank: '139'
   Name: Sunray
   Group: ABM
   FBID: Sunray0909
@@ -1377,16 +1387,6 @@
   Run: '20.10'
   Cycle: '201.00'
   Swim: '2.01'
-  Walk: '0.00'
-- Rank: '139'
-  Name: lcheeleo
-  Group: ADW
-  FBID: Lcheeleo3347
-  Total_Mileage: '80.24'
-  Badges: '3'
-  Run: '72.70'
-  Cycle: '30.17'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '140'
   Name: Manu
