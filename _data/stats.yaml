@@ -69,6 +69,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '8'
+  Name: Slimer
+  Group: ABM
+  FBID: Slimer1234
+  Total_Mileage: '685.25'
+  Badges: '13'
+  Run: '238.06'
+  Cycle: '209.50'
+  Swim: '65.80'
+  Walk: '17.51'
+- Rank: '9'
   Name: Nicholas
   Group: ADSS/ADWS/ADWO
   FBID: NN1974
@@ -78,16 +88,6 @@
   Cycle: '1924.40'
   Swim: '15.55'
   Walk: '3.02'
-- Rank: '9'
-  Name: Slimer
-  Group: ABM
-  FBID: Slimer1234
-  Total_Mileage: '668.75'
-  Badges: '13'
-  Run: '238.06'
-  Cycle: '209.50'
-  Swim: '63.05'
-  Walk: '17.51'
 - Rank: '10'
   Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
@@ -2417,7 +2417,7 @@
   Run: '1.94'
   Cycle: '186.82'
   Swim: '0.00'
-  Walk: '56.62'
+  Walk: '63.26'
 - Rank: '243'
   Name: ASHWIN1234
   Group: ADW
