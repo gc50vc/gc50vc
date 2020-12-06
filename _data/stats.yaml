@@ -469,6 +469,16 @@
   Swim: '2.20'
   Walk: '1.80'
 - Rank: '48'
+  Name: Lia
+  Group: ADSS/ADWS/ADWO
+  FBID: Lia1116
+  Total_Mileage: '222.04'
+  Badges: '12'
+  Run: '129.63'
+  Cycle: '193.24'
+  Swim: '7.35'
+  Walk: '0.00'
+- Rank: '49'
   Name: Viking
   Group: ADW
   FBID: Viking1987
@@ -478,7 +488,7 @@
   Cycle: '414.72'
   Swim: '1.00'
   Walk: '4.00'
-- Rank: '49'
+- Rank: '50'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
@@ -488,7 +498,7 @@
   Cycle: '218.38'
   Swim: '15.00'
   Walk: '11.07'
-- Rank: '50'
+- Rank: '51'
   Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
@@ -498,7 +508,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '53.40'
-- Rank: '51'
+- Rank: '52'
   Name: Mouth
   Group: ABM
   FBID: Mouth2570
@@ -508,7 +518,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '52'
+- Rank: '53'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -518,7 +528,7 @@
   Cycle: '8.76'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '53'
+- Rank: '54'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -528,7 +538,7 @@
   Cycle: '228.95'
   Swim: '11.40'
   Walk: '3.15'
-- Rank: '54'
+- Rank: '55'
   Name: AdolphusJJ
   Group: AOSX/AOS
   FBID: Bamboo1234
@@ -537,16 +547,6 @@
   Run: '207.86'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '55'
-  Name: Lia
-  Group: ADSS/ADWS/ADWO
-  FBID: Lia1116
-  Total_Mileage: '203.36'
-  Badges: '12'
-  Run: '110.95'
-  Cycle: '193.24'
-  Swim: '7.35'
   Walk: '0.00'
 - Rank: '56'
   Name: 'Jack eng '
