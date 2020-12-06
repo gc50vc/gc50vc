@@ -439,6 +439,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '45'
+  Name: AP
+  Group: ADW
+  FBID: APHRMC0207
+  Total_Mileage: '28.13'
+  Badges: '3'
+  Run: '7.50'
+  Cycle: '65.71'
+  Swim: '0.70'
+  Walk: '0.00'
+- Rank: '46'
   Name: Steyr
   Group: ABM
   FBID: Steyr9693
@@ -448,7 +458,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '46'
+- Rank: '47'
   Name: SU WEIJIE
   Group: ADW
   FBID: SUWEIJIE8702
@@ -458,7 +468,7 @@
   Cycle: '91.60'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '47'
+- Rank: '48'
   Name: Geeky
   Group: ADW
   FBID: Geeky1989
@@ -468,7 +478,7 @@
   Cycle: '4.18'
   Swim: '1.40'
   Walk: '18.01'
-- Rank: '48'
+- Rank: '49'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -478,7 +488,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '49'
+- Rank: '50'
   Name: Sze Tein
   Group: ATC
   FBID: Topaz1327
@@ -488,7 +498,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '50'
+- Rank: '51'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -498,7 +508,7 @@
   Cycle: '42.27'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '50'
+- Rank: '51'
   Name: Andre
   Group: ADW
   FBID: Andre7429
@@ -508,7 +518,7 @@
   Cycle: '61.15'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '52'
+- Rank: '53'
   Name: Hector
   Group: ADW
   FBID: Hector0911
@@ -518,7 +528,7 @@
   Cycle: '0.00'
   Swim: '4.20'
   Walk: '6.13'
-- Rank: '53'
+- Rank: '54'
   Name: Nicholas
   Group: ADW
   FBID: 165Canon1998
@@ -528,7 +538,7 @@
   Cycle: '31.37'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '54'
+- Rank: '55'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -538,7 +548,7 @@
   Cycle: '24.00'
   Swim: '1.50'
   Walk: '0.00'
-- Rank: '55'
+- Rank: '56'
   Name: Slong
   Group: ADW
   FBID: Slong1234
@@ -547,16 +557,6 @@
   Run: '10.20'
   Cycle: '0.00'
   Swim: '2.30'
-  Walk: '0.00'
-- Rank: '56'
-  Name: AP
-  Group: ADW
-  FBID: APHRMC0207
-  Total_Mileage: '23.93'
-  Badges: '3'
-  Run: '7.50'
-  Cycle: '65.71'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '57'
   Name: Weng
