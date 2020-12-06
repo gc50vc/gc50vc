@@ -19,6 +19,16 @@
   Swim: '1.05'
   Walk: '0.00'
 - Rank: '3'
+  Name: Sloh
+  Group: ADW
+  FBID: Sloh0121
+  Total_Mileage: '169.78'
+  Badges: '0'
+  Run: '65.14'
+  Cycle: '418.55'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '4'
   Name: LWY
   Group: AFE
   FBID: LWY3137
@@ -26,16 +36,6 @@
   Badges: '0'
   Run: '0.00'
   Cycle: '636.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '4'
-  Name: Sloh
-  Group: ADW
-  FBID: Sloh0121
-  Total_Mileage: '148.06'
-  Badges: '0'
-  Run: '65.14'
-  Cycle: '331.66'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '5'
