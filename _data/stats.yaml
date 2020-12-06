@@ -2859,16 +2859,6 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '287'
-  Name: ''
-  Group: ADSS/ADWS/ADWO
-  FBID: '01733'
-  Total_Mileage: '40.80'
-  Badges: '2'
-  Run: '40.80'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '288'
   Name: Vincent See
   Group: AOSX/AOS
   FBID: Vincentsee8888
@@ -2878,7 +2868,7 @@
   Cycle: '79.00'
   Swim: '3.50'
   Walk: '0.00'
-- Rank: '289'
+- Rank: '288'
   Name: Ion
   Group: ADW
   FBID: Ion4393
@@ -2888,7 +2878,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.80'
-- Rank: '290'
+- Rank: '289'
   Name: LyAw
   Group: AFE
   FBID: LyAw5546
@@ -2898,7 +2888,7 @@
   Cycle: '128.83'
   Swim: '0.00'
   Walk: '61.46'
-- Rank: '291'
+- Rank: '290'
   Name: Seow Jian Wei
   Group: ADSS/ADWS/ADWO
   FBID: Iwaneji1999
@@ -2908,7 +2898,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '292'
+- Rank: '291'
   Name: Simon Tan
   Group: ADW
   FBID: Simon1996
@@ -2918,7 +2908,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '293'
+- Rank: '292'
   Name: Jason H.
   Group: ADW
   FBID: Jason1900
@@ -2928,7 +2918,7 @@
   Cycle: '60.80'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '294'
+- Rank: '293'
   Name: 'Amarverest '
   Group: ADSS/ADWS/ADWO
   FBID: Amar0165
@@ -2938,7 +2928,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '295'
+- Rank: '294'
   Name: Guang
   Group: ADSS/ADWS/ADWO
   FBID: Guang1309
@@ -2948,7 +2938,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '296'
+- Rank: '295'
   Name: Krishdaz
   Group: ADSS/ADWS/ADWO
   FBID: Kd1999
@@ -2958,7 +2948,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '5.03'
-- Rank: '297'
+- Rank: '296'
   Name: Spaceman
   Group: ADW
   FBID: spaceman1234
@@ -2968,7 +2958,7 @@
   Cycle: '0.00'
   Swim: '4.80'
   Walk: '0.00'
-- Rank: '298'
+- Rank: '297'
   Name: YK
   Group: ADSS/ADWS/ADWO
   FBID: yk2574
@@ -2978,7 +2968,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '299'
+- Rank: '298'
   Name: Cheese Chan
   Group: AFE
   FBID: Cheese6618
@@ -2988,13 +2978,23 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '13.58'
-- Rank: '300'
+- Rank: '299'
   Name: Ryan Yong
   Group: ADSS/ADWS/ADWO
   FBID: rycs2812
   Total_Mileage: '37.05'
   Badges: '2'
   Run: '37.05'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '300'
+  Name: ''
+  Group: ADSS/ADWS/ADWO
+  FBID: '01733'
+  Total_Mileage: '36.80'
+  Badges: '2'
+  Run: '36.80'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
