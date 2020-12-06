@@ -669,6 +669,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '68'
+  Name: AP
+  Group: ADW
+  FBID: APHRMC0207
+  Total_Mileage: '170.55'
+  Badges: '11'
+  Run: '42.85'
+  Cycle: '255.20'
+  Swim: '10.65'
+  Walk: '0.00'
+- Rank: '69'
   Name: QUENCHER
   Group: ABM
   FBID: quencher2020
@@ -678,7 +688,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '69'
+- Rank: '70'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -688,7 +698,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '70'
+- Rank: '71'
   Name: Tan Chee Wee
   Group: ATC
   FBID: tancw1974
@@ -698,7 +708,7 @@
   Cycle: '29.50'
   Swim: '0.00'
   Walk: '21.68'
-- Rank: '71'
+- Rank: '72'
   Name: Weng
   Group: ADSS/ADWS/ADWO
   FBID: Weng8238
@@ -708,7 +718,7 @@
   Cycle: '408.46'
   Swim: '0.00'
   Walk: '13.86'
-- Rank: '72'
+- Rank: '73'
   Name: RainmanCYK
   Group: ADW
   FBID: Rainman0000
@@ -718,7 +728,7 @@
   Cycle: '0.00'
   Swim: '19.50'
   Walk: '0.00'
-- Rank: '73'
+- Rank: '74'
   Name: loanshark
   Group: ATC
   FBID: loanshark9356
@@ -728,16 +738,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.64'
-- Rank: '74'
-  Name: AP
-  Group: ADW
-  FBID: APHRMC0207
-  Total_Mileage: '155.54'
-  Badges: '11'
-  Run: '42.85'
-  Cycle: '195.15'
-  Swim: '10.65'
-  Walk: '0.00'
 - Rank: '75'
   Name: Alloy
   Group: ABM
@@ -3459,6 +3459,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '347'
+  Name: Ho Chung
+  Group: AOSX/AOS
+  FBID: Agent0308
+  Total_Mileage: '24.91'
+  Badges: '2'
+  Run: '24.91'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '348'
   Name: Leonard
   Group: ADW
   FBID: Leonard0402
@@ -3468,7 +3478,7 @@
   Cycle: '64.80'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '348'
+- Rank: '349'
   Name: Magic
   Group: ABM
   FBID: Magic1233
@@ -3478,7 +3488,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '349'
+- Rank: '350'
   Name: Joshuaistired
   Group: ADSS/ADWS/ADWO
   FBID: 165Bang1999
@@ -3488,7 +3498,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.23'
-- Rank: '350'
+- Rank: '351'
   Name: Wei Hong
   Group: ADW
   FBID: ulo2020
@@ -3498,7 +3508,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.66'
-- Rank: '351'
+- Rank: '352'
   Name: leslie
   Group: ADW
   FBID: les0374
@@ -3508,7 +3518,7 @@
   Cycle: '95.67'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '352'
+- Rank: '353'
   Name: Joel Tan
   Group: ADW
   FBID: mojojojo2000
@@ -3518,7 +3528,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '13.40'
-- Rank: '353'
+- Rank: '354'
   Name: Shopan
   Group: ATC
   FBID: Shopan2000
@@ -3528,7 +3538,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '354'
+- Rank: '355'
   Name: TEH
   Group: ADW
   FBID: TEH0501
@@ -3538,7 +3548,7 @@
   Cycle: '42.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '355'
+- Rank: '356'
   Name: Chris y
   Group: ATC
   FBID: Cyan0220
@@ -3548,7 +3558,7 @@
   Cycle: '0.00'
   Swim: '2.30'
   Walk: '0.00'
-- Rank: '356'
+- Rank: '357'
   Name: GENGAR
   Group: ADW
   FBID: GENGAR9497
@@ -3558,7 +3568,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '357'
+- Rank: '358'
   Name: Becks
   Group: ADW
   FBID: Gangster7777
@@ -3568,7 +3578,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '15.30'
-- Rank: '358'
+- Rank: '359'
   Name: TCK
   Group: AFE
   FBID: TCK8386
@@ -3578,7 +3588,7 @@
   Cycle: '0.00'
   Swim: '3.80'
   Walk: '0.00'
-- Rank: '359'
+- Rank: '360'
   Name: Jia Yi
   Group: ADW
   FBID: plusone0711
@@ -3588,7 +3598,7 @@
   Cycle: '42.50'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '360'
+- Rank: '361'
   Name: Min Jet
   Group: ADW
   FBID: Filter2174
@@ -3598,7 +3608,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '361'
+- Rank: '362'
   Name: Skipper
   Group: ATC
   FBID: Skipper0619
@@ -3608,7 +3618,7 @@
   Cycle: '0.00'
   Swim: '1.10'
   Walk: '0.00'
-- Rank: '362'
+- Rank: '363'
   Name: Eugene lee
   Group: AOSX/AOS
   FBID: Eug8626
@@ -3618,7 +3628,7 @@
   Cycle: '13.89'
   Swim: '0.00'
   Walk: '15.88'
-- Rank: '363'
+- Rank: '364'
   Name: Pterlek
   Group: ATC
   FBID: Conman7347
@@ -3628,7 +3638,7 @@
   Cycle: '0.00'
   Swim: '3.63'
   Walk: '0.00'
-- Rank: '364'
+- Rank: '365'
   Name: ET
   Group: ADSS/ADWS/ADWO
   FBID: ET_6666
@@ -3638,7 +3648,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '365'
+- Rank: '366'
   Name: Oyster
   Group: ABM
   FBID: Oyster1990
@@ -3648,7 +3658,7 @@
   Cycle: '4.88'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '366'
+- Rank: '367'
   Name: Caden
   Group: ADSS/ADWS/ADWO
   FBID: caden2000
@@ -3658,7 +3668,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '367'
+- Rank: '368'
   Name: Ian Zayne Andre
   Group: ADSS/ADWS/ADWO
   FBID: Black_Santa0311
@@ -3668,7 +3678,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '368'
+- Rank: '369'
   Name: Isaac
   Group: ADSS/ADWS/ADWO
   FBID: xMint1998
@@ -3678,7 +3688,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '369'
+- Rank: '370'
   Name: Jinson
   Group: AOSX/AOS
   FBID: Ironman1234
@@ -3688,7 +3698,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '370'
+- Rank: '371'
   Name: Zach Elliott
   Group: ADW
   FBID: disco2541
@@ -3698,7 +3708,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '9.58'
-- Rank: '371'
+- Rank: '372'
   Name: 'Kow Zi Jie '
   Group: ADSS/ADWS/ADWO
   FBID: Fedrik6315
@@ -3708,7 +3718,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '372'
+- Rank: '373'
   Name: Decoy
   Group: ADW
   FBID: Decoy2309
@@ -3718,7 +3728,7 @@
   Cycle: '33.20'
   Swim: '2.00'
   Walk: '14.15'
-- Rank: '373'
+- Rank: '374'
   Name: Rayson
   Group: ATC
   FBID: Shutter6277
@@ -3728,7 +3738,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '374'
+- Rank: '375'
   Name: DOMINIC
   Group: ADW
   FBID: Dom9898
@@ -3738,23 +3748,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '375'
+- Rank: '376'
   Name: Winston160
   Group: ADSS/ADWS/ADWO
   FBID: Winston0160
   Total_Mileage: '19.94'
   Badges: '2'
   Run: '19.94'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '376'
-  Name: Ho Chung
-  Group: AOSX/AOS
-  FBID: Agent0308
-  Total_Mileage: '19.80'
-  Badges: '2'
-  Run: '19.80'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
