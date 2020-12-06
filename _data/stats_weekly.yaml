@@ -9,6 +9,16 @@
   Swim: '17.25'
   Walk: '0.00'
 - Rank: '2'
+  Name: LWY
+  Group: AFE
+  FBID: LWY3137
+  Total_Mileage: '179.00'
+  Badges: '0'
+  Run: '0.00'
+  Cycle: '716.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '3'
   Name: Ben
   Group: ADW
   FBID: BY8362
@@ -18,7 +28,7 @@
   Cycle: '434.63'
   Swim: '1.05'
   Walk: '0.00'
-- Rank: '3'
+- Rank: '4'
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
@@ -26,16 +36,6 @@
   Badges: '0'
   Run: '65.14'
   Cycle: '418.55'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '4'
-  Name: LWY
-  Group: AFE
-  FBID: LWY3137
-  Total_Mileage: '159.00'
-  Badges: '0'
-  Run: '0.00'
-  Cycle: '636.00'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '5'
@@ -87,7 +87,7 @@
   Run: '20.71'
   Cycle: '8.00'
   Swim: '7.20'
-  Walk: '0.00'
+  Walk: '0.28'
 - Rank: '10'
   Name: Alloy
   Group: ABM
