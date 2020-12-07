@@ -789,6 +789,16 @@
   Swim: '19.50'
   Walk: '0.00'
 - Rank: '80'
+  Name: Rock
+  Group: ADW
+  FBID: Rock0165
+  Total_Mileage: '155.92'
+  Badges: '4'
+  Run: '149.92'
+  Cycle: '0.00'
+  Swim: '1.00'
+  Walk: '6.00'
+- Rank: '81'
   Name: Andre
   Group: ADW
   FBID: Andre7429
@@ -798,7 +808,7 @@
   Cycle: '505.43'
   Swim: '0.85'
   Walk: '0.00'
-- Rank: '81'
+- Rank: '82'
   Name: Irwin Chua
   Group: AOSX/AOS
   FBID: irwin2482
@@ -808,16 +818,6 @@
   Cycle: '0.00'
   Swim: '3.60'
   Walk: '0.00'
-- Rank: '82'
-  Name: Rock
-  Group: ADW
-  FBID: Rock0165
-  Total_Mileage: '149.78'
-  Badges: '4'
-  Run: '143.78'
-  Cycle: '0.00'
-  Swim: '1.00'
-  Walk: '6.00'
 - Rank: '83'
   Name: Ying Tat
   Group: ADW
