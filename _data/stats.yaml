@@ -3237,7 +3237,7 @@
   Run: '31.32'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '218.57'
+  Walk: '234.89'
 - Rank: '325'
   Name: ''
   Group: AOSX/AOS
@@ -3829,6 +3829,16 @@
   Swim: '0.00'
   Walk: '31.00'
 - Rank: '384'
+  Name: Tze Kit
+  Group: ADSS/ADWS/ADWO
+  FBID: lunch1234
+  Total_Mileage: '18.99'
+  Badges: '2'
+  Run: '18.99'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '385'
   Name: Kencerous
   Group: ADSS/ADWS/ADWO
   FBID: DASANYUAN1998
@@ -3838,7 +3848,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '385'
+- Rank: '386'
   Name: Justice
   Group: ATC
   FBID: Justice0827
@@ -3848,7 +3858,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '386'
+- Rank: '387'
   Name: rylchan
   Group: ATC
   FBID: pebble1234
@@ -3858,7 +3868,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '4.20'
-- Rank: '387'
+- Rank: '388'
   Name: Weijie
   Group: ADSS/ADWS/ADWO
   FBID: ZhuangWeijie1010
@@ -3868,7 +3878,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '4.00'
-- Rank: '388'
+- Rank: '389'
   Name: TINY
   Group: ATC
   FBID: TINY2303
@@ -3878,7 +3888,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '72.83'
-- Rank: '389'
+- Rank: '390'
   Name: Synapse
   Group: ABM
   FBID: Synapse1234
@@ -3888,7 +3898,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '390'
+- Rank: '391'
   Name: TWIG
   Group: ATC
   FBID: TWIG2020
@@ -3898,7 +3908,7 @@
   Cycle: '0.00'
   Swim: '0.35'
   Walk: '0.00'
-- Rank: '391'
+- Rank: '392'
   Name: Nugget
   Group: ATC
   FBID: Nugget2508
@@ -3908,7 +3918,7 @@
   Cycle: '70.20'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '392'
+- Rank: '393'
   Name: Manfred1307
   Group: ADSS/ADWS/ADWO
   FBID: Manfred1307
@@ -3918,7 +3928,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '393'
+- Rank: '394'
   Name: Tingle
   Group: ADW
   FBID: sxting1987
@@ -3928,7 +3938,7 @@
   Cycle: '0.00'
   Swim: '2.00'
   Walk: '0.00'
-- Rank: '394'
+- Rank: '395'
   Name: Lim Chee Hao
   Group: AFE
   FBID: Masterchee2277
@@ -3938,7 +3948,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '395'
+- Rank: '396'
   Name: Paul
   Group: ADSS/ADWS/ADWO
   FBID: Paulo0110
@@ -3948,7 +3958,7 @@
   Cycle: '35.77'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '396'
+- Rank: '397'
   Name: Caleb
   Group: ADSS/ADWS/ADWO
   FBID: alpha0000
@@ -3958,7 +3968,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '397'
+- Rank: '398'
   Name: Logo
   Group: ABM
   FBID: Logo0200
@@ -3967,16 +3977,6 @@
   Run: '10.60'
   Cycle: '0.00'
   Swim: '1.00'
-  Walk: '0.00'
-- Rank: '398'
-  Name: Tze Kit
-  Group: ADSS/ADWS/ADWO
-  FBID: lunch1234
-  Total_Mileage: '16.56'
-  Badges: '2'
-  Run: '16.56'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '399'
   Name: Centaur
