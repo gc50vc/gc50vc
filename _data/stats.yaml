@@ -1689,6 +1689,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '170'
+  Name: LC
+  Group: AFE
+  FBID: LC0809
+  Total_Mileage: '65.84'
+  Badges: '4'
+  Run: '21.91'
+  Cycle: '175.73'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '171'
   Name: EQ
   Group: ADSS/ADWS/ADWO
   FBID: eequan1234
@@ -1698,7 +1708,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '223.30'
-- Rank: '171'
+- Rank: '172'
   Name: 'Crystal '
   Group: ABM
   FBID: Crystal1101
@@ -1708,7 +1718,7 @@
   Cycle: '9.48'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '172'
+- Rank: '173'
   Name: Barter
   Group: ATC
   FBID: Reload0203
@@ -1718,7 +1728,7 @@
   Cycle: '203.00'
   Swim: '1.50'
   Walk: '13.50'
-- Rank: '173'
+- Rank: '174'
   Name: Siew Boon Choy
   Group: AFE
   FBID: SBC8888
@@ -1728,7 +1738,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.25'
-- Rank: '174'
+- Rank: '175'
   Name: Shawn Chia
   Group: ADW
   FBID: SCWE9595
@@ -1738,7 +1748,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '175'
+- Rank: '176'
   Name: Saturn
   Group: ADW
   FBID: Saturn1501
@@ -1746,16 +1756,6 @@
   Badges: '3'
   Run: '64.25'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '176'
-  Name: LC
-  Group: AFE
-  FBID: LC0809
-  Total_Mileage: '64.17'
-  Badges: '4'
-  Run: '21.91'
-  Cycle: '169.02'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '177'
