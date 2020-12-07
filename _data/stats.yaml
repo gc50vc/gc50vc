@@ -1129,6 +1129,16 @@
   Swim: '3.10'
   Walk: '2.30'
 - Rank: '114'
+  Name: LJ Lee
+  Group: ADSS/ADWS/ADWO
+  FBID: VIRUS1509
+  Total_Mileage: '106.13'
+  Badges: '3'
+  Run: '96.97'
+  Cycle: '36.63'
+  Swim: '0.00'
+  Walk: '18.96'
+- Rank: '115'
   Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
   FBID: LeonYeo2590
@@ -1138,7 +1148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '115'
+- Rank: '116'
   Name: Kelvin
   Group: ADSS/ADWS/ADWO
   FBID: Kelvin1111
@@ -1148,7 +1158,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '116'
+- Rank: '117'
   Name: Lin Weili
   Group: AOSX/AOS
   FBID: Michelin5052
@@ -1158,7 +1168,7 @@
   Cycle: '45.08'
   Swim: '0.00'
   Walk: '1.00'
-- Rank: '117'
+- Rank: '118'
   Name: Zinc
   Group: ADW
   FBID: zinc1997
@@ -1168,7 +1178,7 @@
   Cycle: '24.40'
   Swim: '0.00'
   Walk: '5.65'
-- Rank: '118'
+- Rank: '119'
   Name: Yew Choong
   Group: ADSS/ADWS/ADWO
   FBID: GGXC0160
@@ -1178,7 +1188,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '19.25'
-- Rank: '119'
+- Rank: '120'
   Name: Jenny
   Group: AFE
   FBID: Jenny7373
@@ -1188,7 +1198,7 @@
   Cycle: '11.67'
   Swim: '0.00'
   Walk: '88.20'
-- Rank: '120'
+- Rank: '121'
   Name: Maj Lim
   Group: ABM
   FBID: Legoz1000
@@ -1198,7 +1208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '16.48'
-- Rank: '121'
+- Rank: '122'
   Name: Ram
   Group: ADW
   FBID: ram7267
@@ -1208,7 +1218,7 @@
   Cycle: '0.00'
   Swim: '7.30'
   Walk: '0.00'
-- Rank: '122'
+- Rank: '123'
   Name: Joey Lee Jian Wei
   Group: AFE
   FBID: Joey3811
@@ -1218,16 +1228,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '719.00'
-- Rank: '123'
-  Name: LJ Lee
-  Group: ADSS/ADWS/ADWO
-  FBID: VIRUS1509
-  Total_Mileage: '98.11'
-  Badges: '3'
-  Run: '88.95'
-  Cycle: '36.63'
-  Swim: '0.00'
-  Walk: '18.96'
 - Rank: '124'
   Name: Lim Kian Hock
   Group: AFE
