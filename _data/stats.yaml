@@ -1019,6 +1019,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '103'
+  Name: Legend
+  Group: ADW
+  FBID: Legend2512
+  Total_Mileage: '125.91'
+  Badges: '5'
+  Run: '78.09'
+  Cycle: '191.27'
+  Swim: '0.00'
+  Walk: '13.11'
+- Rank: '104'
   Name: Sze Tein
   Group: ATC
   FBID: Topaz1327
@@ -1028,7 +1038,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '104'
+- Rank: '105'
   Name: Xiaolow3344
   Group: ADSS/ADWS/ADWO
   FBID: Xiaolow3344
@@ -1038,7 +1048,7 @@
   Cycle: '0.00'
   Swim: '20.00'
   Walk: '71.88'
-- Rank: '105'
+- Rank: '106'
   Name: Camper
   Group: ADW
   FBID: tanht1968
@@ -1048,16 +1058,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '106'
-  Name: Legend
-  Group: ADW
-  FBID: Legend2512
-  Total_Mileage: '120.93'
-  Badges: '5'
-  Run: '73.11'
-  Cycle: '191.27'
-  Swim: '0.00'
-  Walk: '13.11'
 - Rank: '107'
   Name: Gwyn
   Group: ADW
@@ -2729,6 +2729,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '274'
+  Name: Gbear
+  Group: ADSS/ADWS/ADWO
+  FBID: Cavan1303
+  Total_Mileage: '45.02'
+  Badges: '3'
+  Run: '45.02'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '275'
   Name: Tyrone
   Group: ADW
   FBID: Tyrone1234
@@ -2738,7 +2748,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '275'
+- Rank: '276'
   Name: Tommy Wang
   Group: ADSS/ADWS/ADWO
   FBID: Tattoo1610
@@ -2748,7 +2758,7 @@
   Cycle: '178.63'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '276'
+- Rank: '277'
   Name: Wu Hao
   Group: AOSX/AOS
   FBID: Lima5208
@@ -2758,7 +2768,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '277'
+- Rank: '278'
   Name: Fungus
   Group: ABM
   FBID: Fungus7777
@@ -2768,7 +2778,7 @@
   Cycle: '0.00'
   Swim: '4.50'
   Walk: '0.00'
-- Rank: '278'
+- Rank: '279'
   Name: Kai Yi
   Group: ADW
   FBID: KaiYi1234
@@ -2778,7 +2788,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.66'
-- Rank: '279'
+- Rank: '280'
   Name: Parthiban
   Group: ADSS/ADWS/ADWO
   FBID: OUTLAW2111
@@ -2788,7 +2798,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '280'
+- Rank: '281'
   Name: Adrian
   Group: ADSS/ADWS/ADWO
   FBID: Adrian9888
@@ -2798,7 +2808,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '281'
+- Rank: '282'
   Name: 'JOASH THANABALAN '
   Group: ADSS/ADWS/ADWO
   FBID: WorldWide1994
@@ -2808,7 +2818,7 @@
   Cycle: '8.40'
   Swim: '7.00'
   Walk: '0.00'
-- Rank: '282'
+- Rank: '283'
   Name: Liang
   Group: ADW
   FBID: Foodislyfe091098
@@ -2818,7 +2828,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '6.06'
-- Rank: '283'
+- Rank: '284'
   Name: cheehao
   Group: ADSS/ADWS/ADWO
   FBID: 165sloth1999
@@ -2828,7 +2838,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '5.99'
-- Rank: '284'
+- Rank: '285'
   Name: Jeremy Ang
   Group: AFE
   FBID: Jayyleemee1993
@@ -2838,7 +2848,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '285'
+- Rank: '286'
   Name: Yuhang
   Group: AOSX/AOS
   FBID: YH1234
@@ -2848,7 +2858,7 @@
   Cycle: '155.11'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '286'
+- Rank: '287'
   Name: Tim Kan
   Group: ADW
   FBID: timkan1991
@@ -2858,7 +2868,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '287'
+- Rank: '288'
   Name: Button
   Group: ATC
   FBID: Button9029
@@ -2868,7 +2878,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '2.85'
-- Rank: '288'
+- Rank: '289'
   Name: Simon Tan
   Group: ADW
   FBID: Simon1996
@@ -2878,23 +2888,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '289'
+- Rank: '290'
   Name: ''
   Group: ADSS/ADWS/ADWO
   FBID: '01733'
   Total_Mileage: '42.40'
   Badges: '3'
   Run: '42.40'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '290'
-  Name: Gbear
-  Group: ADSS/ADWS/ADWO
-  FBID: Cavan1303
-  Total_Mileage: '42.22'
-  Badges: '3'
-  Run: '42.22'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
@@ -5938,6 +5938,16 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '21.58'
+- Rank: '572'
+  Name: ''
+  Group: AOSX/AOS
+  FBID: FROZEN1111
+  Total_Mileage: '0.00'
+  Badges: '1'
+  Run: '0.00'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '126.54'
 - Rank: '572'
   Name: Kelvin Ho
   Group: ADSS/ADWS/ADWO
