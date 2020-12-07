@@ -122,9 +122,9 @@
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
-  Total_Mileage: '579.07'
+  Total_Mileage: '602.78'
   Badges: '5'
-  Run: '579.07'
+  Run: '602.78'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
@@ -1479,6 +1479,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '149'
+  Name: Chin Yong
+  Group: ADSS/ADWS/ADWO
+  FBID: Relaxing1234
+  Total_Mileage: '75.18'
+  Badges: '4'
+  Run: '61.32'
+  Cycle: '55.45'
+  Swim: '0.00'
+  Walk: '44.84'
+- Rank: '150'
   Name: Philip Tan
   Group: ATC
   FBID: Philip6688
@@ -1488,7 +1498,7 @@
   Cycle: '298.78'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '150'
+- Rank: '151'
   Name: Starbucks
   Group: ABM
   FBID: Starbucks3756
@@ -1498,7 +1508,7 @@
   Cycle: '9.23'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '151'
+- Rank: '152'
   Name: OLAF
   Group: ADW
   FBID: OLAF2156
@@ -1508,7 +1518,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '152'
+- Rank: '153'
   Name: JonChen
   Group: ADW
   FBID: JonChen0000
@@ -1518,7 +1528,7 @@
   Cycle: '270.53'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '153'
+- Rank: '154'
   Name: Dominic
   Group: ATC
   FBID: Nickel1191
@@ -1528,7 +1538,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '154'
+- Rank: '155'
   Name: Jefferson
   Group: AFE
   FBID: VolvoJeff1985
@@ -1538,7 +1548,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '155'
+- Rank: '156'
   Name: Jiajun
   Group: ADSS/ADWS/ADWO
   FBID: Jj2304
@@ -1548,7 +1558,7 @@
   Cycle: '0.00'
   Swim: '10.00'
   Walk: '11.06'
-- Rank: '156'
+- Rank: '157'
   Name: Malice
   Group: ABM
   FBID: Malice2323
@@ -1558,7 +1568,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '130.33'
-- Rank: '157'
+- Rank: '158'
   Name: Kelvis
   Group: ADSS/ADWS/ADWO
   FBID: Kelvis2000
@@ -1568,7 +1578,7 @@
   Cycle: '97.68'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '158'
+- Rank: '159'
   Name: Yeow Teck
   Group: AOSX/AOS
   FBID: Youtube6116
@@ -1578,7 +1588,7 @@
   Cycle: '0.00'
   Swim: '2.20'
   Walk: '0.00'
-- Rank: '159'
+- Rank: '160'
   Name: Jon Thia
   Group: ADW
   FBID: Penguin3812
@@ -1588,7 +1598,7 @@
   Cycle: '10.00'
   Swim: '0.00'
   Walk: '7.31'
-- Rank: '160'
+- Rank: '161'
   Name: batu
   Group: ABM
   FBID: batu1984
@@ -1598,7 +1608,7 @@
   Cycle: '61.54'
   Swim: '0.00'
   Walk: '2.50'
-- Rank: '161'
+- Rank: '162'
   Name: Akileis
   Group: ADW
   FBID: Akileis0163
@@ -1608,7 +1618,7 @@
   Cycle: '0.00'
   Swim: '11.00'
   Walk: '6.29'
-- Rank: '162'
+- Rank: '163'
   Name: 'Beatbox '
   Group: ABM
   FBID: Beatbox0202
@@ -1618,16 +1628,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '7.54'
-- Rank: '163'
-  Name: Chin Yong
-  Group: ADSS/ADWS/ADWO
-  FBID: Relaxing1234
-  Total_Mileage: '67.72'
-  Badges: '4'
-  Run: '53.86'
-  Cycle: '55.45'
-  Swim: '0.00'
-  Walk: '44.84'
 - Rank: '164'
   Name: Eddie Chua
   Group: AFE
