@@ -92,11 +92,11 @@
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
-  Total_Mileage: '695.47'
+  Total_Mileage: '710.77'
   Badges: '13'
   Run: '248.28'
   Cycle: '209.50'
-  Swim: '65.80'
+  Swim: '68.35'
   Walk: '17.51'
 - Rank: '11'
   Name: Prem
@@ -1229,6 +1229,16 @@
   Swim: '0.00'
   Walk: '719.00'
 - Rank: '124'
+  Name: Pravin
+  Group: ADSS/ADWS/ADWO
+  FBID: Pravin8938
+  Total_Mileage: '97.69'
+  Badges: '3'
+  Run: '97.69'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '125'
   Name: Lim Kian Hock
   Group: AFE
   FBID: Jon3445
@@ -1238,23 +1248,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '125'
+- Rank: '126'
   Name: Poon
   Group: ADSS/ADWS/ADWO
   FBID: Poon3636
   Total_Mileage: '94.73'
   Badges: '3'
   Run: '94.73'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '126'
-  Name: Pravin
-  Group: ADSS/ADWS/ADWO
-  FBID: Pravin8938
-  Total_Mileage: '94.49'
-  Badges: '3'
-  Run: '94.49'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
