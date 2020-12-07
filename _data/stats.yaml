@@ -459,6 +459,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '47'
+  Name: Viking
+  Group: ADW
+  FBID: Viking1987
+  Total_Mileage: '227.23'
+  Badges: '7'
+  Run: '117.55'
+  Cycle: '414.72'
+  Swim: '1.00'
+  Walk: '4.00'
+- Rank: '48'
   Name: Benson
   Group: ADW
   FBID: benoi1234
@@ -468,7 +478,7 @@
   Cycle: '95.28'
   Swim: '2.20'
   Walk: '1.80'
-- Rank: '48'
+- Rank: '49'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: Errick1991
@@ -478,16 +488,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '49'
-  Name: Viking
-  Group: ADW
-  FBID: Viking1987
-  Total_Mileage: '220.73'
-  Badges: '7'
-  Run: '111.05'
-  Cycle: '414.72'
-  Swim: '1.00'
-  Walk: '4.00'
 - Rank: '50'
   Name: Marcus
   Group: ADSS/ADWS/ADWO
