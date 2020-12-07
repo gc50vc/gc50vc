@@ -1379,6 +1379,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '139'
+  Name: Manu
+  Group: ABM
+  FBID: Manu7894
+  Total_Mileage: '85.75'
+  Badges: '3'
+  Run: '85.75'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '140'
   Name: Chan Howe
   Group: AOSX/AOS
   FBID: IceCube3008
@@ -1388,7 +1398,7 @@
   Cycle: '341.74'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '140'
+- Rank: '141'
   Name: Darius Ng
   Group: ADSS/ADWS/ADWO
   FBID: bobo1234
@@ -1398,7 +1408,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '141'
+- Rank: '142'
   Name: Sunray
   Group: ABM
   FBID: Sunray0909
@@ -1407,16 +1417,6 @@
   Run: '20.10'
   Cycle: '201.00'
   Swim: '2.01'
-  Walk: '0.00'
-- Rank: '142'
-  Name: Manu
-  Group: ABM
-  FBID: Manu7894
-  Total_Mileage: '80.21'
-  Badges: '3'
-  Run: '80.21'
-  Cycle: '0.00'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '143'
   Name: Diva
