@@ -329,6 +329,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '34'
+  Name: Bronson
+  Group: ADW
+  FBID: Bronze1234
+  Total_Mileage: '278.55'
+  Badges: '11'
+  Run: '70.00'
+  Cycle: '260.01'
+  Swim: '23.93'
+  Walk: '0.00'
+- Rank: '35'
   Name: Cookie
   Group: ATC
   FBID: Cookie3rdWSO1975
@@ -337,16 +347,6 @@
   Run: '230.73'
   Cycle: '190.51'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '35'
-  Name: Bronson
-  Group: ADW
-  FBID: Bronze1234
-  Total_Mileage: '273.02'
-  Badges: '11'
-  Run: '64.47'
-  Cycle: '260.01'
-  Swim: '23.93'
   Walk: '0.00'
 - Rank: '36'
   Name: jheng
