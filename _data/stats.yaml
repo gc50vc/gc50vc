@@ -779,6 +779,16 @@
   Swim: '19.50'
   Walk: '0.00'
 - Rank: '79'
+  Name: Geeky
+  Group: ADW
+  FBID: Geeky1989
+  Total_Mileage: '156.44'
+  Badges: '6'
+  Run: '90.00'
+  Cycle: '20.00'
+  Swim: '10.24'
+  Walk: '58.68'
+- Rank: '80'
   Name: Irwin Chua
   Group: AOSX/AOS
   FBID: irwin2482
@@ -788,16 +798,6 @@
   Cycle: '0.00'
   Swim: '3.60'
   Walk: '0.00'
-- Rank: '80'
-  Name: Geeky
-  Group: ADW
-  FBID: Geeky1989
-  Total_Mileage: '151.44'
-  Badges: '6'
-  Run: '85.00'
-  Cycle: '20.00'
-  Swim: '10.24'
-  Walk: '58.68'
 - Rank: '81'
   Name: Rock
   Group: ADW
