@@ -122,9 +122,9 @@
   Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
-  Total_Mileage: '602.78'
+  Total_Mileage: '614.17'
   Badges: '5'
-  Run: '602.78'
+  Run: '614.17'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
@@ -319,6 +319,16 @@
   Swim: '24.70'
   Walk: '0.00'
 - Rank: '33'
+  Name: Cookie
+  Group: ATC
+  FBID: Cookie3rdWSO1975
+  Total_Mileage: '279.77'
+  Badges: '7'
+  Run: '230.73'
+  Cycle: '196.15'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '34'
   Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
@@ -328,7 +338,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '34'
+- Rank: '35'
   Name: Bronson
   Group: ADW
   FBID: Bronze1234
@@ -337,16 +347,6 @@
   Run: '70.00'
   Cycle: '260.01'
   Swim: '23.93'
-  Walk: '0.00'
-- Rank: '35'
-  Name: Cookie
-  Group: ATC
-  FBID: Cookie3rdWSO1975
-  Total_Mileage: '278.36'
-  Badges: '6'
-  Run: '230.73'
-  Cycle: '190.51'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '36'
   Name: jheng
