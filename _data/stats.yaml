@@ -169,6 +169,16 @@
   Swim: '0.00'
   Walk: '11.68'
 - Rank: '18'
+  Name: PIXAR
+  Group: ABM
+  FBID: PIXAR0001
+  Total_Mileage: '441.03'
+  Badges: '12'
+  Run: '157.77'
+  Cycle: '954.00'
+  Swim: '7.46'
+  Walk: '0.00'
+- Rank: '19'
   Name: Tony Foo
   Group: ADW
   FBID: tonyfoo0165
@@ -178,7 +188,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '19'
+- Rank: '20'
   Name: aH-MuNs-Ge
   Group: AFE
   FBID: ahmuns9861
@@ -188,7 +198,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '79.15'
-- Rank: '20'
+- Rank: '21'
   Name: HC
   Group: ADSS/ADWS/ADWO
   FBID: hc1234
@@ -198,7 +208,7 @@
   Cycle: '1331.42'
   Swim: '1.70'
   Walk: '2.19'
-- Rank: '21'
+- Rank: '22'
   Name: LWY
   Group: AFE
   FBID: LWY3137
@@ -207,16 +217,6 @@
   Run: '15.00'
   Cycle: '1505.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '22'
-  Name: PIXAR
-  Group: ABM
-  FBID: PIXAR0001
-  Total_Mileage: '385.43'
-  Badges: '11'
-  Run: '136.67'
-  Cycle: '864.00'
-  Swim: '5.46'
   Walk: '0.00'
 - Rank: '23'
   Name: YuenG
@@ -737,7 +737,7 @@
   Run: '98.56'
   Cycle: '20.00'
   Swim: '10.24'
-  Walk: '75.02'
+  Walk: '80.43'
 - Rank: '75'
   Name: loanshark
   Group: ATC
