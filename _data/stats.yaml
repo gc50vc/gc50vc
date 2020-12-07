@@ -22,10 +22,10 @@
   Name: LZX
   Group: ADSS/ADWS/ADWO
   FBID: leezx1337
-  Total_Mileage: '1084.88'
+  Total_Mileage: '1111.66'
   Badges: '8'
   Run: '352.26'
-  Cycle: '2930.49'
+  Cycle: '3037.60'
   Swim: '0.00'
   Walk: '2.18'
 - Rank: '4'
@@ -579,6 +579,16 @@
   Swim: '0.50'
   Walk: '10.51'
 - Rank: '59'
+  Name: GN
+  Group: ADSS/ADWS/ADWO
+  FBID: GN8282
+  Total_Mileage: '203.42'
+  Badges: '4'
+  Run: '203.42'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '60'
   Name: 'Jack eng '
   Group: AOSX/AOS
   FBID: Jackpot6967
@@ -588,7 +598,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '60'
+- Rank: '61'
   Name: You Rong
   Group: ADW
   FBID: Audi1987
@@ -598,7 +608,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '61'
+- Rank: '62'
   Name: PCK
   Group: ADW
   FBID: PCK2205
@@ -608,7 +618,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '62'
+- Rank: '63'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -618,16 +628,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '4.73'
-- Rank: '63'
-  Name: GN
-  Group: ADSS/ADWS/ADWO
-  FBID: GN8282
-  Total_Mileage: '198.42'
-  Badges: '4'
-  Run: '198.42'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '64'
   Name: 'Tay Wen Hao '
   Group: ADW
