@@ -669,6 +669,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '68'
+  Name: Alloy
+  Group: ABM
+  FBID: alloy8585
+  Total_Mileage: '180.89'
+  Badges: '10'
+  Run: '94.25'
+  Cycle: '194.14'
+  Swim: '6.35'
+  Walk: '0.00'
+- Rank: '69'
   Name: Steroid
   Group: ATC
   FBID: Steroid1007
@@ -678,7 +688,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '69'
+- Rank: '70'
   Name: AP
   Group: ADW
   FBID: APHRMC0207
@@ -687,16 +697,6 @@
   Run: '42.85'
   Cycle: '255.20'
   Swim: '11.35'
-  Walk: '0.00'
-- Rank: '70'
-  Name: Alloy
-  Group: ABM
-  FBID: alloy8585
-  Total_Mileage: '170.80'
-  Badges: '8'
-  Run: '90.27'
-  Cycle: '169.70'
-  Swim: '6.35'
   Walk: '0.00'
 - Rank: '71'
   Name: Weng
