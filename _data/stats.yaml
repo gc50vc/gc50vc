@@ -979,6 +979,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '99'
+  Name: BY
+  Group: ADSS/ADWS/ADWO
+  FBID: Charlie3579
+  Total_Mileage: '130.94'
+  Badges: '6'
+  Run: '105.89'
+  Cycle: '100.20'
+  Swim: '0.00'
+  Walk: '5.06'
+- Rank: '100'
   Name: Fu Hao Wei
   Group: ADW
   FBID: fuhaowei8435
@@ -988,7 +998,7 @@
   Cycle: '491.10'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '100'
+- Rank: '101'
   Name: Lightyear
   Group: ADW
   FBID: Lightyear2020
@@ -998,16 +1008,6 @@
   Cycle: '5.90'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '101'
-  Name: BY
-  Group: ADSS/ADWS/ADWO
-  FBID: Charlie3579
-  Total_Mileage: '126.37'
-  Badges: '6'
-  Run: '101.32'
-  Cycle: '100.20'
-  Swim: '0.00'
-  Walk: '5.06'
 - Rank: '102'
   Name: Gabriel Low
   Group: ADSS/ADWS/ADWO
@@ -6067,7 +6067,7 @@
   Run: '0.00'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '1177.70'
+  Walk: '1177.77'
 - Rank: '575'
   Name: Aura Eric
   Group: AOSX/AOS
