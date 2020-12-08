@@ -793,11 +793,11 @@
   Group: AOSX/AOS
   FBID: Michelin5052
   Total_Mileage: '20.02'
-  Badges: '0'
-  Run: '0.00'
+  Badges: '1'
+  Run: '10.01'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
+  Walk: '1.00'
 - Rank: '81'
   Name: Seow Jian Wei
   Group: ADSS/ADWS/ADWO
@@ -1345,7 +1345,7 @@
   Total_Mileage: '8.04'
   Badges: '0'
   Run: '0.00'
-  Cycle: '6.71'
+  Cycle: '13.09'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '136'
@@ -1617,7 +1617,7 @@
   Run: '0.00'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
+  Walk: '4.75'
 - Rank: '163'
   Name: Joe Ng
   Group: AOSX/AOS
