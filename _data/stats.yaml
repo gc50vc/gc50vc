@@ -449,6 +449,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '46'
+  Name: Viking
+  Group: ADW
+  FBID: Viking1987
+  Total_Mileage: '234.23'
+  Badges: '7'
+  Run: '124.55'
+  Cycle: '414.72'
+  Swim: '1.00'
+  Walk: '4.00'
+- Rank: '47'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -458,16 +468,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '47'
-  Name: Viking
-  Group: ADW
-  FBID: Viking1987
-  Total_Mileage: '227.23'
-  Badges: '7'
-  Run: '117.55'
-  Cycle: '414.72'
-  Swim: '1.00'
-  Walk: '4.00'
 - Rank: '48'
   Name: Benson
   Group: ADW
@@ -659,6 +659,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '67'
+  Name: Alloy
+  Group: ABM
+  FBID: alloy8585
+  Total_Mileage: '191.09'
+  Badges: '11'
+  Run: '94.25'
+  Cycle: '194.14'
+  Swim: '8.05'
+  Walk: '0.00'
+- Rank: '68'
   Name: bok ong
   Group: ADSS/ADWS/ADWO
   FBID: bok2903
@@ -667,16 +677,6 @@
   Run: '189.16'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '68'
-  Name: Alloy
-  Group: ABM
-  FBID: alloy8585
-  Total_Mileage: '180.89'
-  Badges: '10'
-  Run: '94.25'
-  Cycle: '194.14'
-  Swim: '6.35'
   Walk: '0.00'
 - Rank: '69'
   Name: Steroid
