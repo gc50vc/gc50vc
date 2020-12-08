@@ -529,6 +529,16 @@
   Swim: '0.00'
   Walk: '64.62'
 - Rank: '54'
+  Name: Steyr
+  Group: ABM
+  FBID: Steyr9693
+  Total_Mileage: '217.13'
+  Badges: '4'
+  Run: '212.56'
+  Cycle: '18.27'
+  Swim: '0.00'
+  Walk: '3.42'
+- Rank: '55'
   Name: Liwei
   Group: ADW
   FBID: dragongate5270
@@ -538,7 +548,7 @@
   Cycle: '228.95'
   Swim: '11.40'
   Walk: '3.15'
-- Rank: '55'
+- Rank: '56'
   Name: Anson Chiu
   Group: ATC
   FBID: Antz0208
@@ -548,16 +558,6 @@
   Cycle: '8.76'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '56'
-  Name: Steyr
-  Group: ABM
-  FBID: Steyr9693
-  Total_Mileage: '209.79'
-  Badges: '4'
-  Run: '205.22'
-  Cycle: '18.27'
-  Swim: '0.00'
-  Walk: '3.42'
 - Rank: '57'
   Name: AdolphusJJ
   Group: AOSX/AOS
