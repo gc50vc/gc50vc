@@ -2,9 +2,9 @@
   Name: Extreme
   Group: ATC
   FBID: Extreme8123
-  Total_Mileage: '1699.21'
+  Total_Mileage: '1720.00'
   Badges: '13'
-  Run: '470.71'
+  Run: '491.50'
   Cycle: '806.40'
   Swim: '171.15'
   Walk: '3.10'
@@ -22,9 +22,9 @@
   Name: LZX
   Group: ADSS/ADWS/ADWO
   FBID: leezx1337
-  Total_Mileage: '1181.63'
+  Total_Mileage: '1215.70'
   Badges: '8'
-  Run: '376.01'
+  Run: '410.08'
   Cycle: '3222.49'
   Swim: '0.00'
   Walk: '2.18'
@@ -32,9 +32,9 @@
   Name: T-rex
   Group: ABM
   FBID: Trex1406
-  Total_Mileage: '1168.93'
+  Total_Mileage: '1183.95'
   Badges: '13'
-  Run: '158.59'
+  Run: '173.61'
   Cycle: '2973.34'
   Swim: '44.50'
   Walk: '0.00'
@@ -969,6 +969,16 @@
   Swim: '0.00'
   Walk: '1.04'
 - Rank: '98'
+  Name: Lightyear
+  Group: ADW
+  FBID: Lightyear2020
+  Total_Mileage: '132.06'
+  Badges: '4'
+  Run: '129.26'
+  Cycle: '11.19'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '99'
   Name: wyh
   Group: ADW
   FBID: ljt2059
@@ -976,16 +986,6 @@
   Badges: '4'
   Run: '131.87'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '99'
-  Name: Lightyear
-  Group: ADW
-  FBID: Lightyear2020
-  Total_Mileage: '131.49'
-  Badges: '4'
-  Run: '129.26'
-  Cycle: '8.90'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '100'
