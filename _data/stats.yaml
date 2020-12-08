@@ -159,6 +159,16 @@
   Swim: '14.70'
   Walk: '5.89'
 - Rank: '17'
+  Name: Tony Foo
+  Group: ADW
+  FBID: tonyfoo0165
+  Total_Mileage: '451.98'
+  Badges: '4'
+  Run: '451.98'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '18'
   Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
@@ -168,7 +178,7 @@
   Cycle: '978.00'
   Swim: '7.46'
   Walk: '0.00'
-- Rank: '18'
+- Rank: '19'
   Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
@@ -178,16 +188,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.68'
-- Rank: '19'
-  Name: Tony Foo
-  Group: ADW
-  FBID: tonyfoo0165
-  Total_Mileage: '438.90'
-  Badges: '4'
-  Run: '438.90'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
 - Rank: '20'
   Name: aH-MuNs-Ge
   Group: AFE
@@ -1399,6 +1399,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '141'
+  Name: spirit
+  Group: ATC
+  FBID: spirit5555
+  Total_Mileage: '84.35'
+  Badges: '3'
+  Run: '84.35'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '3.37'
+- Rank: '142'
   Name: Darius Ng
   Group: ADSS/ADWS/ADWO
   FBID: bobo1234
@@ -1408,7 +1418,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '142'
+- Rank: '143'
   Name: Sunray
   Group: ABM
   FBID: Sunray0909
@@ -1418,7 +1428,7 @@
   Cycle: '201.00'
   Swim: '2.01'
   Walk: '0.00'
-- Rank: '143'
+- Rank: '144'
   Name: Chin Yong
   Group: ADSS/ADWS/ADWO
   FBID: Relaxing1234
@@ -1428,7 +1438,7 @@
   Cycle: '55.45'
   Swim: '0.00'
   Walk: '44.84'
-- Rank: '144'
+- Rank: '145'
   Name: Diva
   Group: ADW
   FBID: Delia1234
@@ -1438,16 +1448,6 @@
   Cycle: '100.21'
   Swim: '2.00'
   Walk: '28.59'
-- Rank: '145'
-  Name: spirit
-  Group: ATC
-  FBID: spirit5555
-  Total_Mileage: '79.30'
-  Badges: '3'
-  Run: '79.30'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '3.37'
 - Rank: '146'
   Name: Alan
   Group: ADSS/ADWS/ADWO
