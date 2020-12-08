@@ -709,6 +709,16 @@
   Swim: '0.00'
   Walk: '13.86'
 - Rank: '72'
+  Name: Glenn
+  Group: ADW
+  FBID: Garfield3110
+  Total_Mileage: '168.09'
+  Badges: '4'
+  Run: '154.94'
+  Cycle: '26.20'
+  Swim: '1.10'
+  Walk: '13.84'
+- Rank: '73'
   Name: QUENCHER
   Group: ABM
   FBID: quencher2020
@@ -718,7 +728,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '73'
+- Rank: '74'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -728,7 +738,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '73'
+- Rank: '74'
   Name: Geeky
   Group: ADW
   FBID: Geeky1989
@@ -738,7 +748,7 @@
   Cycle: '20.00'
   Swim: '10.24'
   Walk: '80.43'
-- Rank: '75'
+- Rank: '76'
   Name: loanshark
   Group: ATC
   FBID: loanshark9356
@@ -748,7 +758,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.64'
-- Rank: '76'
+- Rank: '77'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
   FBID: Ahbye1234
@@ -758,16 +768,6 @@
   Cycle: '200.00'
   Swim: '7.00'
   Walk: '6.00'
-- Rank: '77'
-  Name: Glenn
-  Group: ADW
-  FBID: Garfield3110
-  Total_Mileage: '160.31'
-  Badges: '4'
-  Run: '147.16'
-  Cycle: '26.20'
-  Swim: '1.10'
-  Walk: '13.84'
 - Rank: '78'
   Name: Tan Chee Wee
   Group: ATC
