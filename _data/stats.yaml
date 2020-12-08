@@ -1379,6 +1379,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '139'
+  Name: spirit
+  Group: ATC
+  FBID: spirit5555
+  Total_Mileage: '85.92'
+  Badges: '3'
+  Run: '85.92'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '3.37'
+- Rank: '140'
   Name: Manu
   Group: ABM
   FBID: Manu7894
@@ -1388,7 +1398,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '140'
+- Rank: '141'
   Name: Chan Howe
   Group: AOSX/AOS
   FBID: IceCube3008
@@ -1398,16 +1408,6 @@
   Cycle: '341.74'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '141'
-  Name: spirit
-  Group: ATC
-  FBID: spirit5555
-  Total_Mileage: '84.35'
-  Badges: '3'
-  Run: '84.35'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '3.37'
 - Rank: '142'
   Name: Darius Ng
   Group: ADSS/ADWS/ADWO
