@@ -1099,6 +1099,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '111'
+  Name: Lin Weili
+  Group: AOSX/AOS
+  FBID: Michelin5052
+  Total_Mileage: '113.18'
+  Badges: '5'
+  Run: '101.91'
+  Cycle: '45.08'
+  Swim: '0.00'
+  Walk: '1.00'
+- Rank: '112'
   Name: TRIPS
   Group: ATC
   FBID: TRIPS_0000
@@ -1108,7 +1118,7 @@
   Cycle: '161.87'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '112'
+- Rank: '113'
   Name: Silver
   Group: ABM
   FBID: Silver5117
@@ -1118,7 +1128,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '11.10'
-- Rank: '113'
+- Rank: '114'
   Name: Wan Yuan
   Group: ADW
   FBID: Lost1908
@@ -1128,7 +1138,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '20.24'
-- Rank: '114'
+- Rank: '115'
   Name: Waffles
   Group: ATC
   FBID: Waffles3567
@@ -1138,7 +1148,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '3.57'
-- Rank: '115'
+- Rank: '116'
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
@@ -1148,7 +1158,7 @@
   Cycle: '52.57'
   Swim: '0.00'
   Walk: '18.96'
-- Rank: '116'
+- Rank: '117'
   Name: Quainapz
   Group: ADSS/ADWS/ADWO
   FBID: Quainapz8585
@@ -1158,7 +1168,7 @@
   Cycle: '0.00'
   Swim: '3.10'
   Walk: '2.30'
-- Rank: '117'
+- Rank: '118'
   Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
   FBID: LeonYeo2590
@@ -1168,7 +1178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '118'
+- Rank: '119'
   Name: Kelvin
   Group: ADSS/ADWS/ADWO
   FBID: Kelvin1111
@@ -1178,16 +1188,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '119'
-  Name: Lin Weili
-  Group: AOSX/AOS
-  FBID: Michelin5052
-  Total_Mileage: '103.17'
-  Badges: '4'
-  Run: '91.90'
-  Cycle: '45.08'
-  Swim: '0.00'
-  Walk: '1.00'
 - Rank: '120'
   Name: Zinc
   Group: ADW
@@ -1659,6 +1659,16 @@
   Swim: '0.00'
   Walk: '7.54'
 - Rank: '167'
+  Name: LC
+  Group: AFE
+  FBID: LC0809
+  Total_Mileage: '67.44'
+  Badges: '4'
+  Run: '21.91'
+  Cycle: '182.11'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '168'
   Name: Shawn Lim
   Group: ADW
   FBID: bison2609
@@ -1668,7 +1678,7 @@
   Cycle: '0.00'
   Swim: '5.40'
   Walk: '0.00'
-- Rank: '168'
+- Rank: '169'
   Name: Dennis
   Group: ADSS/ADWS/ADWO
   FBID: Dennis0495
@@ -1678,7 +1688,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '1.31'
-- Rank: '169'
+- Rank: '170'
   Name: Clover
   Group: ABM
   FBID: Clover1234
@@ -1688,7 +1698,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '170'
+- Rank: '171'
   Name: CSM
   Group: ADSS/ADWS/ADWO
   FBID: CSM8189
@@ -1698,7 +1708,7 @@
   Cycle: '53.70'
   Swim: '0.00'
   Walk: '12.30'
-- Rank: '171'
+- Rank: '172'
   Name: Lava
   Group: ATC
   FBID: Lava1717
@@ -1706,16 +1716,6 @@
   Badges: '3'
   Run: '65.88'
   Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '172'
-  Name: LC
-  Group: AFE
-  FBID: LC0809
-  Total_Mileage: '65.84'
-  Badges: '4'
-  Run: '21.91'
-  Cycle: '175.73'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '173'
@@ -3437,7 +3437,7 @@
   Run: '26.80'
   Cycle: '0.00'
   Swim: '0.00'
-  Walk: '80.99'
+  Walk: '85.74'
 - Rank: '345'
   Name: Besson
   Group: ATC
