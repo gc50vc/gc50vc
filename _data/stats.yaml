@@ -309,6 +309,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '32'
+  Name: Cookie
+  Group: ATC
+  FBID: Cookie3rdWSO1975
+  Total_Mileage: '292.81'
+  Badges: '7'
+  Run: '243.77'
+  Cycle: '196.15'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '33'
   Name: Daniel Tay
   Group: AOSX/AOS
   FBID: Corrupt2705
@@ -317,16 +327,6 @@
   Run: '142.10'
   Cycle: '0.00'
   Swim: '24.70'
-  Walk: '0.00'
-- Rank: '33'
-  Name: Cookie
-  Group: ATC
-  FBID: Cookie3rdWSO1975
-  Total_Mileage: '279.77'
-  Badges: '7'
-  Run: '230.73'
-  Cycle: '196.15'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '34'
   Name: Dan
@@ -1129,6 +1129,16 @@
   Swim: '0.00'
   Walk: '20.24'
 - Rank: '114'
+  Name: Waffles
+  Group: ATC
+  FBID: Waffles3567
+  Total_Mileage: '110.70'
+  Badges: '4'
+  Run: '110.70'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '3.57'
+- Rank: '115'
   Name: LJ Lee
   Group: ADSS/ADWS/ADWO
   FBID: VIRUS1509
@@ -1138,7 +1148,7 @@
   Cycle: '52.57'
   Swim: '0.00'
   Walk: '18.96'
-- Rank: '115'
+- Rank: '116'
   Name: Quainapz
   Group: ADSS/ADWS/ADWO
   FBID: Quainapz8585
@@ -1148,7 +1158,7 @@
   Cycle: '0.00'
   Swim: '3.10'
   Walk: '2.30'
-- Rank: '116'
+- Rank: '117'
   Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
   FBID: LeonYeo2590
@@ -1158,7 +1168,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '117'
+- Rank: '118'
   Name: Kelvin
   Group: ADSS/ADWS/ADWO
   FBID: Kelvin1111
@@ -1168,7 +1178,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '118'
+- Rank: '119'
   Name: Lin Weili
   Group: AOSX/AOS
   FBID: Michelin5052
@@ -1178,7 +1188,7 @@
   Cycle: '45.08'
   Swim: '0.00'
   Walk: '1.00'
-- Rank: '119'
+- Rank: '120'
   Name: Zinc
   Group: ADW
   FBID: zinc1997
@@ -1188,7 +1198,7 @@
   Cycle: '24.40'
   Swim: '0.00'
   Walk: '5.65'
-- Rank: '120'
+- Rank: '121'
   Name: Yew Choong
   Group: ADSS/ADWS/ADWO
   FBID: GGXC0160
@@ -1198,7 +1208,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '19.25'
-- Rank: '121'
+- Rank: '122'
   Name: Jenny
   Group: AFE
   FBID: Jenny7373
@@ -1208,7 +1218,7 @@
   Cycle: '11.67'
   Swim: '0.00'
   Walk: '88.20'
-- Rank: '122'
+- Rank: '123'
   Name: Maj Lim
   Group: ABM
   FBID: Legoz1000
@@ -1218,7 +1228,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '16.48'
-- Rank: '123'
+- Rank: '124'
   Name: Ram
   Group: ADW
   FBID: ram7267
@@ -1228,7 +1238,7 @@
   Cycle: '0.00'
   Swim: '7.30'
   Walk: '0.00'
-- Rank: '124'
+- Rank: '125'
   Name: Joey Lee Jian Wei
   Group: AFE
   FBID: Joey3811
@@ -1238,7 +1248,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '719.00'
-- Rank: '125'
+- Rank: '126'
   Name: Pravin
   Group: ADSS/ADWS/ADWO
   FBID: Pravin8938
@@ -1248,7 +1258,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '126'
+- Rank: '127'
   Name: Lim Kian Hock
   Group: AFE
   FBID: Jon3445
@@ -1258,7 +1268,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '127'
+- Rank: '128'
   Name: Poon
   Group: ADSS/ADWS/ADWO
   FBID: Poon3636
@@ -1268,7 +1278,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '128'
+- Rank: '129'
   Name: HCM
   Group: ABM
   FBID: HCM1234
@@ -1278,7 +1288,7 @@
   Cycle: '34.01'
   Swim: '0.00'
   Walk: '40.49'
-- Rank: '129'
+- Rank: '130'
   Name: Vernon Lim
   Group: AFE
   FBID: Vernon7070
@@ -1288,7 +1298,7 @@
   Cycle: '376.95'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '130'
+- Rank: '131'
   Name: KevinKKW
   Group: ADSS/ADWS/ADWO
   FBID: Kkkw0165
@@ -1298,7 +1308,7 @@
   Cycle: '180.64'
   Swim: '0.00'
   Walk: '11.85'
-- Rank: '131'
+- Rank: '132'
   Name: SARATH
   Group: ADW
   FBID: SARATH2311
@@ -1308,7 +1318,7 @@
   Cycle: '66.37'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '132'
+- Rank: '133'
   Name: Kian Seng
   Group: ADW
   FBID: KianSeng0170
@@ -1318,7 +1328,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '133'
+- Rank: '134'
   Name: Owyong
   Group: ATC
   FBID: Owyong251088
@@ -1328,16 +1338,6 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '134'
-  Name: Waffles
-  Group: ATC
-  FBID: Waffles3567
-  Total_Mileage: '90.00'
-  Badges: '3'
-  Run: '90.00'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '3.57'
 - Rank: '135'
   Name: Rocky
   Group: AOSX/AOS
