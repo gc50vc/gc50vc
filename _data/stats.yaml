@@ -92,11 +92,11 @@
   Name: Slimer
   Group: ABM
   FBID: Slimer1234
-  Total_Mileage: '719.85'
+  Total_Mileage: '728.85'
   Badges: '13'
   Run: '257.36'
   Cycle: '209.50'
-  Swim: '68.35'
+  Swim: '69.85'
   Walk: '17.51'
 - Rank: '11'
   Name: Prem
@@ -309,6 +309,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '32'
+  Name: Cookie
+  Group: ATC
+  FBID: Cookie3rdWSO1975
+  Total_Mileage: '300.27'
+  Badges: '7'
+  Run: '243.77'
+  Cycle: '225.99'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '33'
   Name: Daniel Tay
   Group: AOSX/AOS
   FBID: Corrupt2705
@@ -317,16 +327,6 @@
   Run: '147.12'
   Cycle: '0.00'
   Swim: '24.70'
-  Walk: '0.00'
-- Rank: '33'
-  Name: Cookie
-  Group: ATC
-  FBID: Cookie3rdWSO1975
-  Total_Mileage: '292.81'
-  Badges: '7'
-  Run: '243.77'
-  Cycle: '196.15'
-  Swim: '0.00'
   Walk: '0.00'
 - Rank: '34'
   Name: Dan
@@ -399,6 +399,16 @@
   Swim: '3.10'
   Walk: '0.00'
 - Rank: '41'
+  Name: Benson
+  Group: ADW
+  FBID: benoi1234
+  Total_Mileage: '244.76'
+  Badges: '8'
+  Run: '202.07'
+  Cycle: '117.94'
+  Swim: '2.20'
+  Walk: '1.80'
+- Rank: '42'
   Name: David Xu
   Group: ADW
   FBID: Dyson0165
@@ -408,7 +418,7 @@
   Cycle: '924.30'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '42'
+- Rank: '43'
   Name: Ah Bing
   Group: ADW
   FBID: Bingo0507
@@ -418,16 +428,6 @@
   Cycle: '222.73'
   Swim: '4.05'
   Walk: '0.00'
-- Rank: '43'
-  Name: Benson
-  Group: ADW
-  FBID: benoi1234
-  Total_Mileage: '239.76'
-  Badges: '8'
-  Run: '197.07'
-  Cycle: '117.94'
-  Swim: '2.20'
-  Walk: '1.80'
 - Rank: '44'
   Name: Slong
   Group: ADW
@@ -469,6 +469,16 @@
   Swim: '1.00'
   Walk: '4.00'
 - Rank: '48'
+  Name: Mouth
+  Group: ABM
+  FBID: Mouth2570
+  Total_Mileage: '230.03'
+  Badges: '4'
+  Run: '230.03'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '49'
   Name: Hanyong
   Group: ADW
   FBID: Hany2801
@@ -478,23 +488,13 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '49'
+- Rank: '50'
   Name: Chickenflyfly
   Group: ADSS/ADWS/ADWO
   FBID: Errick1991
   Total_Mileage: '222.69'
   Badges: '4'
   Run: '222.69'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '50'
-  Name: Mouth
-  Group: ABM
-  FBID: Mouth2570
-  Total_Mileage: '220.00'
-  Badges: '4'
-  Run: '220.00'
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
