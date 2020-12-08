@@ -42,9 +42,9 @@
   Name: Sloh
   Group: ADW
   FBID: Sloh0121
-  Total_Mileage: '988.83'
+  Total_Mileage: '1000.06'
   Badges: '13'
-  Run: '325.26'
+  Run: '336.49'
   Cycle: '2169.49'
   Swim: '20.20'
   Walk: '0.00'
@@ -619,6 +619,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '63'
+  Name: Alloy
+  Group: ABM
+  FBID: alloy8585
+  Total_Mileage: '200.35'
+  Badges: '12'
+  Run: '103.51'
+  Cycle: '194.14'
+  Swim: '8.05'
+  Walk: '0.00'
+- Rank: '64'
   Name: Iggy
   Group: ADSS/ADWS/ADWO
   FBID: Iggy7900
@@ -628,7 +638,7 @@
   Cycle: '444.93'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '64'
+- Rank: '65'
   Name: Lo Heng
   Group: ADSS/ADWS/ADWO
   FBID: Random3050
@@ -638,7 +648,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '4.73'
-- Rank: '65'
+- Rank: '66'
   Name: 'Tay Wen Hao '
   Group: ADW
   FBID: Wh8295
@@ -648,7 +658,7 @@
   Cycle: '37.93'
   Swim: '0.00'
   Walk: '4.94'
-- Rank: '66'
+- Rank: '67'
   Name: Malcolm Taong
   Group: ADSS/ADWS/ADWO
   FBID: TAONG8070
@@ -657,16 +667,6 @@
   Run: '70.09'
   Cycle: '497.27'
   Swim: '0.00'
-  Walk: '0.00'
-- Rank: '67'
-  Name: Alloy
-  Group: ABM
-  FBID: alloy8585
-  Total_Mileage: '191.09'
-  Badges: '11'
-  Run: '94.25'
-  Cycle: '194.14'
-  Swim: '8.05'
   Walk: '0.00'
 - Rank: '68'
   Name: bok ong
@@ -699,6 +699,16 @@
   Swim: '11.35'
   Walk: '0.00'
 - Rank: '71'
+  Name: loanshark
+  Group: ATC
+  FBID: loanshark9356
+  Total_Mileage: '173.48'
+  Badges: '4'
+  Run: '173.48'
+  Cycle: '0.00'
+  Swim: '0.00'
+  Walk: '1.64'
+- Rank: '72'
   Name: Weng
   Group: ADSS/ADWS/ADWO
   FBID: Weng8238
@@ -708,7 +718,7 @@
   Cycle: '408.46'
   Swim: '0.00'
   Walk: '13.86'
-- Rank: '72'
+- Rank: '73'
   Name: Glenn
   Group: ADW
   FBID: Garfield3110
@@ -718,7 +728,7 @@
   Cycle: '26.20'
   Swim: '1.10'
   Walk: '13.84'
-- Rank: '73'
+- Rank: '74'
   Name: QUENCHER
   Group: ABM
   FBID: quencher2020
@@ -728,7 +738,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '74'
+- Rank: '75'
   Name: Weaver
   Group: ADW
   FBID: Weaver5275
@@ -738,7 +748,7 @@
   Cycle: '0.00'
   Swim: '0.00'
   Walk: '0.00'
-- Rank: '74'
+- Rank: '75'
   Name: Geeky
   Group: ADW
   FBID: Geeky1989
@@ -748,16 +758,6 @@
   Cycle: '20.00'
   Swim: '10.24'
   Walk: '80.43'
-- Rank: '76'
-  Name: loanshark
-  Group: ATC
-  FBID: loanshark9356
-  Total_Mileage: '164.48'
-  Badges: '4'
-  Run: '164.48'
-  Cycle: '0.00'
-  Swim: '0.00'
-  Walk: '1.64'
 - Rank: '77'
   Name: Ah Bye
   Group: ADSS/ADWS/ADWO
