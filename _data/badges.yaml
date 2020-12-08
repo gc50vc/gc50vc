@@ -3050,6 +3050,12 @@
   name: ''
   definition: ''
   Week: '8'
+- timestamp: '2020-12-08 20:45:44'
+  fbid: FICA1979
+  badge: Baby Steps
+  name: Kelvin Fan
+  definition: ''
+  Week: '8'
 - timestamp: '2020-10-22 18:39:38'
   fbid: BY8362
   badge: Half Ironman
@@ -6194,6 +6200,12 @@
   name: ''
   definition: ''
   Week: '8'
+- timestamp: '2020-12-08 20:45:44'
+  fbid: FICA1979
+  badge: Mount Everest
+  name: Kelvin Fan
+  definition: ''
+  Week: '8'
 - timestamp: '2020-10-22 00:35:59'
   fbid: Extreme8123
   badge: Marathon
@@ -9254,6 +9266,12 @@
   name: ARROW
   definition: ''
   Week: '7'
+- timestamp: '2020-12-08 20:47:40'
+  fbid: Benoi1234
+  badge: Cycopath
+  name: Benson
+  definition: ''
+  Week: '8'
 - timestamp: '2020-10-20 16:25:36'
   fbid: LWY3942
   badge: Tour de Singapore
@@ -10722,5 +10740,11 @@
   fbid: PIXAR0001
   badge: Iron Lungs
   name: PIXAR
+  definition: ''
+  Week: '8'
+- timestamp: '2020-12-08 20:39:04'
+  fbid: alloy8585
+  badge: Iron Lungs
+  name: Alloy
   definition: ''
   Week: '8'
