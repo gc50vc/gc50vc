@@ -259,6 +259,16 @@
   Swim: '35.87'
   Walk: '109.94'
 - Rank: '27'
+  Name: AngmoATB
+  Group: ADW
+  FBID: Angmo1984
+  Total_Mileage: '335.09'
+  Badges: '7'
+  Run: '207.98'
+  Cycle: '0.00'
+  Swim: '21.19'
+  Walk: '7.97'
+- Rank: '28'
   Name: Cutthroat
   Group: ATC
   FBID: Cutthroat0403
@@ -268,16 +278,6 @@
   Cycle: '40.64'
   Swim: '24.15'
   Walk: '0.00'
-- Rank: '28'
-  Name: AngmoATB
-  Group: ADW
-  FBID: Angmo1984
-  Total_Mileage: '320.12'
-  Badges: '7'
-  Run: '200.51'
-  Cycle: '0.00'
-  Swim: '19.94'
-  Walk: '7.97'
 - Rank: '29'
   Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
