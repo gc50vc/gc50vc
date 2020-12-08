@@ -979,6 +979,16 @@
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '99'
+  Name: Lightyear
+  Group: ADW
+  FBID: Lightyear2020
+  Total_Mileage: '131.49'
+  Badges: '4'
+  Run: '129.26'
+  Cycle: '8.90'
+  Swim: '0.00'
+  Walk: '0.00'
+- Rank: '100'
   Name: BY
   Group: ADSS/ADWS/ADWO
   FBID: Charlie3579
@@ -988,7 +998,7 @@
   Cycle: '100.20'
   Swim: '0.00'
   Walk: '5.06'
-- Rank: '100'
+- Rank: '101'
   Name: Fu Hao Wei
   Group: ADW
   FBID: fuhaowei8435
@@ -996,16 +1006,6 @@
   Badges: '4'
   Run: '7.76'
   Cycle: '491.10'
-  Swim: '0.00'
-  Walk: '0.00'
-- Rank: '101'
-  Name: Lightyear
-  Group: ADW
-  FBID: Lightyear2020
-  Total_Mileage: '128.28'
-  Badges: '4'
-  Run: '126.80'
-  Cycle: '5.90'
   Swim: '0.00'
   Walk: '0.00'
 - Rank: '102'
